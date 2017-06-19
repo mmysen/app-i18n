@@ -1,0 +1,42 @@
+{
+    "header": {}
+  , "menu": {}
+  , "home": {}
+  , "guestbook": {}
+  , "memories": {}
+  , "message": {
+        "title" : "Write a message"
+      , "input-fullname-placeholder" : "Your first and last name(s)"
+      , "input-email-placeholder" : "Email address"
+      , "input-message-placeholder" : "Write a message for the family or share a memory of {{firstname}}..."
+      , "cta": "Share on the guestbook"
+    }
+  , "donation": {
+        "title" : "Donate to {{name}} hospital"
+      , "input-firstname-placeholder" : "First name"
+      , "input-lasttname-placeholder" : "Last name"
+      , "input-email-placeholder" : "Email address"
+      , "input-show-label" : "Show my donation on the guestbook (the amount will be hidden)"
+      , "cta": "Make a payment"
+    }
+  , "flower": {}
+  , "print": {}
+  , "share": {
+        "title" : "Send this page"
+      , "text" : "Share this page wth family, friends, and everyone who cared about {{fullname}}, by sending them this link:"
+      , "tab-link" : {
+            "text" : "Copy link"
+          , "cta" : "Copy Link"
+        }
+      , "tab-sms" : {
+            "text" : "Share by text"
+          , "placeholder" : "Cell phone number"
+          , "cta" : "Send Link"
+        }
+      , "tab-email" : {
+            "text" : "Share by email"
+          , "placeholder" : "Email address"
+          , "cta" : "Send Link"
+        }
+    }
+}
