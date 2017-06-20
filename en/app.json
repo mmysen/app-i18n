@@ -1,6 +1,6 @@
 {
     "header": {
-        "title": "In memory of {{fullname}}"
+        "title": "In memory of {{fullname, capitalize}}"
       , "cta": "Send this page"
       , "cta-right": "to friends and family."
     }
@@ -18,7 +18,7 @@
   , "home": {
         "info": {
             "title": "Informations"
-          , "text": "hello"
+          , "text": "text"
           , "card1-title": "Visitation"
           , "card2-title": "Cremation"
         }
