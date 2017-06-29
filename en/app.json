@@ -3,6 +3,9 @@
         "title": "In memory of {{fullname, capitalize}}"
       , "cta": "Send this page"
       , "cta-right": "to friends and family."
+      , "cta-share": "Share this page"
+      , "cta-edit": "Edit page"
+      , "cta-view": "View page"
     }
   , "menu": {
         "welcome": "Welcome"
@@ -18,7 +21,6 @@
   , "home": {
         "info": {
             "title": "Informations"
-          , "text": "text"
           , "card1-title": "Visitation"
           , "card2-title": "Cremation"
         }
@@ -66,6 +68,8 @@
       , "input-email-placeholder": "Email address"
       , "input-message-placeholder": "Write a message for the family or share a memory of {{firstname, capitalize}}..."
       , "cta": "Share on the guestbook"
+      , "cta-image": "Add picture"
+      , "cta-image-uploading": "Uploading..."
     }
   , "donation": {
         "title": "Donate to {{name, capitalize}} hospital"
@@ -95,4 +99,20 @@
           , "cta": "Send Link"
         }
     }
+
+  , "edit": {
+        "header": {
+            "cta": "View page"
+        }
+    }
 }
+
+
+
+
+
+
+
+
+
+
