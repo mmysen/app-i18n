@@ -1,1 +1,113 @@
-{}
+{
+    "info": {
+        "title": "Edit the page of {{fullname, capitalize}}"
+      , "text": "Manage basic page information by clicking on one of the four categories below"
+      , "tabs": {
+            "1": {
+                "title": "Information"
+              , "text": "Change the page name and dates"
+              , "cta-open": "Edit"
+              , "cta-close": "Cancel"
+              , "cta": "Save"
+              , "label-firstname": "First name"
+              , "input-firstname-placeholder": "First name"
+              , "label-lastname": "Last name"
+              , "input-lastname-placeholder": "Last name"
+              , "label-dob": "Birth date"
+              , "input-dob-placeholder": "Birth date"
+              , "label-dod": "Dead on"
+              , "input-dod-placeholder": "Dead on"
+            }
+          , "2": {
+                "title": "Personalization"
+              , "text": "Picture and announcement message"
+              , "cta-open": "Edit"
+              , "cta-close": "Cancel"
+              , "cta": "Save"
+              , "label-intro": "Introduction message for {{fullname, capitalize}}'s page"
+              , "input-intro-placeholder": "intro"
+              , "label-image": "Upload a profil picture of {{fullname, capitalize}}"
+              , "cta-image": "Select picture"
+              , "cta-image-uploading": "Uploading..."
+            }
+          , "3": {
+                "title": "Ceremony"
+              , "text": "Date and location of ceremonies"
+              , "cta-open": "Edit"
+              , "cta-close": "Cancel"
+              , "cta": "Save"
+            }
+          , "4": {
+                "title": "Support & Donations"
+              , "text": "Initiate paid support"
+              , "cta-open": "Setup"
+              , "cta-close": "Cancel"
+              , "cta": "Save"
+            }
+        }
+
+    }
+  , "places": {
+        "label-privacy": "Will be held under the privacy of the family"
+      , "label-date": "Date of {{type, capitalize}}"
+      , "placeholder-date": "Date"
+      , "label-time": "Time"
+      , "placeholder-time": "Time "
+      , "label-name": "Location of {{type, capitalize}}"
+      , "placeholder-name": "eg: Saint Jude's Hospital"
+      , "label-address": "Address of {{type, capitalize}}"
+      , "placeholder-address": "Address"
+      , "cta-delete": "Remove"
+    }
+  , "contacts": {
+        "title": "Point of contact"
+      , "label-name": "Name"
+      , "placeholder-name": ""
+      , "label-email": "Email"
+      , "placeholder-email": ""
+      , "label-phone": "Phone"
+      , "placeholder-phone": ""
+      , "cta-delete": "Remove"
+      , "cta-add": "Add new"
+    }
+  , "messages": {
+        "title": "Manage messages"
+      , "text": "View and manage all messages posted on the page"
+      , "empty": "There are no messages yet !"
+      , "cta-delete": "Delete message"
+    }
+  , "stats": {
+        "title": "Page statistics"
+      , "cta": "Click here"
+      , "text": " to send the link of this page to family, friends and colleagues."
+      , "view": "visits"
+      , "comments": "comments"
+      , "donations": "donations"
+      , "collected": "collected"
+    }
+  , "actions": {
+        "title": "Action center"
+      , "text": "Manage advanced page actions and settings"
+      , "share": {
+            "title": "Share"
+          , "sms": "Share link via SMS"
+          , "email": "Share link via Email"
+          , "copy": "Copy link"
+        }
+      , "manage": {
+            "title": "Management"
+          , "admin": "Add new administrator"
+          , "delete": "Delete this page"
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+

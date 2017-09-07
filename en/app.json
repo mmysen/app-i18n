@@ -1,6 +1,7 @@
 {
     "header": {
-        "title": "In memory of {{fullname, capitalize}}"
+        "title": "{{fullname, capitalize}}"
+      , "titleOf": "of "
       , "cta": "Send this page"
       , "cta-right": "to friends and family."
       , "cta-share": "Share this page"
@@ -42,7 +43,7 @@
           , "text": "Here are 3 ways you can make a difference and support {{firstname, capitalize}}'s family:"
           , "guestbook": {
                 "title": "Sign the guestbook"
-              , "text": "Send your respect to the family, share your memories of {{firstname, capitalize}}, or add a picture."
+              , "text": "Send your respect to the family.\n share your memories of {{firstname, capitalize}}.\nsor add a picture."
             }
           , "donation": {
                 "title": "Make a donation"
@@ -81,9 +82,20 @@
     }
   , "flower": {}
   , "print": {}
+  , "delete": {
+        "title": "Are you sure ?"
+      , "text": "You are about to delete {{fullname, capitalize}} memorial page."
+      , "cta": "Delete this page"
+    }
   , "share": {
-        "title": "Send this page"
-      , "text": "Share this page with family, friends, and everyone who cared about {{fullname, capitalize}}, by sending them this link:"
+        "link": {
+            "title": "Send this page"
+          , "text": "Share this page with family, friends, and everyone who cared about {{fullname, capitalize}}, by sending them this link:"
+        }
+      , "admin": {
+            "title": "Share admin page"
+          , "text": "Share access to {{fullname, capitalize}} page, by sending this link to an administrator:"
+        }
       , "tab-link": {
             "text": "Copy link"
           , "cta": "Copy Link"

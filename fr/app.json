@@ -1,1 +1,130 @@
-{}
+{
+    "header": {
+        "title": "{{fullname, capitalize}}"
+      , "titleOf": "of "
+      , "cta": "Send this page"
+      , "cta-right": "to friends and family."
+      , "cta-share": "Share this page"
+      , "cta-edit": "Edit page"
+      , "cta-view": "View page"
+    }
+  , "menu": {
+        "welcome": "Welcome"
+      , "home": "View informations"
+      , "guestbook": "View guest book"
+      , "support": "Show your support"
+      , "message": "Write a message"
+      , "donation": "Make a donation"
+      , "flowers": "Send flowers"
+      , "print": "Print the guest book"
+      , "share": "Send this page"
+    }
+  , "home": {
+        "info": {
+            "title": "Informations"
+          , "card1-title": "Visitation"
+          , "card2-title": "Cremation"
+        }
+      , "donation": {
+            "title": "Make a donation in {{firstname, capitalize}}'s memory"
+          , "text": "text"
+          , "cta": "Donate now"
+          , "card": {
+                "title": "Make a donation in {{firstname, capitalize}}'s memory"
+              , "text": "longer text"
+            }
+        }
+      , "contact": {
+            "title": "Contact"
+          , "text": "This page was created by {{firstname, capitalize}}'s family. If you have questions, please reach out to the following contacts:"
+        }
+      , "support": {
+            "title": "Support {{firstname, capitalize}}'s family"
+          , "text": "Here are 3 ways you can make a difference and support {{firstname, capitalize}}'s family:"
+          , "guestbook": {
+                "title": "Sign the guestbook"
+              , "text": "Send your respect to the family.\n share your memories of {{firstname, capitalize}}.\nsor add a picture."
+            }
+          , "donation": {
+                "title": "Make a donation"
+              , "text": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory. Proceeds will go to St Jude's Children's hospital."
+            }
+          , "share": {
+                "title": "Share this page"
+              , "text": "Is anyone who loved {{firstname, capitalize}} missing from this page ? Send them the link so they can contribute."
+            }
+        }
+    }
+  , "guestbook": {
+        "title": "Guest book"
+      , "tab-entries": "{{count}} entries"
+      , "tab-pictures": "{{count}} pictures"
+      , "cta-add": "Add a picture"
+      , "cta-message": "Write a message"
+    }
+  , "memories": {}
+  , "message": {
+        "title": "Write a message"
+      , "input-fullname-placeholder": "Your first and last name(s)"
+      , "input-email-placeholder": "Email address"
+      , "input-message-placeholder": "Write a message for the family or share a memory of {{firstname, capitalize}}..."
+      , "cta": "Share on the guestbook"
+      , "cta-image": "Add picture"
+      , "cta-image-uploading": "Uploading..."
+    }
+  , "donation": {
+        "title": "Donate to {{name, capitalize}} hospital"
+      , "input-firstname-placeholder": "First name"
+      , "input-lastname-placeholder": "Last name"
+      , "input-email-placeholder": "Email address"
+      , "input-show-label": "Show my donation on the guestbook (the amount will be hidden)"
+      , "cta": "Make a payment"
+    }
+  , "flower": {}
+  , "print": {}
+  , "delete": {
+        "title": "Are you sure ?"
+      , "text": "You are about to delete {{fullname, capitalize}} memorial page."
+      , "cta": "Delete this page"
+    }
+  , "share": {
+        "link": {
+            "title": "Send this page"
+          , "text": "Share this page with family, friends, and everyone who cared about {{fullname, capitalize}}, by sending them this link:"
+        }
+      , "admin": {
+            "title": "Share admin page"
+          , "text": "Share access to {{fullname, capitalize}} page, by sending this link to an administrator:"
+        }
+      , "tab-link": {
+            "text": "Copy link"
+          , "cta": "Copy Link"
+        }
+      , "tab-sms": {
+            "text": "Share by text"
+          , "placeholder": "Cell phone number"
+          , "cta": "Send Link"
+        }
+      , "tab-email": {
+            "text": "Share by email"
+          , "placeholder": "Email address"
+          , "cta": "Send Link"
+        }
+    }
+
+  , "edit": {
+        "header": {
+            "cta": "View page"
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,6 +1,18 @@
 {
-  "lang": {
-    "fr": "Francais",
-    "en": "Anglais"
-  }
+    "footer": {
+        "link-support": "Support"
+      , "link-terms": "Terms & policies"
+      , "link-legal": "Legal notice"
+    }
+  , "lang": {
+      "fr": "Francais",
+      "en": "Anglais"
+    }
+  , "fulldate": "LLL"
+  , "types": {
+        "ceremony": "Ceremony"
+      , "contemplation": "Contemplation"
+      , "interment": "Interment"
+      , "cremation": "Cremation"
+    }
 }

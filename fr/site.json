@@ -1,1 +1,87 @@
-{}
+{
+    "sample-slug": "lgrellet"
+
+  , "header": {
+        "link-how": "How it works"
+      , "link-example": "Example"
+      , "link-contact": "Contact"
+      , "link-signup": "Create a page"
+    }
+
+  , "signup": {
+        "title-v0": "Gather. Celebrate. Remember."
+      , "text-v0": "You just lost a loved one. Create a safe space to gather family and friends, and celebrate their memory."
+      , "title-v1": "Create a page now"
+      , "text-v1": "Start by telling us about the person you lost:"
+      , "input-firstname-placeholder": "First name"
+      , "input-lastname-placeholder": "Last name"
+      , "input-dod-placeholder": "Date of death"
+      , "input-email-placeholder": "Contact email address"
+      , "cta-v0": "Create a tribute page"
+      , "cta-v1": "Create a tribute page"
+    }
+  , "home": {
+        "inform": {
+            "title": "Inform and invite relatives"
+          , "text": "InMemori allows you to inform family and friends about the passing of your loved one, and share the date, location, and details of the ceremony. We can also help you collect funds to help with the funeral, or to donate to an organization dear to the family."
+        }
+      , "collect": {
+            "title": "Collect tributes and memories to celebrate your loved one."
+          , "text": "Invite family members and friends dear to the person you lost to share their memories together. InMemori is a safe place to post your photos and stories and remember what was so special about your loved one. Donate to meaningful charities in just 5 minutes."
+        }
+      , "how": {
+            "title": "How it works"
+          , "text": "InMemori is a free service that helps you celebrate the memory of the person you lost, and gather family and friends. Creating a page is easy and takes only a few minutes."
+          , "create": {
+                "title": "Create a page"
+              , "text": "Tell us about the person who passed and add a picture of them. Include information about the ceremony. You can also create a fundraiser."
+            }
+          , "share": {
+                "title": "Share it"
+              , "text": "Publish the page and send it to friends and family. Watch memories come to life as they pay their tribute. View a sample page."
+            }
+          , "manage": {
+                "title": "Manage it"
+              , "text": "Follow the activity of the page (views, donations…) and manage people’s messages. You can download and print the memory book."
+            }
+        }
+      , "values": {
+            "title": "Our values"
+          , "text": "We started inMemori to celebrate the memory of someone dear we lost. little story about why we do this. These are our values."
+          , "collective": {
+                "title": "Collective"
+              , "text": "People you invite to the page can share it with relatives. Gathering family and friends can bring comfort to everyone in this moment of loss."
+            }
+          , "privacy": {
+                "title": "Privacy"
+              , "text": "Pages are private. Only those who received the link have access to it. Images and photographs you share will not appear in search results."
+            }
+          , "elegance": {
+                "title": "Elegance"
+              , "text": "The tribute page is a simple and elegant guest book, designed to reveal the beauty of the stories and photos shared by your family and friends."
+            }
+        }
+      , "testimonial": {
+            "title": "Testimonials"
+          , "text": "This is what people have to say about inMemori."
+          , "one": {
+                "from": "Barbara Pham"
+              , "text": "Your service is remarkably well done. It eliminated the stress of organization and our loved ones have been able to easily make donations to an association dear to our dad."
+            }
+          , "two": {
+                "from": "Lonnie Brooks"
+              , "text": "Thanks to inmemori, we communicated the funeral service information to everyone concerned in one evening."
+            }
+          , "three": {
+                "from": "Lonnie Brooks"
+              , "text": "Inmemori supported us in this ordeal and brought comfort through tributes and shared memories. The page in tribute to our mother is invaluable."
+            }
+        }
+      , "celebrate": {
+            "title": "Celebrate a life."
+          , "text": "InMemori is a free service that helps you celebrate the memory of the person you lost, and gather family and friends. We’re here to support you through this difficult moment."
+          , "cta-view": "View sample page"
+          , "cta-create": "Create a page now"
+        }
+    }
+}
