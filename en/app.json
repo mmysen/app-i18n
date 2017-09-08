@@ -4,24 +4,24 @@
       , "titleOf": "of "
       , "cta": "Send this page"
       , "cta-right": "to friends and family."
-      , "cta-share": "Share this page"
+      , "cta-share": "Send this page"
       , "cta-edit": "Edit page"
       , "cta-view": "View page"
     }
   , "menu": {
         "welcome": "Welcome"
-      , "home": "View informations"
-      , "guestbook": "View guest book"
+      , "home": "View information"
+      , "guestbook": "View inmemori book"
       , "support": "Show your support"
       , "message": "Write a message"
       , "donation": "Make a donation"
       , "flowers": "Send flowers"
-      , "print": "Print the guest book"
+      , "print": "Print your inmemori book"
       , "share": "Send this page"
     }
   , "home": {
         "info": {
-            "title": "Informations"
+            "title": "Information"
           , "card1-title": "Visitation"
           , "card2-title": "Cremation"
         }
@@ -36,27 +36,27 @@
         }
       , "contact": {
             "title": "Contact"
-          , "text": "This page was created by {{firstname, capitalize}}'s family. If you have questions, please reach out to the following contacts:"
+          , "text": "This page was created by {{firstname, capitalize}}'s family. Should you have any questions, please reach out to the following contacts:"
         }
       , "support": {
             "title": "Support {{firstname, capitalize}}'s family"
           , "text": "Here are 3 ways you can make a difference and support {{firstname, capitalize}}'s family:"
           , "guestbook": {
-                "title": "Sign the guestbook"
-              , "text": "Send your respect to the family.\n share your memories of {{firstname, capitalize}}.\nsor add a picture."
+                "title": "Sign the inmemori book"
+              , "text": "Send your respect to the family.\n share your memories of {{firstname, capitalize}}.\n Add a picture."
             }
           , "donation": {
                 "title": "Make a donation"
               , "text": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory. Proceeds will go to St Jude's Children's hospital."
             }
           , "share": {
-                "title": "Share this page"
-              , "text": "Is anyone who loved {{firstname, capitalize}} missing from this page ? Send them the link so they can contribute."
+                "title": "Send this page"
+              , "text": "The family needs you. Help them invite all of {{firstname, capitalize}}'s friends by sending the link to this page so they can contribute."
             }
         }
     }
   , "guestbook": {
-        "title": "Guest book"
+        "title": "inmemori book"
       , "tab-entries": "{{count}} entries"
       , "tab-pictures": "{{count}} pictures"
       , "cta-add": "Add a picture"
@@ -68,7 +68,7 @@
       , "input-fullname-placeholder": "Your first and last name(s)"
       , "input-email-placeholder": "Email address"
       , "input-message-placeholder": "Write a message for the family or share a memory of {{firstname, capitalize}}..."
-      , "cta": "Share on the guestbook"
+      , "cta": "Share on the inmemori book"
       , "cta-image": "Add picture"
       , "cta-image-uploading": "Uploading..."
     }
@@ -77,7 +77,7 @@
       , "input-firstname-placeholder": "First name"
       , "input-lastname-placeholder": "Last name"
       , "input-email-placeholder": "Email address"
-      , "input-show-label": "Show my donation on the guestbook (the amount will be hidden)"
+      , "input-show-label": "Show my donation on the inmemori book (the amount will be hidden)"
       , "cta": "Make a payment"
     }
   , "flower": {}
@@ -90,7 +90,7 @@
   , "share": {
         "link": {
             "title": "Send this page"
-          , "text": "Share this page with family, friends, and everyone who cared about {{fullname, capitalize}}, by sending them this link:"
+          , "text": "Send this page to family, friends, and everyone who cared about {{fullname, capitalize}}, by sending them this link:"
         }
       , "admin": {
             "title": "Share admin page"
@@ -118,13 +118,6 @@
         }
     }
 }
-
-
-
-
-
-
-
 
 
 
