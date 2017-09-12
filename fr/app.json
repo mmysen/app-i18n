@@ -1,120 +1,120 @@
 {
     "header": {
         "title": "{{fullname, capitalize}}"
-      , "titleOf": "of "
-      , "cta": "Send this page"
-      , "cta-right": "to friends and family."
-      , "cta-share": "Share this page"
-      , "cta-edit": "Edit page"
-      , "cta-view": "View page"
+      , "titleOf": "de "
+      , "cta": "Envoyer cette page"
+      , "cta-right": "à vos amis et à votre famille."
+      , "cta-share": "Partager la page"
+      , "cta-edit": "Modifier la page"
+      , "cta-view": "Voir la page"
     }
   , "menu": {
-        "welcome": "Welcome"
-      , "home": "View informations"
-      , "guestbook": "View guest book"
-      , "support": "Show your support"
-      , "message": "Write a message"
-      , "donation": "Make a donation"
-      , "flowers": "Send flowers"
-      , "print": "Print the guest book"
-      , "share": "Send this page"
+        "welcome": "Accueil"
+      , "home": "Voir les informations"
+      , "guestbook": "Voir le recueil inmemori"
+      , "support": "Faire part de votre soutien"
+      , "message": "Ecrire un message"
+      , "donation": "Faire un don"
+      , "flowers": "Envoyer des fleurs"
+      , "print": "Imprimer le recueil inmemori"
+      , "share": "Envoyer cete page"
     }
   , "home": {
         "info": {
-            "title": "Informations"
-          , "card1-title": "Visitation"
-          , "card2-title": "Cremation"
+            "title": "Informations sur les obsèques"
+          , "card1-title": "Veillée funéraire"
+          , "card2-title": "Crémation"
         }
       , "donation": {
-            "title": "Make a donation in {{firstname, capitalize}}'s memory"
-          , "text": "text"
-          , "cta": "Donate now"
+            "title": "Faire un don en mémoire de {{firstname, capitalize}}"
+          , "text": "texte"
+          , "cta": "Valider"
           , "card": {
-                "title": "Make a donation in {{firstname, capitalize}}'s memory"
+                "title": "Faire un don en mémoire de {{firstname, capitalize}}"
               , "text": "longer text"
             }
         }
       , "contact": {
             "title": "Contact"
-          , "text": "This page was created by {{firstname, capitalize}}'s family. If you have questions, please reach out to the following contacts:"
+          , "text": "Cette page a été créée par la famille de {{firstname, capitalize}}. Si vous avez des questions, merci de contacter les personnes mentionnées ci-dessous:"
         }
       , "support": {
-            "title": "Support {{firstname, capitalize}}'s family"
-          , "text": "Here are 3 ways you can make a difference and support {{firstname, capitalize}}'s family:"
+            "title": "Soutenir la famille de {{firstname, capitalize}}"
+          , "text": "Voici 3 manières de soutenir la famille de {{firstname, capitalize}}:"
           , "guestbook": {
-                "title": "Sign the guestbook"
-              , "text": "Send your respect to the family.\n share your memories of {{firstname, capitalize}}.\nsor add a picture."
+                "title": "Signer le recueil inmemori"
+              , "text": "Envoyer vos condoléances à la famille.\n Partager un souvenir avec {{firstname, capitalize}}.\ns Poster une photo."
             }
           , "donation": {
-                "title": "Make a donation"
-              , "text": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory. Proceeds will go to St Jude's Children's hospital."
+                "title": "Faire un don"
+              , "text": "La famille organise une collecte de dons en mémoire de {{firstname, capitalize}}. La somme collectée sera reversée à l'hôpital pour enfants de  St Jude."
             }
           , "share": {
-                "title": "Share this page"
-              , "text": "Is anyone who loved {{firstname, capitalize}} missing from this page ? Send them the link so they can contribute."
+                "title": "Partager cette page"
+              , "text": "Pensez vous à quelqu'un qui aimait {{firstname, capitalize}} et qui aimerait voir cette page ? Envoyez lui le lien afin qu'il puisse y prendre part."
             }
         }
     }
   , "guestbook": {
-        "title": "Guest book"
+        "title": "Recueil Inmemori"
       , "tab-entries": "{{count}} entries"
       , "tab-pictures": "{{count}} pictures"
-      , "cta-add": "Add a picture"
-      , "cta-message": "Write a message"
+      , "cta-add": "Partager une photo"
+      , "cta-message": "Ecrire un message"
     }
   , "memories": {}
   , "message": {
-        "title": "Write a message"
-      , "input-fullname-placeholder": "Your first and last name(s)"
-      , "input-email-placeholder": "Email address"
-      , "input-message-placeholder": "Write a message for the family or share a memory of {{firstname, capitalize}}..."
-      , "cta": "Share on the guestbook"
-      , "cta-image": "Add picture"
-      , "cta-image-uploading": "Uploading..."
+        "title": "Ecrire un message"
+      , "input-fullname-placeholder": "Vos prénom et nom"
+      , "input-email-placeholder": "Adresse email"
+      , "input-message-placeholder": "Ecire un message pour la famille ou partager un souvenir avec {{firstname, capitalize}}..."
+      , "cta": "Partager sur le recueil inmemori"
+      , "cta-image": "Ajouter une photo"
+      , "cta-image-uploading": "Télécharger..."
     }
   , "donation": {
-        "title": "Donate to {{name, capitalize}} hospital"
-      , "input-firstname-placeholder": "First name"
-      , "input-lastname-placeholder": "Last name"
-      , "input-email-placeholder": "Email address"
-      , "input-show-label": "Show my donation on the guestbook (the amount will be hidden)"
-      , "cta": "Make a payment"
+        "title": "Faire un don à l'hôpital de {{name, capitalize}}"
+      , "input-firstname-placeholder": "Prénom"
+      , "input-lastname-placeholder": "Nom"
+      , "input-email-placeholder": "Adresse email"
+      , "input-show-label": "Signifier mon don sur le recueil inmemori (le montant du don sera gardé privé)"
+      , "cta": "Payer"
     }
   , "flower": {}
   , "print": {}
   , "delete": {
-        "title": "Are you sure ?"
-      , "text": "You are about to delete {{fullname, capitalize}} memorial page."
-      , "cta": "Delete this page"
+        "title": "Êtes vous sûr ?"
+      , "text": "Vous êtes sur le point de supprimer la page en hommage à {{fullname, capitalize}}."
+      , "cta": "Supprimer la page"
     }
   , "share": {
         "link": {
-            "title": "Send this page"
-          , "text": "Share this page with family, friends, and everyone who cared about {{fullname, capitalize}}, by sending them this link:"
+            "title": "Envoyer cette page"
+          , "text": "Partager cette page avec la famille, les amis, et toutes les personnes qui tenaient à {{fullname, capitalize}}, en leur envoyant ce lien:"
         }
       , "admin": {
-            "title": "Share admin page"
-          , "text": "Share access to {{fullname, capitalize}} page, by sending this link to an administrator:"
+            "title": "Partager la page d'administration"
+          , "text": "Partager l'accès à la page de {{fullname, capitalize}}, en envoyant ce lien à un administrateur:"
         }
       , "tab-link": {
-            "text": "Copy link"
-          , "cta": "Copy Link"
+            "text": "Copier le lien"
+          , "cta": "Copier le lien"
         }
       , "tab-sms": {
-            "text": "Share by text"
-          , "placeholder": "Cell phone number"
-          , "cta": "Send Link"
+            "text": "Partager par sms"
+          , "placeholder": "Numéro de téléphone"
+          , "cta": "Envoyer le lien"
         }
       , "tab-email": {
-            "text": "Share by email"
-          , "placeholder": "Email address"
-          , "cta": "Send Link"
+            "text": "Partager par email"
+          , "placeholder": "Adresse email"
+          , "cta": "Envoyer le lien"
         }
     }
 
   , "edit": {
         "header": {
-            "cta": "View page"
+            "cta": "Voir la page"
         }
     }
 }
