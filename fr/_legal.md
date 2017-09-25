@@ -1,6 +1,7 @@
 <br/>  
 # Mentions légales  
-
+  
+  
 ## Editeur  
 
 Le site internet https://www.inmemori.com/ est la propriété de Rest In Peace, (ci-après, l’ « Editeur »).  
