@@ -22,11 +22,11 @@
   , "home": {
         "inform": {
             "title": "Informer vos proches."
-          , "text": "Inmemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes. Inviter tous vos proches concernés est très facile: vous n'avez plus qu'à leur partager le lien sécurisé de la page."
+          , "text": "InMemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes. Inviter tous vos proches concernés est très facile: vous n'avez plus qu'à leur partager le lien sécurisé de la page."
         }
       , "collect": {
             "title": "Inviter vos proches à se souvenir et à rendre hommage."
-          , "text": "Famille et amis pourront faire part de leurs condoléances mais aussi se souvenir de ce qui rendait votre proche si spécial. \n Vous pourrez organiser une collecte de dons afin de soutenir une association chère à votre proche. \n Votre entourage pourra enfin rendre hommage en offrant des fleurs et rendre votre cérémonie plus belle encore."
+          , "text": "Famille et amis pourront faire part de leurs condoléances mais aussi se souvenir de ce qui rendait votre proche si spécial. \n Vous pourrez organiser une collecte de dons afin de soutenir une association chère à votre proche. \n Votre entourage pourra rendre hommage en offrant des fleurs et rendre votre cérémonie plus belle encore."
         }
       , "how": {
             "title": "Comment ça marche"
@@ -65,7 +65,7 @@
           , "text": "Ce que les gens ont à dire d'inMemori."
           , "one": {
                 "from": "Agathe Blion"
-              , "text": "Votre service est remarquable. Il contrecarre le stresse de l'organisation et nos proches ont pu facilement faire un don à l'association chère à notre père."
+              , "text": "Votre service est remarquable. \n Il contrecarre le stresse de l'organisation et nos proches ont pu facilement faire un don à l'association chère à notre père."
             }
           , "two": {
                 "from": "Michel Tailland"
