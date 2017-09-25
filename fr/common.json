@@ -1,8 +1,8 @@
 {
     "footer": {
-        "link-support": "Support"
-      , "link-terms": "Terms & policies"
-      , "link-legal": "Legal notice"
+        "link-support": "Contact"
+      , "link-terms": "Termes & conditions"
+      , "link-legal": "Mentions légales"
     }
   , "lang": {
       "fr": "Francais",
@@ -10,9 +10,9 @@
     }
   , "fulldate": "dddd D MMMM YYYY, HH:mm"
   , "types": {
-        "ceremony": "Ceremony"
-      , "contemplation": "Contemplation"
-      , "interment": "Interment"
-      , "cremation": "Cremation"
+        "ceremony": "Cérémonie"
+      , "contemplation": "Recueillement"
+      , "interment": "Enterrement"
+      , "cremation": "Crémation"
     }
 }
