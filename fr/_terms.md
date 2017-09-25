@@ -1,6 +1,7 @@
 <br/>  
 # Conditions générales d'utilisation  
 
+  
 Les présentes Conditions Générales d’Utilisation (ci-après, les « CGU »), soumises au droit français, ont vocation à régir l’utilisation par toute personne (ci-après, l’ « Utilisateur ») du site internet accessible à l’adresse web www.inmemori.com (ci-après, le « Site ») édité par Rest In Peace (ci-après, l’ « Editeur »).
 
 Tout accès ou toute utilisation du Site emporte acceptation expresse et sans réserve des présentes CGU par l’Utilisateur. Tout Utilisateur garantit l’Editeur qu’il dispose de l’ensemble des droits, autorisations et pouvoirs nécessaires pour accepter les CGU au nom de la société, association ou toute autre entité (ci-après, l’ « Entité ») au nom de laquelle il/elle accède ou utilise le Site, l’accès ou l’utilisation du Site par l’Utilisateur emportant acceptation expresse et sans réserve des CGU par l’Entité.
