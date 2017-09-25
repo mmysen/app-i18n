@@ -61,7 +61,7 @@
             }
         }
       , "testimonial": {
-            "title": "Témoignages"
+            "title": "Bonjours"
           , "text": "Ce que les gens ont à dire d'inMemori."
           , "one": {
                 "from": "Agathe Blion"
