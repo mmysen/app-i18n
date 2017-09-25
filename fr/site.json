@@ -22,22 +22,22 @@
   , "home": {
         "inform": {
             "title": "Informer vos proches."
-          , "text": "Inmemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes. \n Inviter tous vos proches concernés est très facile: vous n'avez plus qu'à leur partager le lien sécurisé de la page."
+          , "text": "Inmemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes. Inviter tous vos proches concernés est très facile: vous n'avez plus qu'à leur partager le lien sécurisé de la page."
         }
       , "collect": {
             "title": "Inviter vos proches à se souvenir et à rendre hommage."
-          , "text": "Famille et amis pourront faire part de leurs condoléances mais aussi se souvenir de ce qui rendait votre proche si spécial et publier des photos. \n Grâce à inMemori, vous pourrez aussi organiser une collecte de dons afin de soutenir une association chère à votre proche. \n Votre entourage pourra enfin rendre hommage en offrant des fleurs et rendre votre cérémonie plus belle encore."
+          , "text": "Famille et amis pourront faire part de leurs condoléances mais aussi se souvenir de ce qui rendait votre proche si spécial. \n Vous pourrez organiser une collecte de dons afin de soutenir une association chère à votre proche. \n Votre entourage pourra enfin rendre hommage en offrant des fleurs et rendre votre cérémonie plus belle encore."
         }
       , "how": {
             "title": "Comment ça marche"
-          , "text": "InMemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu en rassemblant famille et amis. \n Créer une page est très facile et ne vous prendra que quelques minutes."
+          , "text": "InMemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu en rassemblant famille et amis. Créer une page est très facile et ne vous prendra que quelques minutes."
           , "create": {
                 "title": "Créer une page"
               , "text": "Présenter votre proche disparu et ajouter une photo de ce dernier. \n Transmettre les informations sur les obsèques."
             }
           , "share": {
                 "title": "La partager"
-              , "text": "Partager la page avec votre famille et vos amis. \n Voir certains souvenirs prendre vie grâce aux hommages de votre entourage."
+              , "text": "Partager la page avec votre famille et vos amis. Voir certains souvenirs prendre vie grâce aux hommages de votre entourage."
             }
           , "manage": {
                 "title": "La modifier"
@@ -53,7 +53,7 @@
             }
           , "privacy": {
                 "title": "Intimité"
-              , "text": "Les pages sont privées. \n Seuls ceux qui reçoivent le lien y ont accès. \n Les messages et photos partagés n'apparaîtront pas dans les résultats de recherche internet."
+              , "text": "Les pages sont privées. Seuls ceux qui reçoivent le lien y ont accès. Les messages et photos partagés n'apparaîtront pas dans les résultats de recherche internet."
             }
           , "elegance": {
                 "title": "Elégance"
@@ -73,12 +73,12 @@
             }
           , "three": {
                 "from": "Philippe Careau"
-              , "text": "InMemori nous a accompagné durant cette épreuve et nous a apporté du réconfort grâce aux messages de condoléances et aux souvenirs partagés. La page en hommage à notre mère est inestimable."
+              , "text": "InMemori nous a accompagné durant cette épreuve et nous a apporté du réconfort grâce aux messages de condoléances et aux souvenirs partagés. \n La page en hommage à notre mère est inestimable."
             }
         }
       , "celebrate": {
             "title": "Célébrer une vie."
-          , "text": "InMemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu et à rassembler votre famille et vos amis. Nous sommes ici pour vous accompagner durant ce moment difficile."
+          , "text": "InMemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu et à rassembler votre famille et vos amis. \n Nous sommes ici pour vous accompagner durant ce moment difficile."
           , "cta-view": "Voir un exemple"
           , "cta-create": "Créer une page"
         }
