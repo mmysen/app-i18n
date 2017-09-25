@@ -1,6 +1,5 @@
 <br/>  
-Mentions légales  
-================  
+# Mentions légales  
 
 ## Editeur  
 
