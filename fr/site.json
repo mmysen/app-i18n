@@ -2,7 +2,7 @@
     "sample-slug": "lgrellet"
 
   , "header": {
-      "link-example": "Qui sommes nous"
+        "link-example": "Qui sommes nous"
       , "link-contact": "Contact"
       , "link-signup": "Exemple de page"
     }
