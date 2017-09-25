@@ -1,5 +1,5 @@
 <br/>  
-#Conditions générales d'utilisation  
+# Conditions générales d'utilisation  
 
 Les présentes Conditions Générales d’Utilisation (ci-après, les « CGU »), soumises au droit français, ont vocation à régir l’utilisation par toute personne (ci-après, l’ « Utilisateur ») du site internet accessible à l’adresse web www.inmemori.com (ci-après, le « Site ») édité par Rest In Peace (ci-après, l’ « Editeur »).
 
