@@ -11,17 +11,17 @@
   , "menu": {
         "welcome": "Accueil"
       , "home": "Voir les informations"
-      , "guestbook": "Voir le recueil inmemori"
+      , "guestbook": "Voir le recueil InMemori"
       , "support": "Faire part de votre soutien"
       , "message": "Ecrire un message"
-      , "donation": "Faire un don"
-      , "flowers": "Envoyer des fleurs"
-      , "print": "Imprimer le recueil inmemori"
-      , "share": "Envoyer cette page"
+      , "donation": "Donations"
+      , "flowers": "Fleurs"
+      , "print": "Imprimer le recueil InMemori"
+      , "share": "Partager cette page"
     }
   , "home": {
         "info": {
-            "title": "Informations sur les obsèques"
+            "title": "Informations"
           , "card1-title": "Veillée funéraire"
           , "card2-title": "Crémation"
         }
@@ -42,7 +42,7 @@
             "title": "Soutenir la famille de {{firstname, capitalize}}"
           , "text": "Voici 3 manières de soutenir la famille de {{firstname, capitalize}}:"
           , "guestbook": {
-                "title": "Signer le recueil inmemori"
+                "title": "Signer le recueil InMemori"
               , "text": "Envoyer vos condoléances à la famille.\n Partager un souvenir avec {{firstname, capitalize}}.\ns Poster une photo."
             }
           , "donation": {
@@ -57,8 +57,8 @@
     }
   , "guestbook": {
         "title": "Recueil Inmemori"
-      , "tab-entries": "{{count}} entries"
-      , "tab-pictures": "{{count}} pictures"
+      , "tab-entries": "{{count}} Visites"
+      , "tab-pictures": "{{count}} Photos"
       , "cta-add": "Partager une photo"
       , "cta-message": "Ecrire un message"
     }
@@ -67,7 +67,7 @@
         "title": "Ecrire un message"
       , "input-fullname-placeholder": "Vos prénom et nom"
       , "input-email-placeholder": "Adresse email"
-      , "input-message-placeholder": "Ecire un message pour la famille ou partager un souvenir avec {{firstname, capitalize}}..."
+      , "input-message-placeholder": "Écrire un message pour la famille ou partager un souvenir avec {{firstname, capitalize}}..."
       , "cta": "Partager sur le recueil inmemori"
       , "cta-image": "Ajouter une photo"
       , "cta-image-uploading": "Télécharger..."
@@ -77,7 +77,7 @@
       , "input-firstname-placeholder": "Prénom"
       , "input-lastname-placeholder": "Nom"
       , "input-email-placeholder": "Adresse email"
-      , "input-show-label": "Signifier mon don sur le recueil inmemori (le montant du don sera gardé privé)"
+      , "input-show-label": "Signifier mon don sur le recueil InMemori (le montant du don sera gardé privé)"
       , "cta": "Payer"
     }
   , "flower": {}
