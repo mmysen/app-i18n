@@ -2,9 +2,11 @@
     "sample-slug": "lgrellet"
 
   , "header": {
-        "link-example": "Qui sommes nous"
+        "link-about": "Qui sommes nous"
+      , "link-faq": "FAQ"
+      , "link-example": "Exemple"
       , "link-contact": "Contact"
-      , "link-signup": "Exemple de page"
+      , "link-signup": "Créer une page"
     }
 
   , "signup": {
