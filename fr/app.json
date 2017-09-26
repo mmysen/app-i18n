@@ -56,7 +56,7 @@
         }
     }
   , "guestbook": {
-        "title": "Recueil Inmemori"
+        "title": "Recueil InMemori"
       , "tab-entries": "{{count}} Visites"
       , "tab-pictures": "{{count}} Photos"
       , "cta-add": "Partager une photo"
@@ -68,7 +68,7 @@
       , "input-fullname-placeholder": "Vos prénom et nom"
       , "input-email-placeholder": "Adresse email"
       , "input-message-placeholder": "Écrire un message pour la famille ou partager un souvenir avec {{firstname, capitalize}}..."
-      , "cta": "Partager sur le recueil inmemori"
+      , "cta": "Partager sur le recueil InMemori"
       , "cta-image": "Ajouter une photo"
       , "cta-image-uploading": "Télécharger..."
     }
