@@ -2,7 +2,8 @@
     "sample-slug": "gdelsol"
 
   , "header": {
-        "link-how": "How it works"
+        "link-about": "About us"
+      , "link-faq": "FAQ"
       , "link-example": "Example"
       , "link-contact": "Contact"
       , "link-signup": "Create a page"
