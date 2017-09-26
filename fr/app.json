@@ -1,7 +1,7 @@
 {
     "header": {
         "title": "{{fullname, capitalize}}"
-      , "titleOf": "de "
+      , "titleOf": ""
       , "cta": "Envoyer cette page"
       , "cta-right": "à vos amis et à votre famille."
       , "cta-share": "Partager la page"
