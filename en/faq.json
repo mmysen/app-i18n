@@ -1,0 +1,6 @@
+{
+  faq: [
+    , { q:'this is a question', r: 'this is a response' }
+    , { q:'this is a question', r: 'this is a response' }
+  ] 
+}
