@@ -1,74 +1,121 @@
 {
   "faq": [
 
-
-
-
-{ "section": "CREER UNE PAGE SUR INMEMORI", "qa": [
-
-{ 
-"q": "Inmemori ?", 
-"r": "Pour découvrir la mission d’inmemori et nos valeurs, consultez la rubrique <a href='/about'>A Propos</a>."
-}
-
-,{ 
-"q": "A quoi sert une page d’hommage ?", 
-"r": "Grâce au service inmemori, vous disposez d'une page privée qui vous permet de : \n- Transmettre rapidement les informations sur les obsèques à chacune des personnes concernées,\n- Recevoir et conserver les condoléances et les souvenirs de vos proches,\n- Organiser une collecte de dons en sa mémoire, si vous le souhaitez."
-}
-
-,{ 
-"q": "this is a question", 
-"r": "this is a response"
-}
-
-,{ 
-"q": "this is a question", 
-"r": "this is a response"
-}
-
-,{ 
-"q": "this is a question", 
-"r": "this is a response"
-}
-
-]}
-
-
-
-
-
-
-,
-
-
-
-
-
-
-{ "section": "GERER UNE PAGE INMEMORI", "qa": [
-
-{ 
-"q": "this is a question", 
-"r": "this is a response"
-}
-
-,{ 
-"q": "this is a question", 
-"r": "this is a response"
-}
-
-,{ 
-"q": "this is a question", 
-"r": "this is a response"
-}
-
-]}
-
-
-
-
-
-
-
-]
+    {
+      "section": "CRÉER UNE PAGE SUR INMEMORI",
+      "qa": [
+        {
+          "q": "Inmemori ?",
+          "r": "Pour découvrir la mission d’inmemori et nos valeurs, consultez la rubrique <a href='/about'>A Propos</a>."
+        },
+        {
+          "q": "À quoi sert une page d’hommage ?",
+          "r": "Grâce au service inmemori, vous disposez d'une page privée qui vous permet de : \n- Transmettre rapidement les informations sur les obsèques à chacune des personnes concernées,\n- Recevoir et conserver les condoléances et les souvenirs de vos proches,\n- Organiser une collecte de dons en sa mémoire, si vous le souhaitez."
+        },
+        {
+          "q": "Comment créer une page d’hommage ?",
+          "r": "Il vous suffit de renseigner les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant ici.\nLa création de la page ne vous prendra que 5 minutes.\n\nUne fois la page créée, vous aurez accès à votre espace de gestion, sur lequel vous pourrez :\n- Suivre l’activité de la page (nombre de vues, nombre d’hommages),\n- Organiser une collecte de dons, si vous le souhaitez,\n- Imprimer le recueil de tous les hommages partagés,\n- Remercier vos proches et les donateurs grâce à la liste de contacts."
+        },
+        {
+          "q": "Qui peut créer une page d’hommage ?",
+          "r": "Tout le monde peut créer une page : un membre de la famille, un ami, un collègue…\nIl vous suffit de renseigner les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant ici."
+        },
+        {
+          "q": "Comment inviter mes proches à consulter cette page ?",
+          "r": "Très simplement. Il vous suffit de partager la page par sms et par email, depuis votre espace de gestion.\nVous pouvez aussi, si vous le souhaitez, copier le lien et le coller sur les canaux de communication de votre choix (réseaux sociaux, WhatsApp, faire-part papier…)."
+        },
+        {
+          "q": "Qui peut voir cette page ?",
+          "r": "Seules les personnes qui reçoivent le lien y ont accès.\nLa page étant privée, elle n’apparaîtra jamais dans les résultats des moteurs de recherche."
+        },
+        {
+          "q": "Puis-je créer une page si je n’ai pas encore toutes les informations ?",
+          "r": "Oui, seules quelques informations sont essentielles pour créer une page.\nVous devez renseigner les prénom et nom de votre proche, sa date de décès et votre adresse email afin de recevoir le lien qui vous permettra de créer la page d’hommage. Vous pourrez ensuite à tout moment vous rendre sur votre espace de gestion pour la modifier ou la compléter."
+        },
+        {
+          "q": "Comment retrouver la page inmemori d’un proche décédé ?",
+          "r": "L’intimité des familles est au coeur de l’engagement d’inmemori, c’est pour cela que les pages sont privées. Seules les personnes qui reçoivent le lien y ont accès.\nSi vous apprenez qu’une page inmemori a été créée pour un proche, n’hésitez pas à contacter la famille ou des amis afin qu’ils vous communiquent le lien pour que vous puissiez y accéder."
+        },
+        {
+          "q": "Combien coûte le service inmemori ?",
+          "r": "Inmemori est un service gratuit pour permettre à tous d’y avoir accès.\nNotre ambition est que toutes les familles qui traversent un deuil puissent y trouver aide et réconfort."
+        }
+      ]
+    },
+    {
+      "section": "GÉRER UNE PAGE INMEMORI",
+      "qa": [
+        {
+          "q": "Comment gérer la page d’hommage ?",
+          "r": "Si vous êtes administrateur, vous avez reçu par email et par sms un lien qui vous redirige vers un espace de gestion.\nDepuis cet espace, vous pouvez personnaliser et compléter la page :\n- en ajoutant une photo,\n- en personnalisant le faire-part,\n- en renseignant ou en modifiant les informations sur les obsèques,\n- en activant une collecte de dons pour soutenir une association de votre choix.\nVous pouvez aussi ajouter d’autres administrateurs, vous leur donnerez ainsi accès à l’espace de gestion."
+        },
+        {
+          "q": "Que faire si des messages ou des photos postés sur la page d’hommage ne sont pas appropriés ?",
+          "r": "Si vous êtes administrateur de la page, vous pouvez à tout moment supprimer un message ou une photo qui a été posté depuis votre espace de gestion."
+        },
+        {
+          "q": "Puis-je supprimer la page d’hommage ?",
+          "r": "Si vous êtes administrateur de la page, il vous est possible de mettre en veille ou de supprimer la page au moment de votre choix.\nSachez que vous pouvez garder une trace de tous les hommages partagés par vos proches en imprimant le Recueil inmemori."
+        },
+        {
+          "q": "Que devient cette page d’hommage avec le temps ?",
+          "r": "Il existe trois possibilités :\n- Maintenir la page en ligne pour permettre à tous vos proches d’y retourner et de consulter les hommages,\n- Mettre en veille la page pour conserver les hommages mais bloquer son accès,\n- Supprimer la page.\nLe temps du deuil est personnel, c’est pour cela qu’inmemori a choisi de laisser ce choix aux administrateurs de la page."
+        }
+      ]
+    },
+    {
+      "section": "PARTICIPER À UNE PAGE INMEMORI",
+      "qa": [
+        {
+          "q": "Puis-je poster plusieurs photos sur une page d’hommage ?",
+          "r": "Oui, très facilement.\nIl vous suffit de cliquer sur le bouton “Participer” et de choisir l’action “Photos”, vous pouvez alors ajouter autant de photos que vous le souhaitez.\nVous pouvez même joindre plusieurs photos à la fin d’un message de condoléances ou d’un souvenir afin d’enrichir votre hommage."
+        },
+        {
+          "q": "Quelle est la différence entre un message de condoléances et un souvenir ?",
+          "r": "Un message de condoléances est un témoignage de soutien et de participation à la douleur d’autrui.\nUn souvenir est un moment vécu avec la personne défunte ou qui illustre sa vie.\nCes deux types de message participent à l’hommage et les souvenirs apportent de la douceur et décrochent parfois même un sourire aux personnes les plus affectées."
+        },
+        {
+          "q": "À qui peuvent bénéficier les donations ?",
+          "r": "Toutes les associations déclarées peuvent, sans autorisation spéciale et quel que soit leur objet, recevoir des dons manuels (c’est à dire effectués “de la main à la main”, soit des dons effectués par des particuliers), et ce en application de l’article 6 de la loi du 1er juillet 1901.\n\n\nSource : http://www.associations.gouv.fr/dons-manuels.html"
+        },
+        {
+          "q": "Sur quel compte est crédité l’argent des donations ?",
+          "r": "L’argent des donations est crédité sur le compte de l’administrateur qui clôture la collecte de dons. Il lui suffit pour cela de renseigner sa date de naissance et son IBAN.\nC’est alors à lui qu’il revient de reverser cette somme à l’association choisie ou à la famille."
+        },
+        {
+          "q": "Des frais sont-ils appliqués aux dons versés sur inmemori ?",
+          "r": "Dons effectués à des associations américaines\nLes dons effectués à des associations américaines sont soumis à des frais de x % :\n- x% servent à couvrir les frais bancaires liés à la sécurisation et au traitement des paiements,\n- x% servent à couvrir les coûts liés aux opérations et à l’assistance relative aux paiements.\n\nDons effectués à des associations européennes\nLes dons effectués à des associations établies dans les pays européens sont soumis à des frais de x % :\n- x% servent à couvrir les frais bancaires liés à la sécurisation et au traitement des paiements,\n- x% servent à couvrir les coûts liés aux opérations et à l’assistance relative aux paiements.\nDons à des collectes de fonds personnelles\nPour chaque don versé à une cause personnelle, inmemori déduit x% pour couvrir les frais bancaires de sécurisation et de traitement des paiements et les coûts liés aux opérations et à l’assistance relative aux paiements."
+        },
+        {
+          "q": "Comment l’association choisie reçoit-elle les dons effectués sur inmemori ?",
+          "r": "L’administrateur qui clôture la collecte reçoit le montant de l’ensemble des dons, déduit des frais de traitement, sur son compte bancaire.\nIl n’a plus qu’à transmettre cette somme à l’association mentionnée sur la page d’hommage depuis le site web de l’association, par virement ou par chèque."
+        },
+        {
+          "q": "Les dons effectués sur inmemori sont-ils éligibles à une déduction fiscale ?",
+          "r": "Oui, sous certaines conditions.\nLa loi prévoit effectivement la possibilité pour les particuliers de bénéficier d’une réduction d’impôt pour les dons qu’ils ont versés à une association. Les associations considérées d’intérêt général ou d'utilité publique peuvent notamment éditer des reçus fiscaux. \nPour être considérée d'intérêt général, l'association doit remplir 3 conditions : \n- Ne pas être à but lucratif \n- Avoir un objet social et une gestion désintéressée \n- Ne pas fonctionner au profit d’un cercle restreint"
+        },
+        {
+          "q": "Quel est le montant de la réduction fiscale ?",
+          "r": "La réduction d’impôts porte sur 66% des sommes versées par le donateur, dans la limite de 20% de son revenu imposable. Cette réduction est portée à 75% lorsque l’association a pour objet la fourniture gratuite de repas, de soins ou d’hébergement aux personnes en difficulté, dans la limite de 531€ versés par le donateur.\nPour les dons aux associations provenant d'entreprise, la réduction fiscale est de 60% du montant des dons versés à l’association, dans la limite de 5/1000 du chiffre d’affaires annuel.\nEnfin, lorsque le montant dépasse la limite des 20% du revenu imposable, l’excédent est reporté sur les 5 années suivantes, dans les mêmes conditions fiscales.\nSource : www.service-public.fr/particuliers/vosdroits/F426"
+        }
+      ]
+    },
+    {
+      "section": "DIVERS",
+      "qa": [
+        {
+          "q": "Vous souhaitez créer une page inmemori ou participer à une page d’hommage mais vous avez des questions ?",
+          "r": "Il vous suffit de contacter Constance et notre équipe, qui assistent les familles et les proches au quotidien : \nEn posant directement votre question : Poser une question (Renvoi au chatbot)\nPar email : contact@inmemori.com (Ouvre la boite email)\nPar téléphone, tous les jours de la semaine et à tout moment, au numéro renseigné sur l’email et le sms envoyés par inmemori (valable si vous avez déjà créé la page ou participé une première fois à la page d’hommage de votre proche).\n\nVotre sérénité est au coeur de notre engagement et nous sommes mobilisés pour vous répondre en moins de 24h."
+        },
+        {
+          "q": "Comment nous aider ?",
+          "r": "Notre souhait pour inmemori est que chaque famille qui traverse un deuil puisse y trouver aide et réconfort. Nous avons besoin de vous pour mettre inmemori sur leur chemin et pour les accompagner avec justesse :\nEn parlant d’inmemori autour de vous \nEn nous transmettant par email vos suggestions d’améliorations du service à l’adresse suivante : contact@inmemori.com \nEn nous envoyant le témoignage de votre expérience sur inmemori (Ce que cela vous a apporté ? Comment cela vous a aidé ?) : contact@inmemori.com \nEn nous suivant sur nos réseaux sociaux (Mettre les liens avec les logos Facebook Fr + Facebook US + Twitter + LinkedIn)"
+        },
+        {
+          "q": "Comment rejoindre inmemori ?",
+          "r": "Si vous souhaitez rejoindre l’aventure inmemori, n'hésitez pas à nous transmettre votre candidature à contact@inmemori.com."
+        }
+      ]
+    }
+  ]
 }
