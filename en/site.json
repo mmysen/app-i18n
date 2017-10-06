@@ -1,12 +1,13 @@
 {
     "sample-slug": "gdelsol"
 
-  , "header": {
-        "link-about": "About us"
-      , "link-faq": "FAQ"
-      , "link-example": "Example"
-      , "link-contact": "Contact"
-      , "link-signup": "Create a page"
+  , "links": {
+        "about": "About us"
+      , "team": "Team"
+      , "press": "Press"
+      , "contact": "Contact"
+      , "example": "See an example"
+      , "signup": "Create a page"
     }
 
   , "signup": {

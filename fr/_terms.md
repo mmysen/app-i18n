@@ -1,5 +1,6 @@
 <br/>  
-# Conditions générales d'utilisation  
+## Conditions générales d'utilisation  
+<br/>  
 
   
 Les présentes Conditions Générales d’Utilisation (ci-après, les « CGU »), soumises au droit français, ont vocation à régir l’utilisation par toute personne (ci-après, l’ « Utilisateur ») du site internet accessible à l’adresse web www.inmemori.com (ci-après, le « Site ») édité par Rest In Peace (ci-après, l’ « Editeur »).
@@ -8,7 +9,8 @@ Tout accès ou toute utilisation du Site emporte acceptation expresse et sans r�
 
 L’Editeur se réserve le droit de pouvoir modifier les présentes CGU à tout moment. Les conditions applicables sont celles en vigueur et accessibles sur le Site à la date d’accès par l’Utilisateur.
 
-## 1) Présentation du Site  
+<br/>  
+### 1) Présentation du Site  
 
 Le site www.inmemori.com s’adresse aux personnes qui viennent de perdre un proche et met à leur disposition un espace numérique, privé et personnalisé pour :
 
@@ -29,7 +31,7 @@ inmemori.com a donc été conçu pour permettre :
 
 La manière dont le service a été pensé, associée à la rapidité des usages numériques, en font un service pratique et très utile.
 
-## 2) Création et activation d’une page en hommage  
+### 2) Création et activation d’une page en hommage  
 
 Les pages en hommage sont créées par les Administrateurs depuis www.inmemori.com ou sont complétés par les Administrateurs qui ont souscrit au service de création d’une page en hommage auprès d’un partenaire. A toutes fins utiles, il est précisé que pour le besoin des présentes CGU, l’Administrateur est un Utilisateur.
 
@@ -41,7 +43,7 @@ Dès que la page en hommage est créée, l’Administrateur reçoit un courrier 
 
 Dès que la page en hommage est complétée, l’Administrateur reçoit un courrier électronique à l’adresse e-mail qu’il a indiquée contenant le lien de partage à transmettre à toutes les personnes concernées.
 
-## 3) Fonctionnalités de la page en hommage 
+### 3) Fonctionnalités de la page en hommage 
 
 L’Administrateur dispose sur l'interface d’administration accessible depuis le lien d’administration notamment les fonctionnalités suivantes :
 
@@ -59,19 +61,19 @@ L’Administrateur dispose sur l'interface d’administration accessible depuis 
 * Ajouter toute personne en tant qu’Administrateur de la page ; chaque Administrateur ayant alors accès à l'interface d'administration et aux fonctions réservées aux Administrateurs ;
 * Clore la page en hommage à tout moment.  
 
-## 4) Accès  
+### 4) Accès  
 
 Les Utilisateurs qui reçoivent un lien de partage pourront accéder à la page en hommage correspondate en cliquant simplement sur le lien.  
 
 L’Utilisateur peut recevoir le lien de partage de la page en hommage de la part d'un Administrateur et/ou de la part d'un autre Utilisateur ayant préalablement reçu ce lien.  
 
-## 5) Obligations de l’Administrateur  
+### 5) Obligations de l’Administrateur  
 
 La violation des dispositions des CGU par l’Administrateur peut entraîner la suspension de l'accès au Site et la suppression de la page en hommage sans préjudice de tous dommages et intérêts que pourrait solliciter l’Editeur. En conséquence, l’Editeur se réserve la possibilité de refuser toute activation qui contrevient ou a contrevenu aux dispositions des CGU.
 
 L’Administrateur est responsable de toutes les données qu’il saisit directement sur le Site et sur une page en hommage (cf. paragraphe 8 des présentes).
 
-## 6) Contribution  
+### 6) Contribution  
 
 L’Utilisateur qui consulte une page en hommage pourra y contribuer de la manière suivante :
 
@@ -82,9 +84,9 @@ L’Utilisateur qui consulte une page en hommage pourra y contribuer de la mani�
 
 L’Utilisateur est informé que l’Administrateur dispose de la possibilité (i) de récupérer les adresses électroniques des Utilisateurs qui ont déposé un message, un souvenir, une photographie et/ou qui ont fait un don sur la page en hommage, de la possibilité (ii) de télécharger le contenu des messages, des souvenirs et des photographies déposés par les Utilisateurs sur la page en hommage, et de la possibilité (iii) de supprimer un message, un souvenir et/ou une photographie déposés par les Utilisateurs sans qu'ils ne soient prévenus.
 
-## 7) Propriété intellectuelle  
+### 7) Propriété intellectuelle  
 
-### 7.1) Propriété intellectuelle des Utilisateurs  
+#### 7.1) Propriété intellectuelle des Utilisateurs  
 
 
 **a) Diffusion des contenus**  
@@ -112,19 +114,19 @@ Pour assurer la sécurité du Site, l’Utilisateur prend les engagements suivan
 * Ne pas permettre ni encourager les infractions aux présents engagements.
 * Ne pas créer, s’il est Administrateur, une fausse page en hommage, à savoir l’annonce de la mort d’une personne qui n’est pas décédée.  
 
-### 7.2) Propriété intellectuelle des autres Utilisateurs  
+#### 7.2) Propriété intellectuelle des autres Utilisateurs  
 
 D'autres Utilisateurs du Site (ci-après, les « Autres Utilisateurs ») peuvent mettre en ligne des contenus et informations conformément aux présentes CGU. L’Utilisateur s’engage à ne pas consulter les contenus des Autres Utilisateurs pour toute raison autre qu'une utilisation personnelle non commerciale, telle que prévue et autorisée par les fonctionnalités normales du Site.
 
 Par ailleurs, au regard de la possibilité d’export des contenus, l’Utilisateur s’engage à ne pas exporter les contenus des Autres Utilisateurs sur des sites constituant ou comprenant des éléments constituant (i) une violation des droits de propriété intellectuelle de tiers, (ii) une atteinte aux personnes (notamment diffamation, insultes, injures, etc.) et au respect de la vie privée, (iii) une incitation à la violence ou à la haine contre tout individu ou groupe, (iv) une incitation à la cruauté envers les animaux, (v) un contenu sexuellement explicite ou fortement suggestif, (vi) une incitation à la consommation de drogues ou à toute activité illicite, de manière générale, (vii) une atteinte à l'ordre public et aux bonnes mœurs et, plus généralement, une atteinte à la réglementation applicable en vigueur.
 
-### 7.3) Propriété intellectuelle de l’Editeur  
+#### 7.3) Propriété intellectuelle de l’Editeur  
 
 Le Site est la propriété exclusive de l’Editeur. D'une manière générale, l’Editeur accorde aux Utilisateurs un droit gratuit, personnel, non-exclusif et non-transférable d'accès et d'utilisation du Site sous réserve de l’acceptation et du respect des CGU. Tout autre droit étant expressément exclu sans l’accord préalable écrit de l’Editeur. Le contenu, autre que les contenus et informations insérés par les Utilisateurs, inclus ou accessible sur et/ou à travers le Site, notamment tout texte, graphisme, logo, nom, marque, désignation, onglet, fonctionnalité, image, son, donnée, photographie, et tout autre matériel ou logiciel (ci-après, le « Contenu Inmemori ») est la propriété exclusive de l’Editeur ou de ses licenciés, est protégé par le droit de la propriété intellectuelle et est soumis aux lois et réglementations applicables en la matière. Le Contenu Inmemori ne doit en aucun cas être téléchargé, copié, altéré, modifié, supprimé, distribué, transmis, diffusé, vendu, loué, concédé ou exploité (en tout ou en partie) de quelque manière que ce soit, sans l'accord expresse et écrit de l’Editeur ou de ses licenciés. Les Utilisateurs acceptent de ne pas utiliser ou exploiter le Contenu Inmemori à des fins autres que ceux visés au sein des présentes CGU. En outre, les Utilisateurs ne sont pas autorisés à modifier, améliorer, éditer, traduire, décompiler, désassembler ou créer une ou plusieurs oeuvre(s) dérivée(s) à partir du Contenu Inmemori (en tout ou en partie), sauf si cette possibilité leur a été expressément octroyée par l’Editeur ou par les propriétaires de ce(s) contenu(s), dans le cadre d'un accord distinct.
 
-## 8) Responsabilité  
+### 8) Responsabilité  
 
-### 8.1) Responsabilité de l’Editeur  
+#### 8.1) Responsabilité de l’Editeur  
 
 L’Editeur met à la disposition des Utilisateurs sur le Site un certain nombre de contenus et informations créés, publiés par d’autres Utilisateurs ou par des Administrateurs. Les Utilisateurs, en qualité d’auteurs, sont seuls responsables des contenus et informations qu’ils publient sur le Site. En conséquence, la responsabilité de l’Editeur ne saurait être engagée dans le cas où les contenus ou informations publiés par les Autres Utilisateurs contreviendraient aux dispositions légales et/ou règlementaires en vigueur ou aurait causé quelconque dommage à un Utilisateur ou à toute personne.
 
@@ -132,13 +134,13 @@ LES CONTENUS ET INFORMATIONS SONT FOURNIS PAR LES UTILISATEURS ET/OU LES ADMINST
 
 L’Utilisateur peut signaler tout abus (notamment, contenu qui enfreigne les droits de propriété intellectuelle d’autrui, contenu incitant à la haine ou à la violence, pornographique, ou contenant de la nudité ou de la violence gratuite) qu’il constate sur le Site en cliquant sur le lien « Signaler un abus ». Il est alors invité à envoyer un message électronique à l’adresse abus@inmemori.com. Il peut également directement envoyer un message électronique à cette adresse.
 
-### 8.2) Responsabilité de l’Utilisateur  
+#### 8.2) Responsabilité de l’Utilisateur  
 
 En fournissant un contenu ou une information sur le Site (qu'il s'agisse de textes, de photographies, de commentaires, de noms), l’Utilisateur est tenu au respect des dispositions légales et réglementaires en vigueur. Il appartient en conséquence à l’Utilisateur de s’assurer que le stockage et la diffusion de ce contenu ou de cette information via le Site ne constitue pas (i) une violation des droits de propriété intellectuelle de tiers, (ii) une atteinte aux personnes (notamment diffamation, insultes, injures, etc.) et au respect de la vie privée, (iii) une atteinte à l'ordre public et aux bonnes mœurs (notamment, apologie des crimes contre l'humanité, incitation à la haine raciale, pornographie enfantine, etc.). En mettant en ligne et en mettant à la disposition du public un contenu ou une information sur et/ou à travers le Site, l’Utilisateur garantit détenir tous les droits et autorisations nécessaires de la part des ayants droit concernés et s’être acquitté de tous les droits et paiements dus au titre des présentes aux sociétés de gestion collective.
 
 A défaut, le contenu ou l’information pourra être retiré du Site sans formalité préalable. En outre, l’Utilisateur encoure, à titre personnel, les sanctions pénales spécifiques au contenu litigieux (peines d'emprisonnement et amendes), outre la condamnation éventuelle au paiement de dommages et intérêts. Compte tenu du caractère communautaire du Site et par respect pour les sensibilités de chacun, il appartient à l'Utilisateur de conserver une certaine éthique quant aux contenus, informations et/ou commentaires mis en ligne et, notamment, de s'abstenir de diffuser tout contenu à caractère violent ou pornographique.
 
-### 8.3) Le Site est soumis aux contraintes liées à l’Internet  
+#### 8.3) Le Site est soumis aux contraintes liées à l’Internet  
 
 L’Utilisateur déclare avoir parfaitement connaissance des caractéristiques et limites du réseau Internet, par lequel l’Editeur met à disposition le Site et les page en hommage. L’Utilisateur reconnaît donc que (i) les transmissions de données sur Internet ne bénéficient que d'une fiabilité technique relative, celles-ci circulant sur des réseaux hétérogènes aux caractéristiques et capacités techniques diverses, qui sont parfois saturés à certaines périodes de la journée ; (ii) les données circulant sur Internet ne sont pas protégées contre des détournements éventuels, et qu'elles peuvent faire l'objet d'une captation des informations diffusées et (iii) qu'il est impossible de contrôler l'utilisation qui pourrait en être faite par des tiers sur Internet.
 
@@ -146,9 +148,9 @@ En conséquence, l’Editeur ne peut être responsable pour l'un quelconque des 
 
 L’Editeur est également dégagé de toute responsabilité en cas de force majeure, dont notamment le dysfonctionnement du réseau Internet, des lignes téléphoniques, du matériel de réception empêchant ou entravant l'utilisation du Site et l’administration ou la consultation de la page en hommage.
 
-## 9) Données personnelles  
+### 9) Données personnelles  
 
-### 9.1) Données à caractère personnel  
+#### 9.1) Données à caractère personnel  
 
 Les données à caractère personnel que l’Editeur collecte auprès des Utilisateurs comprennent notamment :
 
@@ -156,7 +158,7 @@ ses noms et prénoms, son âge, sn pays de résidence et sa nationalité ;
 son adresse de courrier électronique ;
 son adresse IP (adresse virtuelle attribuée à l’appareil connecté sur internet).  
 
-### 9.2) Finalité du traitement  
+#### 9.2) Finalité du traitement  
 
 Le responsable du traitement des données à caractère personnel de l’Utilisateur est l’Editeur.
 
@@ -169,7 +171,7 @@ permettre à l’Editeur d’envoyer par courrier électronique à l’Utilisate
 établir des statistiques générales sur le trafic du Site et sur les différentes rubriques qui y sont contenues ;
 toute autre finalité liée à celles qui sont énumérées ci-dessus.  
 
-### 9.3) Protection des données  
+#### 9.3) Protection des données  
 
 L’Editeur s’engage à protéger l’ensemble des données à caractère personnel de l’Utilisateur, lesquelles données sont recueillies et traitées par l’Editeur avec la plus stricte confidentialité, conformément aux dispositions législatives et réglementaires applicables.
 
@@ -177,7 +179,7 @@ Le traitement des données à caractère personnel inclut notamment l'utilisatio
 
 Toutes les données à caractère personnel collectées sont conservées pour une durée limitée en fonction de la finalité du traitement et de la durée de conservation prévue par la législation en vigueur.
 
-### 9.4) Droit d’opposition, de rectification et de suppression de l’Utilisateur  
+#### 9.4) Droit d’opposition, de rectification et de suppression de l’Utilisateur  
 
 Conformément aux dispositions législatives et réglementaires applicables, l’Utilisateur peut à tout moment :
 
@@ -187,7 +189,7 @@ accéder à l’ensemble des données à caractère personnel le concernant trai
 rectifier, mettre à jour et supprimer des données à caractère personnel le concernant traitées par l’Editeur.
 Pour exercer ses droits, il suffit à l’Utilisateur d’adresser un message électronique à l’adresse contact@inmemori.com en prenant soin de justifier de son identité (mentionner ses noms, prénoms, adresse de courrier électronique et joindre une copie de sa pièce d’identité) à l’Editeur, aux coordonnées visées en préambule des présentes CGU.
 
-## 10) Disponibilité du Site  
+### 10) Disponibilité du Site  
 
 Le Site et les pages en hommage sont par principe accessibles 24 heures sur 24, 7 jours sur 7, sauf interruption, programmée ou non, pour les besoins de maintenance ou cas de force majeure. Etant de fait soumis à une obligation de moyens, l’Editeur ne saurait être tenu responsable de tout dommage, quelle qu'en soit la nature, résultant d'une indisponibilité du Site ou d’une page en hommage.
 
@@ -195,11 +197,11 @@ L’Editeur ne garantit pas que le Site, et le serveur qui le met à disposition
 
 L'Utilisateur accepte le fait que l’Editeur et ses fournisseurs ne pourront en aucun cas être tenus responsables des dommages, matériels et/ou immatériels, directs et/ou indirects qui pourraient résulter de l’accès ou de l’utilisation du Site et/ou de son contenu, y compris l’inaccessibilité, les pertes de données, les détériorations, les destructions ou les virus qui pourraient affecter l’équipement informatique de l’Utilisateur, et/ou de la présence de virus sur son Site.
 
-## 11) Cookies  
+### 11) Cookies  
 
 Voir la Politique des cookies qui fait partie intégrante des présentes CGU.
 
-## 12) Divers  
+### 12) Divers  
 
 Les registres informatisés conservés dans les systèmes de l’Editeur dans le respect des règles de l'art en matière de sécurité, seront considérés comme preuves des communications de courriers électroniques, envois de formulaire d'inscription, contenus. L'archivage des formulaires d'inscription est effectué sur un support de nature à assurer le caractère fidèle et durable requis par les dispositions légales en vigueur. Il est convenu qu'en cas de divergence entre les registres informatisés de l’Editeur et les documents au format papier ou électronique dont l’Utilisateur dispose, les registres informatisés de l’Editeur feront foi.
 

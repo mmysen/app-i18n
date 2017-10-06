@@ -1,8 +1,8 @@
 {
-    "footer": {
-        "link-support": "Support"
-      , "link-terms": "Terms & policies"
-      , "link-legal": "Legal notice"
+    "links": {
+        "faq": "FAQ"
+      , "terms": "Terms & policies"
+      , "legal": "Legal notice"
     }
   , "lang": {
       "fr": "Francais",

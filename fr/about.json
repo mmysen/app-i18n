@@ -1,35 +1,125 @@
 {
-  "team": [
-    { 
-        "name": "Louis Grellet"
-      , "role": "CTO"
-      , "bio": "wazaaa"
-      , "pic": ""
-    },
-    { 
-        "name": "Louis Grellet"
-      , "role": "CTO"
-      , "bio": "wazaaa"
-      , "pic": ""
-    },
-    { 
-        "name": "Louis Grellet"
-      , "role": "CTO"
-      , "bio": "wazaaa"
-      , "pic": ""
-    },
-    { 
-        "name": "Louis Grellet"
-      , "role": "CTO"
-      , "bio": "wazaaa"
-      , "pic": ""
-    },
-    { 
-        "name": "Louis Grellet"
-      , "role": "CTO"
-      , "bio": "wazaaa"
-      , "pic": ""
+
+    "mission": {
+        "title": "Notre mission"
+      , "text": "La mission d’inmemori est d’aider chaque famille qui vient de perdre un proche à rassembler toutes les personnes concernées et à rendre hommage à sa vie.\n\nChaque jour, des messages de condoléances, des souvenirs, des témoignages magnifiques sont partagés grâce au service, qui nous rappellent le besoin d'être ensemble dans ces moments éprouvants.\n\nNotre ambition pour inmemori est que chaque famille qui traverse un deuil puisse y trouver de l’aide et du réconfort. Le service est d’ailleurs gratuit pour permettre à tous d'y avoir accès. En un an déjà, nous avons accompagné 30 000 personnes."
     }
-  ]
+
+  , "story": {
+        "title": "Notre histoire"
+      , "text": [
+            ["Janvier 2016\nParis", "Clémentine décide d’accompagner les familles en deuil lors de l'organisation des obsèques. Alors qu'elle est encore la directrice marketing d'un groupe du CAC40, elle passe chaque semaine pendant 6 mois des moments auprès de familles qui viennent de perdre un proche pour comprendre comment les aider dans cette épreuve."]
+          , ["Juillet 2016\nParis", "Inmemori est crée"]
+          , ["Janvier 2017\nSan Francisco", "Constance rejoint l'aventure pour accompagner au quotidien les familles et leurs proches afin de répondre à leurs questions et leur permettre d’utiliser ce nouveau service en toute sérénité."]
+          , ["Février 2017\nSan Francisco", "Les familles et leurs proches sont reconnaissants et attachés au service, ils deviennent des ambassadeurs d’inmemori. Grâce au bouche à oreille inmemori a déjà apporté du réconfort à plus de 30,000 personnes."]
+          , ["Mars 2017\nSan Francisco", "Inmemori est sélectionné par The Refiners, un accélérateur de startups de la Silicon Valley. L’horizon d’inmemori s’élargit au monde entier."]
+          , ["Septembre 2017\nParis", "Les bureaux de Paris et New York sont ouverts. L’équipe compte désormais une dizaine de personnes toutes animées par l’impact de la mission d’inmemori."]
+          , ["Octobre 2017\nParis", "Inmemori rassemble autour de son projet les plus grands investisseurs français pour accélérer son développement et accompagner  toujours mieux les familles en deuil."]
+        ]
+    }
+
+  , "values": {
+        "title": "Nos valeurs"
+      , "text": "La mission d’inmemori est de révéler l'essentiel de la vie. "
+      , "items": [
+            ["Sensibilité", "inmemori place la délicatesse et la compréhension des familles et des proches au coeur de son action."]
+          , ["Intimité", "inmemori offre un espace privé qui protège les mots,  les hommages et les souvenirs de chacun."]
+          , ["Universalité", "inmemori s’adresse à tous les âges, cultures et croyances."]
+        ]
+    }
+
+  , "press": {
+        "title": "Espace presse"
+      , "title2": "Dernières Parutions"
+      , "text": "L’équipe relations presse d’inmemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média :\nBrunswick, Hugues Boëton\n01.53.96.83.83 / 06.79.99.27.15\n<a href='mailto:inmemori@brunswickgroup.com'>inmemori@brunswickgroup.com</a>"
+      , "items": [
+            ["FORBES", "Septembre 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
+          , ["FORBES", "Septembre 2017", "link"]
+        ]
+    }
+
+  , "contact": {
+        "title": "Besoin d’aide?"
+      , "title2": "Nos bureaux"
+      , "text": "Si vous avez la moindre question sur le service, il vous suffit de contacter Constance et notre équipe assistance via notre chat ou à l’adresse email suivante : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>. Nous vous répondrons en moins de 24 heures."
+      , "items": [
+            ["Paris", "5 rue des Colonnes\n75002 Paris \nFrance", {"lat":48.8693696,"lng":2.3393760000000157}]
+          , ["New York", "72 Allen St.\nNew York, NY 10002\nUnited States", {"lat":40.7175099,"lng":-73.9909217}]
+        ]
+      , "team": [
+        { 
+            "name": "Constance de Vernejoul"
+          , "role": "Key Accounts & CRM"
+          , "pic": "team.constance"
+          , "country": "France"
+        },
+        { 
+            "name": "Eva Kerner"
+          , "role": "Directrice du Business Développement"
+          , "pic": "team.eva"
+          , "country": "Etats-Unis"
+        }
+      ]
+    }
+
+  , "team": {
+
+        "title": "Qui sommes nous ?"
+      , "text": "Une équipe qui réunit belles énergies, force d'âme et enthousiasme au service d’inmemori."
+
+      , "items": [
+        { 
+            "name": "Clementine Piazza"
+          , "role": "CEO & founder"
+          , "bio": "Sortie d’HEC Paris en 2009, Clémentine a été Asset Manager puis Directrice Marketing du groupe Unibail-Rodamco avant de lancer inmemori en 2016."
+          , "intro": "C'est un projet profond qui remet tout à sa place."
+          , "pic": "team.clementine"
+          , "linkedin": ""
+          , "twitter": ""
+          , "site": ""
+        },
+        { 
+            "name": "Constance de Vernejoul"
+          , "role": "Key Accounts & CRM"
+          , "bio": "Diplômée de l’école supérieure de Reims, Constance a travaillé aux relations publiques et à la communication internationale chez L’Oréal. Elle a été la première à rejoindre inmemori et a déjà accompagné plus de 300 familles."
+          , "intro": "J’avais envie d’être là pour les autres à un moment de la vie où l’on se retrouve facilement seul."
+          , "pic": "team.constance"
+          , "linkedin": ""
+          , "twitter": ""
+          , "site": ""
+        },
+        { 
+            "name": "Marly  Diallo"
+          , "role": "Directrice France"
+          , "bio": "Après l’ESSEC, Marly a été Senior Asset Manager chez Unibail-Rodamco, avec  Clémentine. Elle a ensuite été chef de projet chez Walt Group et Senior Asset Manager chez Kering."
+          , "intro": "À notre échelle et au quotidien, on contribue à être plus forts ensemble."
+          , "pic": "team.marly"
+          , "linkedin": ""
+          , "twitter": ""
+          , "site": ""
+        },
+        { 
+            "name": "Eva Kerner"
+          , "role": "Directrice du Business Développement"
+          , "bio": "Diplômée de LSE, Sciences Po Paris et the University of California. Eva a travaillé dans le conseil en assurance et service financier. Elle a aussi développé des filiales aux Etats-Unis et au Moyen-Orient pour Groupama."
+          , "intro": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec inmemori, je peux m’assurer  que la mémoire des gens perdure."
+          , "pic": "team.eva"
+          , "linkedin": ""
+          , "twitter": ""
+          , "site": ""
+        },
+        { 
+            "name": "Louis Grellet"
+          , "role": "CTO"
+          , "bio": "Ingénieur et entrepreneur, Louis a été CTO d’Allopneus et CEO de la startup Flooz."
+          , "intro": "C’est un moment de la vie où le digital est absent et un challenge technique que j’ai envie de relever."
+          , "pic": "team.louis"
+          , "linkedin": "https://www.linkedin.com/in/louis-grellet-1927242/"
+          , "twitter": ""
+          , "site": "http://louis.earth"
+        }
+      ]
+
+  }
 
 }

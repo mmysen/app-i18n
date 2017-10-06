@@ -9,14 +9,14 @@
       , "cta-view": "Voir la page"
     }
   , "menu": {
-        "welcome": "Accueil"
-      , "home": "Voir les informations"
-      , "guestbook": "Voir le recueil InMemori"
-      , "support": "Faire part de votre soutien"
-      , "message": "Ecrire un message"
-      , "donation": "Donations"
-      , "flowers": "Fleurs"
-      , "print": "Imprimer le recueil InMemori"
+        "welcome": "Consulter"
+      , "home": "Informations"
+      , "guestbook": "Recueil"
+      , "support": "Soutenir"
+      , "message": "Signer le recueil"
+      , "donation": "Faire un don"
+      , "flowers": "Offrir des fleurs"
+      , "print": "Imprimer le recueil"
       , "share": "Partager cette page"
     }
   , "home": {
@@ -42,8 +42,8 @@
             "title": "Soutenir la famille de {{firstname, capitalize}}"
           , "text": "Voici 3 manières de soutenir la famille de {{firstname, capitalize}}:"
           , "guestbook": {
-                "title": "Signer le recueil InMemori"
-              , "text": "Envoyer vos condoléances à la famille.\n Partager un souvenir avec {{firstname, capitalize}}.\ns Poster une photo."
+                "title": "Signer le recueil"
+              , "text": "Envoyer vos condoléances à la famille. Partager un souvenir avec {{firstname, capitalize}}. Poster une photo."
             }
           , "donation": {
                 "title": "Faire un don"
@@ -51,12 +51,12 @@
             }
           , "share": {
                 "title": "Partager cette page"
-              , "text": "Pensez vous à quelqu'un qui aimait {{firstname, capitalize}} et qui aimerait voir cette page ? Envoyez lui le lien afin qu'il puisse y prendre part."
+              , "text": "Pensez vous à quelqu'un qui aimait {{firstname, capitalize}} et qui aimerait voir cette page ? Envoyez lui le lien afin qu'il puisse y prendre part."
             }
         }
     }
   , "guestbook": {
-        "title": "Recueil InMemori"
+        "title": "Recueil"
       , "tab-entries": "{{count}} Visites"
       , "tab-pictures": "{{count}} Photos"
       , "cta-add": "Partager une photo"
@@ -67,17 +67,24 @@
         "title": "Ecrire un message"
       , "input-fullname-placeholder": "Vos prénom et nom"
       , "input-email-placeholder": "Adresse email"
+      , "input-email-info": "Renseignez votre email pour que la famille puisse vous répondre."
       , "input-message-placeholder": "Écrire un message pour la famille ou partager un souvenir avec {{firstname, capitalize}}..."
-      , "cta": "Partager sur le recueil InMemori"
-      , "cta-image": "Ajouter une photo"
+      , "cta": "Partager sur le recueil"
+      , "cta-image": "Joindre une photo"
       , "cta-image-uploading": "Télécharger..."
+      , "steps": {
+            "0": {}
+          , "1": { "title": "Condoléances", "text": "bla bla" }
+          , "2": { "title": "Souvenir", "text": "bla bla" }
+          , "3": { "title": "Photos", "text": "bla bla" }
+        }
     }
   , "donation": {
         "title": "Faire un don à l'hôpital de {{name, capitalize}}"
       , "input-firstname-placeholder": "Prénom"
       , "input-lastname-placeholder": "Nom"
       , "input-email-placeholder": "Adresse email"
-      , "input-show-label": "Signifier mon don sur le recueil InMemori (le montant du don sera gardé privé)"
+      , "input-show-label": "Signifier mon don sur le recueil (le montant du don sera gardé privé)"
       , "cta": "Payer"
     }
   , "flower": {}

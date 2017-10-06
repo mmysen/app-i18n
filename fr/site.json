@@ -1,12 +1,13 @@
 {
     "sample-slug": "lgrellet"
 
-  , "header": {
-        "link-about": "Qui sommes nous"
-      , "link-faq": "FAQ"
-      , "link-example": "Exemple"
-      , "link-contact": "Contact"
-      , "link-signup": "Créer une page"
+  , "links": {
+        "about": "À propos"
+      , "team": "L'équipe"
+      , "press": "Presse"
+      , "contact": "Contact"
+      , "example": "Voir un exemple"
+      , "signup": "Créer une page"
     }
 
   , "signup": {
