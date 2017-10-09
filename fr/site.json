@@ -25,7 +25,7 @@
   , "home": {
         "inform": {
             "title": "Informer vos proches."
-          , "text": "InMemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes. Inviter tous vos proches concernés est très facile: vous n'avez plus qu'à leur partager le lien sécurisé de la page."
+          , "text": "inmemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes. Inviter tous vos proches concernés est très facile: vous n'avez plus qu'à leur partager le lien sécurisé de la page."
         }
       , "collect": {
             "title": "Inviter vos proches à se souvenir et à rendre hommage."
@@ -33,7 +33,7 @@
         }
       , "how": {
             "title": "Comment ça marche"
-          , "text": "InMemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu en rassemblant famille et amis. Créer une page est très facile et ne vous prendra que quelques minutes."
+          , "text": "inmemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu en rassemblant famille et amis. Créer une page est très facile et ne vous prendra que quelques minutes."
           , "create": {
                 "title": "Créer une page"
               , "text": "Présenter votre proche disparu et ajouter une photo de ce dernier. \n Transmettre les informations sur les obsèques."
@@ -44,12 +44,12 @@
             }
           , "manage": {
                 "title": "La modifier"
-              , "text": "Suivre l'activité de la page (visites, messages, dons,...) et modérer les messages postés par vos proches. \n Télécharger et imprimer le recueil d'hommages."
+              , "text": "Suivre l'activité de la page (visites, messages, dons...) et modérer les messages postés par vos proches. \n Télécharger et imprimer le recueil d'hommages."
             }
         }
       , "values": {
             "title": "Nos valeurs"
-          , "text": "Nous avons créé inMemori afin de révéler l'essentiel de la vie. Voici nos valeurs."
+          , "text": "Nous avons créé inmemori afin de révéler l'essentiel de la vie. Voici nos valeurs."
           , "collective": {
                 "title": "Partage"
               , "text": "Les personnes que vous invitez à voir cette page peuvent à leur tour la partager avec leurs proches. Rassembler famille et amis peut apporter du réconfort à chacun dans ces moments de deuil."
@@ -72,16 +72,16 @@
             }
           , "two": {
                 "from": "Michel Tailland"
-              , "text": "Grâce à inMemori, nous avons pu transmettre les informations sur les obsèques à toutes les personnes concernées en seulement une soirée."
+              , "text": "Grâce à inmemori, nous avons pu transmettre les informations sur les obsèques à toutes les personnes concernées en seulement une soirée."
             }
           , "three": {
                 "from": "Philippe Careau"
-              , "text": "InMemori nous a accompagné durant cette épreuve et nous a apporté du réconfort grâce aux messages de condoléances et aux souvenirs partagés. \n La page en hommage à notre mère est inestimable."
+              , "text": "inmemori nous a accompagné durant cette épreuve et nous a apporté du réconfort grâce aux messages de condoléances et aux souvenirs partagés. \n La page en hommage à notre mère est inestimable."
             }
         }
       , "celebrate": {
             "title": "Célébrer une vie."
-          , "text": "InMemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu et à rassembler votre famille et vos amis. \n Nous sommes ici pour vous accompagner durant ce moment difficile."
+          , "text": "inmemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu et à rassembler votre famille et vos amis. \n Nous sommes ici pour vous accompagner durant ce moment difficile."
           , "cta-view": "Voir un exemple"
           , "cta-create": "Créer une page"
         }
