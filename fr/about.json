@@ -9,12 +9,12 @@
         "title": "Notre histoire"
       , "text": [
             ["Janvier 2016\nParis", "Clémentine décide d’accompagner les familles en deuil lors de l'organisation des obsèques. Alors qu'elle est encore la directrice marketing d'un groupe du CAC40, elle passe chaque semaine pendant 6 mois des moments auprès de familles qui viennent de perdre un proche pour comprendre comment les aider dans cette épreuve."]
-          , ["Juillet 2016\nParis", "Inmemori est créé"]
+          , ["Juillet 2016\nParis", "inmemori est créé."]
           , ["Janvier 2017\nSan Francisco", "Constance rejoint l'aventure pour accompagner au quotidien les familles et leurs proches afin de répondre à leurs questions et leur permettre d’utiliser ce nouveau service en toute sérénité."]
-          , ["Février 2017\nSan Francisco", "Les familles et leurs proches sont reconnaissants et attachés au service, ils deviennent des ambassadeurs d’inmemori. Grâce au bouche à oreille inmemori a déjà apporté du réconfort à plus de 30,000 personnes."]
-          , ["Mars 2017\nSan Francisco", "Inmemori est sélectionné par The Refiners, un accélérateur de startups de la Silicon Valley. L’horizon d’inmemori s’élargit au monde entier."]
+          , ["Février 2017\nSan Francisco", "Les familles et leurs proches sont reconnaissants et attachés au service, ils deviennent des ambassadeurs d’inmemori. Grâce au bouche à oreille, inmemori a déjà apporté du réconfort à plus de 30 000 personnes."]
+          , ["Mars 2017\nSan Francisco", "inmemori est sélectionné par The Refiners, un accélérateur de startups de la Silicon Valley. L’horizon d’inmemori s’élargit au monde entier."]
           , ["Septembre 2017\nParis", "Les bureaux de Paris et New York sont ouverts. L’équipe compte désormais une dizaine de personnes toutes animées par l’impact de la mission d’inmemori."]
-          , ["Octobre 2017\nParis", "Inmemori rassemble autour de son projet les plus grands investisseurs français pour accélérer son développement et accompagner  toujours mieux les familles en deuil."]
+          , ["Octobre 2017\nParis", "inmemori rassemble autour de son projet les plus grands investisseurs français pour accélérer son développement et accompagner  toujours mieux les familles en deuil."]
         ]
     }
 
@@ -74,7 +74,7 @@
           , "bio": "Sortie d’HEC Paris en 2009, Clémentine a été Asset Manager puis Directrice Marketing du groupe Unibail-Rodamco avant de lancer inmemori en 2016."
           , "intro": "C'est un projet profond qui remet tout à sa place."
           , "pic": "team.clementine"
-          , "linkedin": ""
+          , "linkedin": "https://www.linkedin.com/in/cl%C3%A9mentine-piazza-42a67976/"
           , "twitter": ""
           , "site": ""
         },
@@ -84,17 +84,17 @@
           , "bio": "Diplômée de l’école supérieure de Reims, Constance a travaillé aux relations publiques et à la communication internationale chez L’Oréal. Elle a été la première à rejoindre inmemori et a déjà accompagné plus de 300 familles."
           , "intro": "J’avais envie d’être là pour les autres à un moment de la vie où l’on se retrouve facilement seul."
           , "pic": "team.constance"
-          , "linkedin": ""
+          , "linkedin": "https://www.linkedin.com/in/constance-de-vernejoul-00316484/"
           , "twitter": ""
           , "site": ""
         },
         { 
             "name": "Marly  Diallo"
           , "role": "Directrice France"
-          , "bio": "Après l’ESSEC, Marly a été Senior Asset Manager chez Unibail-Rodamco, avec  Clémentine. Elle a ensuite été chef de projet chez Walt Group et Senior Asset Manager chez Kering."
+          , "bio": "Après l’ESSEC, Marly a été Senior Asset Manager chez Unibail-Rodamco, avec  Clémentine. Elle a ensuite été chef de projet chez Walt Group puis Kering."
           , "intro": "À notre échelle et au quotidien, on contribue à être plus forts ensemble."
           , "pic": "team.marly"
-          , "linkedin": ""
+          , "linkedin": "https://www.linkedin.com/in/marly-diallo-55751327/"
           , "twitter": ""
           , "site": ""
         },
@@ -104,7 +104,7 @@
           , "bio": "Diplômée de LSE, Sciences Po Paris et the University of California. Eva a travaillé dans le conseil en assurance et service financier. Elle a aussi développé des filiales aux Etats-Unis et au Moyen-Orient pour Groupama."
           , "intro": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec inmemori, je peux m’assurer  que la mémoire des gens perdure."
           , "pic": "team.eva"
-          , "linkedin": ""
+          , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
           , "twitter": ""
           , "site": ""
         },
