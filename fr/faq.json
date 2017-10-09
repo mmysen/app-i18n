@@ -105,15 +105,15 @@
       "qa": [
         {
           "q": "Vous souhaitez créer une page inmemori ou participer à une page d’hommage mais vous avez des questions ?",
-          "r": "Il vous suffit de contacter Constance et notre équipe, qui assistent les familles et les proches au quotidien : \nEn posant directement votre question : Poser une question (Renvoi au chatbot)\nPar email : <a href='contact@inmemori.com'>contact@inmemori.com></a> \nPar téléphone, tous les jours de la semaine et à tout moment, au numéro renseigné sur l’email et le sms envoyés par inmemori (valable si vous avez déjà créé la page ou participé une première fois à la page d’hommage de votre proche).\n\nVotre sérénité est au coeur de notre engagement et nous sommes mobilisés pour vous répondre en moins de 24h."
+          "r": "Il vous suffit de contacter Constance et notre équipe, qui assistent les familles et les proches au quotidien : \nEn posant directement votre question : Poser une question (Renvoi au chatbot)\nPar email : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \nPar téléphone, tous les jours de la semaine et à tout moment, au numéro renseigné sur l’email et le sms envoyés par inmemori (valable si vous avez déjà créé la page ou participé une première fois à la page d’hommage de votre proche).\n\nVotre sérénité est au coeur de notre engagement et nous sommes mobilisés pour vous répondre en moins de 24h."
         },
         {
           "q": "Comment nous aider ?",
-          "r": "Notre souhait pour inmemori est que chaque famille qui traverse un deuil puisse y trouver aide et réconfort. Nous avons besoin de vous pour mettre inmemori sur leur chemin et pour les accompagner avec justesse :\nEn parlant d’inmemori autour de vous \nEn nous transmettant par email vos suggestions d’améliorations du service à l’adresse suivante : <a href='contact@inmemori.com'>contact@inmemori.com></a> \nEn nous envoyant le témoignage de votre expérience sur inmemori (Ce que cela vous a apporté ? Comment cela vous a aidé ?) : contact@inmemori.com \nEn nous suivant sur nos réseaux sociaux (Mettre les liens avec les logos Facebook Fr + Facebook US + Twitter + LinkedIn)"
+          "r": "Notre souhait pour inmemori est que chaque famille qui traverse un deuil puisse y trouver aide et réconfort. Nous avons besoin de vous pour mettre inmemori sur leur chemin et pour les accompagner avec justesse :\nEn parlant d’inmemori autour de vous \nEn nous transmettant par email vos suggestions d’améliorations du service à l’adresse suivante : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \nEn nous envoyant le témoignage de votre expérience sur inmemori (Ce que cela vous a apporté ? Comment cela vous a aidé ?) : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \nEn nous suivant sur nos réseaux sociaux (Mettre les liens avec les logos Facebook Fr + Facebook US + Twitter + LinkedIn)"
         },
         {
           "q": "Comment rejoindre inmemori ?",
-          "r": "Si vous souhaitez rejoindre l’aventure inmemori, n'hésitez pas à nous transmettre votre candidature à <a href='contact@inmemori.com'>contact@inmemori.com></a>."
+          "r": "Si vous souhaitez rejoindre l’aventure inmemori, n'hésitez pas à nous transmettre votre candidature à <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
         }
       ]
     }
