@@ -6,7 +6,7 @@
       , "team": "Team"
       , "press": "Press"
       , "contact": "Contact"
-      , "example": "See an example"
+      , "example": "View sample page"
       , "signup": "Create a page"
     }
 
@@ -25,15 +25,15 @@
   , "home": {
         "inform": {
             "title": "Inform and invite relatives"
-          , "text": "InMemori allows you to inform family and friends about the passing of your loved one, and share the date, location, and details of the ceremony. We can also help you collect funds to help with the funeral, or to donate to an organization dear to the family."
+          , "text": "inmemori allows you to inform family and friends about the passing of your loved one, and share the date, location, and details of the ceremony. We can also help you collect funds to help with the funeral, or to donate to an organization dear to the family."
         }
       , "collect": {
             "title": "Collect tributes and memories to celebrate your loved one."
-          , "text": "Invite family members and friends dear to the person you lost to share their memories together. InMemori is a safe place to post your photos and stories and remember what was so special about your loved one. Donate to meaningful charities in just 5 minutes."
+          , "text": "Invite family members and friends dear to the person you lost to share their memories together. inmemori is a safe place to post your photos and stories and remember what was so special about your loved one. Donate to meaningful charities in just 5 minutes."
         }
       , "how": {
             "title": "How it works"
-          , "text": "InMemori is a free service that helps you celebrate the memory of the person you lost, and gather family and friends. Creating a page is easy and takes only a few minutes."
+          , "text": "inmemori is a free service that helps you celebrate the memory of the person you lost, and gather family and friends. Creating a page is easy and takes only a few minutes."
           , "create": {
                 "title": "Create a page"
               , "text": "Tell us about the person who passed and add a picture of them. Include information about the ceremony. You can also create a fundraiser."
@@ -49,7 +49,7 @@
         }
       , "values": {
             "title": "Our values"
-          , "text": "We started inMemori to celebrate the memory of someone dear we lost. little story about why we do this. These are our values."
+          , "text": "We started inmemori to celebrate the memory of someone dear we lost. These are our values."
           , "collective": {
                 "title": "Collective"
               , "text": "People you invite to the page can share it with relatives. Gathering family and friends can bring comfort to everyone in this moment of loss."
@@ -76,12 +76,12 @@
             }
           , "three": {
                 "from": "Lonnie Brooks"
-              , "text": "Inmemori supported us in this ordeal and brought comfort through tributes and shared memories. The page in tribute to our mother is invaluable."
+              , "text": "inmemori supported us in this ordeal and brought comfort through tributes and shared memories. The page in tribute to our mother is invaluable."
             }
         }
       , "celebrate": {
-            "title": "Celebrate a life."
-          , "text": "InMemori is a free service that helps you celebrate the memory of the person you lost, and gather family and friends. We’re here to support you through this difficult moment."
+            "title": "Celebrate a life"
+          , "text": "inmemori is a free service that helps you celebrate the memory of the person you lost, and gather family and friends. We are here to support you through this difficult moment."
           , "cta-view": "View sample page"
           , "cta-create": "Create a page now"
         }
