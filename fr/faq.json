@@ -38,7 +38,7 @@
         },
         {
           "q": "Combien coûte le service inmemori ?",
-          "r": "Inmemori est un service gratuit pour permettre à tous d’y avoir accès.\nNotre ambition est que toutes les familles qui traversent un deuil puissent y trouver aide et réconfort."
+          "r": "inmemori est un service gratuit pour permettre à tous d’y avoir accès.\nNotre ambition est que toutes les familles qui traversent un deuil puissent y trouver aide et réconfort."
         }
       ]
     },
@@ -51,15 +51,15 @@
         },
         {
           "q": "Que faire si des messages ou des photos postés sur la page d’hommage ne sont pas appropriés ?",
-          "r": "Si vous êtes administrateur de la page, vous pouvez à tout moment supprimer un message ou une photo qui a été posté depuis votre espace de gestion."
+          "r": "Si vous êtes administrateur de la page, vous pouvez à tout moment supprimer un message ou une photo depuis votre espace de gestion."
         },
         {
           "q": "Puis-je supprimer la page d’hommage ?",
-          "r": "Si vous êtes administrateur de la page, il vous est possible de mettre en veille ou de supprimer la page au moment de votre choix.\nSachez que vous pouvez garder une trace de tous les hommages partagés par vos proches en imprimant le Recueil inmemori."
+          "r": "Si vous êtes administrateur de la page, il vous est possible de mettre en veille ou de supprimer la page au moment de votre choix.\nSachez que vous pouvez garder une trace de tous les hommages partagés par vos proches en imprimant le recueil inmemori."
         },
         {
           "q": "Que devient cette page d’hommage avec le temps ?",
-          "r": "Il existe trois possibilités :\n- Maintenir la page en ligne pour permettre à tous vos proches d’y retourner et de consulter les hommages,\n- Mettre en veille la page pour conserver les hommages mais bloquer son accès,\n- Supprimer la page.\nLe temps du deuil est personnel, c’est pour cela qu’inmemori a choisi de laisser ce choix aux administrateurs de la page."
+          "r": "Il existe trois possibilités :\n- maintenir la page en ligne pour permettre à tous vos proches d’y retourner et de consulter les hommages,\n- mettre en veille la page pour conserver les hommages mais bloquer son accès,\n- supprimer la page.\nLe temps du deuil est personnel, c’est pour cela qu’inmemori a choisi de laisser ce choix aux administrateurs de la page."
         }
       ]
     },
@@ -84,7 +84,7 @@
         },
         {
           "q": "Des frais sont-ils appliqués aux dons versés sur inmemori ?",
-          "r": "Dons effectués à des associations américaines\nLes dons effectués à des associations américaines sont soumis à des frais de x % :\n- x% servent à couvrir les frais bancaires liés à la sécurisation et au traitement des paiements,\n- x% servent à couvrir les coûts liés aux opérations et à l’assistance relative aux paiements.\n\nDons effectués à des associations européennes\nLes dons effectués à des associations établies dans les pays européens sont soumis à des frais de x % :\n- x% servent à couvrir les frais bancaires liés à la sécurisation et au traitement des paiements,\n- x% servent à couvrir les coûts liés aux opérations et à l’assistance relative aux paiements.\nDons à des collectes de fonds personnelles\nPour chaque don versé à une cause personnelle, inmemori déduit x% pour couvrir les frais bancaires de sécurisation et de traitement des paiements et les coûts liés aux opérations et à l’assistance relative aux paiements."
+          "r": "<u>Dons effectués à des associations américaines</u>\nLes dons effectués à des associations américaines sont soumis à des frais de x % :\n- x% servent à couvrir les frais bancaires liés à la sécurisation et au traitement des paiements,\n- x% servent à couvrir les coûts liés aux opérations et à l’assistance relative aux paiements.\n\nDons effectués à des associations européennes\nLes dons effectués à des associations établies dans les pays européens sont soumis à des frais de x % :\n- x% servent à couvrir les frais bancaires liés à la sécurisation et au traitement des paiements,\n- x% servent à couvrir les coûts liés aux opérations et à l’assistance relative aux paiements.\nDons à des collectes de fonds personnelles\nPour chaque don versé à une cause personnelle, inmemori déduit x% pour couvrir les frais bancaires de sécurisation et de traitement des paiements et les coûts liés aux opérations et à l’assistance relative aux paiements."
         },
         {
           "q": "Comment l’association choisie reçoit-elle les dons effectués sur inmemori ?",
