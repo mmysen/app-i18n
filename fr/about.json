@@ -30,7 +30,7 @@
 
   , "press": {
         "title": "Espace presse"
-      , "title2": "Dernières Parutions"
+      , "title2": "Dernières parutions"
       , "text": "L’équipe relations presse d’inmemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média :\nBrunswick, Hugues Boëton\n01.53.96.83.83 / 06.79.99.27.15\n<a href='mailto:inmemori@brunswickgroup.com'>inmemori@brunswickgroup.com</a>"
       , "items": [
             ["FORBES", "Septembre 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
@@ -39,7 +39,7 @@
     }
 
   , "contact": {
-        "title": "Besoin d’aide?"
+        "title": "Besoin d’aide ?"
       , "title2": "Nos bureaux"
       , "text": "Si vous avez la moindre question sur le service, il vous suffit de contacter Constance et notre équipe assistance via notre chat ou à l’adresse email suivante : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>. Nous vous répondrons en moins de 24 heures."
       , "items": [
