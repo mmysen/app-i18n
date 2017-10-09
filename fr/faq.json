@@ -14,7 +14,7 @@
         },
         {
           "q": "Comment créer une page d’hommage ?",
-          "r": "Il vous suffit de renseigner les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/cta-create'>ici</a>.\nLa création de la page ne vous prendra que 5 minutes.\n\nUne fois la page créée, vous aurez accès à votre espace de gestion, sur lequel vous pourrez :\n- Suivre l’activité de la page (nombre de vues, nombre d’hommages),\n- Organiser une collecte de dons, si vous le souhaitez,\n- Imprimer le recueil de tous les hommages partagés,\n- Remercier vos proches et les donateurs grâce à la liste de contacts."
+          "r": "Il vous suffit de renseigner les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/cta-create'>ici</a>.\nLa création de la page ne vous prendra que 5 minutes.\n\nUne fois la page créée, vous aurez accès à votre espace de gestion, sur lequel vous pourrez :\n- suivre l’activité de la page (nombre de vues, nombre d’hommages),\n- organiser une collecte de dons, si vous le souhaitez,\n- imprimer le recueil de tous les hommages partagés,\n- remercier vos proches et les donateurs grâce à la liste de contacts."
         },
         {
           "q": "Qui peut créer une page d’hommage ?",
