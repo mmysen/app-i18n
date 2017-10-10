@@ -25,26 +25,26 @@
   , "home": {
         "inform": {
             "title": "Informer vos proches."
-          , "text": "inmemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes. Inviter tous vos proches concernés est très facile: vous n'avez plus qu'à leur partager le lien sécurisé de la page."
+          , "text": "inmemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre rapidement les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes et la partager avec toutes les personnes concernées est très facile : il vous suffit pour cela de transmettre par email ou par sms le lien sécurisé de la page."
         }
       , "collect": {
             "title": "Inviter vos proches à se souvenir et à rendre hommage."
-          , "text": "Famille et amis pourront faire part de leurs condoléances mais aussi se souvenir de ce qui rendait votre proche si spécial. \n Vous pourrez organiser une collecte de dons afin de soutenir une association chère à votre proche. \n Votre entourage pourra rendre hommage en offrant des fleurs et rendre votre cérémonie plus belle encore."
+          , "text": "Famille et amis pourront facilement présenter leurs condoléances et aussi partager des souvenirs et des moments vécus avec votre proche. Cet hommage collectif apporte un grand réconfort. \n Vous pourrez aussi, si vous le souhaitez, organiser une collecte de dons en hommage à votre proche afin de soutenir une association ou une cause qui lui était chère."
         }
       , "how": {
             "title": "Comment ça marche"
           , "text": "inmemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu en rassemblant famille et amis. Créer une page est très facile et ne vous prendra que quelques minutes."
           , "create": {
                 "title": "Créer une page"
-              , "text": "Présenter votre proche disparu et ajouter une photo de ce dernier. \n Transmettre les informations sur les obsèques."
+              , "text": "Personnaliser la page et ajouter une photo de votre proche. \n Préciser les informations sur les obsèques."
             }
           , "share": {
                 "title": "La partager"
-              , "text": "Partager la page avec votre famille et vos amis. Voir certains souvenirs prendre vie grâce aux hommages de votre entourage."
+              , "text": "Partager la page avec votre famille et vos amis en transmettant simplement son lien sécurisé par email ou par sms. La page est privée et ne sera accessible que par ceux qui ont reçu le lien."
             }
           , "manage": {
                 "title": "La modifier"
-              , "text": "Suivre l'activité de la page (visites, messages, dons...) et modérer les messages postés par vos proches. \n Télécharger et imprimer le recueil d'hommages."
+              , "text": "Suivre l'activité de la page (visites, messages, dons...). \n Télécharger et imprimer le recueil des hommages."
             }
         }
       , "values": {
@@ -52,36 +52,36 @@
           , "text": "Nous avons créé inmemori afin de révéler l'essentiel de la vie. Voici nos valeurs."
           , "collective": {
                 "title": "Partage"
-              , "text": "Les personnes que vous invitez à voir cette page peuvent à leur tour la partager avec leurs proches. Rassembler famille et amis peut apporter du réconfort à chacun dans ces moments de deuil."
+              , "text": "Les personnes que vous invitez à voir cette page peuvent à leur tour la partager avec leurs proches. Rassembler famille et amis apporte du réconfort à chacun dans ces moments de deuil."
             }
           , "privacy": {
                 "title": "Intimité"
-              , "text": "Les pages sont privées. Seuls ceux qui reçoivent le lien y ont accès. Les messages et photos partagés n'apparaîtront pas dans les résultats de recherche internet."
+              , "text": "Les pages sont privées et n'apparaîtront jamais dans les résultats de recherche internet. Seuls ceux qui reçoivent le lien y ont accès."
             }
           , "elegance": {
                 "title": "Elégance"
-              , "text": "La page d'hommage est un livre d'or simple et élégant, destiné à révéler la beauté des messages et des photos partagés par votre famille et vos amis."
+              , "text": "La page d'hommage est un livre d'or sobre et élégant, destiné à révéler la beauté des messages et des photos partagés par votre entourage."
             }
         }
       , "testimonial": {
             "title": "Témoignages"
-          , "text": "Ce que les gens ont à dire d'inMemori."
+          , "text": "Ce que les gens ont à dire d'inmemori."
           , "one": {
-                "from": "Agathe Blion"
-              , "text": "Votre service est remarquable. \n Il contrecarre le stresse de l'organisation et nos proches ont pu facilement faire un don à l'association chère à notre père."
+                "from": "Michel Tailland"
+              , "text": "Grâce à inmemori, nous avons pu transmettre les informations sur les obsèques à toutes les personnes concernées en seulement une heure."
             }
           , "two": {
-                "from": "Michel Tailland"
-              , "text": "Grâce à inmemori, nous avons pu transmettre les informations sur les obsèques à toutes les personnes concernées en seulement une soirée."
-            }
-          , "three": {
                 "from": "Philippe Careau"
               , "text": "inmemori nous a accompagné durant cette épreuve et nous a apporté du réconfort grâce aux messages de condoléances et aux souvenirs partagés. \n La page en hommage à notre mère est inestimable."
+            }
+          , "three": {
+                "from": "Agathe Blion"
+              , "text": "Votre service est remarquable. \n Il diminue considérablement le stress lié à l'organisation. Nos proches ont pu facilement faire un don à l'association chère à notre papa."
             }
         }
       , "celebrate": {
             "title": "Célébrer une vie"
-          , "text": "inmemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu et à rassembler votre famille et vos amis. \n Nous sommes ici pour vous accompagner durant ce moment difficile."
+          , "text": "inmemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu et à rassembler votre famille et vos amis. \n Nous sommes là pour vous accompagner durant ce moment difficile."
           , "cta-view": "Voir un exemple"
           , "cta-create": "Créer une page"
         }
