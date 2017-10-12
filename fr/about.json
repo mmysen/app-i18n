@@ -41,7 +41,7 @@
   , "contact": {
         "title": "Besoin d’aide ?"
       , "title2": "Nos bureaux"
-      , "text": "Si vous avez la moindre question sur le service, il vous suffit de contacter Constance et notre équipe assistance via notre chat ou à l’adresse email suivante : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>. Nous vous répondrons en moins de 24 heures."
+      , "text": "Si vous avez la moindre question sur le service, il vous suffit de contacter Constance et notre équipe assistance à l’adresse email suivante : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>. Nous vous répondrons en moins de 24 heures."
       , "items": [
             ["Paris", "5 rue des Colonnes\n75002 Paris \nFrance", {"lat":48.8693696,"lng":2.3393760000000157}]
           , ["New York", "72 Allen St.\nNew York, NY 10002\nUnited States", {"lat":40.7175099,"lng":-73.9909217}]
