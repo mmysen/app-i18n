@@ -12,7 +12,7 @@
 
   , "signup": {
         "title-v0": "Gather. Celebrate. Remember."
-      , "text-v0": "You just lost a loved one. Create a safe space to gather family and friends, and celebrate their memory."
+      , "text-v0": "You just lost a loved one. Here's a safe space to gather family and friends, and celebrate their memory."
       , "title-v1": "Create a page now"
       , "text-v1": "Start by telling us about the person you lost:"
       , "input-firstname-placeholder": "First name"
@@ -29,33 +29,33 @@
         }
       , "collect": {
             "title": "Collect tributes and memories to celebrate your loved one."
-          , "text": "Invite family members and friends dear to the person you lost to share their memories together. inmemori is a safe place to post your photos and stories and remember what was so special about your loved one. Donate to meaningful charities in just 5 minutes."
+          , "text": "Invite family members and friends to share their memories together. inmemori is a safe place to post your photos and stories and remember what was so special about your loved one. You can also send the family flowers and donate to charity organizations of their choice to show your support, in just 5 minutes."
         }
       , "how": {
             "title": "How it works"
-          , "text": "inmemori is a free service that helps you celebrate the memory of the person you lost, and gather family and friends. Creating a page is easy and takes only a few minutes."
+          , "text": "inmemori is a free service that helps you celebrate the memory of the person you lost.In a few easy steps, gather family and friends, celebrate your loved one's life and remember together."
           , "create": {
                 "title": "Create a page"
-              , "text": "Tell us about the person who passed and add a picture of them. Include information about the ceremony. You can also create a fundraiser."
+              , "text": "Tell us about the person who passed away. Add a picture of them. Include information about the ceremony. If you'd like to invite friends and family to donate, activate the fundraiser feature."
             }
           , "share": {
                 "title": "Share it"
-              , "text": "Publish the page and send it to friends and family. Watch memories come to life as they pay their tribute. View a sample page."
+              , "text": "In one click, publish the page and send it to friends and family. Watch memories come to life as they send in photos, write in beautful memories, send their condolences. View a sample page."
             }
           , "manage": {
                 "title": "Manage it"
-              , "text": "Follow the activity of the page (views, donations…) and manage people’s messages. You can download and print the memory book."
+              , "text": "Follow the activity of the page (views, donations…) and manage what people post. Afterwards, you can download, print and share the memory book, to keep a trace of the outpouring of love."
             }
         }
       , "values": {
             "title": "Our values"
-          , "text": "We started inmemori to celebrate the memory of someone dear we lost. These are our values."
+          , "text": "We started inmemori to celebrate the memory of someone dear we lost. We believe healing, in the face of loss, should be collective, intimate and elegant. We want to create a space to celebrate and remember life."
           , "collective": {
                 "title": "Collective"
-              , "text": "People you invite to the page can share it with relatives. Gathering family and friends can bring comfort to everyone in this moment of loss."
+              , "text": "Pages are meant to be shared, friends and family sending it out to one another. Gathering family and friends in one space has the potential to bring comfort to everyone in this moment of loss."
             }
           , "privacy": {
-                "title": "Privacy"
+                "title": "Intimacy"
               , "text": "Pages are private. Only those who received the link have access to it. Images and photographs you share will not appear in search results."
             }
           , "elegance": {
@@ -68,11 +68,11 @@
           , "text": "This is what people have to say about inMemori."
           , "one": {
                 "from": "Barbara Pham"
-              , "text": "Your service is remarkably well done. It eliminated the stress of organization and our loved ones have been able to easily make donations to an association dear to our dad."
+              , "text": "Your service is remarkably well done. It eliminated additional stress from our lives and our close ones were able to easily make donations to a charity dear to our dad."
             }
           , "two": {
-                "from": "Lonnie Brooks"
-              , "text": "Thanks to inmemori, we communicated the funeral service information to everyone concerned in one evening."
+                "from": "John Burg"
+              , "text": "Thanks to inmemori, we sent information about the funeral service to everyone concerned in one evening."
             }
           , "three": {
                 "from": "Lonnie Brooks"
@@ -81,7 +81,7 @@
         }
       , "celebrate": {
             "title": "Celebrate a life"
-          , "text": "inmemori is a free service that helps you celebrate the memory of the person you lost, and gather family and friends. We are here to support you through this difficult moment."
+          , "text": "inmemori is a free service that helps you celebrate the memory of the person you lost, and gather family and friends. We're here for you."
           , "cta-view": "View sample page"
           , "cta-create": "Create a page now"
         }
