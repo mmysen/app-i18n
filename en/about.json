@@ -19,12 +19,12 @@
     }
 
   , "values": {
-        "title": "Nos valeurs"
-      , "text": "La mission d’inmemori est de révéler l'essentiel de la vie. "
+        "title": "Our values"
+      , "text": "Our purpose is to reveal the essentials of life. To create a collective consciousness through memory. "
       , "items": [
-            ["Sensibilité", "inmemori place la délicatesse et la compréhension des familles et des proches au coeur de son action."]
-          , ["Intimité", "inmemori offre un espace privé qui protège les mots,  les hommages et les souvenirs de chacun."]
-          , ["Universalité", "inmemori s’adresse à tous les âges, cultures et croyances."]
+            ["Sensitivity", "We are inherently conscious of the complexity of this period for families and the need for utmost delicacy. You are at the heart of inmemori's mission."]
+          , ["Intimacy", "inmemori provides a safe space for people to share in, protecting words, photos and memories from uninvited eyes."]
+          , ["Universality", "inmemori is for all ages, cultures and creeds. Loss and love touch us all, so should inmemori."]
         ]
     }
 
@@ -39,9 +39,9 @@
     }
 
   , "contact": {
-        "title": "Besoin d’aide?"
-      , "title2": "Nos bureaux"
-      , "text": "Si vous avez la moindre question sur le service, il vous suffit de contacter Constance et notre équipe assistance via notre chat ou à l’adresse email suivante : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>. Nous vous répondrons en moins de 24 heures."
+        "title": "Any questions ?"
+      , "title2": "Our offices"
+      , "text": "If you have any questions or need any help using our service, please don't hesitate to contact Constance or our support team, using the chat feature or emailing us at <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>. We will respond in less than 24 hours."
       , "items": [
             ["Paris", "5 rue des Colonnes\n75002 Paris \nFrance", {"lat":48.8693696,"lng":2.3393760000000157}]
           , ["New York", "72 Allen St.\nNew York, NY 10002\nUnited States", {"lat":40.7175099,"lng":-73.9909217}]
@@ -55,7 +55,7 @@
         },
         { 
             "name": "Eva Kerner"
-          , "role": "Directrice du Business Développement"
+          , "role": "VP, Business Development"
           , "pic": "team.eva"
           , "country": "Etats-Unis"
         }
@@ -64,7 +64,7 @@
 
   , "team": {
 
-        "title": "Qui sommes nous ?"
+        "title": "Who are we ?"
       , "text": "Une équipe qui réunit belles énergies, force d'âme et enthousiasme au service d’inmemori."
 
       , "items": [
