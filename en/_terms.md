@@ -1,211 +1,252 @@
 <br/>  
-## Conditions générales d'utilisation  
+## General Terms of Use  
 <br/>  
 
   
-Les présentes Conditions Générales d’Utilisation (ci-après, les « CGU »), soumises au droit français, ont vocation à régir l’utilisation par toute personne (ci-après, l’ « Utilisateur ») du site internet accessible à l’adresse web www.inmemori.com (ci-après, le « Site ») édité par Rest In Peace (ci-après, l’ « Editeur »).
+These General Terms of Use (the "T&Cs") are designed to regulate the use by any person (the "User")of the www.inmemori.com web site (the “Site”) published by Rest In Peace (the “Publisher”).
 
-Tout accès ou toute utilisation du Site emporte acceptation expresse et sans réserve des présentes CGU par l’Utilisateur. Tout Utilisateur garantit l’Editeur qu’il dispose de l’ensemble des droits, autorisations et pouvoirs nécessaires pour accepter les CGU au nom de la société, association ou toute autre entité (ci-après, l’ « Entité ») au nom de laquelle il/elle accède ou utilise le Site, l’accès ou l’utilisation du Site par l’Utilisateur emportant acceptation expresse et sans réserve des CGU par l’Entité.
+Any access to or use of the Site implies acceptance without reservations of these T&Cs by Users. Users guarantee the Publisher that they have all the rights, authorisations and permissions needed to accept the T&Cs on behalf of them or the company, association or other entity (the “Entity”) in whose name or on whose behalf they access or use the Site.
 
-L’Editeur se réserve le droit de pouvoir modifier les présentes CGU à tout moment. Les conditions applicables sont celles en vigueur et accessibles sur le Site à la date d’accès par l’Utilisateur.
+User’s access or use of the Site implies acceptance without reservations of the T&Cs.
+
+The Publisher shall be entitled to modify these T&Cs at any time. The applicable terms and conditions shall be those that are in force and are accessible on the Site on the date on which the User accesses the Site.
 
 <br/>  
-### 1) Présentation du Site  
+### 1) Presentation of the Site  
 
-Le site www.inmemori.com s’adresse aux personnes qui viennent de perdre un proche et met à leur disposition un espace numérique, privé et personnalisé pour :
+The www.inmemori.com Site is intended for people who have just lost a relative, and provides them with a private and personal digital space that can be used:
 
-* Transmettre rapidement les informations sur les obsèques à toutes les personnes concernées
-* Recevoir les condoléances et les souvenirs de leur entourage
-* Organiser une collecte de dons en sa mémoire  
+* to promptly transmit information about the funeral arrangements to all persons concerned,
+* to receive the condolences and testimonials of their entourage,
+* to organise a collection of donations in their memory.  
 
-Comment ça marche ?
+How does it work ?
 
-* L’administrateur (un « Administrateur »), se rend sur inmemori.com et crée un espace privé, appelé page en hommage (une « page en hommage »), en renseignant dans l'interface d'administration toutes les informations qu’il est nécessaire ou qu'il juge utile de partager : prénom et nom de la personne décédée, date du décès, message d'introduction personnalisé, informations pratiques sur les obsèques (date, heure et lieu de chaque étape). Il pourra également organiser une collecte de dons en la mémoire de la personne défunte, en faveur de la famille ou d'une association.
-* Une fois la page en en hommage complétée, l’Administrateur récupère un lien privé de partage qu’il peut alors envoyer à toutes les personnes concernées par SMS ou par email.
-* Chaque personne ayant reçu le lien de partage peut, en cliquant simplement dessus, consulter la page en hommage. Elle y trouve alors toutes les informations pratiques sur les obsèques qui auront été renseignées, elle peut également laisser un message de condoléances, partager un souvenir et/ou une photo et participer à une collecte de dons.  
+* The administrator (the “Administrator”) accesses inmemori.com and creates a private space, known as a tribute page (the “Tribute Page”), by filling into the administration interface all the necessary information or all information considered to be useful to share: the first name and family name of the deceased, the date on which they passed away, a personalised introductory message, useful information about the funeral (date, time and place of each stage). The Administrator may also organise a collection of funds in memory of the deceased, with the proceeds being earmarked to the family or a charity.
+* Once the Tribute Page has been filled in, the Administrator will receive a private sharing link which may then be sent to all the persons concerned via SMS or e-mail.
+* Each person who receives the sharing link may view the Tribute Page by clicking on the link. They will then be able to access all the useful information on the funeral arrangements that shall have been entered, and they may also leave a condolence message, share a memory and/or a photograph, and/or take part in the collection.
 
-inmemori.com a donc été conçu pour permettre :
+The Site was designed :
 
-* Aux familles de transmettre très rapidement les informations pratiques sur les obsèques à l’ensemble des personnes concernées.
-* Aux proches de la famille de retrouver en un clic ces informations, et de pouvoir rendre hommage sereinemement et simplement.  
+* to enable families to quickly transmit all useful information about funeral arrangements to all the persons concerned;
+* to easily enable the relatives of a family to find and access this information, and to make it straight-forward and simple for them to pay tribute to the departed.  
 
-La manière dont le service a été pensé, associée à la rapidité des usages numériques, en font un service pratique et très utile.
+The way in which the Site has been designed, combined with the speed of digital communications, make it a very practical and useful service.
 
-### 2) Création et activation d’une page en hommage  
+### 2) Creation and activation of a Tribute Page  
 
-Les pages en hommage sont créées par les Administrateurs depuis www.inmemori.com ou sont complétés par les Administrateurs qui ont souscrit au service de création d’une page en hommage auprès d’un partenaire. A toutes fins utiles, il est précisé que pour le besoin des présentes CGU, l’Administrateur est un Utilisateur.
+Administrators create Tribute Pages by accessing the Site or through an affiliated partner of the Publisher. For the purposes of these T&Cs, any Administrator is deemed to be an User of the Site.
 
-Tout Administrateur qui souhaite créer une page doit renseigner le formulaire présent sur la page d’accueil du Site. Il est alors dirigé vers l'interface d'administration de la page en hommage et suit les différentes étapes de création de la page.
+Any Administrator wishing to create a Tribute Page must fill in the form featuring on the home page of the Site. Administrators will then be redirected to the administration interface of the Tribute Page and go through the various stages of creating the Tribute Page.
 
-Une fois la page en hommage complétée par l’Administrateur, ce dernier est invité à la partager par sms et/ou par email.
+Once an Administrator has completed a Tribute Page, they will be asked to share it via SMS and/or e-mail.
 
-Dès que la page en hommage est créée, l’Administrateur reçoit un courrier électronique à l’adresse e-mail qu’il a indiquée contenant le lien vers l'interface d’administration ; il peut ainsi administrer la page en hommage qu’il a créée à tout moment (cf. paragraphe 3 des présentes).
+As soon as the Tribute Page has been created, the Administrator will receive an e-mail containing the link to the administration interface; they may thus administer the Tribute Page that they shall have created (see section 3 of these T&Cs).
 
-Dès que la page en hommage est complétée, l’Administrateur reçoit un courrier électronique à l’adresse e-mail qu’il a indiquée contenant le lien de partage à transmettre à toutes les personnes concernées.
+As soon as the Tribute Page has been completed, the Administrator will also receive an e-mail containing the sharing link to be transmitted to all the persons potentially concerned by the Tribute Page.
 
-### 3) Fonctionnalités de la page en hommage 
+### 3) Functionalities of the Tribute Page 
 
-L’Administrateur dispose sur l'interface d’administration accessible depuis le lien d’administration notamment les fonctionnalités suivantes :
+The Administrator has access to the following functionality via the administration interface accessible from the administration link:
 
-* Récupérer le lien de partage actif de la page en hommage afin de le transmettre facilement aux personnes concernées ;
-* Savoir combien de personnes ont consulté la page ;
-* Consulter et supprimer si nécessaire les messages laissés sur la page en hommage ;
-* Savoir combien de personnes ont laissé un message ;
-* Télécharger le recueil de tous les messages, souvenirs et/ou photos laissés sur la page en hommage ;
-* Organiser une collecte de dons ;
-* Savoir combien de personnes ont fait un don ;
-* Récupérer les contacts des personnes qui ont déposé un message, un souvenir, une photographie et/ou fait un don sur la page en hommage ;
-* Récupérer la liste des donateurs et des montants correspondants ;
-* Clôturer la collecte de dons ;
-* Modifier la page en hommage à tout moment ;
-* Ajouter toute personne en tant qu’Administrateur de la page ; chaque Administrateur ayant alors accès à l'interface d'administration et aux fonctions réservées aux Administrateurs ;
-* Clore la page en hommage à tout moment.  
+* Retrieve the active sharing link of the Tribute Page in order to transmit it easily to the persons involved;
+* View a hit counter showing the number of people who access the Tribute Page;
+* View and delete any messages posted on the Tribute Page;
+* View the message counter;
+* View an outline summary of all the messages, memories and/or photographs uploaded or posted to the Tribute Page;
+* Organise a collection;
+* Find out how many people have made a donation;
+* Retrieve the contact details of people who have left a message, a memory, a photograph and/or made a donation on the Tribute Page;
+* Retrieve the list of the donors and the corresponding sums pledged;
+* Bring the collection to a close;
+* Modify the Tribute Page at any time;
+* Add any person as an Administrator of the Tribute Page; each Administrator will then have access to the administration interface and the Administrators functionalities;
+* Close the Tribute Page at any time.  
 
-### 4) Accès  
+### 4) Access  
 
-Les Utilisateurs qui reçoivent un lien de partage pourront accéder à la page en hommage correspondate en cliquant simplement sur le lien.  
+Users who receive a sharing link can access the corresponding Tribute Page by simply clicking on the link.  
 
-L’Utilisateur peut recevoir le lien de partage de la page en hommage de la part d'un Administrateur et/ou de la part d'un autre Utilisateur ayant préalablement reçu ce lien.  
+Users may receive the sharing link to the Tribute Page from an Administrator and/or from another User who received this link beforehand.  
 
-### 5) Obligations de l’Administrateur  
+### 5) The Administrator's obligations  
 
-La violation des dispositions des CGU par l’Administrateur peut entraîner la suspension de l'accès au Site et la suppression de la page en hommage sans préjudice de tous dommages et intérêts que pourrait solliciter l’Editeur. En conséquence, l’Editeur se réserve la possibilité de refuser toute activation qui contrevient ou a contrevenu aux dispositions des CGU.
+Any violation of these T&Cs by the Administrator may lead to the suspension of his access to the Site and the erasure of the Tribute Page, notwithstanding any compensation that the Publisher may also be entitled to claim.
 
-L’Administrateur est responsable de toutes les données qu’il saisit directement sur le Site et sur une page en hommage (cf. paragraphe 8 des présentes).
+The Publisher shall therefore be entitled to refuse any activation of a Tribute Page that violates or has violated the provisions of the present T&Cs.
+
+Administrators shall be responsible for all the data that they fill directly into the Site and into a Tribute Page (see section 8 of these T&Cs).
 
 ### 6) Contribution  
 
-L’Utilisateur qui consulte une page en hommage pourra y contribuer de la manière suivante :
+Users who view a Tribute Page may contribute to it as follows:
 
-* en laissant un message : l’Utilisateur renseigne son nom, son prénom, son adresse électronique et inscrit le message qu’il souhaite déposer sur la page en hommage, en y joignant éventuellement une photographie.
-* en partageant un souvenir : l’Utilisateur renseigne son nom, son prénom, son adresse électronique et inscrit le souvenir qu’il souhaite déposer sur la page en hommage, en y joignant éventuellement une photographie.
-* en partageant une photographie : l’Utilisateur renseigne son nom, son prénom, son adresse électronique et joint la photographie qu'il souhaite déposer sur la page en hommage.
-* en participant à une collecte de dons : l’Utilisateur renseigne son nom, son prénom, son adresse électronique, sa nationalité, son pays de résidence, sa date de naissance et le montant du don qu'il souhaite faire.  
+* By leaving a message: to do so, Users must input their family name, first name and e-mail address, and type the message that they want to leave on the Tribute Page, enclosing a photograph if they wish.
+* By sharing a memory: to do so, Users must input their family name, first name and e-mail address, and record the memory that they wish to leave on the Tribute Page, enclosing a photograph if they wish.
+* By sharing a photograph: to do so, Users must input their family name, first name and e-mail address, and upload the photograph that they wish to feature on the Tribute Page.
+* By taking part in a collection: to do so, Users must input their family name, first name, e-mail address and nationality, their country of residence, their date of birth and the sum that they wish to pledge.  
 
-L’Utilisateur est informé que l’Administrateur dispose de la possibilité (i) de récupérer les adresses électroniques des Utilisateurs qui ont déposé un message, un souvenir, une photographie et/ou qui ont fait un don sur la page en hommage, de la possibilité (ii) de télécharger le contenu des messages, des souvenirs et des photographies déposés par les Utilisateurs sur la page en hommage, et de la possibilité (iii) de supprimer un message, un souvenir et/ou une photographie déposés par les Utilisateurs sans qu'ils ne soient prévenus.
+Users are hereby informed that the Administrator can (i) retrieve the e-mail addresses of the Users who have left a message, a memory, a photograph and/or who have made a donation on the Tribute Page, (ii) download the content of the messages, memories and photographs input or uploaded by the Users on the Tribute Page, (iii) remove a message, a memory and/or a photograph input or uploaded by the Users, without the Users being notified.
 
-### 7) Propriété intellectuelle  
+### 7) Intellectual property  
 
-#### 7.1) Propriété intellectuelle des Utilisateurs  
+#### 7.1) The Users' intellectual property  
 
 
-**a) Diffusion des contenus**  
+**a) Publication of the content**  
 
-Le contenu et les informations que les Utilisateurs publient sur une page en hommage leur appartiennent. L’Utilisateur accorde à l’Editeur une licence de propriété intellectuelle non exclusive, transférable, sous-licenciable, sans redevance et mondiale pour l’utilisation des contenus qu’ils publient sur le Site. L’Utilisateur autorise notamment l’Editeur à reproduire/représenter le contenu et, en tant que de besoin, en adapter le format afin que l’Administrateur puisse télécharger, et le cas échéant imprimer, l’ensemble des messages, des souvenirs et/ou des photographies laissés sur une page en hommage. Cette licence de propriété intellectuelle se termine lorsque le contenu d'un utilisateur est retiré du Site ou lorsque l'Administrateur supprime la page en hommage, sauf si les contenus ont été partagés avec d’autres personnes sur un autre support que le Site (notamment impression par un Administrateur de l’ensemble des messages, des souvenirs et/ou des photographies déposés sur une page en hommage – Cf. ci-avant).
+The content and the information that Users publish on a Tribute Page belong to them. Users grant the Publisher a free, worldwide, non-exclusive and transferable intellectual property license that may be sublicensed, over the content that they publish on the Site for the full period of all such rights (together with any extensions and renewals). Users authorise the Publisher to reproduce and show the content, and to adapt its format in order for the Administrator to be able to download, and where applicable print out, all of the messages, memories and/or photographs uploaded or posted on a Tribute Page.
 
-L’Utilisateur peut envoyer un email à l’adresse contact@inmemori.com pour retirer un contenu. L’Administrateur peut supprimer tout contenu déposé par quelconque Utilisateur.
+Users can send an e-mail to contact@inmemori.com to withdraw any content. Administrators may delete any content uploaded or posted by a User on the pages that they administer.
 
-L’Administrateur peut à tout moment, en utilisant la fonction dédiée, modifier et/ou supprimer tout contenu ou toute information qu’il a publiés sur une page en hommage.
+Using a dedicated function, Administrators may, at any point in time, modify and/or delete any content or any information that they publish on a Tribute Page.
 
-**b) Sécurité des contenus**  
+**b) Security of the content**  
 
-L’Utilisateur est par ailleurs informé que, compte tenu des caractéristiques intrinsèques de l'internet, les contenus et informations transmis ne sont pas protégés contre les risques de détournement et/ou de piratage, ce dont l’Editeur ne saurait être tenu responsable.
+Users are hereby notified that, in view of the intrinsic characteristics of the Internet, content and information that is transmitted over the web is not protected against the risks of misappropriation and/or piracy, for which the Publisher will not accept any liability.
 
-Pour assurer la sécurité du Site, l’Utilisateur prend les engagements suivants :
+To ensure the security of the Site, the Users hereby undertake:
 
-* Ne pas publier de communications commerciales sans autorisation sur le Site.
-* Ne pas accéder au Site à l’aide de méthodes automatisées.
-* Ne pas effectuer de marketing multiniveau illégal.
-* Ne pas télécharger de virus ou autre codes malveillants.
-* Ne pas intimider et ne pas harceler d’autres personnes.
-* Ne pas publier de contenu incitant à la haine ou à la violence, pornographique, ou contenant de la nudité ou de la violence gratuite.
-*  Ne pas développer ni exploiter une application tierce dont le contenu est lié aux boissons alcoolisées, à des sites de rencontres pour adultes ou à d’autres produits et services pour adultes (y compris les publicités) sans restriction d’accès liée à l’âge.
-* Ne pas utiliser le Site à des fins illégales, malveillantes ou discriminatoires.
-* Ne pas permettre ni encourager les infractions aux présents engagements.
-* Ne pas créer, s’il est Administrateur, une fausse page en hommage, à savoir l’annonce de la mort d’une personne qui n’est pas décédée.  
+* not to publish commercial messages on the Site without permission;
+* not to access the Site using automated methods;
+* not to engage in illicit marketing practices;
+* not to download or upload viruses or other malicious code;
+* not to intimidate or to harass other people;
+* not to publish any content that incites hatred or violence, or content of a pornographic nature or containing nudity or gratuitous violence;
+* not to develop or operate third party applications whose content is linked to alcoholic drinks, dating sites for adults or other products and services for adults (including advertisements) without age-based access restriction;
+* not to use the Site for illegal, malicious or discriminatory purposes;
+* not to enable or encourage violations of these undertakings;
+* not to create, if they are Administrators, a false Tribute Page, such as an announcement of the passing of a person who is not deceased.  
 
-#### 7.2) Propriété intellectuelle des autres Utilisateurs  
+#### 7.2) Intellectual property rights of the Users  
 
-D'autres Utilisateurs du Site (ci-après, les « Autres Utilisateurs ») peuvent mettre en ligne des contenus et informations conformément aux présentes CGU. L’Utilisateur s’engage à ne pas consulter les contenus des Autres Utilisateurs pour toute raison autre qu'une utilisation personnelle non commerciale, telle que prévue et autorisée par les fonctionnalités normales du Site.
+Other Users of the Site (the “Other Users”) may publish content and information online in compliance with these T&Cs. Users undertake not to view the content of other Users for any purpose other than personal, non-commercial use, as provided for and enabled by the normal functionality of the Site.
 
-Par ailleurs, au regard de la possibilité d’export des contenus, l’Utilisateur s’engage à ne pas exporter les contenus des Autres Utilisateurs sur des sites constituant ou comprenant des éléments constituant (i) une violation des droits de propriété intellectuelle de tiers, (ii) une atteinte aux personnes (notamment diffamation, insultes, injures, etc.) et au respect de la vie privée, (iii) une incitation à la violence ou à la haine contre tout individu ou groupe, (iv) une incitation à la cruauté envers les animaux, (v) un contenu sexuellement explicite ou fortement suggestif, (vi) une incitation à la consommation de drogues ou à toute activité illicite, de manière générale, (vii) une atteinte à l'ordre public et aux bonnes mœurs et, plus généralement, une atteinte à la réglementation applicable en vigueur.
+Moreover, in light of the possibility to export content, Users undertake not to export the content of other Users to sites that constitute or comprise elements constituting (i) an infringement of the intellectual property rights of third parties, (ii) an affront to personal dignity (e.g. defamation, insults, curses, etc.), or a violation of the right to privacy, (iii) an incitement to violence or hatred against any individual or group, (iv) an incitement to cruelty against animals, (v) sexually explicit or strongly suggestive content, (vi) an incitement to consume drugs or engage in any unlawful activity, (vii) a threat to public order and public morals, and in general, any violation of the prevailing and applicable regulations.
 
-#### 7.3) Propriété intellectuelle de l’Editeur  
+For any notification of material reproduced, posted or distributed via the Site in a manner that constitutes copyright infringement, the designated copyright agent of the Publisher shall be contacted by sending written notice or by e-mail to contact@inmemori.com. Any infringement notice shall include the following information: (1) a detailed description of the copyrighted work that is allegedly infringed upon; (2) a description of the location of the allegedly infringing material on the Site; (3) contact information, including address, telephone number, and, if available, e-mail address; (4) a statement indicating in a good-faith belief that the allegedly infringing use is not authorized by the copyright owner, its agent, or the law; (5) a statement, made under penalty of perjury, affirming that the information in the notice is accurate and that the person notifying is authorized to act on the copyright owner's behalf; and (6) an electronic or physical signature of the copyright owner or someone authorized on the owner's behalf to assert infringement of copyright and to submit the statement. Please note that the contact information provided in this paragraph is for suspected copyright infringement only.
 
-Le Site est la propriété exclusive de l’Editeur. D'une manière générale, l’Editeur accorde aux Utilisateurs un droit gratuit, personnel, non-exclusif et non-transférable d'accès et d'utilisation du Site sous réserve de l’acceptation et du respect des CGU. Tout autre droit étant expressément exclu sans l’accord préalable écrit de l’Editeur. Le contenu, autre que les contenus et informations insérés par les Utilisateurs, inclus ou accessible sur et/ou à travers le Site, notamment tout texte, graphisme, logo, nom, marque, désignation, onglet, fonctionnalité, image, son, donnée, photographie, et tout autre matériel ou logiciel (ci-après, le « Contenu Inmemori ») est la propriété exclusive de l’Editeur ou de ses licenciés, est protégé par le droit de la propriété intellectuelle et est soumis aux lois et réglementations applicables en la matière. Le Contenu Inmemori ne doit en aucun cas être téléchargé, copié, altéré, modifié, supprimé, distribué, transmis, diffusé, vendu, loué, concédé ou exploité (en tout ou en partie) de quelque manière que ce soit, sans l'accord expresse et écrit de l’Editeur ou de ses licenciés. Les Utilisateurs acceptent de ne pas utiliser ou exploiter le Contenu Inmemori à des fins autres que ceux visés au sein des présentes CGU. En outre, les Utilisateurs ne sont pas autorisés à modifier, améliorer, éditer, traduire, décompiler, désassembler ou créer une ou plusieurs oeuvre(s) dérivée(s) à partir du Contenu Inmemori (en tout ou en partie), sauf si cette possibilité leur a été expressément octroyée par l’Editeur ou par les propriétaires de ce(s) contenu(s), dans le cadre d'un accord distinct.
+#### 7.3) The Publisher's intellectual property  
 
-### 8) Responsabilité  
+The Site is the exclusive property of the Publisher. In general, the Publisher grants the Users a free, personal, non-exclusive and non-transferable right to access and use the Site subject to their acceptance of and compliance with the T&Cs, any other right being expressly excluded in the absence of the written consent of the Publisher.
 
-#### 8.1) Responsabilité de l’Editeur  
+The content of the Site, other than the content and information uploaded or posted by the Users, that is included or accessible on and/or through the Site, such as any text, graphics, logo, name, trademark, designation, tab, functionality, image, sound, data, photograph, and any other hardware or software (the “Publisher Content”) is the exclusive property of the Publisher or of its licensees, and is protected by intellectual property law, being subject to all the applicable laws and regulations in this respect.
 
-L’Editeur met à la disposition des Utilisateurs sur le Site un certain nombre de contenus et informations créés, publiés par d’autres Utilisateurs ou par des Administrateurs. Les Utilisateurs, en qualité d’auteurs, sont seuls responsables des contenus et informations qu’ils publient sur le Site. En conséquence, la responsabilité de l’Editeur ne saurait être engagée dans le cas où les contenus ou informations publiés par les Autres Utilisateurs contreviendraient aux dispositions légales et/ou règlementaires en vigueur ou aurait causé quelconque dommage à un Utilisateur ou à toute personne.
+The Publisher Content must not under any circumstance be downloaded, copied, altered, modified, deleted, distributed, forwarded, broadcast, sold, rented, conceded or exploited, wholly or partly, in any way whatsoever, without the express written consent of the Publisher or of its licensees. The Users agree not to use or exploit the Publisher Content for any purposes other than those mentioned in these T&Cs. Moreover, the Users shall be barred from modifying, improving, printing, translating, decompiling, disassembling or creating one or more derivative work(s) based wholly or partly on the Publisher Content, unless this possibility is expressly granted to them by the Publisher or by the owners of this content under a separate agreement.
 
-LES CONTENUS ET INFORMATIONS SONT FOURNIS PAR LES UTILISATEURS ET/OU LES ADMINSTRATEURS ET DIFFUSES PAR L’EDITEUR A TITRE INFORMATIF. L’EDITEUR NE CERTIFIE AUCUNEMENT LA FIABILITE DES INFORMATIONS COMMUNIQUEES PAR LES UTLISATEURS ET/OU LES ADMINISTRATEURS ET NOTAMMENT DES TEXTES, NOMS OU PHOTOGRAPHIES QU’ILS INSERENT SUR LE SITE. L’EDITEUR RECOMMANDE VIVEMENT AUX UTILISATEURS ET AUX ADMINISTRATEURS DE VERIFIER LES INFORMATIONS QU’ILS DEPOSENT EN AYANT PARTICULIEREMENT A L’ESPRIT LE CONTEXTE FORTEMENT CHARGE EN EMOTIONS DANS LEQUEL CES INFORMATIONS SONT PARTAGEES. L’EDITEUR ALERTE NOTAMMENT LES UTILISATEURS ET LES ADMINISTRATEURS CONTRE LES CONSEQUENCES D’UNE FAUSSE PAGE EN HOMMAGE, A SAVOIR L’ANNONCE DE LA MORT D’UNE PERSONNE QUI N’EST PAS DECEDEE, DESQUELS IL NE SAURAIT ETRE TENU POUR RESPONSABLE.
+### 8) Liability  
 
-L’Utilisateur peut signaler tout abus (notamment, contenu qui enfreigne les droits de propriété intellectuelle d’autrui, contenu incitant à la haine ou à la violence, pornographique, ou contenant de la nudité ou de la violence gratuite) qu’il constate sur le Site en cliquant sur le lien « Signaler un abus ». Il est alors invité à envoyer un message électronique à l’adresse abus@inmemori.com. Il peut également directement envoyer un message électronique à cette adresse.
+#### 8.1) The Publisher's liability  
 
-#### 8.2) Responsabilité de l’Utilisateur  
+The Publisher provides to the Users on the Site a certain amount of content and information created and published by other Users or by Administrators. The Users, as authors, shall alone be responsible for the content and information that they publish on the Site. Therefore, the Publisher hereby disclaims liability should the content or information published by Other Users violate any prevailing laws and regulations or cause any harm to a User or to any person.
 
-En fournissant un contenu ou une information sur le Site (qu'il s'agisse de textes, de photographies, de commentaires, de noms), l’Utilisateur est tenu au respect des dispositions légales et réglementaires en vigueur. Il appartient en conséquence à l’Utilisateur de s’assurer que le stockage et la diffusion de ce contenu ou de cette information via le Site ne constitue pas (i) une violation des droits de propriété intellectuelle de tiers, (ii) une atteinte aux personnes (notamment diffamation, insultes, injures, etc.) et au respect de la vie privée, (iii) une atteinte à l'ordre public et aux bonnes mœurs (notamment, apologie des crimes contre l'humanité, incitation à la haine raciale, pornographie enfantine, etc.). En mettant en ligne et en mettant à la disposition du public un contenu ou une information sur et/ou à travers le Site, l’Utilisateur garantit détenir tous les droits et autorisations nécessaires de la part des ayants droit concernés et s’être acquitté de tous les droits et paiements dus au titre des présentes aux sociétés de gestion collective.
+THE CONTENT AND INFORMATION IS PROVIDED BY THE USERS AND/OR THE ADMINSTRATORS AND DISSEMINATED BY THE PUBLISHER AS IS AND FOR INFORMATION PURPOSES ONLY. THE PUBLISHER DOES NOT IN ANY WAY CERTIFY THE RELIABILITY OF THE INFORMATION DISCLOSED BY THE USERS AND/OR THE ADMINISTRATORS, AND IN PARTICULAR ANY TEXTS, NAMES OR PHOTOGRAPHS THAT THEY UPLOAD TO THE SITE. THE PUBLISHER STRONGLY RECOMMENDS THAT USERS AND ADMINISTRATORS CHECK THE INFORMATION THAT THEY UPLOAD TO THE SITE WITH PARTICULAR CARE IN LIGHT OF THE HIGHLY EMOTIONAL CIRCUMSTANCES UNDER WHICH THIS INFORMATION IS SHARED. THE PUBLISHER HEREBY WARNS THE USERS AND ADMINISTRATORS AGAINST THE CONSEQUENCES OF A FALSE TRIBUTE PAGE, TO WIT AN ANNOUNCEMENT OF THE DEATH OF A PERSON WHO IS NOT IN FACT DECEASED, FOR WHICH THE PUBLISHER HEREBY DISCLAIMS LIABILITY.
 
-A défaut, le contenu ou l’information pourra être retiré du Site sans formalité préalable. En outre, l’Utilisateur encoure, à titre personnel, les sanctions pénales spécifiques au contenu litigieux (peines d'emprisonnement et amendes), outre la condamnation éventuelle au paiement de dommages et intérêts. Compte tenu du caractère communautaire du Site et par respect pour les sensibilités de chacun, il appartient à l'Utilisateur de conserver une certaine éthique quant aux contenus, informations et/ou commentaires mis en ligne et, notamment, de s'abstenir de diffuser tout contenu à caractère violent ou pornographique.
+TO THE EXTENT PERMITTED BY LAW, THE PUBLISHER EXCLUDE ALL CONDITIONS, WARRANTIES, REPRESENTATIONS OR OTHER TERMS WHICH MAY APPLY TO THE SERVICE OR ANY CONTENT ON IT, WHETHER EXPRESS OR IMPLIED.
 
-#### 8.3) Le Site est soumis aux contraintes liées à l’Internet  
+THE PUBLISHER WILL NOT BE LIABLE TO ANY USER FOR ANY LOSS OR DAMAGE, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF STATUTORY DUTY, OR OTHERWISE, EVEN IF FORESEEABLE, ARISING UNDER OR IN CONNECTION WITH:
 
-L’Utilisateur déclare avoir parfaitement connaissance des caractéristiques et limites du réseau Internet, par lequel l’Editeur met à disposition le Site et les page en hommage. L’Utilisateur reconnaît donc que (i) les transmissions de données sur Internet ne bénéficient que d'une fiabilité technique relative, celles-ci circulant sur des réseaux hétérogènes aux caractéristiques et capacités techniques diverses, qui sont parfois saturés à certaines périodes de la journée ; (ii) les données circulant sur Internet ne sont pas protégées contre des détournements éventuels, et qu'elles peuvent faire l'objet d'une captation des informations diffusées et (iii) qu'il est impossible de contrôler l'utilisation qui pourrait en être faite par des tiers sur Internet.
+* USE OF, OR INABILITY TO USE, THE SITE; OR
+* USE OF OR RELIANCE ON ANY PRODUCT OR CONTENT DISPLAYED ON THE SITE
+THAT IN PARTICULAR, THE PUBLISHER WILL NOT BE LIABLE FOR:
+* LOSS OF PROFITS, SALES, BUSINESS, OR REVENUE;
+* BUSINESS INTERRUPTION;
+* LOSS OF DATA OR OTHER PROGRAMS;
+* LOSS OF ANTICIPATED SAVINGS;
+* LOSS OF BUSINESS OPPORTUNITY, GOODWILL OR REPUTATION; OR
+* ANY INDIRECT OR CONSEQUENTIAL LOSS OR DAMAGE.
 
-En conséquence, l’Editeur ne peut être responsable pour l'un quelconque des faits ou évènements mentionnés ci-dessus.
+THE PUBLISHER WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A VIRUS, DISTRIBUTED DENIAL-OF-SERVICE ATTACK, OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA OR OTHER PROPRIETARY MATERIAL DUE TO THE USE OF THE SITE OR THE DOWNLOADING OF ANY CONTENT ON IT, OR ON ANY WEBSITE LINKED TO IT.
 
-L’Editeur est également dégagé de toute responsabilité en cas de force majeure, dont notamment le dysfonctionnement du réseau Internet, des lignes téléphoniques, du matériel de réception empêchant ou entravant l'utilisation du Site et l’administration ou la consultation de la page en hommage.
+NOTHING IN THESE TERMS EXCLUDES OR LIMITS THE LIABILITY OF THE PUBLISHER FOR DEATH OR PERSONAL INJURY ARISING FROM OUR NEGLIGENCE, OR OUR FRAUD OR FRAUDULENT MISREPRESENTATION, OR ANY OTHER LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED BY LAW.
 
-### 9) Données personnelles  
+Users may report any abuse (such as content that infringes the intellectual property rights of others, content that incites hatred or violence, that is pornographic or contains nudity or gratuitous violence) that they notice on the Site by clicking on the “report abuse” link. They will then be asked to send an electronic message to the address abus@inmemori.com. They may also send an electronic message to this address directly.
 
-#### 9.1) Données à caractère personnel  
+#### 8.2) The Users' liability 
 
-Les données à caractère personnel que l’Editeur collecte auprès des Utilisateurs comprennent notamment :
+By providing content or information on the Site (text, photographs, comments or names), Users must comply with the prevailing statutes and regulations. Users must ensure that the storage and the publication of this content or of this information via the Site does not constitute (i) an infringement of the intellectual property rights of third parties, (ii) an affront to personal dignity (e.g. defamation, insults, curses, etc.) or of the right to privacy, (iii) a threat to public order and public morals (such as apologia for crimes against humanity, incitement to racial hatred, child pornography, etc.). By uploading content or information and making it publicly available on and/or through the Site, Users guarantee that they hold all the rights and authorisations required from the rights holders involved and that they have paid for all the rights and payments due under these T&Cs to the appropriate performing rights management companies.
 
-ses noms et prénoms, son âge, sn pays de résidence et sa nationalité ;
-son adresse de courrier électronique ;
-son adresse IP (adresse virtuelle attribuée à l’appareil connecté sur internet).  
+Failing this, the content or the information may be withdrawn from the Site without any prior formality. Moreover, Users may personally face criminal punishments specific to the contentious content (prison sentences and fines), in addition to the prospect of being ordered to pay damages. Given the community nature of the Site, and out of respect for the sensibilities of all, Users are expected to act with a certain sense of respect and ethics when it comes the nature of the content, information and/or comments that they upload, and should refrain in particular from disseminating any content of a violent or pornographic nature.
 
-#### 9.2) Finalité du traitement  
+Users agree to indemnify and hold harmless the Publisher and each of its and their respective directors, officers, managers, employees, shareholders, agents, representatives and licensors, from and against any and all losses, expenses, damages and costs, including reasonable attorneys' fees, that arise out of the Users use of the Site, violation of these T&C’s or violation of any rights of another. The Publisher reserves the right to take over the exclusive defense of any claim he is entitled to indemnification under this section. In such event, Users agree to provide the Publisher cooperation as reasonably requested.
 
-Le responsable du traitement des données à caractère personnel de l’Utilisateur est l’Editeur.
+#### 8.3) The Site is subject to the constraints linked to the Internet  
 
-Les données à caractère personnel collectées auprès de l’Utilisateur et traitées par l’Editeur ont pour finalité de :
+The Users declare that they are fully aware of the characteristics and limitations of the Internet network, through which the Publisher provides the Site and the Tribute Page. The Users therefore acknowledge that (i) the transmission of data over the Internet is only relatively reliable in technical terms, given that the data circulates over heterogeneous networks with differing characteristics and technical capacities, that are sometimes saturated at certain times of the day; (ii) data transiting over Internet is not protected against the possibility of misappropriation, and any information that is published may be intercepted, (iii) it is impossible to control the use that third parties may make of data transmitted over the Internet.
 
-permettre aux Utilisateurs d’accéder aux fonctionnalités et options du Site ;
-permettre aux Administrateurs d’accéder aux fonctionnalités qui lui sont réservées ;
-permettre aux Utilisateurs de contacter d’Autres Utilisateurs ;
-permettre à l’Editeur d’envoyer par courrier électronique à l’Utilisateur les réponses à ses requêtes et des informations diverses ;
-établir des statistiques générales sur le trafic du Site et sur les différentes rubriques qui y sont contenues ;
-toute autre finalité liée à celles qui sont énumérées ci-dessus.  
+Therefore, the Publisher disclaims liability for any of the above mentioned facts or events.
 
-#### 9.3) Protection des données  
+The Publisher also disclaims liability for any force majeure, including a malfunction of the Internet network, of the telephone lines, of a User’s receiving terminal, which prevents or impedes the use of the Site and the administration or viewing of the Tribute Page.
 
-L’Editeur s’engage à protéger l’ensemble des données à caractère personnel de l’Utilisateur, lesquelles données sont recueillies et traitées par l’Editeur avec la plus stricte confidentialité, conformément aux dispositions législatives et réglementaires applicables.
+### 9) Data protection  
 
-Le traitement des données à caractère personnel inclut notamment l'utilisation, la conservation, l'enregistrement, le transfert, l'adaptation, l'analyse, la récapitulation, la modification, la déclaration, le partage et la destruction des données à caractère personnel en fonction de ce qui est nécessaire au regard des circonstances ou des exigences légales.
+#### 9.1) Personal data  
 
-Toutes les données à caractère personnel collectées sont conservées pour une durée limitée en fonction de la finalité du traitement et de la durée de conservation prévue par la législation en vigueur.
+The personal data that the Publisher gathers from the Users shall comprise specifically:
 
-#### 9.4) Droit d’opposition, de rectification et de suppression de l’Utilisateur  
+* their family name and first names, age, country of residence and nationality;
+* their e-mail address;
+* their IP address (virtual address allocated to a terminal connected to the Internet). 
 
-Conformément aux dispositions législatives et réglementaires applicables, l’Utilisateur peut à tout moment :
+#### 9.2) Purpose of the collection and processing of the data  
 
-s’opposer au traitement de ses données à caractère personnel par l’Editeur ;
-s’opposer à la communication des données à caractère personnel le concernant à des tiers ;
-accéder à l’ensemble des données à caractère personnel le concernant traitées par l’Editeur ;
-rectifier, mettre à jour et supprimer des données à caractère personnel le concernant traitées par l’Editeur.
-Pour exercer ses droits, il suffit à l’Utilisateur d’adresser un message électronique à l’adresse contact@inmemori.com en prenant soin de justifier de son identité (mentionner ses noms, prénoms, adresse de courrier électronique et joindre une copie de sa pièce d’identité) à l’Editeur, aux coordonnées visées en préambule des présentes CGU.
+The data controller in charge of processing the Users’ personal data is the Publisher.
 
-### 10) Disponibilité du Site  
+The personal data that is gathered from the Users and processed by the Publisher is designed:
 
-Le Site et les pages en hommage sont par principe accessibles 24 heures sur 24, 7 jours sur 7, sauf interruption, programmée ou non, pour les besoins de maintenance ou cas de force majeure. Etant de fait soumis à une obligation de moyens, l’Editeur ne saurait être tenu responsable de tout dommage, quelle qu'en soit la nature, résultant d'une indisponibilité du Site ou d’une page en hommage.
+* to enable the Users to access the functionalities and options of the Site;
+* to enable the Administrators to access the functionalities that are earmarked to them;
+* to enable the Users to contact other Users;
+* to enable the Publisher to send to the Users the responses to their requests and various information by electronic mail;
+* to compile general statistics on the traffic of the Site and on the different sections that are contained therein;
+* any other purpose linked to those that are listed above.  
 
-L’Editeur ne garantit pas que le Site, et le serveur qui le met à disposition, soient exempts de virus et autres composants dangereux. Il appartient à l'Utilisateur de prendre toutes les mesures appropriées pour protéger ses propres données et/ou logiciels de la contamination par d'éventuels virus circulant sur le réseau internet et de vérifier que sa configuration informatique ne contient aucun virus et qu’elle est en parfait état de fonctionnement.
+#### 9.3) Data protection  
 
-L'Utilisateur accepte le fait que l’Editeur et ses fournisseurs ne pourront en aucun cas être tenus responsables des dommages, matériels et/ou immatériels, directs et/ou indirects qui pourraient résulter de l’accès ou de l’utilisation du Site et/ou de son contenu, y compris l’inaccessibilité, les pertes de données, les détériorations, les destructions ou les virus qui pourraient affecter l’équipement informatique de l’Utilisateur, et/ou de la présence de virus sur son Site.
+The Publisher undertakes to protect all of the Users’ personal data that is gathered and processed by the Publisher in the strictest confidentiality, in accordance with the applicable statutory and regulatory provisions.
 
-### 11) Cookies  
+The processing of the Users’ personal data may involve the use, preservation, recording, transfer, adaptation, analysis, summarising, modification, declaration, sharing and destruction of the personal data, depending on what is necessary in light of the circumstances or the legal requirements at hand.
 
-Voir la Politique des cookies qui fait partie intégrante des présentes CGU.
+All the personal data that is gathered shall be kept for a limited period of time depending on the purpose of the processing and the period of retention permitted by the prevailing legislation.
 
-### 12) Divers  
+#### 9.4) The Users' right to challenge the use of their data or rectify and delete it  
 
-Les registres informatisés conservés dans les systèmes de l’Editeur dans le respect des règles de l'art en matière de sécurité, seront considérés comme preuves des communications de courriers électroniques, envois de formulaire d'inscription, contenus. L'archivage des formulaires d'inscription est effectué sur un support de nature à assurer le caractère fidèle et durable requis par les dispositions légales en vigueur. Il est convenu qu'en cas de divergence entre les registres informatisés de l’Editeur et les documents au format papier ou électronique dont l’Utilisateur dispose, les registres informatisés de l’Editeur feront foi.
+In accordance with the applicable statutory and regulatory provisions, the Users may at any point in time:
 
-Conditions générales relatives à la fonction de collecte de dons : Consulter les conditions générales relatives à MangoPay.  
+* challenge the processing of their personal data by the Publisher;
+* oppose the disclosure of their personal data to third parties;
+* access all of their personal data that is held by the Publisher;
+* correct, update and delete any of their personal data held by the Publisher.
 
-Mis à jour : 10/01/2017
+In order to exercise their rights, Users need only send an e-mail to the Publisher at contact@inmemori.com, providing evidence of their identity (mentioning their name, first names, e-mail address and enclosing a copy of their identity document).
+
+### 10) Availability of the Site  
+
+The Site and the Tribute Pages shall in principle be accessible around the clock, 7 days a week, except in case of a scheduled or unscheduled interruption for purposes of maintenance, internet failure, or in case of force majeure. The Publisher hereby disclaims liability for any damage that might result from the unavailability of the Site or of any particular Tribute Page.
+
+The Publisher does not guarantee that the Site and its server are free of viruses and other dangerous elements. It is up to the Users to take all appropriate precautions in order to protect their own data and/or software applications from contamination by any viruses circulating over the Internet and to check that their IT configuration does not contain any viruses and is in good operating condition.
+
+### 11) Third party links
+
+The Site may link to other sites on the "Internet". These sites may contain information or material that some people may find inappropriate or offensive. These other sites are not under the control of the Publisher and the Publisher is not responsible for the accuracy, copyright compliance, legality, decency, or any other aspect of the content of such sites. The inclusion of such a link does not imply endorsement of any site by the Publisher or any association with its operators.
+
+Any area of the Site that is accessed through any third party proprietary online service is subject to the rules, policies and guidelines of such third party proprietary online service.
+
+### 12) Cookies  
+
+See the cookies policy which forms an integral part of these T&Cs.
+
+### 13) Miscellaneous provisions
+
+The logs kept in the Publisher’s systems in keeping with the highest standards of security shall be considered as evidence of the exchanges of electronic messages, sending of registration forms, and uploading of content. The registration forms shall be archived on a medium that ensures their accurate and lasting storage as required by the prevailing legal provisions. In case of divergence between the Publisher’s logs and any documents kept by the Users in paper or electronic format, the Publisher’s logs shall prevail and shall have evidential value.
+
+For General Terms and Conditions concerning the collection functionality: Please see the terms and conditions of MangoPay.
+
+### 14) Applicable law and dispute Resolution
+
+These Terms of Use will be governed by and construed in accordance with the laws of France.
+
+Any dispute relating in any way to your use of the Site shall be submitted to courts of Paris if no amicable settlement can be found between the User and the Publisher.
+
+Last updated on 10/01/2017
 <br/>
