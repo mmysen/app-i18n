@@ -6,15 +6,15 @@
     }
 
   , "story": {
-        "title": "Notre histoire"
+        "title": "How we came about"
       , "text": [
-            ["Janvier 2016\nParis", "Clémentine décide d’accompagner les familles en deuil lors de l'organisation des obsèques. Alors qu'elle est encore la directrice marketing d'un groupe du CAC40, elle passe chaque semaine pendant 6 mois des moments auprès de familles qui viennent de perdre un proche pour comprendre comment les aider dans cette épreuve."]
-          , ["Juillet 2016\nParis", "Inmemori est crée"]
-          , ["Janvier 2017\nSan Francisco", "Constance rejoint l'aventure pour accompagner au quotidien les familles et leurs proches afin de répondre à leurs questions et leur permettre d’utiliser ce nouveau service en toute sérénité."]
-          , ["Février 2017\nSan Francisco", "Les familles et leurs proches sont reconnaissants et attachés au service, ils deviennent des ambassadeurs d’inmemori. Grâce au bouche à oreille inmemori a déjà apporté du réconfort à plus de 30,000 personnes."]
-          , ["Mars 2017\nSan Francisco", "Inmemori est sélectionné par The Refiners, un accélérateur de startups de la Silicon Valley. L’horizon d’inmemori s’élargit au monde entier."]
-          , ["Septembre 2017\nParis", "Les bureaux de Paris et New York sont ouverts. L’équipe compte désormais une dizaine de personnes toutes animées par l’impact de la mission d’inmemori."]
-          , ["Octobre 2017\nParis", "Inmemori rassemble autour de son projet les plus grands investisseurs français pour accélérer son développement et accompagner  toujours mieux les familles en deuil."]
+            ["January 2016\nParis", "Clémentine decides to support grieving families as they organize the funeral services. While simultaneously working as the CMO of a French publicly traded company, Clémentine spent a week, out of every every month, for six months, with families who've suffered a loss to best understand how she could comfort them during this immeasurable period of pain."]
+          , ["July 2016\nParis", "inmemori is born."]
+          , ["January 2017\nParis", "Constance joins the team to speak with families everyday, to answer families' questions and help them make full use of inmemori's services."]
+          , ["February 2017\nParis", "Families and their loved ones, grateful for inmemori and its role in their healing, become its ambassadors. Simply through word of mouth, inmemori was able to support 30,000 people in their moment of loss."]
+          , ["March 2017\nSan Francisco", "inmemori is selected to participate in an acceleration program in Silicon Valley, The Refiners. inmemori's ambitions go global."]
+          , ["September 2017\nParis - New York City", "Offices in Paris and New York City are opened. The team has 10 dedicated to fulfilling inmemori's purpose."]
+          , ["October 2017\nParis", "inmemori inspires some of the most well-known venture capital funds in France to accelerate its growth and better support families during their time of need."]
         ]
     }
 
