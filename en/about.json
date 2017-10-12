@@ -1,8 +1,8 @@
 {
 
     "mission": {
-        "title": "Notre mission"
-      , "text": "La mission d’inmemori est d’aider chaque famille qui vient de perdre un proche à rassembler toutes les personnes concernées et à rendre hommage à sa vie.\n\nChaque jour, des messages de condoléances, des souvenirs, des témoignages magnifiques sont partagés grâce au service, qui nous rappellent le besoin d'être ensemble dans ces moments éprouvants.\n\nNotre ambition pour inmemori est que chaque famille qui traverse un deuil puisse y trouver de l’aide et du réconfort. Le service est d’ailleurs gratuit pour permettre à tous d'y avoir accès. En un an déjà, nous avons accompagné 30 000 personnes."
+        "title": "Our purpose"
+      , "text": "Our goal, at inmemori, is to support each family who has suffered the tragedy of losing someone they love, to help them gather their family and friends in paying homage to their memory.\n\nEveryday, condolence messages, incredible memories and transcendent testimonials are shared using inmemori. They remind us that sharing our experiences with one another, seeing our loved one through someone else's eyes is life-giving, in a moment of what seems like vast emptiness.\n\nAt inmemori, our goal is to provide every family that suffers this tragedy to have a place of comfort, of support and sharing.\nWe have dedicated ourselves to providing a free service that families can use to begin that life-giving process of mourning, healing, celebrating.\nIn one year, we've supported 30 000 people. With inmemori, we hope to reveal the essentials of life, celebrating the moments that mark us, those that make us human."
     }
 
   , "story": {
@@ -34,7 +34,7 @@
       , "text": "We invite journalists to contact inmemori's PR team for all interview and information requests.\n\nMedia contact :\nBrunswick, Hugues Boëton\n+33.1.53.96.83.83 (work) / +33.6.79.99.27.15 (cell)\n<a href='mailto:inmemori@brunswickgroup.com'>inmemori@brunswickgroup.com</a>"
       , "items": [
             ["FORBES", "September 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
-       
+          , ["FORBES", "Septembre 2017", "link"]
         ]
     }
 
