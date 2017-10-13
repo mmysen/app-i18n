@@ -9,6 +9,7 @@
       "en": "English"
     }
   , "fulldate": "dddd D MMMM YYYY, HH:mm"
+  , "show-map": "voir sur google map"
   , "types": {
         "ceremony": "Cérémonie"
       , "contemplation": "Recueillement"

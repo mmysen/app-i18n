@@ -9,6 +9,7 @@
       "en": "English"
     }
   , "fulldate": "LLL"
+  , "show-map": "show on google map"
   , "types": {
         "ceremony": "Ceremony"
       , "contemplation": "Contemplation"

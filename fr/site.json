@@ -2,7 +2,8 @@
     "sample-slug": "lgrellet"
 
   , "links": {
-        "about": "À propos"
+        "home": "Accueil"
+      , "about": "À propos"
       , "team": "L'équipe"
       , "press": "Presse"
       , "contact": "Contact"

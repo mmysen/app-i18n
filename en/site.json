@@ -2,7 +2,8 @@
     "sample-slug": "gdelsol"
 
   , "links": {
-        "about": "About us"
+        "home": "Home"
+      , "about": "About us"
       , "team": "Team"
       , "press": "Press"
       , "contact": "Contact"
