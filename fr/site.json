@@ -25,11 +25,11 @@
     }
   , "home": {
         "inform": {
-            "title": "Informer vos proches."
+            "title": "Informer vos proches"
           , "text": "inmemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre rapidement les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes et la partager avec toutes les personnes concernées est très facile : il vous suffit pour cela de transmettre par email ou par sms le lien sécurisé de la page."
         }
       , "collect": {
-            "title": "Inviter vos proches à se souvenir et à rendre hommage."
+            "title": "Inviter vos proches à se souvenir et à rendre hommage"
           , "text": "Famille et amis pourront facilement présenter leurs condoléances et aussi partager des souvenirs et des moments vécus avec votre proche. Cet hommage collectif apporte un grand réconfort. \n Vous pourrez aussi, si vous le souhaitez, organiser une collecte de dons en hommage à votre proche afin de soutenir une association ou une cause qui lui était chère."
         }
       , "how": {
