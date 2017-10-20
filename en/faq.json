@@ -2,118 +2,118 @@
   "faq": [
 
     {
-      "section": "CRÉER UNE PAGE SUR INMEMORI",
+      "section": "Create a page on inmemori",
       "qa": [
         {
           "q": "inmemori ?",
-          "r": "Pour découvrir la mission d’inmemori et nos valeurs, consultez la rubrique <a href='/about'>À propos</a>."
+          "r": "To discover inmemori’s mission statement and our values, take a look at our<a href='/about'>About Us</a> page."
         },
         {
-          "q": "À quoi sert une page d’hommage ?",
-          "r": "Grâce au service inmemori, vous disposez d'une page privée qui vous permet de : \n- transmettre rapidement les informations sur les obsèques à chacune des personnes concernées,\n- recevoir et conserver les condoléances et les souvenirs de vos proches,\n- organiser une collecte de dons en sa mémoire, si vous le souhaitez."
+          "q": "What’s an inmemori page for?",
+          "r": "With inmemori, you have access to a private page on which you can: \n- quickly inform your loved ones about the time and whereabouts of the funeral ceremony,\n- send and save condolence messages and memories shared with your close ones,\n- organize a fundraiser in the deceased’s honor, if you’d like, and/or allow your close ones to send flowers to the ceremony."
         },
         {
-          "q": "Comment créer une page d’hommage ?",
-          "r": "Il vous suffit de renseigner les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/cta-create'>ici</a>.\nLa création de la page ne vous prendra que 5 minutes.\n\nUne fois la page créée, vous aurez accès à votre espace de gestion, sur lequel vous pourrez :\n- suivre l’activité de la page (nombre de vues, nombre d’hommages),\n- organiser une collecte de dons, si vous le souhaitez,\n- imprimer le recueil de tous les hommages partagés,\n- remercier vos proches et les donateurs grâce à la liste de contacts."
+          "q": "How can I make an inmemori page?",
+          "r": "With just the name, date of death and your e-mail address, you can create a page. Just click <a href='/cta-create'>here</a> and get started.\nCreating a page shouldn’t take more than 5 minutes\n\nOnce the page has been created, you will have access to your management dashboard, on which you can:\n- manage the page (see how many people have visited it, how many posts have been shared),\n- set up a fundraiser, either for a charity organization of your choice or for the family,\n- print the memory book, compiling all the memories and messages shared,\n- thank those who have contributed to the page, using the contact list available on the dashboard."
         },
         {
-          "q": "Qui peut créer une page d’hommage ?",
-          "r": "Tout le monde peut créer une page : un membre de la famille, un ami, un collègue…\nIl vous suffit de renseigner les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/cta-create'>ici</a>."
+          "q": "Who can create an inmemori page?",
+          "r": "Everyone and anyone with access to the internet can create a page, a family member, a friend, a colleague...\nJust provide the first and last name of the deceased, their date of death and your email address. Then click <a href='/cta-create'>here</a>."
         },
         {
-          "q": "Comment inviter mes proches à consulter cette page ?",
-          "r": "Très simplement. Il vous suffit de partager la page par sms et par email, depuis votre espace de gestion.\nVous pouvez aussi, si vous le souhaitez, copier le lien et le coller sur les canaux de communication de votre choix (réseaux sociaux, WhatsApp, faire-part papier…)."
+          "q": "How can I invite my friends to view and share on the page?",
+          "r": "It’s really simple. Just send them the link via text message or email. You can do so from your admin dashboard. \n You can also copy the link and paste it in any communications platform of your choice, such as WhatsApp. You can even include the link in an obituary or announcement you’ve mailed out."
         },
         {
-          "q": "Qui peut voir cette page ?",
-          "r": "Seules les personnes qui reçoivent le lien y ont accès.\nLa page étant privée, elle n’apparaîtra jamais dans les résultats des moteurs de recherche."
+          "q": "Who has access to the page?",
+          "r": "Only the people who have received the link have access to the page.\nThe page remains private and will never be referenced by any search engine. We are keeping it from prying eyes."
         },
         {
-          "q": "Puis-je créer une page si je n’ai pas encore toutes les informations ?",
-          "r": "Oui, seules quelques informations sont essentielles pour créer une page.\nVous devez renseigner les prénom et nom de votre proche, sa date de décès et votre adresse email afin de recevoir le lien qui vous permettra de créer la page d’hommage. Vous pourrez ensuite à tout moment vous rendre sur votre espace de gestion pour la modifier ou la compléter."
+          "q": "Can I create a page even if I don’t have all the details about the funeral service?",
+          "r": "Of course. You only need 3 pieces of information to create a page.\n With a first and last name of the deceased, their date of death and your email address (we will send you the page link to help you get started). You can access the admin dashboard at any moment, editing it and managing it."
         },
         {
-          "q": "Comment retrouver la page inmemori d’un proche décédé ?",
-          "r": "L’intimité des familles est au coeur de l’engagement d’inmemori, c’est pour cela que les pages sont privées. Seules les personnes qui reçoivent le lien y ont accès.\nSi vous apprenez qu’une page inmemori a été créée pour un proche, n’hésitez pas à contacter la famille ou des amis afin qu’ils vous communiquent le lien pour que vous puissiez y accéder."
+          "q": "How can I find a page of someone I know who has passed away?",
+          "r": "Families’ intimacy is at the heart of the work we do at inmemori. This is why our pages are private. Only those who have received a link to the page can access it.  If you know that a page has been created for someone you know, feel free to contact the family or their friends and they will happily send you the link so you can access the page."
         },
         {
-          "q": "Combien coûte le service inmemori ?",
-          "r": "inmemori est un service gratuit pour permettre à tous d’y avoir accès.\nNotre ambition est que toutes les familles qui traversent un deuil puissent y trouver aide et réconfort."
+          "q": "How much does inmemori cost?",
+          "r": "inmemori is free. We know how transactional, how lifeless planning & attending funeral services can be, with no time or space left to begin to heal. That's why we have dedicated ourselves to providing a free service that families can use to begin that life-giving process of mourning, healing, celebrating.\nWe hope that any and all families in mourning can use inmemori to find a semblance of comfort through this difficult period."
         }
       ]
     },
     {
-      "section": "GÉRER UNE PAGE INMEMORI",
+      "section": "Managing an inmemori page",
       "qa": [
         {
-          "q": "Comment gérer la page d’hommage ?",
-          "r": "Si vous êtes administrateur, vous avez reçu par email et par sms un lien qui vous redirige vers un espace de gestion.\nDepuis cet espace, vous pouvez personnaliser et compléter la page :\n- en ajoutant une photo,\n- en personnalisant le faire-part,\n- en renseignant ou en modifiant les informations sur les obsèques,\n- en activant une collecte de dons pour soutenir une association de votre choix.\nVous pouvez aussi ajouter d’autres administrateurs, vous leur donnerez ainsi accès à l’espace de gestion."
+          "q": "How do I manage an inmemori page?",
+          "r": "If you are a page administrator, you have received a link via text message or email that redirects you to the admin dashboard.\nThe dashboard allows you to personalize and bring the page to life, such as:\n- adding a photo of the deceased,\n- writing in a note to those who will access the site, announcing the death and inviting them to share in your community,\n- informing users of the funeral ceremony, where and when it will take place,\n- activating the donation feature, if you would like to raise funds for a particular cause or organization.\nYou can always add other administrators, who will also be able to access the admin dashboard and manage the page."
         },
         {
-          "q": "Que faire si des messages ou des photos postés sur la page d’hommage ne sont pas appropriés ?",
-          "r": "Si vous êtes administrateur de la page, vous pouvez à tout moment supprimer un message ou une photo depuis votre espace de gestion."
+          "q": "What do I do if an inappropriate message or photo has been posted?",
+          "r": "If you’re the page administrator, you can delete any message or photo, at any time, from the admin dashboard."
         },
         {
-          "q": "Puis-je supprimer la page d’hommage ?",
-          "r": "Si vous êtes administrateur de la page, il vous est possible de mettre en veille ou de supprimer la page au moment de votre choix.\nSachez que vous pouvez garder une trace de tous les hommages partagés par vos proches en imprimant le recueil inmemori."
+          "q": "Can I delete an inmemori page?",
+          "r": "If you’re the page administrator, you can archive a page or delete it whenever you deem appropriate.\nPlease know that you can keep a physical trace of an inmemori page, in addition to a digital one. You can download a memory book but also order one to be printed and delivered to you, as can your loved ones."
         },
         {
-          "q": "Que devient cette page d’hommage avec le temps ?",
-          "r": "Il existe trois possibilités :\n- maintenir la page en ligne pour permettre à tous vos proches d’y retourner et de consulter les hommages,\n- mettre en veille la page pour conserver les hommages mais bloquer son accès,\n- supprimer la page.\nLe temps du deuil est personnel, c’est pour cela qu’inmemori a choisi de laisser ce choix aux administrateurs de la page."
+          "q": "What happens to an inmemori page over time?",
+          "r": "Well, there are three possibilities:\n- you can keep it online, allowing your close ones to return to it at their leisure, to read through previous messages or leave new ones, continue to pay tribute to the memory of their loved one,\n- archive it, saving the photos and messages but blocking user access,\n- delete the page.\nGrieving is very personal, which is why we want you leave you the option of managing the page as you see fit."
         }
       ]
     },
     {
-      "section": "PARTICIPER À UNE PAGE INMEMORI",
+      "section": "Contributing to an inmemori page",
       "qa": [
         {
-          "q": "Puis-je poster plusieurs photos sur une page d’hommage ?",
-          "r": "Oui, très facilement.\nIl vous suffit de cliquer sur le bouton “Participer” et de choisir l’action “Photos”, vous pouvez alors ajouter autant de photos que vous le souhaitez.\nVous pouvez même joindre plusieurs photos à la fin d’un message de condoléances ou d’un souvenir afin d’enrichir votre hommage."
+          "q": "Can I post multiple photos on an inmemori page?",
+          "r": "Yes! It’s very simple.\nJust click the “Sign the book” button, choose the “Photos” option and add as many photos as you’d like.\nYou can even attach multiple photos to the end of a condolence message or a memory to illustrate your thoughts."
         },
         {
-          "q": "Quelle est la différence entre un message de condoléances et un souvenir ?",
-          "r": "Un message de condoléances est un témoignage de soutien et de participation à la douleur d’autrui.\nUn souvenir est un moment vécu avec la personne défunte ou qui illustre sa vie.\nCes deux types de message participent à l’hommage et les souvenirs apportent de la douceur et décrochent parfois même un sourire aux personnes les plus affectées."
+          "q": "What’s the difference between a condolence message and a memory?",
+          "r": "We consider that a condolence message is meant to support the family while they traverse this tragedy.\nWhen sharing a memory, we want to invite you to share a moment you have experienced with the deceased, one that has marked you, one that you hold close to the heart, to share your beautiful memories with others.\nThese two different sorts of messages both pay homage to their memory, are tender and profound in their effects to other users. They can remind someone else of certain memories or character traits that would have otherwise been forgotten, bringing a momentary and eternal smile to their lips."
         },
         {
-          "q": "À qui peuvent bénéficier les donations ?",
-          "r": "Toutes les associations déclarées peuvent, sans autorisation spéciale et quel que soit leur objet, recevoir des dons manuels (c’est à dire effectués “de la main à la main”, soit des dons effectués par des particuliers), et ce en application de l’article 6 de la loi du 1er juillet 1901.\n\n\nSource : <a href='http://www.associations.gouv.fr/dons-manuels.html'>www.associations.gouv.fr</a>"
+          "q": "What sort of non-profit organizations can raise funds through the donation feature?",
+          "r": "All accredited organizations can, without any particular authorization, no matter their mission statement, receive individual funds.\n\n\nSource : <a href='https://www.irs.gov/charities-non-profits/charitable-organizations</a>"
         },
         {
-          "q": "Sur quel compte est crédité l’argent des donations ?",
-          "r": "L’argent des donations est crédité sur le compte de l’administrateur qui clôture la collecte de dons. Il lui suffit pour cela de renseigner sa date de naissance et son IBAN.\nC’est alors à lui qu’il revient de reverser cette somme à l’association choisie ou à la famille."
+          "q": "Who receives the money raised through the donation feature?",
+          "r": "The donated funds are wired to the page administrator who closes the donation intake’s bank account. The page admin simply needs to provide their birthdate and their bank account information (routing number and account information).\nIt is their responsibility to send the funds collected to the organization of their choice."
         },
         {
-          "q": "Des frais sont-ils appliqués aux dons versés sur inmemori ?",
-          "r": "<u>Dons effectués à des associations américaines</u>\nLes dons effectués à des associations américaines sont soumis à des frais de x % :\n- x% servent à couvrir les frais bancaires liés à la sécurisation et au traitement des paiements,\n- x% servent à couvrir les coûts liés aux opérations et à l’assistance relative aux paiements.\n\n<u>Dons effectués à des associations européennes</u>\nLes dons effectués à des associations établies dans les pays européens sont soumis à des frais de x % :\n- x% servent à couvrir les frais bancaires liés à la sécurisation et au traitement des paiements,\n- x% servent à couvrir les coûts liés aux opérations et à l’assistance relative aux paiements.\n\n<u>Dons à des collectes de fonds personnelles</u>\nPour chaque don versé à une cause personnelle, inmemori déduit x% pour couvrir les frais bancaires de sécurisation et de traitement des paiements et les coûts liés aux opérations et à l’assistance relative aux paiements."
+          "q": "What fees, if any, are charged on money donated on inmemori?",
+          "r": "<u>Money donated to US charities:</u>\nDonations raised for US charities are subject to x% fees:\n- x% covers the banking fees that secure the payment,\n- x% covers the fees charged by payment clearing houses.\n\n<u>Money donated to European charities</u>\n Donations raised for European charities are subject to x% fees:\n- x% covers the banking fees that secure the payment,\n- x% covers the fees charged by payment clearing houses.\n\n<u>Money donated to a personal cause:</u>\nFor every donation made for a personal cause, inmemori will charge x% to cover the banking fees that secure the payment and those charged by payment clearing houses."
         },
         {
-          "q": "Comment l’association choisie reçoit-elle les dons effectués sur inmemori ?",
-          "r": "L’administrateur qui clôture la collecte reçoit le montant de l’ensemble des dons, déduit des frais de traitement, sur son compte bancaire.\nIl n’a plus qu’à transmettre cette somme à l’association mentionnée sur la page d’hommage depuis le site web de l’association, par virement ou par chèque."
+          "q": "How does the non-profit organization receive the donations collected on inmemori?",
+          "r": "The page administrator whose responsibility it is to close the fundraiser will receive the total amount of funds raised, minus any fees charged, on their bank account.\nThey simply have to transfer the funds to the non-profit they mentioned on the page, by check or wire transfer."
         },
         {
-          "q": "Les dons effectués sur inmemori sont-ils éligibles à une déduction fiscale ?",
-          "r": "Oui, sous certaines conditions.\nLa loi prévoit effectivement la possibilité pour les particuliers de bénéficier d’une réduction d’impôt pour les dons qu’ils ont versés à une association. Les associations considérées d’intérêt général ou d'utilité publique peuvent notamment éditer des reçus fiscaux. \nPour être considérée d'intérêt général, l'association doit remplir 3 conditions : \n- ne pas être à but lucratif, \n- avoir un objet social et une gestion désintéressée, \n- ne pas fonctionner au profit d’un cercle restreint."
+          "q": "Are donations made on an inmemori page tax-deductible?",
+          "r": "Yes, Yes, if you donate money or property to a qualified organization, your donation can be deducted by filing Form 1040<a href='http://www.irs.gov/pub/irs-pdf/f1040sa.pdf</a> and itemizing the deduction on Schedule A. If you do not itemize your deduction using Schedule A, you cannot deduct your charitable contribution.\n Qualified organizations include nonprofit groups that are religious, charitable, educational, scientific or literary in purpose, and nonprofit groups that work to prevent cruelty to children or animals.\nTo qualify for Nonprofit status, your corporation must be formed to benefit:\nthe public,\na specific group of individuals,\nthe membership of the nonprofit."
         },
         {
-          "q": "Quel est le montant de la réduction fiscale ?",
-          "r": "La réduction d’impôts porte sur 66% des sommes versées par le donateur, dans la limite de 20% de son revenu imposable. Cette réduction est portée à 75% lorsque l’association a pour objet la fourniture gratuite de repas, de soins ou d’hébergement aux personnes en difficulté, dans la limite de 531€ versés par le donateur.\nPour les dons aux associations provenant d'entreprise, la réduction fiscale est de 60% du montant des dons versés à l’association, dans la limite de 0,5% du chiffre d’affaires annuel.\nEnfin, lorsque le montant dépasse la limite des 20% du revenu imposable, l’excédent est reporté sur les 5 années suivantes, dans les mêmes conditions fiscales.\n\nSource : <a href='http://www.service-public.fr/particuliers/vosdroits/F426'>www.service-public.fr</a>"
+          "q": "What amount is tax deductible?",
+          "r": "You may deduct a maximum of up to 50% of your adjusted gross income (AGI) (Line 36 on IRS Form 1040) for the tax year the donation was given.\nThe amount of your donation might be reduced by contributions from which you may benefit. For example, if you pay $250 for the price of a $50 ticket to a charity ball, only $200 is tax-deductible, whether or not you attend the event.\nTo claim a deduction for cash, check, or monetary gifts, you must keep a bank record, payroll deduction record, or written communication from the charity organization that includes the date and amount of the contribution. For contributions totaling $250 or more, you must also include a description of any property contributed, and whether any goods or services were given in exchange for the gift.\nAdditional forms may be required to claim deduction for contributions over a certain amount (for example, Form 8283 for non-cash contributions over $500, and Section B of Form 8283 for contributions valued at over $5000).\n\nSource : <a href='https://www.legalzoom.com/articles/charitable-contributions-how-much-can-you-write-off"
         }
       ]
     },
     {
-      "section": "DIVERS",
+      "section": "Other Questions",
       "qa": [
         {
-          "q": "Vous souhaitez créer une page inmemori ou participer à une page d’hommage mais vous avez des questions ?",
-          "r": "Il vous suffit de contacter Constance et notre équipe, qui assistent les familles et les proches au quotidien : \nPar email : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \nPar téléphone, tous les jours de la semaine et à tout moment, au numéro renseigné sur l’email et le sms envoyés par inmemori. \n <em>(Valable si vous avez déjà créé la page ou participé une première fois à la page d’hommage de votre proche)</em>.\n\nVotre sérénité est au coeur de notre engagement et nous sommes mobilisés pour vous répondre en moins de 24h."
+          "q": "You’d like to create an inmemori page or to contribute to a page but have some questions?",
+          "r": "Just contact Constance or our team. We are here to help families and their close ones whenever and wherever they are.: \nBy email : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \nBy phone, all days of the week, anytime, call the number found at the bottom of the email or text you’ve received from inmemori./nYour serenity is at the heart of what we do. We are here for you, 24/7."
         },
         {
-          "q": "Comment nous aider ?",
-          "r": "Notre souhait pour inmemori est que chaque famille qui traverse un deuil puisse y trouver aide et réconfort. Nous avons besoin de vous pour mettre inmemori sur leur chemin et pour les accompagner avec justesse :\n- en parlant d’inmemori autour de vous, \n- en nous transmettant vos suggestions d’amélioration, \n- en nous envoyant le témoignage de votre expérience sur inmemori \n<em>(Ce que cela vous a apporté ? Comment cela vous a aidé ?)</em>,\n- en nous suivant sur nos réseaux sociaux : <a href='https://www.facebook.com/inmemori.fr/'><i class='fa fa-facebook-square mr-1'></i>FR</a> <a href='https://www.facebook.com/Inmemori-608021039394765/'><i class='fa fa-facebook-square mr-1'></i>US</a> <a href='https://twitter.com/inmemori_fr?lang=en&lang=en'><i class='fa fa-twitter-square mr-1'></i></a> <a href='https://www.linkedin.com/company/18116192/'><i class='fa fa-linkedin-square mr-1'></i></a>\n\nNous nous tenons à votre disposition, n’hésitez pas à nous écrire à l’adresse suivante : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
+          "q": "If you like what we do, here’s how you can help:",
+          "r": " We hope that inmemori can comfort any and all families that are mourning the loss of a loved ones. We need your help to make sure families know inmemori is a resource available to them. You can do this by:\n- Talking about inmemori to your friends and family, even coworkers, \n- Sending us an e-mail with your recommendations on how we can do better, \n- but thoughts and feedback on your experience are also welcome!\n<em>(How did this help you or your close ones? How did it make you feel?)</em>,\n- ...and, finally...following us on social media. We will be animating grief support workshops and posting great articles so tune in… <a href='https://www.facebook.com/Inmemori-608021039394765/'><i class='fa fa-facebook-square mr-1'></i>US</a> <a href='https://twitter.com/inmemori_fr?lang=en&lang=en'><i class='fa fa-twitter-square mr-1'></i></a> <a href='https://www.linkedin.com/company/18116192/'><i class='fa fa-linkedin-square mr-1'></i></a>\n\nWe are always here for you, don’t hesitate to contact us here: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
         },
         {
-          "q": "Comment rejoindre inmemori ?",
-          "r": "Si vous souhaitez rejoindre l’aventure inmemori, n'hésitez pas à nous transmettre votre candidature à <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
+          "q": "Love the vision and our values? Join the team!",
+          "r": "If you want to join our beautiful adventure, send us your résumé and a not about what drives you: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
         }
       ]
     }
