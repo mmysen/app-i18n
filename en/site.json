@@ -30,7 +30,7 @@
         }
       , "collect": {
             "title": "Celebrate your loved one"
-          , "text": "Invite family members and friends to share their memories together. \ninmemori is a safe place to post your photos and stories and remember what was so special about your loved one.\nYou can also send the family flowers and donate to charity organizations of their choice to show your support, in just 5 minutes."
+          , "text": "Invite family members and friends to share their memories together.\ninmemori is a safe place to post your photos and stories and remember what was so special about your loved one.\nYou can also send the family flowers and donate to charity organizations of their choice to show your support, in just 5 minutes."
         }
       , "how": {
             "title": "How it works"
@@ -49,8 +49,9 @@
             }
         }
       , "values": {
-            "title": "The power of healing"
-           , "text": "We strongly believe healing, in the face of loss, should be collective, intimate and elegant."
+            "title": "Our values"
+          , "text": "We started inmemori to celebrate the memory of someone dear we lost. We believe healing, in the face of loss, should be collective, intimate and elegant. We want to create a space to celebrate and remember life."
+
           , "collective": {
                 "title": "Collective"
               , "text": "Pages are meant to be shared, friends and family sending it out to one another. Gathering family and friends in one space has the potential to bring comfort to everyone in this moment of loss."
