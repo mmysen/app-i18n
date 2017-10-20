@@ -2,25 +2,25 @@
 
     "mission": {
         "title": "Our purpose"
-      , "text": "Our goal, at inmemori, is to support each family who has suffered the tragedy of losing someone they love, to help them gather their family and friends in paying homage to their memory.\n\nEveryday, condolence messages, incredible memories and transcendent testimonials are shared using inmemori. They remind us that sharing our experiences with one another, seeing our loved one through someone else's eyes is life-giving, in a moment of what seems like vast emptiness.\n\nAt inmemori, our goal is to provide every family that suffers this tragedy to have a place of comfort, of support and sharing. We have dedicated ourselves to providing a free service that families can use to begin that life-giving process of mourning, healing, celebrating. In one year, we've supported 30,000 people. With inmemori, we hope to reveal the essentials of life, celebrating the moments that mark us, those that make us human."
+      , "text": "Our goal is to provide every family a place of comfort, support and sharing.\n\nEveryday, condolence messages, incredible memories and transcendent testimonials are shared using inmemori. They remind us that sharing our experiences with one another, seeing our loved one through someone else's eyes is life-giving, in a moment of what seems like vast emptiness.\n\nWe have dedicated ourselves to providing a free service that families can use to mourn, to heal, and to celebrate. \n\nJust in the past year, we have supported 30,000 people. With inmemori, we hope to reveal the essentials of life, celebrating the moments that mark us, those that make us human."
     }
 
   , "story": {
         "title": "How we came about"
       , "text": [
-            ["January 2016\nParis", "Clémentine decides to support grieving families as they organize the funeral services. While simultaneously working as the CMO of a French publicly traded company, Clémentine spent a week, out of every month, for six months, with families who've suffered a loss to best understand how she could comfort them during this immeasurable period of pain."]
+            ["January 2016\nParis", "Clémentine decides to support grieving families as they organize the funeral services. While simultaneously working as the CMO of a French publicly traded company, Clémentine spent time with families who've suffered a loss to best understand how she could comfort them."]
           , ["July 2016\nParis", "inmemori is born."]
-          , ["January 2017\nParis", "Constance joins the team to speak with families everyday, to answer families' questions and help them make full use of inmemori's services."]
-          , ["February 2017\nParis", "Families and their loved ones, grateful for inmemori and its role in their healing, become its ambassadors. Simply through word of mouth, inmemori was able to support 30,000 people in their moment of loss."]
-          , ["March 2017\nSan Francisco", "inmemori is selected to participate in an acceleration program in Silicon Valley, The Refiners. inmemori's ambitions go global."]
-          , ["September 2017\nParis - New York City", "Offices in Paris and New York City are opened. The team has 5 people dedicated to fulfilling inmemori's purpose."]
+          , ["January 2017\nParis", "Constance joins the team. She speaks with families everyday, answering their questions and helping them make full use of inmemori."]
+          , ["February 2017\nParis", "Families and their loved ones, grateful for inmemori and its role in their healing, become its ambassadors. Through word of mouth, inmemori was able to comfort 30,000 people in their moment of loss."]
+          , ["March 2017\nSan Francisco", "inmemori is selected to participate in an acceleration program in Silicon Valley, The Refiners. inmemori goes global."]
+          , ["September 2017\nParis - NYC", "Offices in Paris and NYC are opened. The team consists of 5 people dedicated to fulfilling inmemori's purpose."]
           , ["October 2017\nParis", "inmemori inspires some of the most well-known venture capital funds in France to accelerate its growth and better support families during their time of need."]
         ]
     }
 
   , "values": {
         "title": "Our values"
-      , "text": "Our purpose is to reveal the essentials of life. To create a collective consciousness through memory. "
+      , "text": "Our purpose is to reveal the essentials of life. We seek to create a collective consciousness through memory. "
       , "items": [
             ["Sensitivity", "We are inherently conscious of the complexity of this period for families and the need for utmost delicacy. You are at the heart of inmemori's mission."]
           , ["Intimacy", "inmemori provides a safe space for people to share in, protecting words, photos and memories from uninvited eyes."]
@@ -66,7 +66,7 @@
   , "team": {
 
         "title": "Who are we ?"
-      , "text": "Here's a team that unites beautiful, soulful energy and enthusiasm to create life out of loss, at the heart of inmemori."
+      , "text": "At the heart of inmemori is a team that unites beautiful, soulful energy to create life out of loss."
 
       , "items": [
         { 
@@ -82,8 +82,8 @@
         { 
             "name": "Constance de Vernejoul"
           , "role": "Key Accounts & CRM"
-          , "bio": "A graduate of Reims business school, Constance worked in PR and international communications at L'Oréal. First to have joined inmemori, she's helped support 300 families and seeks to accompany countless more."
-          , "intro": "I wanted to be there for others during a period in their lives when they felt profoundly alone."
+          , "bio": "A NEOMA Business School graduate, Constance worked at L'Oréal, in PR and international communications. First to have joined inmemori, she's held the hands of 300 families and seeks to accompany countless more."
+          , "intro": "I wanted to be there for others during a period in their lives when people feel profoundly alone."
           , "pic": "team.constance"
           , "linkedin": "https://www.linkedin.com/in/constance-de-vernejoul-00316484/"
           , "twitter": ""
@@ -92,8 +92,8 @@
         { 
             "name": "Marly  Diallo"
           , "role": "Head of Business Development & Operations, France"
-          , "bio": "Having finished her studies at ESSEC business school, Marly was a senior asset manager at Unibail-Rodamco, where she met inmemori's fearless leader, Clémentine. She then joined Walt Group as a project manager, then global luxury group Kering."
-          , "intro": "The effort our team puts in everyday lets us contribute to creating strong, resilient communities."
+          , "bio": "Having finished her studies at ESSEC Business School, Marly was a senior asset manager at Unibail-Rodamco, where she met inmemori's fearless leader, Clémentine. She then joined Walt Group as a project manager, then the global luxury group Kering."
+          , "intro": "The effort we put in everyday lets us contribute to creating strong, resilient communities."
           , "pic": "team.marly"
           , "linkedin": "https://www.linkedin.com/in/marly-diallo-55751327/"
           , "twitter": ""
@@ -102,18 +102,18 @@
         { 
             "name": "Eva Kerner"
           , "role": "VP Business Development"
-          , "bio": "A UCSB, Sciences Po and LSE grad, Eva worked in PR and digital strategy before working with Fabernovel to develop a multinational insurance carrier's innovation lab in San Francisco. Eva heard Clémentine's pitch in SF and the rest is history."
-          , "intro": "It's said that we die twice. Once when we take our last breath, and the second, when someone utters out name for the last time. With inmemori, I can help make sure people's names and memories thrive."
+          , "bio": "A UCSB, Sciences Po and LSE grad, Eva worked in PR and digital strategy in Paris. In SF, she worked with Fabernovel to develop a corporate innovation lab in the insurance space. Eva heard Clémentine's pitch in SF and the rest is history."
+          , "intro": "It's said that we die twice. Once when we take our last breath, and the second, when someone utters out name for the last time. With inmemori, I can help make sure people's names, memories and stories live on."
           , "pic": "team.eva"
-          , "linkedin": ""
+          , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
           , "twitter": ""
-          , "site": "https://www.linkedin.com/in/eva-kerner/"
+          , "site": ""
         },
         { 
             "name": "Louis Grellet"
           , "role": "CTO"
           , "bio": "Engineer and entrepreneur, Louis was Allopneus' CTO and CEO at Flooz."
-          , "intro": "It's a moment in life where digital is absent. Therefore, it's a technical challenge that I'd like to solve."
+          , "intro": "Mourning is a moment in life where technology is absent. Therefore, it's a technical challenge that I'd like to solve."
           , "pic": "team.louis"
           , "linkedin": "https://www.linkedin.com/in/louis-grellet-1927242/"
           , "twitter": ""
