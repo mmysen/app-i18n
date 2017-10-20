@@ -13,7 +13,7 @@
 
   , "signup": {
         "title-v0": "Gather. Celebrate. Remember."
-      , "text-v0": "You just lost a loved one. /nHere is a safe space to gather family and friends, and celebrate their memory."
+      , "text-v0": "You just lost a loved one. Here is a safe space to gather family and friends, and celebrate their memory."
       , "title-v1": "Create a page now"
       , "text-v1": "Start by telling us about your loved one:"
       , "input-firstname-placeholder": "First name"
@@ -49,8 +49,8 @@
             }
         }
       , "values": {
-            "title": "Our values"
-          , "text": "We started inmemori to celebrate the memory of someone dear we lost. We believe healing, in the face of loss, should be collective, intimate and elegant. We want to create a space to celebrate and remember life."
+            "title": "The power of healing"
+          , "text": "We believe healing, in the face of loss, should be collective, intimate and elegant. We want to create a space to celebrate and remember life."
 
           , "collective": {
                 "title": "Collective"
