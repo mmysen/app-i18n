@@ -13,7 +13,7 @@
 
   , "signup": {
         "title-v0": "Gather. Celebrate. Remember."
-      , "text-v0": "You just lost a loved one. Here is a safe space to gather family and friends, and celebrate their memory."
+      , "text-v0": "You just lost a loved one. /nHere is a safe space to gather family and friends, and celebrate their memory."
       , "title-v1": "Create a page now"
       , "text-v1": "Start by telling us about your loved one:"
       , "input-firstname-placeholder": "First name"
@@ -26,11 +26,11 @@
   , "home": {
         "inform": {
             "title": "Gather and inform"
-          , "text": "inmemori allows you to inform family and friends about the passing of your loved one, and share the date, location, and details of the ceremony. We can also help you collect funds to help with the funeral, or to donate to an organization dear to the family."
+          , "text": "inmemori allows you to inform family and friends about the passing of your loved one, and share the date, location, and details of the ceremony.\nWe can also help you collect funds to help with the funeral, or to donate to an organization dear to the family."
         }
       , "collect": {
             "title": "Celebrate your loved one"
-          , "text": "Invite family members and friends to share their memories together. inmemori is a safe place to post your photos and stories and remember what was so special about your loved one. You can also send the family flowers and donate to charity organizations of their choice to show your support, in just 5 minutes."
+          , "text": "Invite family members and friends to share their memories together. \ninmemori is a safe place to post your photos and stories and remember what was so special about your loved one.\nYou can also send the family flowers and donate to charity organizations of their choice to show your support, in just 5 minutes."
         }
       , "how": {
             "title": "How it works"
@@ -49,6 +49,7 @@
             }
         }
       , "values": {
+            "title": "The power of healing"
             "text": "We strongly believe healing, in the face of loss, should be collective, intimate and elegant."
           , "collective": {
                 "title": "Collective"
