@@ -20,19 +20,17 @@
       , "share": "Partager cette page"
     }
   , "home": {
-        "info": {
+        "intro": {
+            "title": "Bienvenue sur la page de {{firstname, capitalize}}"
+        }
+      , "info": {
             "title": "Informations"
-          , "card1-title": "Veillée funéraire"
-          , "card2-title": "Crémation"
         }
       , "donation": {
             "title": "Faire un don en mémoire de {{firstname, capitalize}}"
-          , "text": "texte"
-          , "cta": "Valider"
-          , "card": {
-                "title": "Faire un don en mémoire de {{firstname, capitalize}}"
-              , "text": "longer text"
-            }
+          , "cta": "Faire un don"
+          , "text-family": "La famille organise une collecte de dons en mémoire de Toto. La somme collectée sera reversée à la famille."
+          , "text-org": "La famille organise une collecte de dons en mémoire de {{firstname}}. La somme collectée sera reversée à {{org}}."
         }
       , "contact": {
             "title": "Contact"

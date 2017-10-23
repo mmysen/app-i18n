@@ -40,9 +40,38 @@
           , "4": {
                 "title": "Support & Donations"
               , "text": "Initiate paid support"
+              , "description": "You can organize a donation drive to support an organization that was close to {{fullname, capitalize}}'s heart, or to help the family pay for funeral expenses. Donations allow the entourage to express their support in a meaningful way."
+              , "countries": [
+                    ["fr", "France (EUR)"]
+                  , ["us", "Etat Unis (US dollar)"]
+                ]
               , "cta-open": "Setup"
               , "cta-close": "Cancel"
               , "cta": "Save"
+              , "label-country": "Country"
+              , "input-country-placeholder": "Choose country"
+              , "label-beneficiary": "Beneficiary"
+              , "choice-beneficiary": [
+                    "Funds will help pay for funeral expenses"
+                  , "Funds will benefit an organistation or charity"
+                ]
+              , "label-message": "Your message"
+              , "input-message-placeholder": "Say something"
+              , "label-org": "Organization"
+              , "input-org-placeholder": "Choose an organiztaion"
+              , "label-templates": "Need inspiration ?"
+              , "templates": {
+                    "family": [
+                        "abc family"
+                      , "def family"
+                      , "ghi family"
+                    ]
+                  , "org": [
+                        "abc charity"
+                      , "def charity"
+                      , "ghi charity"
+                    ]
+                }
             }
         }
 

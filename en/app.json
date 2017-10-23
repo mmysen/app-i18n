@@ -10,29 +10,28 @@
     }
   , "menu": {
         "welcome": "Welcome"
-      , "home": "View information"
-      , "guestbook": "View InMemori book"
+      , "home": "Informations"
+      , "guestbook": "Tribute"
       , "support": "Show your support"
-      , "message": "Write a message"
-      , "donation": "Donations"
-      , "flowers": "Flowers"
-      , "print": "Print your InMemori book"
+      , "message": "Sign the tribute"
+      , "donation": "Donate"
+      , "flowers": "Send flowers"
+      , "print": "Print the tribute"
       , "share": "Share this page"
     }
   , "home": {
-        "info": {
-            "title": "Information"
-          , "card1-title": "Visitation"
-          , "card2-title": "Cremation"
+       "intro": {
+            "title": "Welcome on {{firstname, capitalize}}'s page."
+        }
+      , "info": {
+            "title": "Informations"
         }
       , "donation": {
             "title": "Make a donation in {{firstname, capitalize}}'s memory"
-          , "text": "text"
           , "cta": "Donate now"
-          , "card": {
-                "title": "Make a donation in {{firstname, capitalize}}'s memory"
-              , "text": "longer text"
-            }
+          , "text-family": "La famille organise une collecte de dons en mémoire de Toto. La somme collectée sera reversée à la famille."
+          , "text-org": "La famille organise une collecte de dons en mémoire de {{firstname}}. La somme collectée sera reversée à {{org}}."
+        
         }
       , "contact": {
             "title": "Contact"
