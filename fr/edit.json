@@ -32,7 +32,7 @@
             }
           , "3": {
                 "title": "La Cérémonie"
-              , "text": "Date et endroit de la cérémonie"
+              , "text": "Date et adresse de la cérémonie"
               , "cta-open": "Modifier"
               , "cta-close": "Annuler"
               , "cta": "Enregistrer"
@@ -79,14 +79,14 @@
   , "stats": {
         "title": "Statistiques de la page"
       , "cta": "Cliquez ici"
-      , "text": "pour envoyer le lien de cette page à votre famille, vos amis, vos collègues."
+      , "text": " pour envoyer le lien de cette page à votre famille, vos amis, vos collègues."
       , "view": "vues"
       , "comments": "commentaires"
       , "donations": "dons"
       , "collected": "recueillis"
     }
   , "actions": {
-        "title": "Soyons plusieurs à partager"
+        "title": "Soyons plusieurs"
       , "text": "Gérer les actions et les paramètres avancés de la page"
       , "share": {
             "title": "Partager"
