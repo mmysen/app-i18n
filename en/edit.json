@@ -1,7 +1,7 @@
 {
     "info": {
-        "title": "Edit the page of {{fullname, capitalize}}"
-      , "text": "Manage basic page information by clicking on one of the four categories below"
+        "title": "Edit {{fullname, capitalize}}'s page"
+      , "text": "Manage basic page information by clicking on one of the 4 categories below"
       , "tabs": {
             "1": {
                 "title": "Information"
@@ -14,32 +14,32 @@
               , "label-lastname": "Last name"
               , "input-lastname-placeholder": "Last name"
               , "label-dob": "Birth date"
-              , "input-dob-placeholder": "Birth date"
-              , "label-dod": "Dead on"
-              , "input-dod-placeholder": "Dead on"
+              , "input-dob-placeholder": "mm/dd/yyyy"
+              , "label-dod": "Passed away on"
+              , "input-dod-placeholder": "mm/dd/yyyy"
             }
           , "2": {
-                "title": "Personalization"
-              , "text": "Picture and announcement message"
+                "title": "Make it personal"
+              , "text": "Picture and message to loved ones"
               , "cta-open": "Edit"
               , "cta-close": "Cancel"
               , "cta": "Save"
-              , "label-intro": "Introduction message for {{fullname, capitalize}}'s page"
+              , "label-intro": "Message telling loved ones about {{fullname, capitalize}}'s page"
               , "input-intro-placeholder": "intro"
-              , "label-image": "Upload a profil picture of {{fullname, capitalize}}"
+              , "label-image": "Upload a profile picture of {{fullname, capitalize}}"
               , "cta-image": "Select picture"
               , "cta-image-uploading": "Uploading..."
             }
           , "3": {
                 "title": "Ceremony"
-              , "text": "Date and location of ceremonies"
+              , "text": "Date and location of memorial ceremony"
               , "cta-open": "Edit"
               , "cta-close": "Cancel"
               , "cta": "Save"
             }
           , "4": {
                 "title": "Support & Donations"
-              , "text": "Initiate paid support"
+              , "text": "Initiate donations feature"
               , "cta-open": "Setup"
               , "cta-close": "Cancel"
               , "cta": "Save"
@@ -48,50 +48,50 @@
 
     }
   , "places": {
-        "label-privacy": "Will be held under the privacy of the family"
+        "label-privacy": "Will be held in intimate family setting"
       , "label-date": "Date of {{type, capitalize}}"
       , "placeholder-date": "Date"
       , "label-time": "Time"
       , "placeholder-time": "Time "
       , "label-name": "Location of {{type, capitalize}}"
-      , "placeholder-name": "eg: Saint Jude's Hospital"
+      , "placeholder-name": "eg. Mt. Sinai Mortuary, Grace Cathedral"
       , "label-address": "Address of {{type, capitalize}}"
       , "placeholder-address": "Address"
       , "cta-delete": "Remove"
     }
   , "contacts": {
-        "title": "Point of contact"
+        "title": "Who can visitors contact?"
       , "label-name": "Name"
-      , "placeholder-name": ""
-      , "label-email": "Email"
-      , "placeholder-email": ""
+      , "placeholder-name": "Your name"
+      , "label-email": "E-mail"
+      , "placeholder-email": "Your e-mail"
       , "label-phone": "Phone"
-      , "placeholder-phone": ""
+      , "placeholder-phone": "xxx xxx xxxx"
       , "cta-delete": "Remove"
-      , "cta-add": "Add new"
+      , "cta-add": "Add"
     }
   , "messages": {
         "title": "Manage messages"
       , "text": "View and manage all messages posted on the page"
-      , "empty": "There are no messages yet !"
+      , "empty": "There are no messages yet!"
       , "cta-delete": "Delete message"
     }
   , "stats": {
         "title": "Page statistics"
       , "cta": "Click here"
       , "text": " to send the link of this page to family, friends and colleagues."
-      , "view": "visits"
+      , "view": "views"
       , "comments": "comments"
       , "donations": "donations"
       , "collected": "collected"
     }
   , "actions": {
-        "title": "Action center"
+        "title": "Sharing memories & responsibilities"
       , "text": "Manage advanced page actions and settings"
       , "share": {
             "title": "Share"
-          , "sms": "Share link via SMS"
-          , "email": "Share link via Email"
+          , "sms": "Share link via text message"
+          , "email": "Share link via e-mail"
           , "copy": "Copy link"
         }
       , "manage": {
