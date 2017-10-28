@@ -40,9 +40,59 @@
           , "4": {
                 "title": "Support & Donations"
               , "text": "Initiate paid support"
+              , "description": "You can organize a donation drive to support an organization that was close to {{fullname, capitalize}}'s heart, or to help the family pay for funeral expenses. Donations allow the entourage to express their support in a meaningful way."
+              , "countries": [
+                    ["fr", "France (EUR)"]
+                  , ["us", "United States (US dollar)"]
+                ]
               , "cta-open": "Setup"
               , "cta-close": "Cancel"
+              , "cta-init": "Activate"
+              , "cta-end": "Close"
+              , "cta-pause": "Desactivate"
               , "cta": "Save"
+              , "label-country": "Country"
+              , "input-country-placeholder": "Choose country"
+              , "label-beneficiary": "Beneficiary"
+              , "choice-beneficiary": [
+                    "Funds will help pay for funeral expenses"
+                  , "Funds will benefit an organistation or charity"
+                ]
+              , "label-message": "Your message"
+              , "input-message-placeholder": "Say something"
+              , "label-org": "Organization"
+              , "input-org-placeholder": "Choose an organiztaion"
+              , "label-templates": "Need inspiration ?"
+              , "templates": {
+                    "family": [
+                        "abc family"
+                      , "def family"
+                      , "ghi family"
+                    ]
+                  , "org": [
+                        "abc charity"
+                      , "def charity"
+                      , "ghi charity"
+                    ]
+                }
+              , "text-status": "À ce jour le montant des dons s'eleve à <strong>{{total}}</strong>. Vous pouvez à tout moment désactiver ou clôturer la collecte pour que les fonds vous soit reverser."
+              , "label-person": "Bénéficaire"
+              , "label-firstname": "Prénom"
+              , "input-firstname-placeholder": "Prénom"
+              , "label-lastname": "Nom"
+              , "input-lastname-placeholder": "Nom"
+              , "label-iban": "Account number"
+              , "input-iban-placeholder": "Account number"
+              , "label-routing": "Routing number"
+              , "input-routing-placeholder": "Routing number"
+              , "label-dob": "Date of birth"
+              , "input-dob-placeholder": "Date of birth"
+              , "label-address": "Address"
+              , "input-address-placeholder": "Address"
+              , "input-city-placeholder": "City"
+              , "input-zipcode-placeholder": "Zipcode"
+              , "title-success": "Fundraising has ended."
+              , "text-success": "blablba"
             }
         }
 

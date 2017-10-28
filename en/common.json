@@ -5,10 +5,11 @@
       , "legal": "Legal notice"
     }
   , "lang": {
-      "fr": "Francais",
-      "en": "Anglais"
+      "fr": "Français",
+      "en": "English"
     }
   , "fulldate": "LLL"
+  , "show-map": "show on google map"
   , "types": {
         "ceremony": "Ceremony"
       , "contemplation": "Contemplation"

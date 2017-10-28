@@ -1,14 +1,15 @@
 {
     "links": {
         "faq": "FAQ"
-      , "terms": "Termes & conditions"
+      , "terms": "CGU"
       , "legal": "Mentions légales"
     }
   , "lang": {
-      "fr": "Francais",
-      "en": "Anglais"
+      "fr": "Français",
+      "en": "English"
     }
   , "fulldate": "dddd D MMMM YYYY, HH:mm"
+  , "show-map": "voir sur google map"
   , "types": {
         "ceremony": "Cérémonie"
       , "contemplation": "Recueillement"
