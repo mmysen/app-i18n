@@ -13,7 +13,7 @@
 
   , "signup": {
         "title-v0": "Rassembler. Célébrer.\n Se souvenir."
-      , "text-v0": "Vous venez de perdre un proche.\n Créez un espace sécurisé afin de rassembler son entourage et lui rendre hommage.\nSi vous apprenez qu’une page inmemori a été créée pour un proche, n’hésitez pas à contacter la famille ou des amis afin qu’ils vous communiquent le lien pour que vous puissiez y accéder."
+      , "text-v0": "Vous venez de perdre un proche.\n Créez un espace sécurisé afin de rassembler son entourage et lui rendre hommage."
       , "title-v1": "Créer une page d'hommage"
       , "text-v1": "Commencez par nous en dire plus sur votre proche :"
       , "input-firstname-placeholder": "Prénom"
