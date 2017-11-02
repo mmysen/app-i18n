@@ -16,4 +16,5 @@
       , "interment": "Enterrement"
       , "cremation": "Crémation"
     }
+  , "toast-success": "Enregistrement terminé !"
 }

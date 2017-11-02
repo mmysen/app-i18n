@@ -63,8 +63,7 @@
     }
   , "memories": {}
   , "message": {
-        "title": "Ecrire un message"
-      , "input-fullname-placeholder": "Vos prénom et nom"
+        "input-fullname-placeholder": "Vos prénom et nom"
       , "input-email-placeholder": "Adresse email"
       , "input-email-info": "Renseignez votre email pour que la famille puisse vous répondre."
       , "input-message-placeholder": "Écrire un message pour la famille ou partager un souvenir avec {{firstname, capitalize}}..."
@@ -72,7 +71,7 @@
       , "cta-image": "Joindre une photo"
       , "cta-image-uploading": "Télécharger..."
       , "steps": {
-            "0": {}
+            "0": { "title": "Que souhaitez vous partager ?" }
           , "1": { "title": "Condoléances", "text": "bla bla" }
           , "2": { "title": "Souvenir", "text": "bla bla" }
           , "3": { "title": "Photos", "text": "bla bla" }

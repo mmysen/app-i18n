@@ -16,4 +16,5 @@
       , "interment": "Interment"
       , "cremation": "Cremation"
     }
+  , "toast-success": "Data saved !"
 }

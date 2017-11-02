@@ -64,12 +64,20 @@
   , "memories": {}
   , "message": {
         "title": "Write a message"
-      , "input-fullname-placeholder": "Your first and last name(s)"
+    }
+  , "message": {
+        "input-fullname-placeholder": "Your first and last name(s)"
       , "input-email-placeholder": "Email address"
       , "input-message-placeholder": "Write a message for the family or share a memory of {{firstname, capitalize}}..."
       , "cta": "Share on the InMemori book"
       , "cta-image": "Add picture"
       , "cta-image-uploading": "Uploading..."
+      , "steps": {
+            "0": { "title": "Choose something to share ?" }
+          , "1": { "title": "Condoléances", "text": "bla bla" }
+          , "2": { "title": "Souvenir", "text": "bla bla" }
+          , "3": { "title": "Photos", "text": "bla bla" }
+        }
     }
   , "donation": {
         "title": "New donation"

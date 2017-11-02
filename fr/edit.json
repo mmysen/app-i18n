@@ -24,11 +24,17 @@
               , "cta-open": "Modifier"
               , "cta-close": "Annuler"
               , "cta": "Enregistrer"
-              , "label-intro": "Message d'introduction à la page de {{fullname, capitalize}}"
+              , "label-intro": "Message d'introduction"
               , "input-intro-placeholder": "intro"
-              , "label-image": "Télécharger une photo de profil de {{fullname, capitalize}}"
-              , "cta-image": "Sélectionner une photo"
+              , "label-image": "Télécharger une photo de profil"
+              , "cta-image": "Choisir une photo"
               , "cta-image-uploading": "Téléchargement en cours..."
+              , "label-templates": "Need inspiration ?"
+              , "templates": [
+                    "text 1"
+                  , "text 2"
+                  , "text 3"
+                ]
             }
           , "3": {
                 "title": "La Cérémonie"
