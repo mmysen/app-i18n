@@ -154,7 +154,7 @@ L’Editeur est également dégagé de toute responsabilité en cas de force maj
 
 Les données à caractère personnel que l’Editeur collecte auprès des Utilisateurs comprennent notamment :
 
-ses noms et prénoms, son âge, sn pays de résidence et sa nationalité ;
+ses noms et prénoms, son âge, son pays de résidence et sa nationalité ;
 son adresse de courrier électronique ;
 son adresse IP (adresse virtuelle attribuée à l’appareil connecté sur internet).  
 
