@@ -17,4 +17,7 @@
       , "cremation": "Crémation"
     }
   , "toast-success": "Enregistrement terminé !"
+  , "confirm-areusure": "Êtes vous sûr ?"
+  , "yes": "Oui"
+  , "no": "Non"
 }

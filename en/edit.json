@@ -124,7 +124,7 @@
         "title": "Manage messages"
       , "text": "View and manage all messages posted on the page"
       , "empty": "There are no messages yet!"
-      , "cta-delete": "Delete message"
+      , "cta-delete": "Delete"
     }
   , "stats": {
         "title": "Page statistics"

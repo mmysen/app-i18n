@@ -29,8 +29,8 @@
       , "donation": {
             "title": "Faire un don"
           , "cta": "Faire un don"
-          , "text-family": "La famille organise une collecte de dons en mémoire de Toto. La somme collectée sera reversée à la famille."
-          , "text-org": "La famille organise une collecte de dons en mémoire de {{firstname}}. La somme collectée sera reversée à {{org}}."
+          , "text-org": "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons au profit de <strong>{{org}}</strong>."
+          , "text-family": "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons."
         }
       , "contact": {
             "title": "Contact"
@@ -45,7 +45,8 @@
             }
           , "donation": {
                 "title": "Faire un don"
-              , "text": "La famille organise une collecte de dons en mémoire de {{firstname, capitalize}}. La somme collectée sera reversée à l'hôpital pour enfants de  St Jude."
+              , "text-family": "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons."
+              , "text-org": "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons au profit de {{org}}."
             }
           , "share": {
                 "title": "Partager cette page"

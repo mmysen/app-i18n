@@ -17,4 +17,7 @@
       , "cremation": "Cremation"
     }
   , "toast-success": "Data saved !"
+  , "confirm-areusure": "Are you sure ?"
+  , "yes": "Yes"
+  , "no": "No"
 }

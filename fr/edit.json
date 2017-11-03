@@ -130,7 +130,7 @@
         "title": "Gérer les messages"
       , "text": "Voir et gérer tous les messages publiés sur la page"
       , "empty": "Il n'y en a pas, encore !"
-      , "cta-delete": "Supprimer le message"
+      , "cta-delete": "Supprimer"
     }
   , "stats": {
         "title": "Statistiques de la page"
