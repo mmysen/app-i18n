@@ -1,6 +1,6 @@
 {
     "info": {
-        "title": "Modifier la page de {{fullname, capitalize}}"
+        "title": "Modifier la page de {{fullname}}"
       , "text": "Gérer la page en cliquant sur une des quatre catégories ci-dessous :"
       , "tabs": {
             "1": {
@@ -46,7 +46,7 @@
           , "4": {
                 "title": "Support & Donations"
               , "text": "Initiate paid support"
-              , "description": "You can organize a donation drive to support an organization that was close to {{fullname, capitalize}}'s heart, or to help the family pay for funeral expenses. Donations allow the entourage to express their support in a meaningful way."
+              , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or to help the family pay for funeral expenses. Donations allow the entourage to express their support in a meaningful way."
               , "countries": [
                     ["fr", "France (EUR)"]
                   , ["us", "États-Unis (US dollar)"]

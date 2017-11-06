@@ -1,6 +1,6 @@
 {
     "header": {
-        "title": "{{fullname, capitalize}}"
+        "title": "{{fullname}}"
       , "titleOf": "of"
       , "cta": "Share this page"
       , "cta-right": "to friends and family."
@@ -100,17 +100,17 @@
   , "print": {}
   , "delete": {
         "title": "Are you sure ?"
-      , "text": "You are about to delete {{fullname, capitalize}} memorial page."
+      , "text": "You are about to delete {{fullname}} memorial page."
       , "cta": "Delete this page"
     }
   , "share": {
         "link": {
             "title": "Send this page"
-          , "text": "Send this page to family, friends, and everyone who cared about {{fullname, capitalize}}, by sending them this link:"
+          , "text": "Send this page to family, friends, and everyone who cared about {{fullname}}, by sending them this link:"
         }
       , "admin": {
             "title": "Share admin page"
-          , "text": "Share access to {{fullname, capitalize}} page, by sending this link to an administrator:"
+          , "text": "Share access to {{fullname}} page, by sending this link to an administrator:"
         }
       , "tab-link": {
             "text": "Copy link"

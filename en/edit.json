@@ -1,6 +1,6 @@
 {
     "info": {
-        "title": "Edit {{fullname, capitalize}}'s page"
+        "title": "Edit {{fullname}}'s page"
       , "text": "Manage basic page information by clicking on one of the 4 categories below"
       , "tabs": {
             "1": {
@@ -24,9 +24,9 @@
               , "cta-open": "Edit"
               , "cta-close": "Cancel"
               , "cta": "Save"
-              , "label-intro": "Message telling loved ones about {{fullname, capitalize}}'s page"
+              , "label-intro": "Message telling loved ones about {{fullname}}'s page"
               , "input-intro-placeholder": "intro"
-              , "label-image": "Upload a profile picture of {{fullname, capitalize}}"
+              , "label-image": "Upload a profile picture of {{fullname}}"
               , "cta-image": "Select picture"
               , "cta-image-uploading": "Uploading..."
             }
@@ -40,7 +40,7 @@
           , "4": {
                 "title": "Support & Donations"
               , "text": "Initiate paid feature"
-              , "description": "You can organize a donation drive to support an organization that was close to {{fullname, capitalize}}'s heart, or to help the family pay for funeral expenses. Donations allow the entourage to express their support in a meaningful way."
+              , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or to help the family pay for funeral expenses. Donations allow the entourage to express their support in a meaningful way."
               , "countries": [
                     ["fr", "France (EUR)"]
                   , ["us", "United States (US dollar)"]

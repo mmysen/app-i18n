@@ -1,6 +1,6 @@
 {
     "header": {
-        "title": "{{fullname, capitalize}}"
+        "title": "{{fullname}}"
       , "titleOf": ""
       , "cta": "Envoyer cette page"
       , "cta-right": "à vos amis et à votre famille."
@@ -98,17 +98,17 @@
   , "print": {}
   , "delete": {
         "title": "Êtes vous sûr ?"
-      , "text": "Vous êtes sur le point de supprimer la page en hommage à {{fullname, capitalize}}."
+      , "text": "Vous êtes sur le point de supprimer la page en hommage à {{fullname}}."
       , "cta": "Supprimer la page"
     }
   , "share": {
         "link": {
             "title": "Envoyer cette page"
-          , "text": "Partager cette page avec la famille, les amis, et toutes les personnes qui tenaient à {{fullname, capitalize}}, en leur envoyant ce lien:"
+          , "text": "Partager cette page avec la famille, les amis, et toutes les personnes qui tenaient à {{fullname}}, en leur envoyant ce lien:"
         }
       , "admin": {
             "title": "Partager la page d'administration"
-          , "text": "Partager l'accès à la page de {{fullname, capitalize}}, en envoyant ce lien à un administrateur:"
+          , "text": "Partager l'accès à la page de {{fullname}}, en envoyant ce lien à un administrateur:"
         }
       , "tab-link": {
             "text": "Copier le lien"
