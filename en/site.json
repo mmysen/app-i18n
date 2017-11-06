@@ -50,7 +50,7 @@
         }
       , "values": {
             "title": "The power of healing"
-          , "text": "We believe healing, in the face of loss, should be collective, intimate and elegant. We want to create a space to celebrate and remember life."
+          , "text": "We believe healing, in the face of loss, should be collective, intimate and graceful. We want to create a space to celebrate and remember life."
 
           , "collective": {
                 "title": "Collective"
@@ -60,7 +60,7 @@
                 "title": "Intimate"
               , "text": "Pages are private. Only those who received the link have access to it. Images and photographs you share will not appear in search results."
             }
-          , "elegant": {
+          , "graceful": {
                 "title": "Graceful"
               , "text": "An inmemori page is graceful way to honor your loved one’s life, spirit and memory. Its simple design further reveals the beauty of the stories and photos you share."
             }
