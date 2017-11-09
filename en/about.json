@@ -2,18 +2,18 @@
 
     "mission": {
         "title": "Our purpose"
-      , "text": "Our goal is to provide every family a place of comfort, support and sharing.\n\nEveryday, condolence messages, incredible memories and transcendent testimonials are shared using inmemori. They remind us that sharing our experiences with one another, seeing our loved one through someone else's eyes is life-giving, in a moment of what seems like vast emptiness.\n\nWe have dedicated ourselves to providing a free service that families can use to mourn, to heal, and to celebrate. \n\nJust in the past year, we have supported 30,000 people. With inmemori, we hope to reveal the essentials of life, celebrating the moments that mark us, those that make us human."
+      , "text": "Our goal is to provide every family a place of comfort, support and sharing.\n\nEveryday, condolence messages, incredible memories and transcendent testimonials are shared using InMemori. They remind us that sharing our experiences with one another, seeing our loved one through someone else's eyes is life-giving, in a moment of what seems like vast emptiness.\n\nWe have dedicated ourselves to providing a free service that families can use to mourn, to heal, and to celebrate. \n\nJust in the past year, we have supported 30,000 people. With InMemori, we hope to reveal the essentials of life, celebrating the moments that mark us, those that make us human."
     }
 
   , "story": {
         "title": "How we came about"
       , "text": [
             ["January 2016\nParis", "Clémentine decides to support grieving families as they organize the funeral services. While simultaneously working as the CMO of a French publicly traded company, Clémentine spent time with families who've suffered a loss to best understand how she could comfort them."]
-          , ["July 2016\nParis", "inmemori is born."]
-          , ["January 2017\nParis", "Constance joins the team. She speaks with families everyday, answering their questions and helping them make full use of inmemori."]
-          , ["February 2017\nParis", "Families and their loved ones, grateful for inmemori and its role in their healing, become its ambassadors. Through word of mouth, inmemori was able to comfort 30,000 people in their moment of loss."]
-          , ["March 2017\nSan Francisco", "inmemori is selected to participate in an acceleration program in Silicon Valley, The Refiners. inmemori goes global."]
-          , ["September 2017\nParis - NYC", "Offices in Paris and NYC are opened. The team consists of 5 people dedicated to fulfilling inmemori's purpose."]
+          , ["July 2016\nParis", "InMemori is born."]
+          , ["January 2017\nParis", "Constance joins the team. She speaks with families everyday, answering their questions and helping them make full use of InMemori."]
+          , ["February 2017\nParis", "Families and their loved ones, grateful for InMemori and its role in their healing, become its ambassadors. Through word of mouth, InMemori was able to comfort 30,000 people in their moment of loss."]
+          , ["March 2017\nSan Francisco", "InMemori is selected to participate in an acceleration program in Silicon Valley, The Refiners. InMemori goes global."]
+          , ["September 2017\nParis - NYC", "Offices in Paris and NYC are opened. The team consists of 5 people dedicated to fulfilling InMemori's purpose."]
         ]
     }
 
@@ -21,16 +21,16 @@
         "title": "Our values"
       , "text": "Our purpose is to reveal the essentials of life. We seek to create a collective consciousness through memory. "
       , "items": [
-            ["Sensitivity", "We are inherently conscious of the complexity of this period for families and the need for utmost delicacy. You are at the heart of inmemori's mission."]
-          , ["Intimacy", "inmemori provides a safe space for people to share in, protecting words, photos and memories from uninvited eyes."]
-          , ["Universality", "inmemori is for all ages, cultures and creeds. Loss and love touch us all, so should inmemori."]
+            ["Sensitivity", "We are inherently conscious of the complexity of this period for families and the need for utmost delicacy. You are at the heart of InMemori's mission."]
+          , ["Intimacy", "InMemori provides a safe space for people to share in, protecting words, photos and memories from uninvited eyes."]
+          , ["Universality", "InMemori is for all ages, cultures and creeds. Loss and love touch us all, so should InMemori."]
         ]
     }
 
   , "press": {
         "title": "Press"
       , "title2": "Latest releases"
-      , "text": "We invite journalists to contact inmemori's PR team for all interview and information requests.\n\nMedia contact :\nBrunswick, Hugues Boëton\n<a href='tel:+33153968383'>+33 153.968.383</a> / <a href='tel:+33679992715'>+33 679.992.715</a>\n<a href='mailto:inmemori@brunswickgroup.com'>inmemori@brunswickgroup.com</a>"
+      , "text": "We invite journalists to contact InMemori's PR team for all interview and information requests.\n\nMedia contact :\nBrunswick, Hugues Boëton\n<a href='tel:+33153968383'>+33 153.968.383</a> / <a href='tel:+33679992715'>+33 679.992.715</a>\n<a href='mailto:inmemori@brunswickgroup.com'>inmemori@brunswickgroup.com</a>"
       , "items": [
             ["FORBES", "September 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
         
@@ -65,7 +65,7 @@
   , "team": {
 
         "title": "Who are we ?"
-      , "text": "At the heart of inmemori is a team that unites beautiful, soulful energy to create life out of loss."
+      , "text": "At the heart of InMemori is a team that unites beautiful, soulful energy to create life out of loss."
 
       , "items": [
         { 
@@ -102,7 +102,7 @@
             "name": "Eva Kerner"
           , "role": "VP Business Development"
           , "bio": "A UCSB, Sciences Po and LSE grad, Eva worked in PR and digital strategy in Paris. In SF, she worked with Fabernovel to develop a corporate innovation lab in the insurance space. Eva heard Clémentine's pitch in SF and the rest is history."
-          , "intro": "It's said that we die twice. Once when we take our last breath, and the second, when someone utters out name for the last time. With inmemori, I can help make sure people's names, memories and stories live on."
+          , "intro": "It's said that we die twice. Once when we take our last breath, and the second, when someone utters out name for the last time. With InMemori, I can help make sure people's names, memories and stories live on."
           , "pic": "team.eva"
           , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
           , "twitter": ""
