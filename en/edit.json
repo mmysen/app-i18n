@@ -43,7 +43,7 @@
               , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or to help the family pay for funeral expenses. Donations allow the entourage to express their support in a meaningful way."
               , "countries": [
                     ["fr", "France (EUR)"]
-                  , ["us", "United States (US dollar)"]
+                  , ["us", "United States (USD)"]
                 ]
               , "cta-open": "Setup"
               , "cta-close": "Cancel"
@@ -75,12 +75,12 @@
                       , "ghi charity"
                     ]
                 }
-              , "text-status": "À ce jour le montant des dons s'eleve à <strong>{{total}}</strong>. Vous pouvez à tout moment désactiver ou clôturer la collecte pour que les fonds vous soit reverser."
-              , "label-person": "Bénéficaire"
-              , "label-firstname": "Prénom"
-              , "input-firstname-placeholder": "Prénom"
-              , "label-lastname": "Nom"
-              , "input-lastname-placeholder": "Nom"
+              , "text-status": "To date, the total funds raised is <strong>{{total}}</strong>. You can disactivate or close the fundraiser to hold the funds."
+              , "label-person": "Beneficiary"
+              , "label-firstname": "First name"
+              , "input-firstname-placeholder": "First name"
+              , "label-lastname": "Last name"
+              , "input-lastname-placeholder": "Last name"
               , "label-iban": "Account number"
               , "input-iban-placeholder": "Account number"
               , "label-routing": "Routing number"
