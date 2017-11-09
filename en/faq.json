@@ -2,22 +2,22 @@
   "faq": [
 
     {
-      "section": "Create a page on inmemori",
+      "section": "Create a page on InMemori",
       "qa": [
         {
-          "q": "inmemori ?",
-          "r": "To discover inmemori’s mission statement and our values, take a look at our<a href='/about'>About Us</a> page."
+          "q": "InMemori ?",
+          "r": "To discover InMemori’s mission statement and our values, take a look at our<a href='/about'>About Us</a> page."
         },
         {
-          "q": "What’s an inmemori page for?",
-          "r": "With inmemori, you have access to a private page on which you can: \n- quickly inform your loved ones about the time and whereabouts of the funeral ceremony,\n- send and save condolence messages and memories shared with your close ones,\n- organize a fundraiser in the deceased’s honor, if you’d like, and/or allow your close ones to send flowers to the ceremony."
+          "q": "What’s an InMemori page for?",
+          "r": "With InMemori, you have access to a private page on which you can: \n- quickly inform your loved ones about the time and whereabouts of the funeral ceremony,\n- send and save condolence messages and memories shared with your close ones,\n- organize a fundraiser in the deceased’s honor, if you’d like, and/or allow your close ones to send flowers to the ceremony."
         },
         {
-          "q": "How can I make an inmemori page?",
+          "q": "How can I make an InMemori page?",
           "r": "With just the name, date of death and your e-mail address, you can create a page. Just click <a href='/cta-create'>here</a> and get started.\nCreating a page shouldn’t take more than 5 minutes\n\nOnce the page has been created, you will have access to your management dashboard, on which you can:\n- manage the page (see how many people have visited it, how many posts have been shared),\n- set up a fundraiser, either for a charity organization of your choice or for the family,\n- print the memory book, compiling all the memories and messages shared,\n- thank those who have contributed to the page, using the contact list available on the dashboard."
         },
         {
-          "q": "Who can create an inmemori page?",
+          "q": "Who can create an InMemori page?",
           "r": "Everyone and anyone with access to the internet can create a page, a family member, a friend, a colleague...\nJust provide the first and last name of the deceased, their date of death and your email address. Then click <a href='/cta-create'>here</a>."
         },
         {
@@ -34,19 +34,19 @@
         },
         {
           "q": "How can I find a page of someone I know who has passed away?",
-          "r": "Families’ intimacy is at the heart of the work we do at inmemori. This is why our pages are private. Only those who have received a link to the page can access it.  If you know that a page has been created for someone you know, feel free to contact the family or their friends and they will happily send you the link so you can access the page."
+          "r": "Families’ intimacy is at the heart of the work we do at InMemori. This is why our pages are private. Only those who have received a link to the page can access it.  If you know that a page has been created for someone you know, feel free to contact the family or their friends and they will happily send you the link so you can access the page."
         },
         {
-          "q": "How much does inmemori cost?",
-          "r": "inmemori is free. We know how transactional, how lifeless planning & attending funeral services can be, with no time or space left to begin to heal. That's why we have dedicated ourselves to providing a free service that families can use to begin that life-giving process of mourning, healing, celebrating.\nWe hope that any and all families in mourning can use inmemori to find a semblance of comfort through this difficult period."
+          "q": "How much does InMemori cost?",
+          "r": "InMemori is free. We know how transactional, how lifeless planning & attending funeral services can be, with no time or space left to begin to heal. That's why we have dedicated ourselves to providing a free service that families can use to begin that life-giving process of mourning, healing, celebrating.\nWe hope that any and all families in mourning can use InMemori to find a semblance of comfort through this difficult period."
         }
       ]
     },
     {
-      "section": "Managing an inmemori page",
+      "section": "Managing an InMemori page",
       "qa": [
         {
-          "q": "How do I manage an inmemori page?",
+          "q": "How do I manage an InMemori page?",
           "r": "If you are a page administrator, you have received a link via text message or email that redirects you to the admin dashboard.\nThe dashboard allows you to personalize and bring the page to life, such as:\n- adding a photo of the deceased,\n- writing in a note to those who will access the site, announcing the death and inviting them to share in your community,\n- informing users of the funeral ceremony, where and when it will take place,\n- activating the donation feature, if you would like to raise funds for a particular cause or organization.\nYou can always add other administrators, who will also be able to access the admin dashboard and manage the page."
         },
         {
@@ -54,20 +54,20 @@
           "r": "If you’re the page administrator, you can delete any message or photo, at any time, from the admin dashboard."
         },
         {
-          "q": "Can I delete an inmemori page?",
-          "r": "If you’re the page administrator, you can archive a page or delete it whenever you deem appropriate.\nPlease know that you can keep a physical trace of an inmemori page, in addition to a digital one. You can download a memory book but also order one to be printed and delivered to you, as can your loved ones."
+          "q": "Can I delete an InMemori page?",
+          "r": "If you’re the page administrator, you can archive a page or delete it whenever you deem appropriate.\nPlease know that you can keep a physical trace of an InMemori page, in addition to a digital one. You can download a memory book but also order one to be printed and delivered to you, as can your loved ones."
         },
         {
-          "q": "What happens to an inmemori page over time?",
+          "q": "What happens to an InMemori page over time?",
           "r": "Well, there are three possibilities:\n- you can keep it online, allowing your close ones to return to it at their leisure, to read through previous messages or leave new ones, continue to pay tribute to the memory of their loved one,\n- archive it, saving the photos and messages but blocking user access,\n- delete the page.\nGrieving is very personal, which is why we want you leave you the option of managing the page as you see fit."
         }
       ]
     },
     {
-      "section": "Contributing to an inmemori page",
+      "section": "Contributing to an InMemori page",
       "qa": [
         {
-          "q": "Can I post multiple photos on an inmemori page?",
+          "q": "Can I post multiple photos on an InMemori page?",
           "r": "Yes! It’s very simple.\nJust click the “Sign the book” button, choose the “Photos” option and add as many photos as you’d like.\nYou can even attach multiple photos to the end of a condolence message or a memory to illustrate your thoughts."
         },
         {
@@ -83,15 +83,15 @@
           "r": "The donated funds are wired to the page administrator who closes the donation intake’s bank account. The page admin simply needs to provide their birthdate and their bank account information (routing number and account information).\nIt is their responsibility to send the funds collected to the organization of their choice."
         },
         {
-          "q": "What fees, if any, are charged on money donated on inmemori?",
-          "r": "<u>Money donated to US charities:</u>\nDonations raised for US charities are subject to x% fees:\n- x% covers the banking fees that secure the payment,\n- x% covers the fees charged by payment clearing houses.\n\n<u>Money donated to European charities</u>\n Donations raised for European charities are subject to x% fees:\n- x% covers the banking fees that secure the payment,\n- x% covers the fees charged by payment clearing houses.\n\n<u>Money donated to a personal cause:</u>\nFor every donation made for a personal cause, inmemori will charge x% to cover the banking fees that secure the payment and those charged by payment clearing houses."
+          "q": "What fees, if any, are charged on money donated on InMemori?",
+          "r": "<u>Money donated to US charities:</u>\nDonations raised for US charities are subject to x% fees:\n- x% covers the banking fees that secure the payment,\n- x% covers the fees charged by payment clearing houses.\n\n<u>Money donated to European charities</u>\n Donations raised for European charities are subject to x% fees:\n- x% covers the banking fees that secure the payment,\n- x% covers the fees charged by payment clearing houses.\n\n<u>Money donated to a personal cause:</u>\nFor every donation made for a personal cause, InMemori will charge x% to cover the banking fees that secure the payment and those charged by payment clearing houses."
         },
         {
-          "q": "How does the non-profit organization receive the donations collected on inmemori?",
+          "q": "How does the non-profit organization receive the donations collected on InMemori?",
           "r": "The page administrator whose responsibility it is to close the fundraiser will receive the total amount of funds raised, minus any fees charged, on their bank account.\nThey simply have to transfer the funds to the non-profit they mentioned on the page, by check or wire transfer."
         },
         {
-          "q": "Are donations made on an inmemori page tax-deductible?",
+          "q": "Are donations made on an InMemori page tax-deductible?",
           "r": "Yes, if you donate money or property to a qualified organization, your donation can be deducted by filing Form 1040<a href='http://www.irs.gov/pub/irs-pdf/f1040sa.pdf</a> and itemizing the deduction on Schedule A. If you do not itemize your deduction using Schedule A, you cannot deduct your charitable contribution.\n Qualified organizations include nonprofit groups that are religious, charitable, educational, scientific or literary in purpose, and nonprofit groups that work to prevent cruelty to children or animals.\nTo qualify for Nonprofit status, your corporation must be formed to benefit:\nthe public,\na specific group of individuals,\nthe membership of the nonprofit."
         },
         {
@@ -104,12 +104,12 @@
       "section": "Other Questions",
       "qa": [
         {
-          "q": "You’d like to create an inmemori page or to contribute to a page but have some questions?",
-          "r": "Just contact Constance or our team. We are here to help families and their close ones whenever and wherever they are.: \nBy email : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \nBy phone, all days of the week, anytime, call the number found at the bottom of the email or text you’ve received from inmemori.\nYour serenity is at the heart of what we do. We are here for you, 24/7."
+          "q": "You’d like to create an InMemori page or to contribute to a page but have some questions?",
+          "r": "Just contact Constance or our team. We are here to help families and their close ones whenever and wherever they are.: \nBy email : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \nBy phone, all days of the week, anytime, call the number found at the bottom of the email or text you’ve received from InMemori.\nYour serenity is at the heart of what we do. We are here for you, 24/7."
         },
         {
           "q": "If you like what we do, here’s how you can help:",
-          "r": " We hope that inmemori can comfort any and all families that are mourning the loss of a loved ones. We need your help to make sure families know inmemori is a resource available to them. You can do this by:\n- Talking about inmemori to your friends and family, even coworkers, \n- Sending us an e-mail with your recommendations on how we can do better, \n- but thoughts and feedback on your experience are also welcome!\n<em>(How did this help you or your close ones? How did it make you feel?)</em>,\n- ...and, finally...following us on social media. We will be animating grief support workshops and posting great articles so tune in… <a href='https://www.facebook.com/Inmemori-608021039394765/'><i class='fa fa-facebook-square mr-1'></i>US</a> <a href='https://twitter.com/inmemori_fr?lang=en&lang=en'><i class='fa fa-twitter-square mr-1'></i></a> <a href='https://www.linkedin.com/company/18116192/'><i class='fa fa-linkedin-square mr-1'></i></a>\n\nWe are always here for you, don’t hesitate to contact us here: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
+          "r": " We hope that InMemori can comfort any and all families that are mourning the loss of a loved ones. We need your help to make sure families know InMemori is a resource available to them. You can do this by:\n- Talking about InMemori to your friends and family, even coworkers, \n- Sending us an e-mail with your recommendations on how we can do better, \n- but thoughts and feedback on your experience are also welcome!\n<em>(How did this help you or your close ones? How did it make you feel?)</em>,\n- ...and, finally...following us on social media. We will be animating grief support workshops and posting great articles so tune in… <a href='https://www.facebook.com/InMemori-608021039394765/'><i class='fa fa-facebook-square mr-1'></i>US</a> <a href='https://twitter.com/inmemori_fr?lang=en&lang=en'><i class='fa fa-twitter-square mr-1'></i></a> <a href='https://www.linkedin.com/company/18116192/'><i class='fa fa-linkedin-square mr-1'></i></a>\n\nWe are always here for you, don’t hesitate to contact us here: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
         },
         {
           "q": "Love the vision and our values? Join the team!",
@@ -119,3 +119,4 @@
     }
   ]
 }
+ 
