@@ -138,7 +138,7 @@
   , "actions": {
         "title": "Administration de la page"
       , "share": {
-          , "email": "Partager la page"
+          "email": "Partager la page"
           , "admin": "Ajouter un administrateur"
           , "delete": "Supprimer la page"
         }
