@@ -34,7 +34,7 @@
         }
       , "contact": {
             "title": "Contact"
-          , "text": "Cette page a été créée par la famille de {{firstname, capitalize}}. Si vous avez des questions, merci de contacter les personnes mentionnées ci-dessous :"
+          , "text": "Cette page a été créée par la famille de {{firstname, capitalize}}. \nSi vous avez des questions, merci de contacter les personnes mentionnées ci-dessous :"
         }
       , "support": {
             "title": "Rendre hommage à {{firstname, capitalize}}"
