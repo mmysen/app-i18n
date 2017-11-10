@@ -12,7 +12,7 @@
         "welcome": "Consulter"
       , "home": "Informations"
       , "guestbook": "Recueil"
-      , "support": "Soutenir"
+      , "support": "Rendre hommage"
       , "message": "Signer le recueil"
       , "donation": "Faire un don"
       , "flowers": "Offrir des fleurs"
@@ -34,14 +34,14 @@
         }
       , "contact": {
             "title": "Contact"
-          , "text": "Cette page a été créée par la famille de {{firstname, capitalize}}. Si vous avez des questions, merci de contacter les personnes mentionnées ci-dessous:"
+          , "text": "Cette page a été créée par la famille de {{firstname, capitalize}}. Si vous avez des questions, merci de contacter les personnes mentionnées ci-dessous :"
         }
       , "support": {
-            "title": "Soutenir la famille de {{firstname, capitalize}}"
-          , "text": "Voici 3 manières de soutenir la famille de {{firstname, capitalize}}:"
+            "title": "Rendre hommage à {{firstname, capitalize}}"
+          , "text": "Voici 3 manières de rendre hommage à {{firstname, capitalize}} :"
           , "guestbook": {
                 "title": "Signer le recueil"
-              , "text": "Envoyer vos condoléances à la famille. Partager un souvenir avec {{firstname, capitalize}}. Poster une photo."
+              , "text": "Envoyer vos condoléances à la famille. \nPartager un souvenir avec {{firstname, capitalize}}. \nPoster une photo."
             }
           , "donation": {
                 "title": "Faire un don"
@@ -60,7 +60,7 @@
       , "tab-pictures": "{{count}} Photos"
       , "cta-add": "Partager une photo"
       , "cta-message": "Ecrire un message"
-      , "no-result": "Pas encore de message.\nSoyez le 1er à signer le receuil !"
+      , "no-result": "Pas encore de message.\nSoyez le 1er à signer le recueil !"
     }
   , "memories": {}
   , "message": {
@@ -73,9 +73,9 @@
       , "cta-image-uploading": "Télécharger..."
       , "steps": {
             "0": { "title": "Que souhaitez vous partager ?" }
-          , "1": { "title": "Condoléances", "text": "bla bla" }
-          , "2": { "title": "Souvenir", "text": "bla bla" }
-          , "3": { "title": "Photos", "text": "bla bla" }
+          , "1": { "title": "Condoléances", "text": "Exprimez vos condoléances à la famille de {{fullname}}." }
+          , "2": { "title": "Souvenir", "text": "Partagez un moment vécu avec {{fullname}}." }
+          , "3": { "title": "Photos", "text": "La page est tellement plus belle avec des photos." }
         }
     }
   , "donation": {
@@ -92,12 +92,12 @@
       , "label-receipt": "Reçu fiscal (facultatif)"
       , "cta": "Envoyer"
       , "cta-end": "Terminer"
-      , "receipt": "Votre paiement à bien été enregistré !\nRéference: {{id}}"
+      , "receipt": "Votre paiement à bien été enregistré !\nRéférence: {{id}}"
     }
   , "flower": {}
   , "print": {}
   , "delete": {
-        "title": "Êtes vous sûr ?"
+        "title": "Confirmez-vous la suppression de la page ?"
       , "text": "Vous êtes sur le point de supprimer la page en hommage à {{fullname}}."
       , "cta": "Supprimer la page"
     }
