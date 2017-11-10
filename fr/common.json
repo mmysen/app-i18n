@@ -12,7 +12,6 @@
   , "show-map": "voir sur google map"
   , "types": {
         "ceremony": "Cérémonie"
-      , "celebration": "Célébration"
       , "contemplation": "Recueillement"
       , "interment": "Enterrement"
       , "cremation": "Crémation"
