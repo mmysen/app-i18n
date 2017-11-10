@@ -23,7 +23,7 @@
               , "cta-open": "Modifier"
               , "cta-close": "Fermer"
               , "cta": "Enregistrer"
-              , "label-intro": "Écrire un message afin de faire part à votre entourage du décès de votre proche.\nIl n’est pas nécessaire de renseigner les informations sur les obsèques, nous nous occuperons de cela plus tard."
+              , "label-intro": "Écrire un message afin de faire part à votre entourage du décès de votre proche.\n Il n’est pas nécessaire de renseigner les informations sur les obsèques, nous nous occuperons de cela plus tard."
               , "input-intro-placeholder": "Cette page est destinée à la famille et à tous ceux qui ont connu et aimé {{fullname}}.\nAprès une belle vie, bien remplie, entouré(e) des siens, il/elle nous a quitté le {{date of death}} dernier.\nIl/elle restera à jamais dans nos coeurs.\nN’hésitez pas exprimer le lien qui vous unissait à notre cher(e) {{firstname}}, un message, un souvenir, une photo, toute marque d’affection nous portera et nous aidera à traverser cette épreuve.\nTrès sincèrement."
               , "label-image": "Ajouter une photo de votre proche"
               , "cta-image": "Choisir une photo"
