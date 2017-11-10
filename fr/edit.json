@@ -60,8 +60,8 @@
               , "input-country-placeholder": "Choisir un pays"
               , "label-beneficiary": "Bénéficiaire"
               , "choice-beneficiary": [
-                    "Association"
-                  , "Famille"
+                    "Famille"
+                  , "Association"
                 ]
               , "label-message": "Votre message pour introduire la collecte de dons"
               , "input-message-placeholder": "Say something"
