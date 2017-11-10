@@ -39,6 +39,8 @@
                 "title": "Célébrations"
               , "text": "Préciser les informations de chaque étape et les personnes à contacter en cas de besoin"
               , "cta-open": "Modifier"
+              , "cta-close": "Fermer"
+              , "cta": "Enregistrer"
             }
           , "4": {
                 "title": "Dons"
@@ -125,11 +127,14 @@
     }
   , "messages": {
         "title": "Modération de la page"
-      , "empty": "Il n'y en a pas, encore !"
+      , "text": ""
+      , "empty": "Il n'y en a pas encore !"
       , "cta-delete": "Supprimer"
     }
   , "stats": {
         "title": "Statistiques"
+      , "cta": ""
+      , "text": ""
       , "view": "consultations"
       , "comments": "messages"
       , "donations": "dons"
@@ -137,8 +142,15 @@
     }
   , "actions": {
         "title": "Administration de la page"
+      , "text": ""
       , "share": {
-            "email": "Partager la page"
+            "title":""
+          , "sms": ""
+          , "email": "Partager la page"
+          , "copy": ""
+        }
+      , "manage": {
+          "title": ""
           , "admin": "Ajouter un administrateur"
           , "delete": "Supprimer la page"
         }
