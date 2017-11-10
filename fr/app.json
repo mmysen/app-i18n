@@ -45,12 +45,12 @@
             }
           , "donation": {
                 "title": "Faire un don"
-              , "text-family": "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons."
-              , "text-org": "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons au profit de {{org}}."
+              , "text-family": "Soutenez la famille dans l’organisation des obsèques de {{firstname, capitalize}}."
+              , "text-org": "Soutenez l’association {{org}}, selon les volontés de {{firstname, capitalize}}."
             }
           , "share": {
                 "title": "Partager cette page"
-              , "text": "Pensez vous à quelqu'un qui aimait {{firstname, capitalize}} et qui aimerait voir cette page ? Envoyez lui le lien afin qu'il puisse y prendre part."
+              , "text": "Vous connaissez un proche concerné ?\nEnvoyez lui le lien de la page afin qu'il puisse participer."
             }
         }
     }
