@@ -80,7 +80,7 @@
                       , "ghi charity"
                     ]
                 }
-              , "text-status": "Une collecte est en cours au bénéfice de {{organization-name}}. À ce jour le montant des dons s'élève à <strong>{{total}}</strong>. Vous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
+              , "text-status": "Une collecte est en cours au bénéfice de {{org}}. À ce jour le montant des dons s'élève à <strong>{{total}}</strong>. Vous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
               , "label-person": "Bénéficaire"
               , "label-firstname": "Prénom"
               , "input-firstname-placeholder": "Votre prénom"
