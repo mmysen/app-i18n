@@ -1,74 +1,71 @@
 {
     "info": {
-        "title": "Modifier la page de {{fullname}}"
-      , "text": "Gérer la page en cliquant sur une des quatre catégories ci-dessous :"
+        "title": "Finalisation de la page"
       , "tabs": {
             "1": {
-                "title": "Information"
-              , "text": "Changer le nom de la page et les dates"
+                "title": "Informations"
+              , "text": "Modifier les informations sur  votre proche (nom, prénom, dates)"
               , "cta-open": "Modifier"
-              , "cta-close": "Annuler"
+              , "cta-close": "Fermer"
               , "cta": "Enregistrer"
               , "label-firstname": "Prénom"
-              , "input-firstname-placeholder": "Prénom"
-              , "label-lastname": "Nom de famille"
-              , "input-lastname-placeholder": "Nom de famille"
+              , "input-firstname-placeholder": "Prénom de votre proche"
+              , "label-lastname": "Nom"
+              , "input-lastname-placeholder": "Nom de votre proche"
               , "label-dob": "Date de naissance"
-              , "input-dob-placeholder": "Date de naissance"
+              , "input-dob-placeholder": "jj/mm/aaaa"
               , "label-dod": "Date de décès"
-              , "input-dod-placeholder": "Date de décès"
+              , "input-dod-placeholder": "jj/mm/aaaa"
             }
           , "2": {
-                "title": "Personnalisation"
-              , "text": "Photo et faire-part"
+                "title": "Faire-part"
+              , "text": "Personnaliser le message de faire-part et ajouter une photo"
               , "cta-open": "Modifier"
-              , "cta-close": "Annuler"
+              , "cta-close": "Fermer"
               , "cta": "Enregistrer"
-              , "label-intro": "Message d'introduction"
-              , "input-intro-placeholder": "intro"
-              , "label-image": "Télécharger une photo de profil"
+              , "label-intro": "Écrire un message afin de faire part à votre entourage du décès de votre proche.\nIl n’est pas nécessaire de renseigner les informations sur les obsèques, nous nous occuperons de cela plus tard."
+              , "input-intro-placeholder": "Cette page est destinée à la famille et à tous ceux qui ont connu et aimé {{fullname}}.\nAprès une belle vie, bien remplie, entouré(e) des siens, il/elle nous a quitté le {{date of death}} dernier.\nIl/elle restera à jamais dans nos coeurs.\nN’hésitez pas exprimer le lien qui vous unissait à notre cher(e) {{firstname}}, un message, un souvenir, une photo, toute marque d’affection nous portera et nous aidera à traverser cette épreuve.\nTrès sincèrement."
+              , "label-image": "Ajouter une photo de votre proche"
               , "cta-image": "Choisir une photo"
               , "cta-image-uploading": "Téléchargement en cours..."
-              , "label-templates": "Need inspiration ?"
+              , "label-templates": "Besoin d'inspiration ?"
               , "templates": [
-                    "text 1"
-                  , "text 2"
-                  , "text 3"
+                    "Chère famille, chers amis,\ncomme vous le savez peut être, notre cher(e) {{firstname}} nous a quitté le {{date of death}} dernier, à l’âge de {{yearold}} ans.\nCette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec notre cher(e) {{firstname}}, et qui nous aidera à traverser cette épreuve.\nAvec toute notre affection."
+                  , "L’ensemble de la famille et tous les proches ont la douleur de vous part du décès de {{fullname}}, survenu le {{date of death}}."
+                  , "Chère famille, chers amis,\nj’ai la grande tristesse de vous annoncer le décès de {mon père, ma mère, mon épou(se)x, mon frère, ma soeur,...} {{firstname}}, survenu le {{date of death}}.\nBien amicalement."
                 ]
             }
           , "3": {
-                "title": "La Cérémonie"
-              , "text": "Date et adresse de la cérémonie"
+                "title": "Célébrations"
+              , "text": "Préciser les informations de chaque étape et les personnes à contacter en cas de besoin"
               , "cta-open": "Modifier"
-              , "cta-close": "Annuler"
-              , "cta": "Enregistrer"
             }
           , "4": {
-                "title": "Support & Donations"
-              , "text": "Initiate paid support"
-              , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or to help the family pay for funeral expenses. Donations allow the entourage to express their support in a meaningful way."
+                "title": "Dons"
+              , "text": "Créer une collecte de dons au profit d’une cause chère à votre proche"
+              , "description": "Vous pouvez organiser une collecte de dons au profit d’une association chère à votre proche ou pour vous aider à financer ses obsèques. Les dons permettent à votre entourage de manifester leur soutien, en contribuant à une cause porteuse de sens."
               , "countries": [
                     ["fr", "France (EUR)"]
                   , ["us", "États-Unis (US dollar)"]
                 ]
-              , "cta-open": "Setup"
-              , "cta-close": "Annuler"
+              , "cta-open": "Activer"
+              , "cta-close": "Fermer"
               , "cta-init": "Activer"
               , "cta-end": "Clôturer"
               , "cta-pause": "Désactiver"
               , "cta": "Enregistrer"
-              , "label-country": "Country"
-              , "input-country-placeholder": "Choose country"
-              , "label-beneficiary": "Beneficiary"
+              , "label-country": "Pays"
+              , "input-country-placeholder": "Choisir un pays"
+              , "label-beneficiary": "Bénéficiaire"
               , "choice-beneficiary": [
-                    "Funds will help pay for funeral expenses"
-                  , "Funds will benefit an organistation or charity"
+                    "Association"
+                  , "Famille"
                 ]
-              , "label-message": "Your message"
+              , "label-message": "Votre message pour introduire la collecte de dons"
               , "input-message-placeholder": "Say something"
-              , "label-org": "Organization"
-              , "input-org-placeholder": "Choose an organiztaion"
-              , "label-templates": "Need inspiration ?"
+              , "label-org": "Association"
+              , "input-org-placeholder": "Saisir l'association de votre choix"
+              , "label-templates": "Besoin d'inspiration ?"
               , "templates": {
                     "family": [
                         "abc family"
@@ -81,23 +78,23 @@
                       , "ghi charity"
                     ]
                 }
-              , "text-status": "À ce jour le montant des dons s'eleve à <strong>{{total}}</strong>. Vous pouvez à tout moment désactiver ou clôturer la collecte pour que les fonds vous soit reverser."
+              , "text-status": "Une collecte est en cours au bénéfice de {{organization-name}}. À ce jour le montant des dons s'élève à <strong>{{total}}</strong>. Vous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
               , "label-person": "Bénéficaire"
               , "label-firstname": "Prénom"
-              , "input-firstname-placeholder": "Prénom"
+              , "input-firstname-placeholder": "Votre prénom"
               , "label-lastname": "Nom"
-              , "input-lastname-placeholder": "Nom"
+              , "input-lastname-placeholder": "Votre nom"
               , "label-iban": "Numéro IBAN"
-              , "input-iban-placeholder": "ex: FR89370400440532013000"
+              , "input-iban-placeholder": "FR89370400440532013000"
               , "label-routing": "Routing number"
               , "input-routing-placeholder": "ex: 110000000"
               , "label-dob": "Date de naissance"
-              , "input-dob-placeholder": "Date de naissance"
+              , "input-dob-placeholder": "jj/mm/aaaa"
               , "label-address": "Adresse"
               , "input-address-placeholder": "Adresse"
               , "input-city-placeholder": "Ville"
               , "input-zipcode-placeholder": "Code postal"
-              , "title-success": "Collecte de fond terminée"
+              , "title-success": "Collecte de fonds terminée"
               , "text-success": "blablba"
             }
         }
@@ -105,54 +102,44 @@
     }
   , "places": {
         "label-privacy": "Aura lieu dans l'intimité familiale"
-      , "label-date": "Date de {{type, capitalize}}"
-      , "placeholder-date": "Date"
+      , "label-date": "Date"
+      , "placeholder-date": "jj/mm/aaaa"
       , "label-time": "Heure"
-      , "placeholder-time": "Heure "
-      , "label-name": "Nom du lieu de {{type, capitalize}}"
-      , "placeholder-name": "eg. Église de Saint-Sulpice"
-      , "label-address": "Adresse de {{type, capitalize}}"
-      , "placeholder-address": "Adresse"
+      , "placeholder-time": "hh:mm "
+      , "label-name": "Nom du lieu"
+      , "placeholder-name": "Crématorium du Père Lachaise"
+      , "label-address": "Adresse"
+      , "placeholder-address": "71 Rue des Rondeaux, 75020 Paris"
       , "cta-delete": "Supprimer"
     }
   , "contacts": {
-        "title": "Point de contact"
+        "title": "Personnes à contacter"
       , "label-name": "Nom"
-      , "placeholder-name": "Votre nom"
-      , "label-email": "E-mail"
-      , "placeholder-email": "votre.nom@gmail.com"
+      , "placeholder-name": "Nom du contact"
+      , "label-email": "Adresse email"
+      , "placeholder-email": "Email du contact"
       , "label-phone": "Numéro de téléphone"
-      , "placeholder-phone": "xx xx xx xx xx"
+      , "placeholder-phone": "Téléphone du contact"
       , "cta-delete": "Supprimer"
       , "cta-add": "Ajouter"
     }
   , "messages": {
-        "title": "Gérer les messages"
-      , "text": "Voir et gérer tous les messages publiés sur la page"
+        "title": "Modération de la page"
       , "empty": "Il n'y en a pas, encore !"
       , "cta-delete": "Supprimer"
     }
   , "stats": {
-        "title": "Statistiques de la page"
-      , "cta": "Cliquez ici"
-      , "text": " pour envoyer le lien de cette page à votre famille, vos amis, vos collègues."
-      , "view": "vues"
+        "title": "Statistiques"
+      , "view": "consultations"
       , "comments": "messages"
       , "donations": "dons"
       , "collected": "recueillis"
     }
   , "actions": {
-        "title": "Soyons plusieurs"
-      , "text": "Gérer les actions et les paramètres avancés de la page"
+        "title": "Administration de la page"
       , "share": {
-            "title": "Partager"
-          , "sms": "Partager le lien via SMS"
-          , "email": "Partager le lien via e-mail"
-          , "copy": "Copier le lien"
-        }
-      , "manage": {
-            "title": "Gestion"
-          , "admin": "Rajouter un/e administrateur/trice"
+          , "email": "Partager la page"
+          , "admin": "Ajouter un administrateur"
           , "delete": "Supprimer la page"
         }
     }
