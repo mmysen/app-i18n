@@ -30,7 +30,7 @@
   , "press": {
         "title": "Press"
       , "title2": "Latest releases"
-      , "text": "We invite journalists to contact InMemori's PR team for all interview and information requests.\n\nMedia contact :\nBrunswick, Hugues Boëton\n<a href='tel:+33153968383'>+33 153.968.383</a> / <a href='tel:+33679992715'>+33 679.992.715</a>\n<a href='mailto:inmemori@brunswickgroup.com'>inmemori@brunswickgroup.com</a>"
+      , "text": "We invite journalists to contact InMemori's PR team for all interview and information requests.\n\nMedia contact :\nBrunswick, Hugues Boëton\n<a href='tel:+33153968383'>+33 153.968.383</a> / <a href='tel:+33679992715'>+33 679.992.715</a>\n<a href='mailto:InMemori@brunswickgroup.com'>InMemori@brunswickgroup.com</a>"
       , "items": [
             ["FORBES", "September 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
         
@@ -39,9 +39,9 @@
     }
 
   , "contact": {
-        "title": "Any questions ?"
+        "title": "Any questions?"
       , "title2": "Our offices"
-      , "text": "If you have any questions or need any help using our service, please don't hesitate to contact Constance or our support team, emailing us at <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>. We will respond in less than 24 hours."
+      , "text": "If you have any questions or need any help using our service, please don't hesitate to contact Constance or our support team, emailing us at <a href='mailto:contact@InMemori.com'>contact@InMemori.com</a>. We will respond in less than 24 hours."
       , "items": [
             ["Paris", "5 rue des Colonnes\n75002 Paris \nFrance", {"lat":48.8693696,"lng":2.3393760000000157}]
           , ["New York", "72 Allen St.\nNew York, NY 10002\nUnited States", {"lat":40.7175099,"lng":-73.9909217}]
@@ -64,14 +64,14 @@
 
   , "team": {
 
-        "title": "Who are we ?"
+        "title": "Who are we?"
       , "text": "At the heart of InMemori is a team that unites beautiful, soulful energy to create life out of loss."
 
       , "items": [
         { 
             "name": "Clémentine Piazza"
           , "role": "CEO & founder"
-          , "bio": "An HEC Paris graduate, Clémentine worked in asset management and was named CMO of Unibail-Rodamco before setting off on her entrepreneurial path, launching inmemori in 2016."
+          , "bio": "An HEC Paris graduate, Clémentine worked in asset management and was named CMO of Unibail-Rodamco before setting off on her entrepreneurial path, launching InMemori in 2016."
           , "intro": "This is a profound mission that puts everything in its rightful place."
           , "pic": "team.clementine"
           , "linkedin": "https://www.linkedin.com/in/cl%C3%A9mentine-piazza-42a67976/"
@@ -81,7 +81,7 @@
         { 
             "name": "Constance de Vernejoul"
           , "role": "Key Accounts & CRM"
-          , "bio": "A NEOMA Business School graduate, Constance worked at L'Oréal, in PR and international communications. First to have joined inmemori, she's held the hands of 300 families and seeks to accompany countless more."
+          , "bio": "A NEOMA Business School graduate, Constance worked at L'Oréal, in PR and international communications. First to have joined InMemori, she's held the hands of 300 families and seeks to accompany countless more."
           , "intro": "I wanted to be there for others during a period in their lives when people feel profoundly alone."
           , "pic": "team.constance"
           , "linkedin": "https://www.linkedin.com/in/constance-de-vernejoul-00316484/"
@@ -91,7 +91,7 @@
         { 
             "name": "Marly  Diallo"
           , "role": "Head of Business Development & Operations, France"
-          , "bio": "Having finished her studies at ESSEC Business School, Marly was a senior asset manager at Unibail-Rodamco, where she met inmemori's fearless leader, Clémentine. She then joined Walt Group as a project manager, then the global luxury group Kering."
+          , "bio": "Having finished her studies at ESSEC Business School, Marly was a senior asset manager at Unibail-Rodamco, where she met InMemori's fearless leader, Clémentine. She then joined Walt Group as a project manager, then the global luxury group Kering."
           , "intro": "The effort we put in everyday lets us contribute to creating strong, resilient communities."
           , "pic": "team.marly"
           , "linkedin": "https://www.linkedin.com/in/marly-diallo-55751327/"
@@ -105,7 +105,7 @@
           , "intro": "It's said that we die twice. Once when we take our last breath, and the second, when someone utters out name for the last time. With InMemori, I can help make sure people's names, memories and stories live on."
           , "pic": "team.eva"
           , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
-          , "twitter": ""
+          , "twitter": "https://twitter.com/evakerner"
           , "site": ""
         },
         { 
@@ -123,3 +123,4 @@
   }
 
 }
+
