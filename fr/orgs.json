@@ -1,8 +1,22 @@
 [
 
-    { "name": "Resto du coeur" }
+    { "name": "Action contre la Faim" }
+  , { "name": "AFM-Téléthon" }
+  , { "name": "Amnesty International" }
+  , { "name": "Croix Rouge" }
+  , { "name": "Emmaüs" }
+  , { "name": "Fondation Abbé Pierre" }
+  , { "name": "Handicap International" }
+  , { "name": "Les petits frères des pauvres" }
+  , { "name": "Les Restos du Coeurs" }
+  , { "name": "Ligue contre le cancer" }
+  , { "name": "Médecins du Monde" }
+  , { "name": "Médecins sans frontières" }
+  , { "name": "Secours catholique" }
+  , { "name": "Secours populaire" }
+  , { "name": "Secours islamique" }
   , { "name": "Sidaction" }
-  , { "name": "Croix rouge" }
+  , { "name": "Unicef" }
 
 
 ]
