@@ -20,7 +20,7 @@
             }
           , "2": {
                 "title": "Make it personal"
-              , "text": "Picture and message to loved ones"
+              , "text": "This is the photo and message your close ones will see on the page."
               , "cta-open": "Edit"
               , "cta-close": "Cancel"
               , "cta": "Save"
@@ -49,20 +49,20 @@
               , "cta-close": "Cancel"
               , "cta-init": "Activate"
               , "cta-end": "Close"
-              , "cta-pause": "Desactivate"
+              , "cta-pause": "Deactivate"
               , "cta": "Save"
               , "label-country": "Country"
               , "input-country-placeholder": "Choose country"
               , "label-beneficiary": "Beneficiary"
               , "choice-beneficiary": [
-                    "Funds will help pay for funeral expenses"
-                  , "Funds will benefit an organistation or charity"
+                    "Funds will go to the family"
+                  , "Funds will benefit an charitable organisation"
                 ]
               , "label-message": "Your message"
-              , "input-message-placeholder": "Say something"
+              , "input-message-placeholder": "Write a few lines that explain what this cause means to you & your family. It will encourage others to donate to it."
               , "label-org": "Organization"
-              , "input-org-placeholder": "Choose an organiztaion"
-              , "label-templates": "Need inspiration ?"
+              , "input-org-placeholder": "Choose an organization"
+              , "label-templates": "Need inspiration?"
               , "templates": {
                     "family": [
                         "abc family"
@@ -75,7 +75,7 @@
                       , "ghi charity"
                     ]
                 }
-              , "text-status": "To date, the total funds raised is <strong>{{total}}</strong>. You can disactivate or close the fundraiser to hold the funds."
+              , "text-status": "To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
               , "label-person": "Beneficiary"
               , "label-firstname": "First name"
               , "input-firstname-placeholder": "First name"
@@ -104,7 +104,7 @@
       , "label-time": "Time"
       , "placeholder-time": "Time "
       , "label-name": "Location of {{type, capitalize}}"
-      , "placeholder-name": "eg. Mt. Sinai Mortuary, Grace Cathedral"
+      , "placeholder-name": "e.g. Mt. Sinai Mortuary, Grace Cathedral"
       , "label-address": "Address of {{type, capitalize}}"
       , "placeholder-address": "Address"
       , "cta-delete": "Remove"
