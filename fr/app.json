@@ -38,7 +38,7 @@
         }
       , "support": {
             "title": "Rendre hommage à {{firstname, capitalize}}"
-          , "text": "Voici 3 manières de rendre hommage à {{firstname, capitalize}} :"
+          , "text": "Voici plusieurs manières de rendre hommage à {{firstname, capitalize}} :"
           , "guestbook": {
                 "title": "Signer le recueil"
               , "text": "Envoyer vos condoléances à la famille. \nPartager un souvenir avec {{firstname, capitalize}}. \nPoster une photo."
