@@ -10,39 +10,39 @@
     }
   , "menu": {
         "welcome": "Welcome"
-      , "home": "Informations"
+      , "home": "Information"
       , "guestbook": "Tribute"
       , "support": "Show your support"
-      , "message": "Sign the tribute"
+      , "message": "Share your memories"
       , "donation": "Donate"
       , "flowers": "Send flowers"
-      , "print": "Print the tribute"
+      , "print": "Print the book"
       , "share": "Share this page"
     }
   , "home": {
        "intro": {
-            "title": "Welcome on {{firstname, capitalize}}'s page."
+            "title": "Welcome to {{firstname, capitalize}}'s page"
         }
       , "info": {
-            "title": "Informations"
+            "title": "Information"
         }
       , "donation": {
             "title": "Make a donation in {{firstname, capitalize}}'s memory"
           , "cta": "Donate now"
-          , "text-org": "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons au profit de <strong>{{org}}</strong>."
-          , "text-family": "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons."
+          , "text-org": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory. Proceeds will go to <strong>{{org}}</strong>."
+          , "text-family": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory."
         
         }
       , "contact": {
             "title": "Contact"
-          , "text": "This page was created by {{firstname, capitalize}}'s family. Should you have any questions, please reach out to the following contacts:"
+          , "text": "This page was created by {{firstname, capitalize}}'s family. Should you have any questions, please reach out to:"
         }
       , "support": {
-            "title": "Support {{firstname, capitalize}}'s family"
-          , "text": "Here are 3 ways you can make a difference and support {{firstname, capitalize}}'s family:"
+            "title": "Pay your respects to {{firstname, capitalize}}"
+          , "text": "Here are a few ways you can celebrate {{firstname, capitalize}}'s life:"
           , "guestbook": {
                 "title": "Sign the InMemori book"
-              , "text": "Send your respect to the family.\n share your memories of {{firstname, capitalize}}.\n Add a picture."
+              , "text": "Share your most precious moments & memories of {{firstname, capitalize}}.\n Remember, a photo is worth a 1000 words, so we encourage you to add photos."
             }
           , "donation": {
                 "title": "Make a donation"
@@ -51,7 +51,7 @@
             }
           , "share": {
                 "title": "Share this page"
-              , "text": "The family needs you. Help them invite all of {{firstname, capitalize}}'s friends by sending the link to this page so they can contribute."
+              , "text": "The family needs you. Help them invite all of {{firstname, capitalize}}'s friends by sending the link to this page so they, too, can contribute."
             }
         }
     }
@@ -75,23 +75,23 @@
       , "cta-image-uploading": "Uploading..."
       , "steps": {
             "0": { "title": "Choose something to share ?" }
-          , "1": { "title": "Condoléances", "text": "bla bla" }
-          , "2": { "title": "Souvenir", "text": "bla bla" }
-          , "3": { "title": "Photos", "text": "bla bla" }
+          , "1": { "title": "Condoleances", "text": "A message to the family, expressing your feelings and your desire to support them in their time of need." }
+          , "2": { "title": "Memories", "text": "Feel free to write here. Remember, this is a page only visible to those close to your loved one. Write as little or as much as you'd like. You'll start by writing for yourself, but your words and memories can be incredibly cathartic for other contributors." }
+          , "3": { "title": "Photos", "text": "This doesn't have to be a photo of your loved one. Anything that makes you think of them, a photo perhaps taken by them. Again, this is for you. These are your memories, brought to life." }
         }
     }
   , "donation": {
         "title": "New donation"
-      , "title-success": "Thanks for your support !"
-      , "input-firstname-placeholder": "Firstname"
-      , "input-lastname-placeholder": "Lastname"
+      , "title-success": "Thanks for your support!"
+      , "input-firstname-placeholder": "First name"
+      , "input-lastname-placeholder": "Last name"
       , "input-email-placeholder": "Email"
       , "input-address-placeholder": "Address"
       , "input-city-placeholder": "City"
       , "input-zipcode-placeholder": "Zipcode"
       , "label-info": "> Payment details"
       , "label-amount": "> Amount of donation"
-      , "label-receipt": "Fiscal receipt (mandatory)"
+      , "label-receipt": "Receipt (mandatory)"
       , "cta": "Send"
       , "cta-end": "End"
       , "receipt": "Your payment was successful!\nPayment reference: {{id}}"
@@ -99,8 +99,8 @@
   , "flower": {}
   , "print": {}
   , "delete": {
-        "title": "Are you sure ?"
-      , "text": "You are about to delete {{fullname}} memorial page."
+        "title": "Are you sure?"
+      , "text": "You are about to delete {{fullname}}'s memorial page."
       , "cta": "Delete this page"
     }
   , "share": {
@@ -118,12 +118,12 @@
         }
       , "tab-sms": {
             "text": "Share by text"
-          , "placeholder": "Cell phone number"
+          , "placeholder": "Enter your cell phone here"
           , "cta": "Send Link"
         }
       , "tab-email": {
-            "text": "Share by email"
-          , "placeholder": "Email address"
+            "text": "Share by e-mail"
+          , "placeholder": "Enter your e-mail address here"
           , "cta": "Send Link"
         }
     }
