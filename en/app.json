@@ -75,9 +75,9 @@
       , "cta-image-uploading": "Uploading..."
       , "steps": {
             "0": { "title": "Choose something to share ?" }
-          , "1": { "title": "Condoleances", "text": "A message to the family, expressing your feelings and your desire to support them in their time of need." }
-          , "2": { "title": "Memories", "text": "Feel free to write here. Remember, this is a page only visible to those close to your loved one. Write as little or as much as you'd like. You'll start by writing for yourself, but your words and memories can be incredibly cathartic for other contributors." }
-          , "3": { "title": "Photos", "text": "This doesn't have to be a photo of your loved one. Anything that makes you think of them, a photo perhaps taken by them. Again, this is for you. These are your memories, brought to life." }
+          , "1": { "title": "Condolences", "text": "A message to the family, expressing your feelings and your desire to support them in their time of need." }
+          , "2": { "title": "Memories", "text": "Feel free to write here, as much or as little as you'd like. Remember, this is a page only visible to those close to your loved one. You'll start by writing for yourself, but your words and memories can be incredibly cathartic for other contributors." }
+          , "3": { "title": "Photos", "text": "Anything that makes you think of them, a photo of them, or perhaps taken by them. These are your memories, brought to life." }
         }
     }
   , "donation": {
