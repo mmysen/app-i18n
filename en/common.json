@@ -9,6 +9,7 @@
       "en": "English"
     }
   , "fulldate": "LLL"
+  , "shortdate": "LL"
   , "show-map": "show on google map"
   , "types": {
         "ceremony": "Ceremony"
@@ -16,6 +17,7 @@
       , "interment": "Interment"
       , "cremation": "Cremation"
     }
+  , "template": "Template"
   , "toast-success": "Data saved !"
   , "confirm-areusure": "Are you sure ?"
   , "yes": "Yes"

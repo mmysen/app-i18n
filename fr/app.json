@@ -41,7 +41,7 @@
           , "text": "Voici plusieurs manières de rendre hommage à {{firstname, capitalize}} :"
           , "guestbook": {
                 "title": "Signer le recueil"
-              , "text": "Envoyer vos condoléances à la famille. \nPartager un souvenir avec {{firstname, capitalize}}. \nPoster une photo."
+              , "text": "Envoyer vos condoléances à la famille. Partager un souvenir avec {{firstname, capitalize}}.  Poster une photo."
             }
           , "donation": {
                 "title": "Faire un don"
@@ -50,7 +50,7 @@
             }
           , "share": {
                 "title": "Partager cette page"
-              , "text": "Vous connaissez un proche concerné ?\nEnvoyez lui le lien de la page afin qu'il puisse participer."
+              , "text": "Vous connaissez un proche concerné ? Envoyez lui le lien de la page afin qu'il puisse participer."
             }
         }
     }
@@ -66,15 +66,15 @@
   , "message": {
         "input-fullname-placeholder": "Vos prénom et nom"
       , "input-email-placeholder": "Adresse email"
-      , "input-email-info": "Renseignez votre email pour que la famille puisse vous répondre."
+      , "input-email-info": "Email pour que la famille puisse vous répondre."
       , "input-message-placeholder": "Écrire un message pour la famille ou partager un souvenir avec {{firstname, capitalize}}..."
       , "cta": "Partager sur le recueil"
       , "cta-image": "Joindre une photo"
       , "cta-image-uploading": "Télécharger..."
       , "steps": {
             "0": { "title": "Que souhaitez vous partager ?" }
-          , "1": { "title": "Condoléances", "text": "Exprimez vos condoléances à la famille de {{fullname}}." }
-          , "2": { "title": "Souvenir", "text": "Partagez un moment vécu avec {{fullname}}." }
+          , "1": { "title": "Condoléances", "text": "Exprimez vos condoléances à la famille de {{firstname, capitalize}}." }
+          , "2": { "title": "Souvenir", "text": "Partagez un moment vécu avec {{firstname, capitalize}}." }
           , "3": { "title": "Photos", "text": "La page est tellement plus belle avec des photos." }
         }
     }
@@ -113,6 +113,7 @@
       , "tab-link": {
             "text": "Copier le lien"
           , "cta": "Copier le lien"
+          , "tooltip": "copié !"
         }
       , "tab-sms": {
             "text": "via SMS"

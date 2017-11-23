@@ -8,7 +8,8 @@
       "fr": "Français",
       "en": "English"
     }
-  , "fulldate": "dddd D MMMM YYYY, HH:mm"
+  , "fulldate": "dddd D MMMM YYYY à HHhmm"
+  , "shortdate": "dddd D MMMM YYYY"
   , "show-map": "voir sur google map"
   , "types": {
         "ceremony": "Cérémonie"
@@ -16,6 +17,7 @@
       , "interment": "Enterrement"
       , "cremation": "Crémation"
     }
+  , "template": "Suggestion"
   , "toast-success": "Enregistrement terminé !"
   , "confirm-areusure": "Êtes vous sûr ?"
   , "yes": "Oui"

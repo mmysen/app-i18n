@@ -64,11 +64,9 @@
     }
   , "memories": {}
   , "message": {
-        "title": "Write a message"
-    }
-  , "message": {
         "input-fullname-placeholder": "Your first and last name(s)"
       , "input-email-placeholder": "Email address"
+      , "input-email-info": "For family to respond"
       , "input-message-placeholder": "Write a message for the family or share a memory of {{firstname, capitalize}}..."
       , "cta": "Share on the InMemori book"
       , "cta-image": "Add picture"
@@ -115,6 +113,7 @@
       , "tab-link": {
             "text": "Copy link"
           , "cta": "Copy Link"
+          , "tooltip": "copied !"
         }
       , "tab-sms": {
             "text": "Share by text"

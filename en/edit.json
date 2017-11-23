@@ -27,8 +27,15 @@
               , "label-intro": "Message telling loved ones about {{fullname}}'s page"
               , "input-intro-placeholder": "intro"
               , "label-image": "Upload a profile picture of {{fullname}}"
+              , "text-image": "Vous pouvez vous occuper de cette étape plus tard, mais nous vous recommandons d’en ajouter une avant de partager la page avec vos proches. Formats acceptés : JPG, JPEG, PNG (taille maximale de 5 Mo)."
               , "cta-image": "Select picture"
               , "cta-image-uploading": "Uploading..."
+              , "label-templates": "Need inspiration ?"
+              , "templates": [
+                    "Chère famille, chers amis,\n\ncomme vous le savez peut être, notre cher(e) {{firstname, capitalize}} nous a quitté le {{dod}} dernier, à l’âge de {{age}} ans. Cette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec notre cher(e) {{firstname, capitalize}}, et qui nous aidera à traverser cette épreuve.\n\nAvec toute notre affection."
+                  , "L’ensemble de la famille et tous les proches ont la douleur de vous part du décès de {{fullname}}, survenu le {{dod}}."
+                  , "Chère famille, chers amis,\n\nj’ai la grande tristesse de vous annoncer le décès de [mon père, ma mère, mon épou(se)x, mon frère, ma soeur,...] {{firstname, capitalize}}, survenu le {{dod}}.\n\nBien amicalement."
+                ]
             }
           , "3": {
                 "title": "Ceremony"
@@ -65,14 +72,14 @@
               , "label-templates": "Need inspiration?"
               , "templates": {
                     "family": [
-                        "abc family"
-                      , "def family"
-                      , "ghi family"
+                        "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons."
+                      , "{{firstname, capitalize}} ne souhaitait pas de fleurs, mais pour ceux qui le désirent, nous organisons une collecte de dons en sa mémoire."
+                      , "Nous organisons une collecte de dons en mémoire de {{firstname, capitalize}}. La somme récoltée permettra à sa famille de financer, au moins en partie, ses obsèques. Merci d’avance de votre générosité."
                     ]
                   , "org": [
-                        "abc charity"
-                      , "def charity"
-                      , "ghi charity"
+                        "Toute sa vie {{firstname, capitalize}} s’est engagé à servir les autres au sein de l’association {{org}}. Il le faisait avec dévouement et désintéressement, avec toujours ce soucis de rendre le monde meilleur et d’aider son prochain.\n\nNous souhaitons poursuivre ce combat en sa mémoire et organisons une collecte de dons pour soutenir, en son nom, cette association qui lui tenait tellement à coeur. Nous pensons que c’est ce que {{firstname, capitalize}} aurait souhaité. Merci d’avance de votre générosité."
+                      , "Comme vous le savez, notre cher(e) {{firstname, capitalize}} a été emporté par la maladie (nom de la maladie) après des années de combat. En mémoire de {{firstname, capitalize}} et de toutes les autres victimes de cette maladie, nous avons décidé de soutenir l’association {{org}} afin de financer la recherche et de sauver des milliers de vies futures. Merci d’avance de soutenir cette cause qui nous tient particulièrement à coeur."
+                      , "Aider les autres, voilà ce qui aura été au coeur de la vie de {{firstname, capitalize}}. Son action, il l’a menée au sein de l’association {{org}} qui la(le) touchait tout particulièrement. Ensemble et en son nom, continuons son combat et soutenons cette association. Merci de votre générosité."
                     ]
                 }
               , "text-status": "To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
@@ -99,6 +106,7 @@
     }
   , "places": {
         "label-privacy": "Will be held in intimate family setting"
+      , "label-info": "Additionnal information"
       , "label-date": "Date of {{type, capitalize}}"
       , "placeholder-date": "Date"
       , "label-time": "Time"
@@ -125,6 +133,7 @@
       , "text": "View and manage all messages posted on the page"
       , "empty": "There are no messages yet!"
       , "cta-delete": "Delete"
+      , "text-confirm": "Do you confirm message deletion ?"
     }
   , "stats": {
         "title": "Page statistics"
