@@ -26,7 +26,7 @@
   , "home": {
         "inform": {
             "title": "Informer vos proches"
-          , "text": "inmemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre rapidement les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes et la partager avec toutes les personnes concernées est très facile : il vous suffit pour cela de transmettre par email ou par sms le lien sécurisé de la page."
+          , "text": "InMemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre rapidement les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes et la partager avec toutes les personnes concernées est très facile : il vous suffit pour cela de transmettre par email ou par sms le lien sécurisé de la page."
         }
       , "collect": {
             "title": "Inviter vos proches à se souvenir et à rendre hommage"
@@ -34,7 +34,7 @@
         }
       , "how": {
             "title": "Comment ça marche"
-          , "text": "inmemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu en rassemblant famille et amis. Créer une page est très facile et ne vous prendra que quelques minutes."
+          , "text": "InMemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu en rassemblant famille et amis. Créer une page est très facile et ne vous prendra que quelques minutes."
           , "create": {
                 "title": "Créer une page"
               , "text": "Personnaliser la page et ajouter une photo de votre proche. \n Préciser les informations sur les obsèques."
@@ -50,7 +50,7 @@
         }
       , "values": {
             "title": "Nos valeurs"
-          , "text": "Nous avons créé inmemori afin de révéler l'essentiel de la vie. Voici nos valeurs."
+          , "text": "Nous avons créé InMemori afin de révéler l'essentiel de la vie. Voici nos valeurs."
           , "collective": {
                 "title": "Partage"
               , "text": "Les personnes que vous invitez à voir cette page peuvent à leur tour la partager avec leurs proches. Rassembler famille et amis apporte du réconfort à chacun dans ces moments de deuil."
@@ -66,14 +66,14 @@
         }
       , "testimonial": {
             "title": "Témoignages"
-          , "text": "Ce que les gens ont à dire d'inmemori."
+          , "text": "Ce que les gens ont à dire d'InMemori."
           , "one": {
                 "from": "Michel Tailland"
-              , "text": "Grâce à inmemori, nous avons pu transmettre les informations sur les obsèques à toutes les personnes concernées en seulement une heure."
+              , "text": "Grâce à InMemori, nous avons pu transmettre les informations sur les obsèques à toutes les personnes concernées en seulement une heure."
             }
           , "two": {
                 "from": "Philippe Careau"
-              , "text": "inmemori nous a accompagnés durant cette épreuve et nous a apporté du réconfort grâce aux messages de condoléances et aux souvenirs partagés. \n La page en hommage à notre mère est inestimable."
+              , "text": "InMemori nous a accompagnés durant cette épreuve et nous a apporté du réconfort grâce aux messages de condoléances et aux souvenirs partagés. \n La page en hommage à notre mère est inestimable."
             }
           , "three": {
                 "from": "Agathe Blion"
@@ -82,7 +82,7 @@
         }
       , "celebrate": {
             "title": "Célébrer une vie"
-          , "text": "inmemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu et à rassembler votre famille et vos amis. \n Nous sommes là pour vous accompagner durant ce moment difficile."
+          , "text": "InMemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu et à rassembler votre famille et vos amis. \n Nous sommes là pour vous accompagner durant ce moment difficile."
           , "cta-view": "Voir un exemple"
           , "cta-create": "Créer une page"
         }
