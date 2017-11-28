@@ -22,6 +22,8 @@
       , "input-email-placeholder": "Adresse email"
       , "cta-v0": "Créer une page"
       , "cta-v1": "Créer une page"
+      , "lookup-text": "Vous recherchez une page déjà existante ?"
+      , "lookup-tooltip": "Vous devez demander à la famille le lien de la page"
     }
   , "home": {
         "inform": {

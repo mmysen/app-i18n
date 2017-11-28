@@ -8,7 +8,7 @@
       "fr": "Français",
       "en": "English"
     }
-  , "fulldate": "dddd D MMMM YYYY à HHhmm"
+  , "fulldate": "dddd D MMMM YYYY à HH[h]mm"
   , "shortdate": "dddd D MMMM YYYY"
   , "show-map": "voir sur google map"
   , "types": {

@@ -22,6 +22,8 @@
       , "input-email-placeholder": "Your e-mail address"
       , "cta-v0": "Create a tribute page"
       , "cta-v1": "Create a tribute page"
+      , "lookup-text": "Looking for an existing page ?"
+      , "lookup-tooltip": "Ask the page link to the family."
     }
   , "home": {
         "inform": {
