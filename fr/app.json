@@ -56,8 +56,8 @@
     }
   , "guestbook": {
         "title": "Recueil"
-      , "tab-entries": "{{count}} Messages"
-      , "tab-pictures": "{{count}} Photos"
+      , "tab-entries": "{{count}} Message(s)"
+      , "tab-pictures": "{{count}} Photo(s)"
       , "cta-add": "Partager une photo"
       , "cta-message": "Ecrire un message"
       , "no-result": "Pas encore de message.\nSoyez le 1er à signer le recueil !"
