@@ -69,8 +69,8 @@
       , "items": [
         { 
             "name": "Clémentine Piazza"
-          , "role": "CEO & founder"
-          , "bio": "Sortie d’HEC Paris en 2009, Clémentine a été Asset Manager puis Directrice Marketing du groupe Unibail-Rodamco avant de lancer InMemori en 2016."
+          , "role": ""
+          , "bio": "Présidente et fondatrice"
           , "intro": "C'est un projet profond qui remet tout à sa place."
           , "pic": "team.clementine"
           , "linkedin": "https://www.linkedin.com/in/cl%C3%A9mentine-piazza-42a67976/"
@@ -79,8 +79,8 @@
         },
         { 
             "name": "Constance de Vernejoul"
-          , "role": "Key Accounts & CRM"
-          , "bio": "Diplômée de l’école supérieure de Reims, Constance a travaillé aux relations publiques et à la communication internationale chez L’Oréal. Elle a été la première à rejoindre InMemori et a déjà accompagné plus de 300 familles."
+          , "role": ""
+          , "bio": "Responsable partenariats et relations client"
           , "intro": "J’avais envie d’être là pour les autres à un moment de la vie où l’on se retrouve facilement seul."
           , "pic": "team.constance"
           , "linkedin": "https://www.linkedin.com/in/constance-de-vernejoul-00316484/"
@@ -89,8 +89,8 @@
         },
         { 
             "name": "Marly  Diallo"
-          , "role": "Directrice France"
-          , "bio": "Après l’ESSEC, Marly a été Senior Asset Manager chez Unibail-Rodamco, avec  Clémentine. Elle a ensuite été chef de projet chez Walt Group puis chez Kering."
+          , "role": ""
+          , "bio": "Directrice France"
           , "intro": "À notre échelle et au quotidien, on contribue à être plus forts ensemble."
           , "pic": "team.marly"
           , "linkedin": "https://www.linkedin.com/in/marly-diallo-55751327/"
@@ -99,8 +99,8 @@
         },
         { 
             "name": "Eva Kerner"
-          , "role": "Directrice du Business Développement"
-          , "bio": "Diplômée de LSE, Sciences Po Paris et the University of California. Eva a travaillé dans le conseil en assurance et service financier. Elle a aussi développé des filiales aux Etats-Unis et au Moyen-Orient pour Groupama."
+          , "role": ""
+          , "bio": "Directrice Business Development US"
           , "intro": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec InMemori, je peux m’assurer  que la mémoire des gens perdure."
           , "pic": "team.eva"
           , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
@@ -109,8 +109,8 @@
         },
         { 
             "name": "Louis Grellet"
-          , "role": "CTO"
-          , "bio": "Ingénieur et entrepreneur, Louis a été CTO d’Allopneus et CEO de la startup Flooz."
+          , "role": ""
+          , "bio": "CTO"
           , "intro": "C’est un moment de la vie où le digital est absent et un challenge technique que j’ai envie de relever."
           , "pic": "team.louis"
           , "linkedin": "https://www.linkedin.com/in/louis-grellet-1927242/"
