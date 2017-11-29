@@ -69,8 +69,8 @@
       , "items": [
         { 
             "name": "Clémentine Piazza"
-          , "role": ""
-          , "bio": "Présidente et fondatrice"
+          , "role": "Présidente et fondatrice"
+          , "bio": "C'est un projet profond qui remet tout à sa place."
           , "intro": "C'est un projet profond qui remet tout à sa place."
           , "pic": "team.clementine"
           , "linkedin": "https://www.linkedin.com/in/cl%C3%A9mentine-piazza-42a67976/"
@@ -79,8 +79,8 @@
         },
         { 
             "name": "Constance de Vernejoul"
-          , "role": ""
-          , "bio": "Responsable partenariats et relations client"
+          , "role": "Responsable partenariats et relations client"
+          , "bio": "J’avais envie d’être là pour les autres à un moment de la vie où l’on se retrouve facilement seul."
           , "intro": "J’avais envie d’être là pour les autres à un moment de la vie où l’on se retrouve facilement seul."
           , "pic": "team.constance"
           , "linkedin": "https://www.linkedin.com/in/constance-de-vernejoul-00316484/"
@@ -89,8 +89,8 @@
         },
         { 
             "name": "Marly  Diallo"
-          , "role": ""
-          , "bio": "Directrice France"
+          , "role": "Directrice France"
+          , "bio": "À notre échelle et au quotidien, on contribue à être plus forts ensemble."
           , "intro": "À notre échelle et au quotidien, on contribue à être plus forts ensemble."
           , "pic": "team.marly"
           , "linkedin": "https://www.linkedin.com/in/marly-diallo-55751327/"
@@ -99,8 +99,8 @@
         },
         { 
             "name": "Eva Kerner"
-          , "role": ""
-          , "bio": "Directrice Business Development US"
+          , "role": "Directrice Business Development US"
+          , "bio": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec InMemori, je peux m’assurer  que la mémoire des gens perdure."
           , "intro": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec InMemori, je peux m’assurer  que la mémoire des gens perdure."
           , "pic": "team.eva"
           , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
@@ -109,8 +109,8 @@
         },
         { 
             "name": "Louis Grellet"
-          , "role": ""
-          , "bio": "CTO"
+          , "role": "CTO"
+          , "bio": "C’est un moment de la vie où le digital est absent et un challenge technique que j’ai envie de relever."
           , "intro": "C’est un moment de la vie où le digital est absent et un challenge technique que j’ai envie de relever."
           , "pic": "team.louis"
           , "linkedin": "https://www.linkedin.com/in/louis-grellet-1927242/"
