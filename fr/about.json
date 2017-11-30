@@ -48,13 +48,13 @@
       , "team": [
         { 
             "name": "Constance de Vernejoul"
-          , "role": "Key Accounts & CRM"
+          , "role": "Responsable partenariats et relations client"
           , "pic": "team.constance"
           , "country": "France"
         },
         { 
             "name": "Eva Kerner"
-          , "role": "Directrice du Business Développement"
+          , "role": "Directrice Business Development US"
           , "pic": "team.eva"
           , "country": "Etats-Unis"
         }
