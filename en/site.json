@@ -22,8 +22,8 @@
       , "input-email-placeholder": "Your e-mail address"
       , "cta-v0": "Create a tribute page"
       , "cta-v1": "Create a tribute page"
-      , "lookup-text": "Looking for an existing page ?"
-      , "lookup-tooltip": "Ask the page link to the family."
+      , "lookup-text": "Looking for an existing page?"
+      , "lookup-tooltip": "Ask the family for a link to the page."
     }
   , "home": {
         "inform": {
@@ -39,11 +39,11 @@
           , "text": "InMemori is a free service that helps you celebrate the memory of the person you lost. In a few easy steps, gather family and friends, celebrate your loved one's life and remember together."
           , "create": {
                 "title": "Create a page"
-              , "text": "Tell us about your loved one. Add a picture of them. Personalize it with words from the family. Include information about the ceremony. If you'd like to encourage friends and family to donate to a cause, activate the fundraiser feature."
+              , "text": "Tell us about your loved one. It's yours to personalize."
             }
           , "share": {
                 "title": "Share it"
-              , "text": "In one click, publish the page and send it to friends and family. Watch memories come to life as they send in photos, write in beautiful memories, send their condolences."
+              , "text": "In one click, publish the page and share it to friends and family. Watch memories come to life as they send in photos, write in beautiful memories, send their condolences."
             }
           , "manage": {
                 "title": "Manage it"
