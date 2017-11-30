@@ -51,7 +51,7 @@
             }
           , "share": {
                 "title": "Share this page"
-              , "text": "The family needs you. Help them invite all of {{firstname, capitalize}}'s friends by sending the link to this page so they, too, can contribute."
+              , "text": "The family needs your help to create a living mosaic of {{firstname}}'s life. By sending {{firstname, capitalize}}'s friends the link to this page, they, too, can contribute their support."
             }
         }
     }
@@ -74,8 +74,8 @@
       , "steps": {
             "0": { "title": "Choose something to share ?" }
           , "1": { "title": "Condolences", "text": "A message to the family, expressing your feelings and your desire to support them in their time of need." }
-          , "2": { "title": "Memories", "text": "Feel free to write here, as much or as little as you'd like. Remember, this is a page only visible to those close to your loved one. You'll start by writing for yourself, but your words and memories can be incredibly cathartic for other contributors." }
-          , "3": { "title": "Photos", "text": "Anything that makes you think of them, a photo of them, or perhaps taken by them. These are your memories, brought to life." }
+          , "2": { "title": "Memories", "text": "This is your space to write in memories you have of {{firstname}}." }
+          , "3": { "title": "Photos", "text": "By uploading photos, you bring your memories to life." }
         }
     }
   , "donation": {
@@ -113,7 +113,7 @@
       , "tab-link": {
             "text": "Copy link"
           , "cta": "Copy Link"
-          , "tooltip": "copied !"
+          , "tooltip": "copied!"
         }
       , "tab-sms": {
             "text": "Share by text"
