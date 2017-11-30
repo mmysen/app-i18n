@@ -1,7 +1,7 @@
 {
     "header": {
         "title": "{{fullname}}"
-      , "titleOf": "of"
+      , "titleOf": ""
       , "cta": "Share this page"
       , "cta-right": "to friends and family."
       , "cta-share": "Share this page"
