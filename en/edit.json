@@ -1,18 +1,18 @@
 {
     "info": {
-        "title": "Edit {{fullname}}'s page"
+        "title": "Edit page"
       , "text": "Manage basic page information by clicking on one of the 4 categories below"
       , "tabs": {
             "1": {
                 "title": "Information"
-              , "text": "Change the page name and dates"
+              , "text": "Please tell us about the person you lost (name and dates)"
               , "cta-open": "Edit"
-              , "cta-close": "Cancel"
+              , "cta-close": "Close"
               , "cta": "Save"
               , "label-firstname": "First name"
-              , "input-firstname-placeholder": "First name"
+              , "input-firstname-placeholder": "First name of your loved one"
               , "label-lastname": "Last name"
-              , "input-lastname-placeholder": "Last name"
+              , "input-lastname-placeholder": "Last name of your loved one"
               , "label-dob": "Birth date"
               , "input-dob-placeholder": "mm/dd/yyyy"
               , "label-dod": "Passed away on"
@@ -22,12 +22,12 @@
                 "title": "Make it personal"
               , "text": "This is the photo and message your close ones will see on the page."
               , "cta-open": "Edit"
-              , "cta-close": "Cancel"
+              , "cta-close": "Close"
               , "cta": "Save"
-              , "label-intro": "Message telling loved ones about {{fullname}}'s page"
+              , "label-intro": "Write a message to inform relatives of the passing.\n No need to include information about the funeral - we'll take care of that later. "
               , "input-intro-placeholder": "intro"
               , "label-image": "Upload a profile picture of {{fullname}}"
-              , "text-image": "Vous pouvez vous occuper de cette étape plus tard, mais nous vous recommandons d’en ajouter une avant de partager la page avec vos proches. Formats acceptés : JPG, JPEG, PNG (taille maximale de 5 Mo)."
+              , "text-image": "You can complete this step later if you do not have the right picture now, but we highly recommend that you include a picture before sharing the page. Accepted formats: JPG, JPEG, PNG (max size: 5 Mo)."
               , "cta-image": "Select picture"
               , "cta-image-uploading": "Uploading..."
               , "label-templates": "Need inspiration ?"
@@ -38,10 +38,10 @@
                 ]
             }
           , "3": {
-                "title": "Ceremony"
-              , "text": "Date and location of memorial ceremony"
+                "title": "Celebration"
+              , "text": "Precise the date and location of memorial ceremonies and the contact relatives should reach out if they need information"
               , "cta-open": "Edit"
-              , "cta-close": "Cancel"
+              , "cta-close": "Close"
               , "cta": "Save"
             }
           , "4": {
