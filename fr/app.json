@@ -19,6 +19,7 @@
       , "print": "Imprimer le recueil"
       , "share": "Partager cette page"
     }
+  , "share-bar": "Partagez cette page"
   , "home": {
         "intro": {
             "title": "Bienvenue sur la page de {{firstname, capitalize}}"
@@ -60,7 +61,7 @@
       , "tab-pictures": "{{count}} Photo(s)"
       , "cta-add": "Partager une photo"
       , "cta-message": "Ecrire un message"
-      , "no-result": "Pas encore de message.\nSoyez le 1er à signer le recueil !"
+      , "no-result": "« Rien n’est plus vivant qu’un souvenir. »\nFrederico Garcia Lorca\n\nÉcrivez un message à la famille de {{firstname}}, partagez un souvenir de {{firstname}}, laissez une photo."
     }
   , "memories": {}
   , "message": {
@@ -93,6 +94,7 @@
       , "cta": "Envoyer"
       , "cta-end": "Terminer"
       , "receipt": "Votre paiement à bien été enregistré !\nRéférence: {{id}}"
+      , "other": "Autre"
     }
   , "flower": {}
   , "print": {}
@@ -119,11 +121,13 @@
             "text": "via SMS"
           , "placeholder": "Numéro de téléphone"
           , "cta": "Envoyer le lien"
+          , "info": "> Saisissez votre numéro afin de recevoir le lien de la page."
         }
       , "tab-email": {
             "text": "via Email"
           , "placeholder": "Adresse email"
           , "cta": "Envoyer le lien"
+          , "info": "> Saisissez votre adresse email, nous vous envoyons le lien de la page et un modèle de mail à partager à vos proches."
         }
     }
 

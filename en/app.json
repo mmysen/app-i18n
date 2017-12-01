@@ -19,6 +19,7 @@
       , "print": "Print the book"
       , "share": "Share this page"
     }
+  , "share-bar": "Share this page"
   , "home": {
        "intro": {
             "title": "Welcome to {{firstname, capitalize}}'s page"
@@ -93,6 +94,7 @@
       , "cta": "Send"
       , "cta-end": "End"
       , "receipt": "Your payment was successful!\nPayment reference: {{id}}"
+      , "other": "Other"
     }
   , "flower": {}
   , "print": {}
@@ -119,11 +121,13 @@
             "text": "Share by text"
           , "placeholder": "Enter your cell phone here"
           , "cta": "Send Link"
+          , "info": "> Saisissez votre adresse email, nous vous envoyons le lien de la page et un modèle de mail à partager à vos proches."
         }
       , "tab-email": {
             "text": "Share by e-mail"
           , "placeholder": "Enter your e-mail address here"
           , "cta": "Send Link"
+          , "info": "> Saisissez votre adresse email, nous vous envoyons le lien de la page et un modèle de mail à partager à vos proches."
         }
     }
 
