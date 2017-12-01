@@ -45,15 +45,15 @@
               , "cta": "Save"
             }
           , "4": {
-                "title": "Support & Donations"
-              , "text": "Initiate paid feature"
+                "title": "Donations"
+              , "text": "Organize a donation to support a charity close to your loved one"
               , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or to help the family pay for funeral expenses. Donations allow the entourage to express their support in a meaningful way."
               , "countries": [
                     ["fr", "France (EUR)"]
                   , ["us", "United States (USD)"]
                 ]
               , "cta-open": "Setup"
-              , "cta-close": "Cancel"
+              , "cta-close": "Close"
               , "cta-init": "Activate"
               , "cta-end": "Close"
               , "cta-pause": "Deactivate"
@@ -62,10 +62,10 @@
               , "input-country-placeholder": "Choose country"
               , "label-beneficiary": "Beneficiary"
               , "choice-beneficiary": [
-                    "Funds will go to the family"
-                  , "Funds will benefit an charitable organisation"
+                    "Family"
+                  , "Charitable organisation"
                 ]
-              , "label-message": "Your message"
+              , "label-message": "Your message to introduce the fundraising"
               , "input-message-placeholder": "Write a few lines that explain what this cause means to you & your family. It will encourage others to donate to it."
               , "label-org": "Organization"
               , "input-org-placeholder": "Choose an organization"
@@ -82,20 +82,20 @@
                       , "Aider les autres, voilà ce qui aura été au coeur de la vie de {{firstname, capitalize}}. Son action, il l’a menée au sein de l’association {{org}} qui la(le) touchait tout particulièrement. Ensemble et en son nom, continuons son combat et soutenons cette association. Merci de votre générosité."
                     ]
                 }
-              , "text-status": "To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
+              , "text-status": "A fundraising has been initiated for the benefit of {{org}}. \n To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
               , "label-person": "Beneficiary"
               , "label-firstname": "First name"
-              , "input-firstname-placeholder": "First name"
+              , "input-firstname-placeholder": "Your first name"
               , "label-lastname": "Last name"
-              , "input-lastname-placeholder": "Last name"
+              , "input-lastname-placeholder": "Your last name"
               , "label-iban": "Account number"
-              , "input-iban-placeholder": "Account number"
+              , "input-iban-placeholder": "Your account number"
               , "label-routing": "Routing number"
-              , "input-routing-placeholder": "Routing number"
+              , "input-routing-placeholder": "Your routing number"
               , "label-dob": "Date of birth"
-              , "input-dob-placeholder": "Date of birth"
+              , "input-dob-placeholder": "Your date of birth"
               , "label-address": "Address"
-              , "input-address-placeholder": "Address"
+              , "input-address-placeholder": "Your address"
               , "input-city-placeholder": "City"
               , "input-zipcode-placeholder": "Zipcode"
               , "title-success": "Fundraising has ended."
@@ -109,16 +109,16 @@
       , "label-info": "Additionnal information"
       , "label-date": "Date of {{type, capitalize}}"
       , "placeholder-date": "Date"
-      , "label-time": "Time"
+      , "label-time": "Time (24h)"
       , "placeholder-time": "Time "
       , "label-name": "Location of {{type, capitalize}}"
-      , "placeholder-name": "e.g. Mt. Sinai Mortuary, Grace Cathedral"
+      , "placeholder-name": "Mt. Sinai Mortuary, Grace Cathedral"
       , "label-address": "Address of {{type, capitalize}}"
-      , "placeholder-address": "Address"
+      , "placeholder-address": "1 Lincoln Bd, San Francisco, CA 94129"
       , "cta-delete": "Remove"
     }
   , "contacts": {
-        "title": "Who can visitors contact?"
+        "title": "Who should relatives reach out if they need more information?"
       , "label-name": "Name"
       , "placeholder-name": "Your name"
       , "label-email": "E-mail"
@@ -130,26 +130,26 @@
     }
   , "messages": {
         "title": "Manage messages"
-      , "text": "View and manage all messages posted on the page"
+      , "text": "View and manage all messages and pictures posted on the page"
       , "empty": "There are no messages yet!"
       , "cta-delete": "Delete"
       , "text-confirm": "Do you confirm message deletion ?"
     }
   , "stats": {
-        "title": "Page statistics"
+        "title": "Statistics"
       , "cta": "Click here"
       , "text": " to send the link of this page to family, friends and colleagues."
       , "view": "views"
-      , "comments": "comments"
+      , "comments": "messagess"
       , "donations": "donations"
       , "collected": "collected"
     }
   , "actions": {
-        "title": "Sharing memories & responsibilities"
-      , "text": "Manage advanced page actions and settings"
+        "title": "Page management"
+      , "text": ""
       , "share": {
-            "title": "Share"
-          , "sms": "Share link via text message"
+            "title": ""
+          , "sms": "Share this page"
           , "email": "Share link via e-mail"
           , "copy": "Copy link"
         }
