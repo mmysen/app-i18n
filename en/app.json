@@ -1,7 +1,7 @@
 {
     "header": {
         "title": "{{fullname}}"
-      , "titleOf": "of"
+      , "titleOf": ""
       , "cta": "Share this page"
       , "cta-right": "to friends and family."
       , "cta-share": "Share this page"
@@ -16,7 +16,7 @@
       , "message": "Share your memories"
       , "donation": "Donate"
       , "flowers": "Send flowers"
-      , "print": "Print the book"
+      , "print": "Print the tribute book"
       , "share": "Share this page"
     }
   , "share-bar": "Share this page"
@@ -29,7 +29,7 @@
         }
       , "donation": {
             "title": "Make a donation in {{firstname, capitalize}}'s memory"
-          , "cta": "Donate now"
+          , "cta": "Make a donation"
           , "text-org": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory. Proceeds will go to <strong>{{org}}</strong>."
           , "text-family": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory."
         
@@ -42,8 +42,8 @@
             "title": "Pay your respects to {{firstname, capitalize}}"
           , "text": "Here are a few ways you can celebrate {{firstname, capitalize}}'s life:"
           , "guestbook": {
-                "title": "Sign the InMemori book"
-              , "text": "Share your most precious moments & memories of {{firstname, capitalize}}.\n Remember, a photo is worth a 1000 words, so we encourage you to add photos."
+                "title": "Sign the tribute book"
+              , "text": "Share your most precious moments & memories of {{firstname, capitalize}}.\n A photo is worth a 1,000 words, we encourage you to add photos."
             }
           , "donation": {
                 "title": "Make a donation"
@@ -52,14 +52,14 @@
             }
           , "share": {
                 "title": "Share this page"
-              , "text": "The family needs you. Help them invite all of {{firstname, capitalize}}'s friends by sending the link to this page so they, too, can contribute."
+              , "text": "Send {{firstname, capitalize}}'s friends the link to this page, so they can contribute their support,too."
             }
         }
     }
   , "guestbook": {
-        "title": "InMemori book"
-      , "tab-entries": "{{count}} entries"
-      , "tab-pictures": "{{count}} pictures"
+        "title": "Tribute book"
+      , "tab-entries": "{{count}} Entrie(s)"
+      , "tab-pictures": "{{count}} Picture(s)"
       , "cta-add": "Add a picture"
       , "cta-message": "Write a message"
     }
@@ -69,14 +69,14 @@
       , "input-email-placeholder": "Email address"
       , "input-email-info": "For family to respond"
       , "input-message-placeholder": "Write a message for the family or share a memory of {{firstname, capitalize}}..."
-      , "cta": "Share on the InMemori book"
+      , "cta": "Share on the tribute book"
       , "cta-image": "Add picture"
       , "cta-image-uploading": "Uploading..."
       , "steps": {
             "0": { "title": "Choose something to share ?" }
-          , "1": { "title": "Condolences", "text": "A message to the family, expressing your feelings and your desire to support them in their time of need." }
-          , "2": { "title": "Memories", "text": "Feel free to write here, as much or as little as you'd like. Remember, this is a page only visible to those close to your loved one. You'll start by writing for yourself, but your words and memories can be incredibly cathartic for other contributors." }
-          , "3": { "title": "Photos", "text": "Anything that makes you think of them, a photo of them, or perhaps taken by them. These are your memories, brought to life." }
+          , "1": { "title": "Condolences", "text": "Express your feelings to support the family in their time of need." }
+          , "2": { "title": "Memories", "text": "Share memories you have of {{firstname}}." }
+          , "3": { "title": "Photos", "text": "By uploading photos, you bring your memories to life." }
         }
     }
   , "donation": {
@@ -114,19 +114,19 @@
         }
       , "tab-link": {
             "text": "Copy link"
-          , "cta": "Copy Link"
-          , "tooltip": "copied !"
+          , "cta": "Copy link"
+          , "tooltip": "copied!"
         }
       , "tab-sms": {
             "text": "Share by text"
           , "placeholder": "Enter your cell phone here"
-          , "cta": "Send Link"
+          , "cta": "Send"
           , "info": "> Saisissez votre adresse email, nous vous envoyons le lien de la page et un modèle de mail à partager à vos proches."
         }
       , "tab-email": {
             "text": "Share by e-mail"
           , "placeholder": "Enter your e-mail address here"
-          , "cta": "Send Link"
+          , "cta": "Send"
           , "info": "> Saisissez votre adresse email, nous vous envoyons le lien de la page et un modèle de mail à partager à vos proches."
         }
     }

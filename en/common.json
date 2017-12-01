@@ -10,7 +10,7 @@
     }
   , "fulldate": "LLL"
   , "shortdate": "LL"
-  , "show-map": "show on google map"
+  , "show-map": "Show on google map"
   , "types": {
         "ceremony": "Ceremony"
       , "contemplation": "Contemplation"
@@ -18,8 +18,8 @@
       , "cremation": "Cremation"
     }
   , "template": "Template"
-  , "toast-success": "Data saved !"
-  , "confirm-areusure": "Are you sure ?"
+  , "toast-success": "Saved successfully!"
+  , "confirm-areusure": "Are you sure?"
   , "yes": "Yes"
   , "no": "No"
 }

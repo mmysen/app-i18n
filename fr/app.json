@@ -22,7 +22,7 @@
   , "share-bar": "Partagez cette page"
   , "home": {
         "intro": {
-            "title": "Bienvenue sur la page de {{firstname, capitalize}}"
+            "title": "Chère famille, chers amis, \n cette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec {{firstname, capitalize}}, et qui nous aidera à traverser cette épreuve. \n Avec toute notre affection"
         }
       , "info": {
             "title": "Informations"
@@ -93,7 +93,7 @@
       , "label-receipt": "Reçu fiscal (facultatif)"
       , "cta": "Envoyer"
       , "cta-end": "Terminer"
-      , "receipt": "Votre paiement à bien été enregistré !\nRéférence: {{id}}"
+      , "receipt": "Votre paiement à bien été enregistré !\nRéférence : {{id}}"
       , "other": "Autre"
     }
   , "flower": {}
@@ -106,27 +106,27 @@
   , "share": {
         "link": {
             "title": "Envoyer cette page"
-          , "text": "Partager cette page avec la famille, les amis, et toutes les personnes qui tenaient à {{fullname}}, en leur envoyant ce lien:"
+          , "text": "Partagez cette page avec toutes les personnes qui tiennent à {{firstname, capitalize}} :"
         }
       , "admin": {
             "title": "Partager la page d'administration"
-          , "text": "Partager l'accès à la page de {{fullname}}, en envoyant ce lien à un administrateur:"
+          , "text": "Partager l'accès à la page de {{fullname}}, en envoyant ce lien à un administrateur :"
         }
       , "tab-link": {
             "text": "Copier le lien"
           , "cta": "Copier le lien"
-          , "tooltip": "copié !"
+          , "tooltip": "Copié !"
         }
       , "tab-sms": {
-            "text": "via SMS"
-          , "placeholder": "Numéro de téléphone"
-          , "cta": "Envoyer le lien"
+            "text": "Par SMS"
+          , "placeholder": "Votre numéro de téléphone"
+          , "cta": "Envoyer"
           , "info": "> Saisissez votre numéro afin de recevoir le lien de la page."
         }
       , "tab-email": {
-            "text": "via Email"
-          , "placeholder": "Adresse email"
-          , "cta": "Envoyer le lien"
+            "text": "Par email"
+          , "placeholder": "Votre adresse email"
+          , "cta": "Envoyer"
           , "info": "> Saisissez votre adresse email, nous vous envoyons le lien de la page et un modèle de mail à partager à vos proches."
         }
     }

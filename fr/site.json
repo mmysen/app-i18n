@@ -23,7 +23,7 @@
       , "cta-v0": "Créer une page"
       , "cta-v1": "Créer une page"
       , "lookup-text": "Vous recherchez une page déjà existante ?"
-      , "lookup-tooltip": "Vous devez demander à la famille le lien de la page"
+      , "lookup-tooltip": "Demandez le lien de la page à la famille ou à des proches."
     }
   , "home": {
         "inform": {
@@ -51,8 +51,8 @@
             }
         }
       , "values": {
-            "title": "Nos valeurs"
-          , "text": "Nous avons créé InMemori afin de révéler l'essentiel de la vie. Voici nos valeurs."
+            "title": "Nos principes"
+          , "text": "Nous avons créé InMemori afin de révéler l'essentiel de la vie. \n Voici nos principes fondamentaux."
           , "collective": {
                 "title": "Partage"
               , "text": "Les personnes que vous invitez à voir cette page peuvent à leur tour la partager avec leurs proches. Rassembler famille et amis apporte du réconfort à chacun dans ces moments de deuil."
