@@ -23,7 +23,7 @@
       , "cta-v0": "Créer une page"
       , "cta-v1": "Créer une page"
       , "lookup-text": "Vous recherchez une page déjà existante ?"
-      , "lookup-tooltip": "Vous devez demander à la famille le lien de la page"
+      , "lookup-tooltip": "Demandez le lien de la page à la famille ou à des proches."
     }
   , "home": {
         "inform": {
