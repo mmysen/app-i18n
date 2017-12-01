@@ -22,7 +22,7 @@
   , "share-bar": "Share this page"
   , "home": {
        "intro": {
-            "title": "Welcome to {{firstname, capitalize}}'s page"
+            "title": "Dear friends and family, \n this page is made for you to share your memories with {{firstname, capitalize}}. This space is intimate enough to share your photos and moments lived with {{firstname, capitalize}}. By sharing, together we can overcome the darkness. \nAll our love, {{firstname, capitalize}}'s family."
         }
       , "info": {
             "title": "Information"
