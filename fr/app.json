@@ -113,7 +113,7 @@
       , "tab-link": {
             "text": "Copier le lien"
           , "cta": "Copier le lien"
-          , "tooltip": "copié !"
+          , "tooltip": "Copié !"
         }
       , "tab-sms": {
             "text": "via SMS"
