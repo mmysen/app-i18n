@@ -116,12 +116,12 @@
           , "tooltip": "Copié !"
         }
       , "tab-sms": {
-            "text": "par SMS"
+            "text": "Par SMS"
           , "placeholder": "Votre numéro de téléphone"
           , "cta": "Envoyer"
         }
       , "tab-email": {
-            "text": "par email"
+            "text": "Par email"
           , "placeholder": "Votre adresse email"
           , "cta": "Envoyer"
         }
