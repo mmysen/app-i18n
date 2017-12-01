@@ -104,7 +104,7 @@
   , "share": {
         "link": {
             "title": "Envoyer cette page"
-          , "text": "Partager cette page avec la famille, les amis, et toutes les personnes qui tenaient à {{fullname}}, en leur envoyant ce lien :"
+          , "text": "Partagez cette page avec toutes les personnes qui tiennent à {{fullname}} :"
         }
       , "admin": {
             "title": "Partager la page d'administration"
@@ -116,14 +116,14 @@
           , "tooltip": "Copié !"
         }
       , "tab-sms": {
-            "text": "via SMS"
-          , "placeholder": "Numéro de téléphone"
-          , "cta": "Envoyer le lien"
+            "text": "par SMS"
+          , "placeholder": "Votre numéro de téléphone"
+          , "cta": "Envoyer"
         }
       , "tab-email": {
-            "text": "via Email"
-          , "placeholder": "Adresse email"
-          , "cta": "Envoyer le lien"
+            "text": "par email"
+          , "placeholder": "Votre adresse email"
+          , "cta": "Envoyer"
         }
     }
 
