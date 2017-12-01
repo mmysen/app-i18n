@@ -92,7 +92,7 @@
       , "label-receipt": "Reçu fiscal (facultatif)"
       , "cta": "Envoyer"
       , "cta-end": "Terminer"
-      , "receipt": "Votre paiement à bien été enregistré !\nRéférence: {{id}}"
+      , "receipt": "Votre paiement à bien été enregistré !\nRéférence : {{id}}"
     }
   , "flower": {}
   , "print": {}
@@ -104,11 +104,11 @@
   , "share": {
         "link": {
             "title": "Envoyer cette page"
-          , "text": "Partager cette page avec la famille, les amis, et toutes les personnes qui tenaient à {{fullname}}, en leur envoyant ce lien:"
+          , "text": "Partager cette page avec la famille, les amis, et toutes les personnes qui tenaient à {{fullname}}, en leur envoyant ce lien :"
         }
       , "admin": {
             "title": "Partager la page d'administration"
-          , "text": "Partager l'accès à la page de {{fullname}}, en envoyant ce lien à un administrateur:"
+          , "text": "Partager l'accès à la page de {{fullname}}, en envoyant ce lien à un administrateur :"
         }
       , "tab-link": {
             "text": "Copier le lien"
