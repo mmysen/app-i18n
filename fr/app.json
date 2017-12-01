@@ -21,7 +21,7 @@
     }
   , "home": {
         "intro": {
-            "title": "Bienvenue sur la page de {{firstname, capitalize}}"
+            "title": "Chère famille, chers amis, \n cette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec {{firstname, capitalize}}, et qui nous aidera à traverser cette épreuve. \n Avec toute notre affection"
         }
       , "info": {
             "title": "Informations"
