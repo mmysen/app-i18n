@@ -139,9 +139,9 @@
         "title": "Statistics"
       , "cta": "Click here"
       , "text": " to send the link of this page to family, friends and colleagues."
-      , "view": "views"
-      , "comments": "messagess"
-      , "donations": "donations"
+      , "view": "view(s)"
+      , "comments": "message(s)"
+      , "donations": "donation(s)"
       , "collected": "collected"
     }
   , "actions": {
