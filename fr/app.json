@@ -61,7 +61,7 @@
       , "tab-pictures": "{{count}} Photo(s)"
       , "cta-add": "Partager une photo"
       , "cta-message": "Ecrire un message"
-      , "no-result": "« Tous les messages d'hommage apparaîtront ici. »\nVos mots et vos pensées accompagneront la famille de {{firstname, capitalize}}.\nSoyez le premier à vous manifester."
+      , "no-result": "Tous les messages d'hommage apparaîtront ici.\nVos mots et vos pensées accompagneront la famille de {{firstname, capitalize}}.\nSoyez le premier à vous manifester."
     }
   , "memories": {}
   , "message": {
