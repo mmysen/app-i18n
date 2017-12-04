@@ -42,7 +42,7 @@
           , "text": "Voici plusieurs manières de rendre hommage à {{firstname, capitalize}} :"
           , "guestbook": {
                 "title": "Signer le recueil"
-              , "text": "Envoyer vos condoléances à la famille. Partager un souvenir avec {{firstname, capitalize}}.  Poster une photo."
+              , "text": "Envoyez vos condoléances à la famille. Partagez un souvenir avec {{firstname, capitalize}}. Postez une photo."
             }
           , "donation": {
                 "title": "Faire un don"
