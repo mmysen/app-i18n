@@ -5,7 +5,7 @@
       , "tabs": {
             "1": {
                 "title": "Information"
-              , "text": "Please tell us about the person you lost (name and dates)"
+              , "text": "Please tell us about the person you lost"
               , "cta-open": "Edit"
               , "cta-close": "Close"
               , "cta": "Save"
@@ -32,9 +32,9 @@
               , "cta-image-uploading": "Uploading..."
               , "label-templates": "Don't have the words?"
               , "templates": [
-                    "Dear loved ones, \n\nas some of you may already know, our dear {{firstname, capitalize}} has left this world {{dod, lowercase}}, having lived {{age}} beautiful years. This page is destined for you all, to share your warm words of support with us and with one another during this period of darkness. We encourage you to share memories and photos of moments lived with {{firstname, capitalize}}. \n\nAll our love."
-                  , "It is with a heavy heart we share with you the news of {{fullname}}'s passing, {{dod, lowercase}}."
-                  , "Dear friends and family, \n\nit is with great sadness that I share the news of [my father, my mother, my partner, my brother, my sister,...] {{firstname, capitalize}} death, having taken place {{dod, lowercase}}."
+                    "Dear loved ones, \n\nAs some of you may already know, our dear {{firstname, capitalize}} has left this world {{dod, capitalize}}, having lived {{age}} beautiful years. This page is destined for you all, to share your warm words of support with us and with one another during this period of darkness. We encourage you to share memories and photos of moments lived with {{firstname, capitalize}}. \n\nAll our love."
+                  , "It is with a heavy heart we share with you the news of {{fullname}}'s passing, {{dod, capitalize}}."
+                  , "Dear friends and family, \n\nIt is with great sadness that I share the news of [my father, my mother, my partner, my brother, my sister,...] {{firstname, capitalize}} death, having taken place {{dod, capitalize}}."
                 ]
             }
           , "3": {
@@ -98,8 +98,8 @@
               , "input-address-placeholder": "Your address"
               , "input-city-placeholder": "City"
               , "input-zipcode-placeholder": "Zipcode"
-              , "title-success": "Fundraising has ended."
-              , "text-success": "blablba"
+              , "title-success": "Fundraising has ended"
+              , "text-success": "Your fundraiser is now closed!"
             }
         }
 
