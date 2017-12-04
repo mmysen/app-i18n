@@ -5,7 +5,7 @@
       , "tabs": {
             "1": {
                 "title": "Information"
-              , "text": "Please tell us about the person you lost"
+              , "text": "Please tell us about the person you lost."
               , "cta-open": "Edit"
               , "cta-close": "Close"
               , "cta": "Save"
@@ -39,7 +39,7 @@
             }
           , "3": {
                 "title": "Celebration"
-              , "text": "Specify the date and location of planned memorial ceremonies and the person guests may reach out to"
+              , "text": "Specify the date and location of planned memorial ceremonies and the person guests may reach out to."
               , "cta-open": "Edit"
               , "cta-close": "Close"
               , "cta": "Save"
