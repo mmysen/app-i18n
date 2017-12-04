@@ -39,7 +39,7 @@
           , "text": "InMemori is a free service that helps you celebrate the memory of the person you lost. In a few easy steps, gather family and friends, celebrate your loved one's life and remember together."
           , "create": {
                 "title": "Create a page"
-              , "text": "Tell us about your loved one. It's yours to personalize."
+              , "text": "Tell us about your loved one. Inform about the funeral service. It's yours to personalize."
             }
           , "share": {
                 "title": "Share it"
@@ -47,7 +47,7 @@
             }
           , "manage": {
                 "title": "Manage it"
-              , "text": " Manage the page’s activity (views, posts, donations). You can then download, print and share the memory book to memorialize the outpouring of love."
+              , "text": " Manage the page’s activity (views, posts, donations). Download, print and share the memory book to memorialize the outpouring of love."
             }
         }
       , "values": {
