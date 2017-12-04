@@ -63,7 +63,7 @@
               , "label-beneficiary": "Beneficiary"
               , "choice-beneficiary": [
                     "Family"
-                  , "Charitable organisation"
+                  , "Charitable organization"
                 ]
               , "label-message": "Your message to introduce the fundraising"
               , "input-message-placeholder": "Write a few lines that explain what this cause means to you & your family. It will encourage others to donate to it."
@@ -79,7 +79,7 @@
                   , "org": [
                         "{{firstname, capitalize}} dedicated their life to serving a greater good, working with {{org}}, always wanting to make the better a better, more beautiful place and provide for its future. \n\nWe would like to continue this ambitious mission in {{firstname, capitalize}}'s memory by raising funds to support an organization whose mission was so close to {{firstname, capitalize}}'s heart. We think that {{firstname, capitalize}} would have wanted that. Thank you for your kindess and generosity."
                       , "As some of you know, our dear {{firstname, capitalize}} was taken by (name of disease) after years of heroic struggle. In memory of {{firstname, capitalize}} and all those brave souls fallen to this terrible malady, we would like to raise funds for {{org}} to discover treatments and, one day, a cure to save countless future lives. Thank you for supporting us in a mission so close to our hearts."
-                      , "Helping others was the main driving force of {{firstname, capitalize}}'s life. This energy was evident most strongly in the work they had dedicated to {{org}}. Together and in memory to their compassionate and charitable soul, let us continue their mission and support the organization's work. Thank you for your generosity."
+                      , "Helping others was the main driving force of {{firstname, capitalize}}'s life. That's a life's worth of work dedicated to {{org}}. Together and in memory to their compassionate and charitable soul, let us continue their mission and support the organization's work. Thank you for your generosity."
                     ]
                 }
               , "text-status": "The family has begun a fundraiser, proceeds going to {{org}}. \n To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
@@ -136,7 +136,7 @@
       , "text-confirm": "Are you sure you want to delete this message?"
     }
   , "stats": {
-        "title": "Statistics"
+        "title": "Numbers"
       , "cta": "Click here"
       , "text": " to send the link of this page to family, friends and colleagues"
       , "view": "view(s)"
