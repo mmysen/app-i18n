@@ -106,7 +106,7 @@
   , "share": {
         "link": {
             "title": "Envoyer cette page"
-          , "text": "Partagez cette page avec toutes les personnes qui tiennent à {{firstname, capitalize}} :"
+          , "text": "Partagez cette page avec toutes les personnes qui ont croisé le chemin de {{firstname, capitalize}} :"
         }
       , "admin": {
             "title": "Partager la page d'administration"
