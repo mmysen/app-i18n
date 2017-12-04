@@ -6,6 +6,7 @@
       , "cta-right": "to friends and family."
       , "cta-share": "Share this page"
       , "cta-edit": "Edit page"
+      , "cta-edit-tooltip": "reserver aux admins"
       , "cta-view": "View page"
     }
   , "menu": {
