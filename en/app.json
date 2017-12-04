@@ -62,7 +62,7 @@
       , "tab-pictures": "{{count}} Picture(s)"
       , "cta-add": "Add a picture"
       , "cta-message": "Write a message"
-      , "no-result": "There is nothing more alive than a memory. »\nFederico Garcia Lorca\nWrite a message to the family of {{firstname}}, share a memory you've lived with {{firstname}}, leave a photo."
+      , "no-result": "There is nothing more alive than a memory. »\nFederico Garcia Lorca\nWrite a message to the family of {{firstname, capitalize}}, share a memory you've lived with {{firstname, capitalize}}, leave a photo."
     }
   , "memories": {}
   , "message": {
@@ -111,7 +111,7 @@
         }
       , "admin": {
             "title": "Share admin page"
-          , "text": "Share access to {{fullname}} page, by sending this link to an administrator:"
+          , "text": "Share access to {{firstname, capitalize}} page, by sending this link to an administrator:"
         }
       , "tab-link": {
             "text": "Copy link"
@@ -122,13 +122,13 @@
             "text": "Share by text"
           , "placeholder": "Enter your cell phone here"
           , "cta": "Send"
-          , "info": "> If you enter your cell phone number, we will text you a link to {{firstname, capitalize}}'s InMemori page, accompanied by a message you can send to your close ones."
+          , "info": "> Enter your cell phone number, so we will text you the link of the InMemori page, accompanied by a message you can personalize and send to your close ones."
         }
       , "tab-email": {
             "text": "Share by e-mail"
           , "placeholder": "Enter your e-mail address here"
           , "cta": "Send"
-          , "info": "> If you enter your e-mail, we will send you a link to {{firstname, capitalize}}'s InMemori page, accompanied by a message you can send to your close ones."
+          , "info": "> Enter your e-mail, so we will send you the link of the InMemori page."
         }
     }
 
