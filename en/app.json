@@ -62,6 +62,8 @@
       , "tab-pictures": "{{count}} Picture(s)"
       , "cta-add": "Add a picture"
       , "cta-message": "Write a message"
+      , "no-result": "There is nothing more alive than a memory. »\nFederico Garcia Lorca\nWrite a message to the family of {{firstname}}, share a memory you've lived with {{firstname}}, leave a photo."
+    }
     }
   , "memories": {}
   , "message": {
