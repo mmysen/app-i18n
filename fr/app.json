@@ -56,7 +56,7 @@
         }
     }
   , "guestbook": {
-        "title": "Recueil"
+        "title": "Recueil InMemori"
       , "tab-entries": "{{count}} Message(s)"
       , "tab-pictures": "{{count}} Photo(s)"
       , "cta-add": "Partager une photo"
