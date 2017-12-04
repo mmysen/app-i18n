@@ -14,11 +14,11 @@
         },
         {
           "q": "How can I make an InMemori page?",
-          "r": "With just the name, date of death and your e-mail address, you can create a page. Just click <a href='/cta-create'>here</a> and get started.\nCreating a page shouldn’t take more than 5 minutes\n\nOnce the page has been created, you will have access to your management dashboard, on which you can:\n- manage the page (see how many people have visited it, how many posts have been shared),\n- set up a fundraiser, either for a charity organization of your choice or for the family,\n- print the memory book, compiling all the memories and messages shared,\n- thank those who have contributed to the page, using the contact list available on the dashboard."
+          "r": "With just the name, date of death and your e-mail address, you can create a page. Just click <a href='/signup'>here</a> and get started.\nCreating a page shouldn’t take more than 5 minutes\n\nOnce the page has been created, you will have access to your management dashboard, on which you can:\n- manage the page (see how many people have visited it, how many posts have been shared),\n- set up a fundraiser, either for a charity organization of your choice or for the family,\n- print the memory book, compiling all the memories and messages shared,\n- thank those who have contributed to the page, using the contact list available on the dashboard."
         },
         {
           "q": "Who can create an InMemori page?",
-          "r": "Everyone and anyone with access to the internet can create a page, be that a family member, a friend, a colleague...\nJust provide the first and last name of the deceased, their date of death and your email address. Then click <a href='/cta-create'>here</a>."
+          "r": "Everyone and anyone with access to the internet can create a page, be that a family member, a friend, a colleague...\nJust provide the first and last name of the deceased, their date of death and your email address. Then click <a href='/signup'>here</a>."
         },
         {
           "q": "How can I invite my friends to view and share on the page?",
