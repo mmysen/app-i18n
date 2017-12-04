@@ -43,7 +43,7 @@
           , "text": "Voici plusieurs manières de rendre hommage à {{firstname, capitalize}} :"
           , "guestbook": {
                 "title": "Signer le recueil"
-              , "text": "Envoyer vos condoléances à la famille. Partager un souvenir avec {{firstname, capitalize}}.  Poster une photo."
+              , "text": "Envoyez vos condoléances à la famille. Partagez un souvenir avec {{firstname, capitalize}}. Postez une photo."
             }
           , "donation": {
                 "title": "Faire un don"
@@ -62,7 +62,7 @@
       , "tab-pictures": "{{count}} Photo(s)"
       , "cta-add": "Partager une photo"
       , "cta-message": "Ecrire un message"
-      , "no-result": "« Rien n’est plus vivant qu’un souvenir. »\nFrederico Garcia Lorca\n\nÉcrivez un message à la famille de {{firstname}}, partagez un souvenir de {{firstname}}, laissez une photo."
+      , "no-result": "Tous les messages d'hommage apparaîtront ici.\nVos mots et vos pensées accompagneront la famille de {{firstname, capitalize}}.\nSoyez le premier à vous manifester."
     }
   , "memories": {}
   , "message": {
@@ -107,7 +107,7 @@
   , "share": {
         "link": {
             "title": "Envoyer cette page"
-          , "text": "Partagez cette page avec toutes les personnes qui tiennent à {{firstname, capitalize}} :"
+          , "text": "Partagez cette page avec toutes les personnes qui ont croisé le chemin de {{firstname, capitalize}} :"
         }
       , "admin": {
             "title": "Partager la page d'administration"

@@ -1,8 +1,26 @@
 [
 
-    { "name": "Resto du coeur" }
-  , { "name": "Sidaction" }
-  , { "name": "Red cross" }
-
+    { "name": "Breast Cancer Research Foundation" }
+  , { "name": "Cancer Research Institute" }
+  , { "name": "Leukemia & Lymphoma Society" }
+  , { "name": "Memorial Sloan Kettering Cancer Center" }
+  , { "name": "Children's Defense Fund" }
+  , { "name": "American Civil Liberties Union" }
+  , { "name": "Drug Policy Alliance" }
+  , { "name": "Conservation Fund" }
+  , { "name": "Sierra Club Foundation" }
+  , { "name": "National Wildlife Federation" }
+  , { "name": "Union of Concerned Scientists" }
+  , { "name": "American Red Cross" }
+  , { "name": "Planned Parenthood Federation of America" }
+  , { "name": "City of Hope & Affiliates" }
+  , { "name": "Habitat for Humanity International (National Office)" }
+  , { "name": "City of Hope & Affiliates" }
+  , { "name": "Human Rights Watch" }
+  , { "name": "Doctors Without Borders USA" }
+  , { "name": "International Rescue Committee" }
+  , { "name": "Oxfam-America" }
+  , { "name": "Rotary Foundation of Rotary International" }
+  , { "name": "Jewish National Fund" }   
 
 ]

@@ -5,7 +5,7 @@
       , "tabs": {
             "1": {
                 "title": "Information"
-              , "text": "Please tell us about the person you lost (name and dates)"
+              , "text": "Please tell us about the person you lost."
               , "cta-open": "Edit"
               , "cta-close": "Close"
               , "cta": "Save"
@@ -27,26 +27,26 @@
               , "label-intro": "Write a message to inform relatives of the passing.\n No need to include information about the funeral - we'll take care of that later. "
               , "input-intro-placeholder": "intro"
               , "label-image": "Upload a profile picture of {{fullname}}"
-              , "text-image": "You can complete this step later if you do not have the right picture now, but we highly recommend that you include a picture before sharing the page. Accepted formats: JPG, JPEG, PNG (max size: 5 Mo)."
+              , "text-image": "You can complete this step later if you do not have the right picture now, but we highly recommend that you include a picture before sharing the page. Accepted formats: JPG, JPEG, PNG (max size: 5 MB)."
               , "cta-image": "Select picture"
               , "cta-image-uploading": "Uploading..."
-              , "label-templates": "Need inspiration ?"
+              , "label-templates": "Don't have the words?"
               , "templates": [
-                    "Chère famille, chers amis,\n\ncomme vous le savez peut être, notre cher(e) {{firstname, capitalize}} nous a quitté le {{dod, lowercase}} dernier, à l’âge de {{age}} ans. Cette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec notre cher(e) {{firstname, capitalize}}, et qui nous aidera à traverser cette épreuve.\n\nAvec toute notre affection."
-                  , "L’ensemble de la famille et tous les proches ont la douleur de vous part du décès de {{fullname}}, survenu le {{dod, lowercase}}."
-                  , "Chère famille, chers amis,\n\nj’ai la grande tristesse de vous annoncer le décès de [mon père, ma mère, mon épou(se)x, mon frère, ma soeur,...] {{firstname, capitalize}}, survenu le {{dod, lowercase}}.\n\nBien amicalement."
+                    "Dear loved ones, \n\nAs some of you may already know, our dear {{firstname, capitalize}} has left this world {{dod, capitalize}}, having lived {{age}} beautiful years. This page is destined for you all, to share your warm words of support with us and with one another during this period of darkness. We encourage you to share memories and photos of moments lived with {{firstname, capitalize}}. \n\nAll our love."
+                  , "It is with a heavy heart we share with you the news of {{fullname}}'s passing, {{dod, capitalize}}."
+                  , "Dear friends and family, \n\nIt is with great sadness that I share the news of [my father, my mother, my partner, my brother, my sister,...] {{firstname, capitalize}} death, having taken place {{dod, capitalize}}."
                 ]
             }
           , "3": {
                 "title": "Celebration"
-              , "text": "Precise the date and location of memorial ceremonies and the contact to reach out"
+              , "text": "Specify the date and location of planned memorial ceremonies and the person guests may reach out to."
               , "cta-open": "Edit"
               , "cta-close": "Close"
               , "cta": "Save"
             }
           , "4": {
                 "title": "Donations"
-              , "text": "Organize a donation to support a charity close to your loved one"
+              , "text": "Organize a donation to support a cause that was close to your loved one's heart."
               , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or to help the family pay for funeral expenses. Donations allow the entourage to express their support in a meaningful way."
               , "countries": [
                     ["fr", "France (EUR)"]
@@ -72,17 +72,17 @@
               , "label-templates": "Need inspiration?"
               , "templates": {
                     "family": [
-                        "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons."
-                      , "{{firstname, capitalize}} ne souhaitait pas de fleurs, mais pour ceux qui le désirent, nous organisons une collecte de dons en sa mémoire."
-                      , "Nous organisons une collecte de dons en mémoire de {{firstname, capitalize}}. La somme récoltée permettra à sa famille de financer, au moins en partie, ses obsèques. Merci d’avance de votre générosité."
+                        "Our family would like to honor our {{firstname, capitalize}} by organizing a fundraiser."
+                      , "{{firstname, capitalize}} was never into sympathy bouquets, so instead, for those who would like to show their support, we are raising funds in their memory."
+                      , "We have organized a fundraiser in memory of {{firstname, capitalize}}. The funds raised will go to covering at least partially the costs of the memorial services. Infinite thanks for your generosity."
                     ]
                   , "org": [
-                        "Toute sa vie {{firstname, capitalize}} s’est engagé à servir les autres au sein de l’association {{org}}. Il le faisait avec dévouement et désintéressement, avec toujours ce soucis de rendre le monde meilleur et d’aider son prochain.\n\nNous souhaitons poursuivre ce combat en sa mémoire et organisons une collecte de dons pour soutenir, en son nom, cette association qui lui tenait tellement à coeur. Nous pensons que c’est ce que {{firstname, capitalize}} aurait souhaité. Merci d’avance de votre générosité."
-                      , "Comme vous le savez, notre cher(e) {{firstname, capitalize}} a été emporté par la maladie (nom de la maladie) après des années de combat. En mémoire de {{firstname, capitalize}} et de toutes les autres victimes de cette maladie, nous avons décidé de soutenir l’association {{org}} afin de financer la recherche et de sauver des milliers de vies futures. Merci d’avance de soutenir cette cause qui nous tient particulièrement à coeur."
-                      , "Aider les autres, voilà ce qui aura été au coeur de la vie de {{firstname, capitalize}}. Son action, il l’a menée au sein de l’association {{org}} qui la(le) touchait tout particulièrement. Ensemble et en son nom, continuons son combat et soutenons cette association. Merci de votre générosité."
+                        "{{firstname, capitalize}} dedicated their life to serving a greater good, working with {{org}}. avec toujours ce soucis de rendre le monde meilleur et d’aider son prochain.\n\nNous souhaitons poursuivre ce combat en sa mémoire et organisons une collecte de dons pour soutenir, en son nom, cette association qui lui tenait tellement à coeur. Nous pensons que c’est ce que {{firstname, capitalize}} aurait souhaité. Merci d’avance de votre générosité."
+                      , "As some of you know, our dear {{firstname, capitalize}} was taken by (nom de la maladie) after years of heroic struggle. In memory of {{firstname, capitalize}} and all those brave souls fallen to this terrible malady, we would like to raise funds for {{org}} to discover treatments and, one day, a cure to save countless future lives. Thank you for supporting us in a mission so close to our hearts."
+                      , "Helping others was the main driving force of {{firstname, capitalize}}'s life. This energy was evident most strongly in the work they had dedicated to {{org}}. Together and in memory to their compassionate and charitable soul, let us continue their mission and support the organization's work.  et soutenons cette association. Thank you for your generosity."
                     ]
                 }
-              , "text-status": "A fundraising has been initiated for the benefit of {{org}}. \n To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
+              , "text-status": "The family has begun a fundraiser, proceeds going to {{org}}. \n To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
               , "label-person": "Beneficiary"
               , "label-firstname": "First name"
               , "input-firstname-placeholder": "Your first name"
@@ -98,8 +98,8 @@
               , "input-address-placeholder": "Your address"
               , "input-city-placeholder": "City"
               , "input-zipcode-placeholder": "Zipcode"
-              , "title-success": "Fundraising has ended."
-              , "text-success": "blablba"
+              , "title-success": "Fundraising has ended"
+              , "text-success": "Your fundraiser is now closed!"
             }
         }
 
@@ -109,7 +109,7 @@
       , "label-info": "Additionnal information"
       , "label-date": "Date of {{type, capitalize}}"
       , "placeholder-date": "Date"
-      , "label-time": "Time (24h)"
+      , "label-time": "Time (24h; 14h30=2:30PM)"
       , "placeholder-time": "Time "
       , "label-name": "Location of {{type, capitalize}}"
       , "placeholder-name": "Mt. Sinai Mortuary, Grace Cathedral"
@@ -133,12 +133,12 @@
       , "text": "View and manage all messages and pictures posted on the page"
       , "empty": "There are no messages yet!"
       , "cta-delete": "Delete"
-      , "text-confirm": "Do you confirm message deletion ?"
+      , "text-confirm": "Are you sure you want to delete this message?"
     }
   , "stats": {
         "title": "Statistics"
       , "cta": "Click here"
-      , "text": " to send the link of this page to family, friends and colleagues."
+      , "text": " to send the link of this page to family, friends and colleagues"
       , "view": "view(s)"
       , "comments": "message(s)"
       , "donations": "donation(s)"

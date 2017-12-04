@@ -23,7 +23,7 @@
   , "share-bar": "Share this page"
   , "home": {
        "intro": {
-            "title": "Welcome to {{firstname, capitalize}}'s page"
+            "title": "Dear friends and family, \n this page is made for you to share love in this moment of loss. This space is intimate, so please feel free to share your photos and moments lived with {{firstname, capitalize}}. Only together can we hope to overcome this loss. \nAll our love, {{firstname, capitalize}}'s family."
         }
       , "info": {
             "title": "Information"
@@ -40,7 +40,7 @@
           , "text": "This page was created by {{firstname, capitalize}}'s family. Should you have any questions, please reach out to:"
         }
       , "support": {
-            "title": "Pay your respects to {{firstname, capitalize}}"
+            "title": "Remembering {{firstname, capitalize}}"
           , "text": "Here are a few ways you can celebrate {{firstname, capitalize}}'s life:"
           , "guestbook": {
                 "title": "Sign the tribute book"
@@ -53,7 +53,7 @@
             }
           , "share": {
                 "title": "Share this page"
-              , "text": "Send {{firstname, capitalize}}'s friends the link to this page, so they can contribute their support,too."
+              , "text": "Send {{firstname, capitalize}}'s friends the link to this page, so they can contribute, too."
             }
         }
     }
@@ -63,26 +63,27 @@
       , "tab-pictures": "{{count}} Picture(s)"
       , "cta-add": "Add a picture"
       , "cta-message": "Write a message"
+      , "no-result": "There is nothing more alive than a memory. »\nFederico Garcia Lorca\nWrite a message to the family of {{firstname}}, share a memory you've lived with {{firstname}}, leave a photo."
     }
   , "memories": {}
   , "message": {
         "input-fullname-placeholder": "Your first and last name(s)"
-      , "input-email-placeholder": "Email address"
-      , "input-email-info": "For family to respond"
+      , "input-email-placeholder": "Email"
+      , "input-email-info": "So families can contact you"
       , "input-message-placeholder": "Write a message for the family or share a memory of {{firstname, capitalize}}..."
       , "cta": "Share on the tribute book"
       , "cta-image": "Add picture"
       , "cta-image-uploading": "Uploading..."
       , "steps": {
-            "0": { "title": "Choose something to share ?" }
-          , "1": { "title": "Condolences", "text": "Express your feelings to support the family in their time of need." }
-          , "2": { "title": "Memories", "text": "Share memories you have of {{firstname}}." }
+            "0": { "title": "While there are many ways to remember & celebrate, here's 3" }
+          , "1": { "title": "Condolences", "text": "Express your feelings of support with the family in their time of need." }
+          , "2": { "title": "Memories", "text": "Share memories you have of {{firstname, capitalize}}." }
           , "3": { "title": "Photos", "text": "By uploading photos, you bring your memories to life." }
         }
     }
   , "donation": {
         "title": "New donation"
-      , "title-success": "Thanks for your support!"
+      , "title-success": "Thank you for your support!"
       , "input-firstname-placeholder": "First name"
       , "input-lastname-placeholder": "Last name"
       , "input-email-placeholder": "Email"
@@ -94,7 +95,7 @@
       , "label-receipt": "Receipt (mandatory)"
       , "cta": "Send"
       , "cta-end": "End"
-      , "receipt": "Your payment was successful!\nPayment reference: {{id}}"
+      , "receipt": "Your payment was successful!\nPayment reference number: {{id}}"
       , "other": "Other"
     }
   , "flower": {}
@@ -107,7 +108,7 @@
   , "share": {
         "link": {
             "title": "Send this page"
-          , "text": "Send this page to family, friends, and everyone who cared about {{fullname}}, by sending them this link:"
+          , "text": "Send this page to family, friends, and everyone who's lives were touched by {{fullname}}, by sending them this link:"
         }
       , "admin": {
             "title": "Share admin page"
@@ -122,13 +123,13 @@
             "text": "Share by text"
           , "placeholder": "Enter your cell phone here"
           , "cta": "Send"
-          , "info": "> Saisissez votre adresse email, nous vous envoyons le lien de la page et un modèle de mail à partager à vos proches."
+          , "info": "> If you enter your cell phone number, we will text you a link to {{firstname, capitalize}}'s InMemori page, accompanied by a message you can send to your close ones."
         }
       , "tab-email": {
             "text": "Share by e-mail"
           , "placeholder": "Enter your e-mail address here"
           , "cta": "Send"
-          , "info": "> Saisissez votre adresse email, nous vous envoyons le lien de la page et un modèle de mail à partager à vos proches."
+          , "info": "> If you enter your e-mail, we will send you a link to {{firstname, capitalize}}'s InMemori page, accompanied by a message you can send to your close ones."
         }
     }
 
