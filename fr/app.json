@@ -5,7 +5,7 @@
       , "cta": "Envoyer cette page"
       , "cta-right": "à vos amis et à votre famille."
       , "cta-share": "Partager la page"
-      , "cta-edit": "Modifier la page^(*)"
+      , "cta-edit": "Modifier la page*"
       , "cta-edit-tooltip": "Vous seuls avez accès à cette fonctionnalité. \nElle ne sera pas visible de vos proches."
       , "cta-view": "Voir la page"
     }
