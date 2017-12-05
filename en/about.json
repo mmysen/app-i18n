@@ -32,7 +32,11 @@
       , "title2": "Latest releases"
       , "text": "We invite journalists to contact InMemori's PR team for all interview and information requests.\n\nMedia contact :\nBrunswick, Hugues Boëton\n<a href='tel:+33153968383'>+33 153.968.383</a> / <a href='tel:+33679992715'>+33 679.992.715</a>\n<a href='mailto:InMemori@brunswickgroup.com'>InMemori@brunswickgroup.com</a>"
       , "items": [
-            ["FORBES", "September 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
+            ["USINE DIGITALE", "July 2017", "https://www.usine-digitale.fr/article/comment-inmemori-s-attaque-habilement-a-la-delicate-digitalisation-des-obseques.N568394"]  
+          , ["FORBES", "September 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
+          , ["FRANCE INFO", "November 2017", "https://www.francetvinfo.fr/replay-radio/le-pitch-start-up/le-pitch-start-up-inmemori-la-start-up-qui-aide-a-organiser-des-funerailles_2462084.html"]
+          , ["FRENCH MORNING", "December 2017", "https://frenchmorning.com/in-memori-start-up-francaise-daide-deuil-souvenir/"]
+        ]
         
           
         ]
