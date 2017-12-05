@@ -122,14 +122,17 @@
             "text": "Par SMS"
           , "placeholder": "Votre numéro de téléphone"
           , "cta": "Envoyer"
+          , "success": "Sms envoyé !"
           , "info": "> Saisissez votre numéro afin de recevoir le lien de la page."
         }
       , "tab-email": {
             "text": "Par email"
           , "placeholder": "Votre adresse email"
           , "cta": "Envoyer"
+          , "success": "Email envoyé !"
           , "info": "> Saisissez votre adresse email, nous vous envoyons le lien de la page et un modèle de mail à partager à vos proches."
         }
+      , "error": "Oups !"
     }
 
   , "edit": {

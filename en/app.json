@@ -6,7 +6,7 @@
       , "cta-right": "to friends and family."
       , "cta-share": "Share this page"
       , "cta-edit": "Edit page"
-      , "cta-edit-tooltip": "reserver aux admins"
+      , "cta-edit-tooltip": "Visible only to page administrators"
       , "cta-view": "View page"
     }
   , "menu": {
@@ -123,14 +123,17 @@
             "text": "Share by text"
           , "placeholder": "Enter your cell phone here"
           , "cta": "Send"
+          , "success": "Sms sent !"
           , "info": "> If you enter your cell phone number, we will text you a link to {{firstname, capitalize}}'s InMemori page, accompanied by a message you can send to your close ones."
         }
       , "tab-email": {
             "text": "Share by e-mail"
           , "placeholder": "Enter your e-mail address here"
           , "cta": "Send"
+          , "success": "Email sent !"
           , "info": "> If you enter your e-mail, we will send you a link to {{firstname, capitalize}}'s InMemori page, accompanied by a message you can send to your close ones."
         }
+      , "error": "Oups !"
     }
 
   , "edit": {
