@@ -11,12 +11,12 @@
   , "menu": {
         "welcome": "Welcome"
       , "home": "Information"
-      , "guestbook": "Tribute"
+      , "guestbook": "InMemori book"
       , "support": "Show your support"
       , "message": "Share your memories"
       , "donation": "Donate"
       , "flowers": "Send flowers"
-      , "print": "Print the tribute book"
+      , "print": "Print the InMemori book"
       , "share": "Share this page"
     }
   , "share-bar": "Share this page"
@@ -42,7 +42,7 @@
             "title": "Remembering {{firstname, capitalize}}"
           , "text": "Here are a few ways you can celebrate {{firstname, capitalize}}'s life:"
           , "guestbook": {
-                "title": "Sign the tribute book"
+                "title": "Sign the InMemori book"
               , "text": "Share your most precious moments & memories of {{firstname, capitalize}}.\n A photo is worth a 1,000 words, we encourage you to add photos."
             }
           , "donation": {
@@ -57,7 +57,7 @@
         }
     }
   , "guestbook": {
-        "title": "Tribute book"
+        "title": "InMemori book"
       , "tab-entries": "{{count}} Entrie(s)"
       , "tab-pictures": "{{count}} Picture(s)"
       , "cta-add": "Add a picture"
@@ -70,7 +70,7 @@
       , "input-email-placeholder": "Email"
       , "input-email-info": "So families can contact you"
       , "input-message-placeholder": "Write a message for the family or share a memory of {{firstname, capitalize}}..."
-      , "cta": "Share on the tribute book"
+      , "cta": "Share on the InMemori book"
       , "cta-image": "Add picture"
       , "cta-image-uploading": "Uploading..."
       , "steps": {
