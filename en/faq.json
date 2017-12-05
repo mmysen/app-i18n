@@ -5,20 +5,20 @@
       "section": "Create a page on InMemori",
       "qa": [
         {
-          "q": "InMemori ?",
-          "r": "To discover InMemori’s mission statement and our values, take a look at our<a href='/about'>About Us</a> page."
+          "q": "What is InMemori?",
+          "r": "InMemori is a free digital service that helps you celebrate the memory of a loved one. To discover InMemori’s mission statement and our values, take a look at our <a href='/about'>About Us</a> page."
         },
         {
           "q": "What’s an InMemori page for?",
-          "r": "With InMemori, you have access to a private page on which you can: \n- quickly inform your loved ones about the time and whereabouts of the funeral ceremony,\n- send and save condolence messages and memories shared with your close ones,\n- organize a fundraiser in the deceased’s honor, if you’d like, and/or allow your close ones to send flowers to the ceremony."
+          "r": "With InMemori, you have access to a private page on which you can: \n- quickly inform your loved ones about the time and whereabouts of the funeral ceremony,\n- send and save condolence messages and memories shared with and by your close ones,\n- organize a fundraiser in your loved one's memory, if you’d like, and/or allow your close ones to send flowers."
         },
         {
           "q": "How can I make an InMemori page?",
-          "r": "With just the name, date of death and your e-mail address, you can create a page. Just click <a href='/cta-create'>here</a> and get started.\nCreating a page shouldn’t take more than 5 minutes\n\nOnce the page has been created, you will have access to your management dashboard, on which you can:\n- manage the page (see how many people have visited it, how many posts have been shared),\n- set up a fundraiser, either for a charity organization of your choice or for the family,\n- print the memory book, compiling all the memories and messages shared,\n- thank those who have contributed to the page, using the contact list available on the dashboard."
+          "r": "With just the name, date of death and your e-mail address, you can create a page. Just click <a href='/signup'>here</a> and get started.\nCreating a page shouldn’t take more than 5 minutes\n\nOnce the page has been created, you will have access to your management dashboard, on which you can:\n- manage the page (see how many people have visited it, how many posts have been shared),\n- set up a fundraiser, either for a charity organization of your choice or for the family,\n- print the memory book, compiling all the memories and messages shared,\n- thank those who have contributed to the page, using the contact list available on the dashboard."
         },
         {
           "q": "Who can create an InMemori page?",
-          "r": "Everyone and anyone with access to the internet can create a page, a family member, a friend, a colleague...\nJust provide the first and last name of the deceased, their date of death and your email address. Then click <a href='/cta-create'>here</a>."
+          "r": "Everyone and anyone with access to the internet can create a page, be that a family member, a friend, a colleague...\nJust provide the first and last name of the deceased, their date of death and your email address. Then click <a href='/signup'>here</a>."
         },
         {
           "q": "How can I invite my friends to view and share on the page?",
@@ -26,7 +26,7 @@
         },
         {
           "q": "Who has access to the page?",
-          "r": "Only the people who have received the link have access to the page.\nThe page remains private and will never be referenced by any search engine. We are keeping it from prying eyes."
+          "r": "Only the people who have received the link have access to the page.\nThe page remains intimate and will never be referenced by any search engine. We are keeping it from prying eyes."
         },
         {
           "q": "Can I create a page even if I don’t have all the details about the funeral service?",
@@ -34,7 +34,7 @@
         },
         {
           "q": "How can I find a page of someone I know who has passed away?",
-          "r": "Families’ intimacy is at the heart of the work we do at InMemori. This is why our pages are private. Only those who have received a link to the page can access it.  If you know that a page has been created for someone you know, feel free to contact the family or their friends and they will happily send you the link so you can access the page."
+          "r": "Families’ intimacy is at the heart of the work we do at InMemori. This is why our pages are kept intimate. Only those who have received a link to the page can access it.  If you know that a page has been created for someone you know, feel free to contact the family or their friends and they will happily send you the link so you can access the page."
         },
         {
           "q": "How much does InMemori cost?",
@@ -76,7 +76,7 @@
         },
         {
           "q": "What sort of non-profit organizations can raise funds through the donation feature?",
-          "r": "All accredited organizations can, without any particular authorization, no matter their mission statement, receive individual funds.\n\n\nSource : <a href='https://www.irs.gov/charities-non-profits/charitable-organizations</a>"
+          "r": "All accredited organizations can, without any particular authorization, no matter their mission statement, receive individual funds.\n\n\nSource: <a href='https://www.irs.gov/charities-non-profits/charitable-organizations'>IRS</a>"
         },
         {
           "q": "Who receives the money raised through the donation feature?",
@@ -113,7 +113,7 @@
         },
         {
           "q": "Love the vision and our values? Join the team!",
-          "r": "If you want to join our beautiful adventure, send us your résumé and a not about what drives you: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
+          "r": "If you want to join our beautiful adventure, send us your résumé and a note about what drives you: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
         }
       ]
     }

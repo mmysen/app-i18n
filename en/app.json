@@ -12,12 +12,12 @@
   , "menu": {
         "welcome": "Welcome"
       , "home": "Information"
-      , "guestbook": "Tribute"
+      , "guestbook": "InMemori book"
       , "support": "Show your support"
       , "message": "Share your memories"
       , "donation": "Donate"
       , "flowers": "Send flowers"
-      , "print": "Print the tribute book"
+      , "print": "Print the InMemori book"
       , "share": "Share this page"
     }
   , "share-bar": "Share this page"
@@ -43,7 +43,7 @@
             "title": "Remembering {{firstname, capitalize}}"
           , "text": "Here are a few ways you can celebrate {{firstname, capitalize}}'s life:"
           , "guestbook": {
-                "title": "Sign the tribute book"
+                "title": "Sign the InMemori book"
               , "text": "Share your most precious moments & memories of {{firstname, capitalize}}.\n A photo is worth a 1,000 words, we encourage you to add photos."
             }
           , "donation": {
@@ -58,12 +58,12 @@
         }
     }
   , "guestbook": {
-        "title": "Tribute book"
+        "title": "InMemori book"
       , "tab-entries": "{{count}} Entrie(s)"
       , "tab-pictures": "{{count}} Picture(s)"
       , "cta-add": "Add a picture"
       , "cta-message": "Write a message"
-      , "no-result": "There is nothing more alive than a memory. »\nFederico Garcia Lorca\nWrite a message to the family of {{firstname}}, share a memory you've lived with {{firstname}}, leave a photo."
+      , "no-result": "There is nothing more alive than a memory. »\nFederico Garcia Lorca\nWrite a message to the family of {{firstname, capitalize}}, share a memory you've lived with {{firstname, capitalize}}, leave a photo."
     }
   , "memories": {}
   , "message": {
@@ -71,7 +71,7 @@
       , "input-email-placeholder": "Email"
       , "input-email-info": "So families can contact you"
       , "input-message-placeholder": "Write a message for the family or share a memory of {{firstname, capitalize}}..."
-      , "cta": "Share on the tribute book"
+      , "cta": "Share on the InMemori book"
       , "cta-image": "Add picture"
       , "cta-image-uploading": "Uploading..."
       , "steps": {
@@ -112,7 +112,7 @@
         }
       , "admin": {
             "title": "Share admin page"
-          , "text": "Share access to {{fullname}} page, by sending this link to an administrator:"
+          , "text": "Share access to {{firstname, capitalize}} page, by sending this link to an administrator:"
         }
       , "tab-link": {
             "text": "Copy link"
@@ -124,14 +124,14 @@
           , "placeholder": "Enter your cell phone here"
           , "cta": "Send"
           , "success": "Sms sent !"
-          , "info": "> If you enter your cell phone number, we will text you a link to {{firstname, capitalize}}'s InMemori page, accompanied by a message you can send to your close ones."
+          , "info": "> Enter your cell phone number, so we will text you the link of the InMemori page, accompanied by a message you can personalize and send to your close ones."
         }
       , "tab-email": {
             "text": "Share by e-mail"
           , "placeholder": "Enter your e-mail address here"
           , "cta": "Send"
           , "success": "Email sent !"
-          , "info": "> If you enter your e-mail, we will send you a link to {{firstname, capitalize}}'s InMemori page, accompanied by a message you can send to your close ones."
+          , "info": "> Enter your e-mail, so we will send you the link of the InMemori page."
         }
       , "error": "Oups !"
     }
