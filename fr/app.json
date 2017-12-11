@@ -111,7 +111,7 @@
         }
       , "admin": {
             "title": "Partager la page d'administration"
-          , "text": "Partager l'accès à la page de {{fullname}}, en envoyant ce lien à un administrateur :"
+          , "text": "Partager l'accès à la page de {{firstname, capitalize}}, en envoyant ce lien à un administrateur :"
         }
       , "tab-link": {
             "text": "Copier le lien"
