@@ -27,7 +27,7 @@ Comment ça marche ?
 inmemori.com a donc été conçu pour permettre :
 
 * Aux familles de transmettre très rapidement les informations pratiques sur les obsèques à l’ensemble des personnes concernées.
-* Aux proches de la famille de retrouver en un clic ces informations, et de pouvoir rendre hommage sereinemement et simplement.  
+* Aux proches de la famille de retrouver en un clic ces informations, et de pouvoir rendre hommage sereinement et simplement.  
 
 La manière dont le service a été pensé, associée à la rapidité des usages numériques, en font un service pratique et très utile.
 
