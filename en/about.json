@@ -42,7 +42,7 @@
   , "contact": {
         "title": "Any questions?"
       , "title2": "Our offices"
-      , "text": "If you have any questions or need any help using our service, please don't hesitate to contact Constance or our support team, emailing us at <a href='mailto:contact@InMemori.com'>contact@InMemori.com</a>. We will respond in less than 24 hours."
+      , "text": "If you have any questions or need any help using our service, please don't hesitate to contact Constance or our support team, emailing us at <a href='mailto:contact@InMemori.com'>contact@inmemori.com</a>. We will respond in less than 24 hours."
       , "items": [
             ["Paris", "5 rue des Colonnes\n75002 Paris \nFrance", {"lat":48.8693696,"lng":2.3393760000000157}]
           , ["New York", "72 Allen St.\nNew York, NY 10002\nUnited States", {"lat":40.7175099,"lng":-73.9909217}]
