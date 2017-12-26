@@ -69,7 +69,8 @@
         "input-fullname-placeholder": "Vos prénom et nom"
       , "input-email-placeholder": "Adresse email"
       , "input-email-info": "Email pour que la famille puisse vous répondre."
-      , "input-message-placeholder": "Écrire un message pour la famille ou partager un souvenir avec {{firstname, capitalize}}..."
+      , "input-message-placeholder-1": "Écrire un message pour la famille ou partager un souvenir avec {{firstname, capitalize}}..."
+      , "input-message-placeholder-2": "Écrire un souvenir pour la famille ou partager un souvenir avec {{firstname, capitalize}}..."
       , "cta": "Partager sur le recueil"
       , "cta-image": "Joindre une photo"
       , "cta-image-uploading": "Télécharger..."
@@ -94,7 +95,7 @@
       , "label-receipt": "Reçu fiscal (facultatif)"
       , "cta": "Envoyer"
       , "cta-end": "Terminer"
-      , "receipt": "Votre paiement à bien été enregistré !\nRéférence : {{id}}"
+      , "receipt": "Votre paiement de {{amount}} à bien été enregistré !\nRéférence : {{id}}"
       , "other": "Autre"
     }
   , "flower": {}
