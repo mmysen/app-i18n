@@ -5,8 +5,8 @@
       , "cta": "Envoyer cette page"
       , "cta-right": "à vos amis et à votre famille."
       , "cta-share": "Partager la page"
-      , "cta-edit": "Modifier la page"
-      , "cta-edit-tooltip": "reserver aux admins"
+      , "cta-edit": "Modifier la page*"
+      , "cta-edit-tooltip": "*Vous seuls avez accès à cette fonctionnalité. \nElle ne sera pas visible de vos proches."
       , "cta-view": "Voir la page"
     }
   , "menu": {
@@ -112,7 +112,7 @@
         }
       , "admin": {
             "title": "Partager la page d'administration"
-          , "text": "Partager l'accès à la page de {{fullname}}, en envoyant ce lien à un administrateur :"
+          , "text": "Partager l'accès à la page de {{firstname, capitalize}}, en envoyant ce lien à un administrateur :"
         }
       , "tab-link": {
             "text": "Copier le lien"
@@ -123,7 +123,7 @@
             "text": "Par SMS"
           , "placeholder": "Votre numéro de téléphone"
           , "cta": "Envoyer"
-          , "success": "Sms envoyé !"
+          , "success": "SMS envoyé !"
           , "info": "> Saisissez votre numéro afin de recevoir le lien de la page."
         }
       , "tab-email": {

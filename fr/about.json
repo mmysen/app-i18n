@@ -2,7 +2,7 @@
 
     "mission": {
         "title": "Notre mission"
-      , "text": "La mission d’InMemori est d’aider chaque famille qui vient de perdre un proche à rassembler toutes les personnes concernées et à rendre hommage à sa vie.\n\nChaque jour, des messages de condoléances, des souvenirs, des témoignages magnifiques sont partagés grâce au service, qui nous rappellent le besoin d'être ensemble dans ces moments éprouvants.\n\nNotre ambition pour InMemori est que chaque famille qui traverse un deuil puisse y trouver de l’aide et du réconfort. Le service est d’ailleurs gratuit pour permettre à tous d'y avoir accès. En un an déjà, nous avons accompagné 30 000 personnes."
+      , "text": "La mission d’InMemori est d’aider chaque famille qui vient de perdre un proche à rassembler toutes les personnes concernées et à rendre hommage à sa vie.\n\nChaque jour, des messages de condoléances, des souvenirs, des témoignages magnifiques sont partagés grâce au service, qui nous rappellent le besoin d'être ensemble dans ces moments éprouvants.\n\nNotre ambition pour InMemori est que chaque famille qui traverse un deuil puisse y trouver de l’aide et du réconfort. Le service est d’ailleurs gratuit pour permettre à tous d'y avoir accès. En un an déjà, nous avons accompagné 60 000 personnes."
     }
 
   , "story": {
@@ -13,7 +13,7 @@
           , ["Janvier 2017\nParis", "Constance rejoint l'aventure pour accompagner au quotidien les familles et leurs proches afin de répondre à leurs questions et leur permettre d’utiliser ce nouveau service en toute sérénité."]
           , ["Février 2017\nParis", "Les familles et leurs proches sont reconnaissants et attachés au service, ils deviennent des ambassadeurs d’InMemori. Grâce au bouche à oreille, InMemori a déjà apporté du réconfort à plus de 30 000 personnes."]
           , ["Mars 2017\nSan Francisco", "InMemori est sélectionné par The Refiners, un accélérateur de startups de la Silicon Valley. L’horizon d’InMemori s’élargit au monde entier."]
-          , ["Septembre 2017\nParis - New York", "Les bureaux de Paris et New York sont ouverts. L’équipe compte désormais une dizaine de personnes toutes animées par l’impact de la mission d’InMemori."] 
+          , ["Septembre 2017\nParis - New York", "Les bureaux de Paris et New York sont ouverts. L’équipe compte désormais cinq personnes toutes animées par l’impact de la mission d’InMemori."] 
         ]
     }
 
@@ -32,9 +32,10 @@
       , "title2": "Dernières parutions"
       , "text": "L’équipe relations presse d’InMemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média :\nBrunswick, Hugues Boëton\n<a href='tel:+33153968383'>01 53 96 83 83</a> / <a href='tel:+33679992715'>06 79 99 27 15</a>\n<a href='mailto:inmemori@brunswickgroup.com'>inmemori@brunswickgroup.com</a>"
       , "items": [
-            ["USINE DIGITALE", "Juillet 2017", "https://www.usine-digitale.fr/article/comment-inmemori-s-attaque-habilement-a-la-delicate-digitalisation-des-obseques.N568394"]  
-          , ["FORBES", "Septembre 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
+            ["FRENCH MORNING", "Décembre 2017", "https://frenchmorning.com/in-memori-start-up-francaise-daide-deuil-souvenir/"]  
           , ["FRANCE INFO", "Novembre 2017", "https://www.francetvinfo.fr/replay-radio/le-pitch-start-up/le-pitch-start-up-inmemori-la-start-up-qui-aide-a-organiser-des-funerailles_2462084.html"]
+          , ["FORBES", "Septembre 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
+          , ["USINE DIGITALE", "Juillet 2017", "https://www.usine-digitale.fr/article/comment-inmemori-s-attaque-habilement-a-la-delicate-digitalisation-des-obseques.N568394"]
         ]
     }
 

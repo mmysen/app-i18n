@@ -27,7 +27,7 @@ Comment ça marche ?
 inmemori.com a donc été conçu pour permettre :
 
 * Aux familles de transmettre très rapidement les informations pratiques sur les obsèques à l’ensemble des personnes concernées.
-* Aux proches de la famille de retrouver en un clic ces informations, et de pouvoir rendre hommage sereinemement et simplement.  
+* Aux proches de la famille de retrouver en un clic ces informations, et de pouvoir rendre hommage sereinement et simplement.  
 
 La manière dont le service a été pensé, associée à la rapidité des usages numériques, en font un service pratique et très utile.
 
@@ -205,7 +205,7 @@ Voir la Politique des cookies qui fait partie intégrante des présentes CGU.
 
 Les registres informatisés conservés dans les systèmes de l’Editeur dans le respect des règles de l'art en matière de sécurité, seront considérés comme preuves des communications de courriers électroniques, envois de formulaire d'inscription, contenus. L'archivage des formulaires d'inscription est effectué sur un support de nature à assurer le caractère fidèle et durable requis par les dispositions légales en vigueur. Il est convenu qu'en cas de divergence entre les registres informatisés de l’Editeur et les documents au format papier ou électronique dont l’Utilisateur dispose, les registres informatisés de l’Editeur feront foi.
 
-Conditions générales relatives à la fonction de collecte de dons : Consulter les conditions générales relatives à MangoPay.  
+Conditions générales relatives à la fonction de collecte de dons : Consulter les conditions générales relatives à Stripe.  
 
-Mis à jour : 10/01/2017
+Mis à jour : 18/12/2017
 <br/>

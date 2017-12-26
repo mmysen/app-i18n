@@ -5,8 +5,8 @@
       , "cta": "Share this page"
       , "cta-right": "to friends and family."
       , "cta-share": "Share this page"
-      , "cta-edit": "Edit page"
-      , "cta-edit-tooltip": "Visible only to page administrators"
+      , "cta-edit": "Edit page*"
+      , "cta-edit-tooltip": "*Only you have access to this feature. \nOther won't see this."
       , "cta-view": "View page"
     }
   , "menu": {
@@ -118,13 +118,13 @@
       , "tab-link": {
             "text": "Copy link"
           , "cta": "Copy link"
-          , "tooltip": "copied!"
+          , "tooltip": "Copied!"
         }
       , "tab-sms": {
             "text": "Share by text"
           , "placeholder": "Enter your cell phone here"
           , "cta": "Send"
-          , "success": "Sms sent !"
+          , "success": "Text sent !"
           , "info": "> Enter your cell phone number, so we will text you the link of the InMemori page, accompanied by a message you can personalize and send to your close ones."
         }
       , "tab-email": {
@@ -132,9 +132,9 @@
           , "placeholder": "Enter your e-mail address here"
           , "cta": "Send"
           , "success": "Email sent !"
-          , "info": "> Enter your e-mail, so we will send you the link of the InMemori page."
+          , "info": "> Enter your e-mail, so we will send you the link of the InMemori page, accompanied by a message you can personalize and send to your close ones."
         }
-      , "error": "Oups !"
+      , "error": "Oops !"
     }
 
   , "edit": {
