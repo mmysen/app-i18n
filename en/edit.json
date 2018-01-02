@@ -46,8 +46,8 @@
             }
           , "4": {
                 "title": "Donations"
-              , "text": "Organize a donation to support a cause that was close to your loved one's heart."
-              , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or to help the family pay for funeral expenses. Donations allow the entourage to express their support in a meaningful way."
+              , "text": "Organize a donation in memory of {{firstname, capitalize}}."
+              , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or that will benefit the family (to pay for funeral expenses, build a memorial, etc...). Donations allow the entourage to express their support in a meaningful way."
               , "countries": [
                     ["fr", "France (EUR)"]
                   , ["us", "United States (USD)"]
