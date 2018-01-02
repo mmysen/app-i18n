@@ -34,7 +34,7 @@
               , "templates": [
                     "Dear loved ones, \n\nAs some of you may already know, our dear {{firstname, capitalize}} has left this world {{dod, capitalize}}, having lived {{age}} beautiful years. This page is destined for you all, to share your warm words of support with us and with one another during this period of darkness. We encourage you to share memories and photos of moments lived with {{firstname, capitalize}}. \n\nAll our love."
                   , "It is with a heavy heart we share with you the news of {{fullname}}'s passing, {{dod, capitalize}}."
-                  , "Dear friends and family, \n\nIt is with great sadness that I share the news of {{firstname, capitalize}}'s death, having taken place {{dod, capitalize}}."
+                  , "Dear friends and family, \n\nIt is with great sadness that we share with you the news of {{firstname, capitalize}}'s death, having taken place {{dod, capitalize}}. As our family grieves this tragedy, please share your condolences and your warm messages here."
                 ]
             }
           , "3": {
