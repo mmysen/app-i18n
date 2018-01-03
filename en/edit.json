@@ -30,7 +30,7 @@
               , "text-image": "You can complete this step later if you do not have the right picture now, but we highly recommend that you include a picture before sharing the page. Accepted formats: JPG, JPEG, PNG (max size: 5 MB)."
               , "cta-image": "Select picture"
               , "cta-image-uploading": "Uploading..."
-              , "label-templates": "Don't have the words?"
+              , "label-templates": "Don't have the words? Here are some ideas."
               , "templates": [
                     "Dear loved ones, \n\nAs some of you may already know, our dear {{firstname, capitalize}} has left this world {{dod, capitalize}}, having lived {{age}} beautiful years. This page is destined for you all, to share your warm words of support with us and with one another during this period of darkness. We encourage you to share memories and photos of moments lived with {{firstname, capitalize}}. \n\nAll our love."
                   , "It is with a heavy heart we share with you the news of {{fullname}}'s passing, {{dod, capitalize}}."
@@ -145,13 +145,13 @@
       , "collected": "collected"
     }
   , "actions": {
-        "title": "Page management"
-      , "text": ""
+        "title": "Managing the page"
+      , "text": "Here, you can share the page to grow a community of support, designate other administrators and delete the page."
       , "share": {
-            "title": ""
-          , "sms": "Share this page"
-          , "email": "Share link via e-mail"
-          , "copy": "Copy link"
+            "title": "Share {{firstname, capitalize}}'s page"
+          , "sms": "Text your contacts the page link"
+          , "email": "E-mail your contacts the page link"
+          , "copy": "Copy the link"
         }
       , "manage": {
             "title": "Management"
