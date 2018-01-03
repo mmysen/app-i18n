@@ -46,7 +46,7 @@
             }
           , "4": {
                 "title": "Donations"
-              , "text": "Organize a donation in memory of {{firstname, capitalize}}."
+              , "text": "Organize a memorial donation."
               , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or that will benefit the family (to pay for funeral expenses, build a memorial, etc...). Donations allow the entourage to express their support in a meaningful way."
               , "countries": [
                     ["fr", "France (EUR)"]
@@ -146,7 +146,7 @@
     }
   , "actions": {
         "title": "Managing the page"
-      , "text": "Here, you can share the page to grow a community of support, designate other administrators and delete the page."
+      , "text": ""
       , "share": {
             "title": "Share {{firstname, capitalize}}'s page"
           , "sms": "Text your contacts the page link"
