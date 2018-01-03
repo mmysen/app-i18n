@@ -53,7 +53,7 @@
             }
           , "share": {
                 "title": "Share this page"
-              , "text": "Send {{firstname, capitalize}}'s friends the link to this page, so they can contribute, too."
+              , "text": "Send {{firstname, capitalize}}'s friends the link to this page so they too can contribute."
             }
         }
     }
@@ -89,10 +89,11 @@
       , "input-email-placeholder": "Email"
       , "input-address-placeholder": "Address"
       , "input-city-placeholder": "City"
+      , "input-state-placeholder": "State"
       , "input-zipcode-placeholder": "Zipcode"
       , "label-info": "> Payment details"
       , "label-amount": "> Amount of donation"
-      , "label-receipt": "Do you want to receive a receipt to file this donation as tax-deductible? (Optional)"
+      , "label-receipt": "Do you want to receive a charitable receipt to file this donation as tax-deductible? If yes, please enter the address the family should send the charitable receipt to."
       , "cta": "Send"
       , "cta-end": "End"
       , "receipt": "Your payment was successful!\nPayment reference number: {{id}}"
