@@ -69,8 +69,8 @@
   , "message": {
         "input-fullname-placeholder": "Your first and last name(s)"
       , "input-email-placeholder": "Email"
-      , "input-email-info": "So families can contact you"
-      , "input-message-placeholder": "Write a message for the family or share a memory of {{firstname, capitalize}}..."
+      , "input-email-info": "This way, the family can be in touch with you."
+      , "input-message-placeholder": "Share your condolences with the family or share a memory of {{firstname, capitalize}}..."
       , "cta": "Share on the InMemori book"
       , "cta-image": "Add picture"
       , "cta-image-uploading": "Uploading..."
