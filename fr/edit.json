@@ -4,7 +4,7 @@
       , "tabs": {
             "1": {
                 "title": "Faire part"
-              , "text": "Modifier les informations sur  votre proche (nom, prénom, dates)"
+              , "text": "Modifier les informations sur votre proche (nom, prénom, dates)"
               , "cta-open": "Modifier"
               , "cta-close": "Fermer"
               , "cta": "Enregistrer"
@@ -31,14 +31,14 @@
             }
           , "2": {
                 "title": "Contacts"
-              , "text": "Personnaliser le message de faire-part et ajouter une photo"
+              , "text": "Ajouter le nom des personnes à contacter pour toute demande d’informations"
               , "cta-open": "Modifier"
               , "cta-close": "Fermer"
               , "cta": "Enregistrer"
             }
           , "3": {
                 "title": "Obsèques"
-              , "text": "Préciser les informations de chaque étape et les personnes à contacter en cas de besoin"
+              , "text": "Préciser les informations relatives à chaque étape"
               , "cta-open": "Modifier"
               , "cta-close": "Fermer"
               , "cta": "Enregistrer"
@@ -109,7 +109,7 @@
       , "placeholder": "Envoyer un message de remerciement..."
     }
   , "donations": {
-        "receipt-text": "Phrase reçu fiscal asso"
+        "receipt-text": "Télécharger et envoyer à l'association les informations nécessaires à la création des reçus fiscaux"
       , "receipt-cta": "Télécharger"
     }
   , "places": {
@@ -137,7 +137,7 @@
       , "cta-add": "Ajouter un contact"
     }
   , "moderation": {
-        "title": "Modération de la page"
+        "title": "Remercier vos proches"
       , "tabs": {
             "messages": "Hommages"
           , "donations": "Donations"
@@ -146,7 +146,7 @@
   , "messages": {
         "title": "Modération de la page"
       , "text": ""
-      , "empty": "Il n'y en a pas encore !"
+      , "empty": "Il n'y en a pas encore"
       , "cta-delete": "Supprimer"
       , "text-confirm": "Confirmez-vous la suppression du message ?"
     }
@@ -163,7 +163,7 @@
         "title": "Gérer la page"
       , "links": {
             "info": "Informations"
-          , "moderation": "Modéreration"
+          , "moderation": "Remerciements"
           , "admin": "Ajouter un administrateur"
           , "share": "Partager"
           , "delete": "Supprimer"
