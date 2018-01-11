@@ -38,7 +38,7 @@
             }
           , "3": {
                 "title": "Obsèques"
-              , "text": "Préciser les informations relatives à chaque étape"
+              , "text": "Préciser les lieux et heures des obsèques"
               , "cta-open": "Modifier"
               , "cta-close": "Fermer"
               , "cta": "Enregistrer"
