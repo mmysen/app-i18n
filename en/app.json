@@ -6,7 +6,7 @@
       , "cta-right": "to friends and family."
       , "cta-share": "Share this page"
       , "cta-edit": "Edit page*"
-      , "cta-edit-tooltip": "*Only you have access to this feature. \nOther won't see this."
+      , "cta-edit-tooltip": "*Only you have access to this feature. \nNo one else is see this function or to edit the page, only to view and contribute."
       , "cta-view": "View page"
     }
   , "menu": {
@@ -53,33 +53,33 @@
             }
           , "share": {
                 "title": "Share this page"
-              , "text": "Send {{firstname, capitalize}}'s friends the link to this page, so they can contribute, too."
+              , "text": "Send {{firstname, capitalize}}'s friends the link to this page so they too can contribute."
             }
         }
     }
   , "guestbook": {
         "title": "InMemori book"
-      , "tab-entries": "{{count}} Entrie(s)"
+      , "tab-entries": "{{count}} Post(s)"
       , "tab-pictures": "{{count}} Picture(s)"
       , "cta-add": "Add a picture"
       , "cta-message": "Write a message"
-      , "no-result": "There is nothing more alive than a memory. »\nFederico Garcia Lorca\nWrite a message to the family of {{firstname, capitalize}}, share a memory you've lived with {{firstname, capitalize}}, leave a photo."
+      , "no-result": "All the tribute messages will be published be here. Your memories and your words will help carry {{firstname, capitalize}}'s dear ones through their journey. Be the first to share, to support, to inspire others to do the same."
     }
   , "memories": {}
   , "message": {
         "input-fullname-placeholder": "Your first and last name(s)"
       , "input-email-placeholder": "Email"
-      , "input-email-info": "So families can contact you"
+      , "input-email-info": "This way, the family can be in touch with you."
       , "input-message-placeholder-1": "Write a message for the family or share a memory of {{firstname, capitalize}}..."
       , "input-message-placeholder-2": "Write a memory for the family or share a memory of {{firstname, capitalize}}..."
       , "cta": "Share on the InMemori book"
       , "cta-image": "Add picture"
       , "cta-image-uploading": "Uploading..."
       , "steps": {
-            "0": { "title": "While there are many ways to remember & celebrate, here's 3" }
+            "0": { "title": "While there are many ways to remember & celebrate, here's three." }
           , "1": { "title": "Condolences", "text": "Express your feelings of support with the family in their time of need." }
-          , "2": { "title": "Memories", "text": "Share memories you have of {{firstname, capitalize}}." }
-          , "3": { "title": "Photos", "text": "By uploading photos, you bring your memories to life." }
+          , "2": { "title": "Memories", "text": "Share your memories of {{firstname, capitalize}}." }
+          , "3": { "title": "Photos", "text": "Upload photos of memories lived with {{firstname, capitalize}}." }
         }
     }
   , "donation": {
@@ -90,10 +90,11 @@
       , "input-email-placeholder": "Email"
       , "input-address-placeholder": "Address"
       , "input-city-placeholder": "City"
+      , "input-state-placeholder": "State"
       , "input-zipcode-placeholder": "Zipcode"
       , "label-info": "> Payment details"
       , "label-amount": "> Amount of donation"
-      , "label-receipt": "Receipt (mandatory)"
+      , "label-receipt": "Do you want to receive a charitable receipt to file this donation as tax-deductible? If yes, please enter the address the family should send the charitable receipt to."
       , "cta": "Send"
       , "cta-end": "End"
       , "receipt": "Your payment was successful!\nPayment reference number: {{id}}"
@@ -112,8 +113,8 @@
           , "text": "Send this page to family, friends, and everyone who's lives were touched by {{fullname}}, by sending them this link:"
         }
       , "admin": {
-            "title": "Share admin page"
-          , "text": "Share access to {{firstname, capitalize}} page, by sending this link to an administrator:"
+            "title": "Add new administrator"
+          , "text": "Send this link to share administrative access to {{firstname, capitalize}} page:"
         }
       , "tab-link": {
             "text": "Copy link"
@@ -124,17 +125,17 @@
             "text": "Share by text"
           , "placeholder": "Enter your cell phone here"
           , "cta": "Send"
-          , "success": "Text sent !"
-          , "info": "> Enter your cell phone number, so we will text you the link of the InMemori page, accompanied by a message you can personalize and send to your close ones."
+          , "success": "Text sent!"
+          , "info": "> We will send a text to this phone number with the link of the InMemori page, accompanied by a message you can personalize and send out to your contacts."
         }
       , "tab-email": {
             "text": "Share by e-mail"
           , "placeholder": "Enter your e-mail address here"
           , "cta": "Send"
           , "success": "Email sent !"
-          , "info": "> Enter your e-mail, so we will send you the link of the InMemori page, accompanied by a message you can personalize and send to your close ones."
+          , "info": "> We will send you an e-mail with the link of the InMemori page, accompanied by a message you can personalize and send to your close ones."
         }
-      , "error": "Oops !"
+      , "error": "Oops!"
     }
 
   , "edit": {

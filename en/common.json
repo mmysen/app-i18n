@@ -10,7 +10,7 @@
     }
   , "fulldate": "LLL"
   , "shortdate": "LL"
-  , "show-map": "Show on google map"
+  , "show-map": "Show on a map"
   , "types": {
         "ceremony": "Ceremony"
       , "contemplation": "Contemplation"

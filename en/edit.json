@@ -23,11 +23,11 @@
               , "text-image": "You can complete this step later if you do not have the right picture now, but we highly recommend that you include a picture before sharing the page. Accepted formats: JPG, JPEG, PNG (max size: 5 MB)."
               , "cta-image": "Select picture"
               , "cta-image-uploading": "Uploading..."
-              , "label-templates": "Don't have the words?"
+              , "label-templates": "Don't have the words? Here are some ideas."
               , "templates": [
                     "Dear loved ones, \n\nAs some of you may already know, our dear {{firstname, capitalize}} has left this world {{dod, capitalize}}, having lived {{age}} beautiful years. This page is destined for you all, to share your warm words of support with us and with one another during this period of darkness. We encourage you to share memories and photos of moments lived with {{firstname, capitalize}}. \n\nAll our love."
                   , "It is with a heavy heart we share with you the news of {{fullname}}'s passing, {{dod, capitalize}}."
-                  , "Dear friends and family, \n\nIt is with great sadness that I share the news of {{firstname, capitalize}} death, having taken place {{dod, capitalize}}."
+                  , "Dear friends and family, \n\nIt is with great sadness that we share with you the news of {{firstname, capitalize}}'s death, having taken place {{dod, capitalize}}. As our family grieves this tragedy, please share your condolences and your warm messages here."
                 ]
             }
           , "2": {
@@ -46,8 +46,8 @@
             }
           , "4": {
                 "title": "Donations"
-              , "text": "Organize a donation to support a cause that was close to your loved one's heart."
-              , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or to help the family pay for funeral expenses. Donations allow the entourage to express their support in a meaningful way."
+              , "text": "Organize a memorial donation."
+              , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or that will benefit the family (to pay for funeral expenses, build a memorial, etc...). Donations allow the entourage to express their support in a meaningful way."
               , "countries": [
                     ["fr", "France (EUR)"]
                   , ["us", "United States (USD)"]
@@ -65,16 +65,16 @@
                     "Family"
                   , "Charitable organization"
                 ]
-              , "label-message": "Your message to introduce the fundraising"
-              , "input-message-placeholder": "Write a few lines that explain what this cause means to you & your family. It will encourage others to donate to it."
+              , "label-message": "Your message to introduce the fundraiser."
+              , "input-message-placeholder": "Write a few lines that explain what this cause means to you & your family. It will encourage others to donate generously if they understand its significance."
               , "label-org": "Organization"
               , "input-org-placeholder": "Choose an organization"
               , "label-templates": "Need inspiration?"
               , "templates": {
                     "family": [
                         "Our family would like to honor our {{firstname, capitalize}} by organizing a fundraiser."
-                      , "{{firstname, capitalize}} was never into sympathy bouquets, so instead, for those who would like to show their support, we are raising funds in their memory."
-                      , "We have organized a fundraiser in memory of {{firstname, capitalize}}. The funds raised will go to covering at least partially the costs of the memorial services. Infinite thanks for your generosity."
+                      , "{{firstname, capitalize}} was never into symbolic gestures, so instead, for those who would like to show their support, we ask you to donate in his honor."
+                      , "We have organized a fundraiser in memory of {{firstname, capitalize}}. The funds raised will go to partially covering the costs of the memorial services. Infinite thanks for your generosity."
                     ]
                   , "org": [
                         "{{firstname, capitalize}} dedicated their life to serving a greater good, working with {{org}}, always wanting to make the better a better, more beautiful place and provide for its future. \n\nWe would like to continue this ambitious mission in {{firstname, capitalize}}'s memory by raising funds to support an organization whose mission was so close to {{firstname, capitalize}}'s heart. We think that {{firstname, capitalize}} would have wanted that. Thank you for your kindess and generosity."
@@ -115,7 +115,7 @@
     }
   , "places": {
         "label-privacy": "Will be held in intimate family setting"
-      , "label-info": "Additionnal information"
+      , "label-info": "Additional information"
       , "label-date": "Date of {{type, capitalize}}"
       , "placeholder-date": "Date"
       , "label-time": "Time (24h; 14h30=2:30PM)"
@@ -161,13 +161,13 @@
       , "collected": "collected"
     }
   , "actions": {
-        "title": "Page management"
+        "title": "Managing the page"
       , "text": ""
       , "share": {
-            "title": ""
-          , "sms": "Share this page"
-          , "email": "Share link via e-mail"
-          , "copy": "Copy link"
+            "title": "Share {{firstname, capitalize}}'s page"
+          , "sms": "Text your contacts the page link"
+          , "email": "E-mail your contacts the page link"
+          , "copy": "Copy the link"
         }
       , "manage": {
             "title": "Management"
