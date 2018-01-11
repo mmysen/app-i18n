@@ -107,12 +107,12 @@
     }
   , "share": {
         "link": {
-            "title": "Envoyer cette page"
+            "title": "Partager cette page"
           , "text": "Partagez cette page avec toutes les personnes qui ont croisé le chemin de {{firstname, capitalize}} :"
         }
       , "admin": {
-            "title": "Partager la page d'administration"
-          , "text": "Partager l'accès à la page de {{firstname, capitalize}}, en envoyant ce lien à un administrateur :"
+            "title": "Ajouter un administrateur"
+          , "text": "Afin d’ajouter un administrateur à la page en hommage à {{fullname}}, saisissez son adresse email dans l’espace ci-dessous :"
         }
       , "tab-link": {
             "text": "Copier le lien"
