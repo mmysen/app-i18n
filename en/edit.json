@@ -17,13 +17,6 @@
               , "input-dob-placeholder": "mm/dd/yyyy"
               , "label-dod": "Passed away on"
               , "input-dod-placeholder": "mm/dd/yyyy"
-            }
-          , "2": {
-                "title": "Make it personal"
-              , "text": "This is the photo and message your close ones will see on the page."
-              , "cta-open": "Edit"
-              , "cta-close": "Close"
-              , "cta": "Save"
               , "label-intro": "Write a message to inform relatives of the passing.\n No need to include information about the funeral - we'll take care of that later. "
               , "input-intro-placeholder": "intro"
               , "label-image": "Upload a profile picture of {{fullname}}"
@@ -36,6 +29,13 @@
                   , "It is with a heavy heart we share with you the news of {{fullname}}'s passing, {{dod, capitalize}}."
                   , "Dear friends and family, \n\nIt is with great sadness that I share the news of {{firstname, capitalize}} death, having taken place {{dod, capitalize}}."
                 ]
+            }
+          , "2": {
+                "title": "Make it personal"
+              , "text": "This is the photo and message your close ones will see on the page."
+              , "cta-open": "Edit"
+              , "cta-close": "Close"
+              , "cta": "Save"
             }
           , "3": {
                 "title": "Celebration"
@@ -104,6 +104,15 @@
         }
 
     }
+  , "thanks": {
+        "label": "To: "
+      , "cta": "Send"
+      , "placeholder": "Envoyer un message de remerciement..."
+    }
+  , "donations": {
+        "receipt-text": "Phrase reçu fiscal asso"
+      , "receipt-cta": "Télécharger"
+    }
   , "places": {
         "label-privacy": "Will be held in intimate family setting"
       , "label-info": "Additionnal information"
@@ -127,6 +136,13 @@
       , "placeholder-phone": "xxx xxx xxxx"
       , "cta-delete": "Remove"
       , "cta-add": "Add"
+    }
+  , "moderation": {
+        "title": "Moderate the page"
+      , "tabs": {
+            "messages": "Tributes"
+          , "donations": "Donations"
+        }
     }
   , "messages": {
         "title": "Manage messages"

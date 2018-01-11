@@ -1,9 +1,9 @@
 {
     "info": {
-        "title": "Finalisation de la page"
+        "title": "Informations sur la page"
       , "tabs": {
             "1": {
-                "title": "Informations"
+                "title": "Faire part"
               , "text": "Modifier les informations sur  votre proche (nom, prénom, dates)"
               , "cta-open": "Modifier"
               , "cta-close": "Fermer"
@@ -16,13 +16,6 @@
               , "input-dob-placeholder": "jj/mm/aaaa"
               , "label-dod": "Date de décès"
               , "input-dod-placeholder": "jj/mm/aaaa"
-            }
-          , "2": {
-                "title": "Faire-part"
-              , "text": "Personnaliser le message de faire-part et ajouter une photo"
-              , "cta-open": "Modifier"
-              , "cta-close": "Fermer"
-              , "cta": "Enregistrer"
               , "label-intro": "Écrire un message afin de faire part à votre entourage du décès de votre proche.\n Il n’est pas nécessaire de renseigner les informations sur les obsèques, nous nous occuperons de cela plus tard."
               , "input-intro-placeholder": "Cette page est destinée à la famille et à tous ceux qui ont connu et aimé {{fullname}}.\nAprès une belle vie, bien remplie, entouré(e) des siens, il/elle nous a quitté le {{dod}} dernier.\nIl/elle restera à jamais dans nos coeurs.\nN’hésitez pas exprimer le lien qui vous unissait à {{firstname, capitalize}}, un message, un souvenir, une photo, toute marque d’affection nous portera et nous aidera à traverser cette épreuve.\nTrès sincèrement."
               , "label-image": "Ajouter une photo de votre proche"
@@ -36,15 +29,22 @@
                   , "Cette page est destinée à la famille et à tous ceux qui ont connu et aimé {{fullname}} décédé le {{dod, lowercase}} dernier.\n{{firstname, capitalize}} restera à jamais dans nos coeurs.\nN’hésitez pas à laisser sur cette page un message, un souvenir ou une photo.\nTrès sincèrement."
                 ]
             }
+          , "2": {
+                "title": "Contacts"
+              , "text": "Personnaliser le message de faire-part et ajouter une photo"
+              , "cta-open": "Modifier"
+              , "cta-close": "Fermer"
+              , "cta": "Enregistrer"
+            }
           , "3": {
-                "title": "Célébrations"
+                "title": "Obsèques"
               , "text": "Préciser les informations de chaque étape et les personnes à contacter en cas de besoin"
               , "cta-open": "Modifier"
               , "cta-close": "Fermer"
               , "cta": "Enregistrer"
             }
           , "4": {
-                "title": "Dons"
+                "title": "Donation"
               , "text": "Créer une collecte de dons au profit d’une cause chère à votre proche"
               , "description": "Vous pouvez organiser une collecte de dons au profit d’une association chère à votre proche ou pour vous aider à financer ses obsèques. Les dons permettent à votre entourage de manifester leur soutien, en contribuant à une cause porteuse de sens."
               , "countries": [
@@ -103,6 +103,15 @@
         }
 
     }
+  , "thanks": {
+        "label": "À: "
+      , "cta": "Envoyer"
+      , "placeholder": "Envoyer un message de remerciement..."
+    }
+  , "donations": {
+        "receipt-text": "Phrase reçu fiscal asso"
+      , "receipt-cta": "Télécharger"
+    }
   , "places": {
         "label-privacy": "Aura lieu dans l'intimité familiale"
       , "label-info": "Information complémentaire"
@@ -118,14 +127,21 @@
     }
   , "contacts": {
         "title": "Personnes à contacter"
-      , "label-name": "Nom"
+      , "label-name": "Nom & prénom"
       , "placeholder-name": "Nom du contact"
       , "label-email": "Adresse email"
       , "placeholder-email": "Email du contact"
       , "label-phone": "Numéro de téléphone"
       , "placeholder-phone": "Téléphone du contact"
       , "cta-delete": "Supprimer"
-      , "cta-add": "Ajouter"
+      , "cta-add": "Ajouter un contact"
+    }
+  , "moderation": {
+        "title": "Modération de la page"
+      , "tabs": {
+            "messages": "Hommages"
+          , "donations": "Donations"
+        }
     }
   , "messages": {
         "title": "Modération de la page"
@@ -144,18 +160,13 @@
       , "collected": "recueillis"
     }
   , "actions": {
-        "title": "Administration de la page"
-      , "text": ""
-      , "share": {
-            "title":""
-          , "sms": ""
-          , "email": "Partager la page"
-          , "copy": ""
-        }
-      , "manage": {
-          "title": ""
+        "title": "Gérer la page"
+      , "links": {
+            "info": "Informations"
+          , "moderation": "Modéreration"
           , "admin": "Ajouter un administrateur"
-          , "delete": "Supprimer la page"
+          , "share": "Partager"
+          , "delete": "Supprimer"
         }
     }
 }

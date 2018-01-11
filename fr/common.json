@@ -20,6 +20,7 @@
     }
   , "template": "Suggestion"
   , "toast-success": "Enregistrement terminé !"
+  , "toast-message-sent": "Message envoyé !"
   , "confirm-areusure": "Êtes vous sûr ?"
   , "yes": "Oui"
   , "no": "Non"

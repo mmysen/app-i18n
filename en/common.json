@@ -19,6 +19,7 @@
     }
   , "template": "Template"
   , "toast-success": "Saved successfully!"
+  , "toast-message-sent": "Message sent !"
   , "confirm-areusure": "Are you sure?"
   , "yes": "Yes"
   , "no": "No"
