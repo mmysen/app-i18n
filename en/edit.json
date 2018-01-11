@@ -161,17 +161,12 @@
       , "collected": "collected"
     }
   , "actions": {
-        "title": "Managing the page"
-      , "text": ""
-      , "share": {
-            "title": "Share {{firstname, capitalize}}'s page"
-          , "sms": "Text your contacts the page link"
-          , "email": "E-mail your contacts the page link"
-          , "copy": "Copy the link"
-        }
-      , "manage": {
-            "title": "Management"
+        "title": "Manage the page"
+      , "links": {
+            "info": "Informations"
+          , "moderation": "Modereration"
           , "admin": "Add new administrator"
+          , "share": "Share page"
           , "delete": "Delete this page"
         }
     }
