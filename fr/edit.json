@@ -109,7 +109,7 @@
       , "placeholder": "Envoyer un message de remerciement..."
     }
   , "donations": {
-        "receipt-text": "Télécharger et envoyer à l'association les informations nécessaires à la création des reçus fiscaux"
+        "receipt-text": "Informations nécessaires à transmettre à l'association pour générer les reçus fiscaux"
       , "receipt-cta": "Télécharger"
     }
   , "places": {
