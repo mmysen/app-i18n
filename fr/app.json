@@ -23,7 +23,7 @@
   , "share-bar": "Partagez cette page"
   , "home": {
         "intro": {
-            "title": "Chère famille, chers amis, \n cette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec {{firstname, capitalize}}, et qui nous aidera à traverser cette épreuve. \n Avec toute notre affection"
+            "title": "Chère famille, chers amis, \n cette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec {{firstname}}, et qui nous aidera à traverser cette épreuve. \n Avec toute notre affection"
         }
       , "info": {
             "title": "Informations"
@@ -31,24 +31,24 @@
       , "donation": {
             "title": "Faire un don"
           , "cta": "Faire un don"
-          , "text-org": "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons au profit de <strong>{{org}}</strong>."
-          , "text-family": "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons."
+          , "text-org": "L’ensemble de la famille souhaite rendre hommage à {{firstname}} en organisant une collecte de dons au profit de <strong>{{org}}</strong>."
+          , "text-family": "L’ensemble de la famille souhaite rendre hommage à {{firstname}} en organisant une collecte de dons."
         }
       , "contact": {
             "title": "Contact"
-          , "text": "Cette page a été créée par la famille de {{firstname, capitalize}}. \nSi vous avez des questions, merci de contacter les personnes mentionnées ci-dessous :"
+          , "text": "Cette page a été créée par la famille de {{firstname}}. \nSi vous avez des questions, merci de contacter les personnes mentionnées ci-dessous :"
         }
       , "support": {
-            "title": "Rendre hommage à {{firstname, capitalize}}"
-          , "text": "Voici plusieurs manières de rendre hommage à {{firstname, capitalize}} :"
+            "title": "Rendre hommage à {{firstname}}"
+          , "text": "Voici plusieurs manières de rendre hommage à {{firstname}} :"
           , "guestbook": {
                 "title": "Signer le recueil"
-              , "text": "Envoyez vos condoléances à la famille. Partagez un souvenir avec {{firstname, capitalize}}. Postez une photo."
+              , "text": "Envoyez vos condoléances à la famille. Partagez un souvenir avec {{firstname}}. Postez une photo."
             }
           , "donation": {
                 "title": "Faire un don"
-              , "text-family": "Soutenez la famille dans l’organisation des obsèques de {{firstname, capitalize}}."
-              , "text-org": "Soutenez l’association {{org}}, selon les volontés de {{firstname, capitalize}}."
+              , "text-family": "Soutenez la famille dans l’organisation des obsèques de {{firstname}}."
+              , "text-org": "Soutenez l’association {{org}}, selon les volontés de {{firstname}}."
             }
           , "share": {
                 "title": "Partager cette page"
@@ -62,22 +62,22 @@
       , "tab-pictures": "{{count}} Photo(s)"
       , "cta-add": "Partager une photo"
       , "cta-message": "Ecrire un message"
-      , "no-result": "Tous les messages d'hommage apparaîtront ici.\nVos mots et vos pensées accompagneront la famille de {{firstname, capitalize}}.\nSoyez le premier à vous manifester."
+      , "no-result": "Tous les messages d'hommage apparaîtront ici.\nVos mots et vos pensées accompagneront la famille de {{firstname}}.\nSoyez le premier à vous manifester."
     }
   , "memories": {}
   , "message": {
         "input-fullname-placeholder": "Vos prénom et nom"
       , "input-email-placeholder": "Adresse email"
       , "input-email-info": "Email pour que la famille puisse vous répondre."
-      , "input-message-placeholder-1": "Écrire un message pour la famille ou partager un souvenir avec {{firstname, capitalize}}..."
-      , "input-message-placeholder-2": "Écrire un souvenir pour la famille ou partager un souvenir avec {{firstname, capitalize}}..."
+      , "input-message-placeholder-1": "Écrire un message pour la famille ou partager un souvenir avec {{firstname}}..."
+      , "input-message-placeholder-2": "Écrire un souvenir pour la famille ou partager un souvenir avec {{firstname}}..."
       , "cta": "Partager sur le recueil"
       , "cta-image": "Joindre une photo"
       , "cta-image-uploading": "Télécharger..."
       , "steps": {
             "0": { "title": "Que souhaitez vous partager ?" }
-          , "1": { "title": "Condoléances", "text": "Exprimez vos condoléances à la famille de {{firstname, capitalize}}." }
-          , "2": { "title": "Souvenir", "text": "Partagez un moment vécu avec {{firstname, capitalize}}." }
+          , "1": { "title": "Condoléances", "text": "Exprimez vos condoléances à la famille de {{firstname}}." }
+          , "2": { "title": "Souvenir", "text": "Partagez un moment vécu avec {{firstname}}." }
           , "3": { "title": "Photos", "text": "La page est tellement plus belle avec des photos." }
         }
     }
@@ -108,11 +108,11 @@
   , "share": {
         "link": {
             "title": "Partager cette page"
-          , "text": "Partagez cette page avec toutes les personnes qui ont croisé le chemin de {{firstname, capitalize}} :"
+          , "text": "Partagez cette page avec toutes les personnes qui ont croisé le chemin de {{firstname}} :"
         }
       , "admin": {
             "title": "Ajouter un administrateur"
-          , "text": "Afin d’ajouter un administrateur à la page en hommage à {{firstname, capitalize}}, saisissez son adresse email dans l’espace ci-dessous :"
+          , "text": "Afin d’ajouter un administrateur à la page en hommage à {{firstname}}, saisissez son adresse email dans l’espace ci-dessous :"
         }
       , "tab-link": {
             "text": "Copier le lien"
