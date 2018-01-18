@@ -32,14 +32,14 @@
             }
           , "2": {
                 "title": "Make it personal"
-              , "text": "This is the photo and message your close ones will see on the page."
+              , "text": "This is the photo and introductory message your close ones will see on the page."
               , "cta-open": "Edit"
               , "cta-close": "Close"
               , "cta": "Save"
             }
           , "3": {
                 "title": "Celebration"
-              , "text": "Specify the date and location of planned memorial ceremonies and the person guests may reach out to."
+              , "text": "Specify the date and location of any planned memorial ceremonies and anyone guests may reach out to for more information."
               , "cta-open": "Edit"
               , "cta-close": "Close"
               , "cta": "Save"
@@ -107,11 +107,11 @@
   , "thanks": {
         "label": "To: "
       , "cta": "Send"
-      , "placeholder": "Envoyer un message de remerciement..."
+      , "placeholder": "Give thanks for the warm words here"
     }
   , "donations": {
-        "receipt-text": "Phrase reçu fiscal asso"
-      , "receipt-cta": "Télécharger"
+        "receipt-text": "To make sure the non-profit organization you've chosen sends you & the donors a tax-deductible charitable receipt, download & send them this spreadsheet."
+      , "receipt-cta": "Download"
     }
   , "places": {
         "label-privacy": "Will be held in intimate family setting"
@@ -121,7 +121,7 @@
       , "label-time": "Time (24h; 14h30=2:30PM)"
       , "placeholder-time": "Time "
       , "label-name": "Location of {{type, capitalize}}"
-      , "placeholder-name": "Mt. Sinai Mortuary, Grace Cathedral"
+      , "placeholder-name": "e.g. Mt. Sinai Mortuary, Grace Cathedral"
       , "label-address": "Address of {{type, capitalize}}"
       , "placeholder-address": "1 Lincoln Bd, San Francisco, CA 94129"
       , "cta-delete": "Remove"
@@ -129,9 +129,9 @@
   , "contacts": {
         "title": "Who should relatives reach out if they need more information?"
       , "label-name": "Name"
-      , "placeholder-name": "Your name"
+      , "placeholder-name": "Name of contact"
       , "label-email": "E-mail"
-      , "placeholder-email": "Your e-mail"
+      , "placeholder-email": "E-mail of contact"
       , "label-phone": "Phone"
       , "placeholder-phone": "xxx xxx xxxx"
       , "cta-delete": "Remove"
@@ -163,11 +163,11 @@
   , "actions": {
         "title": "Manage the page"
       , "links": {
-            "info": "Informations"
-          , "moderation": "Modereration"
+            "info": "Information"
+          , "moderation": "Messages"
           , "admin": "Add new administrator"
           , "share": "Share page"
-          , "delete": "Delete this page"
+          , "delete": "Delete page"
         }
     }
 }
