@@ -8,7 +8,7 @@
   , "story": {
         "title": "How we came about"
       , "text": [
-            ["January 2016\nParis", "Clémentine decides to support grieving families as they organize the funeral services. While simultaneously working as the CMO of a French publicly traded company, Clémentine spent time with families who've suffered a loss to best understand how she could comfort them."]
+            ["January 2016\nParis", "Clémentine commits herself to supporting grieving families as they organize the funeral services. While simultaneously working as the CMO of a French publicly traded company, Clémentine spent time with families who've suffered a loss to best understand how she could comfort them."]
           , ["July 2016\nParis", "InMemori is born."]
           , ["January 2017\nParis", "Constance joins the team. She speaks with families everyday, answering their questions and helping them make full use of InMemori."]
           , ["February 2017\nParis", "Families and their loved ones, grateful for InMemori and its role in their healing, become its ambassadors. Through word of mouth, InMemori was able to comfort 30,000 people in their moment of loss."]
@@ -66,14 +66,14 @@
   , "team": {
 
         "title": "Who are we?"
-      , "text": "At the heart of InMemori is a team that unites beautiful, soulful energy to create life out of loss."
+      , "text": "At the heart of InMemori is a team & its beautiful energy to create life out of loss."
 
       , "items": [
         { 
             "name": ""
           , "role": ""
           , "bio": "Clémentine Piazza - CEO & Founder"
-          , "intro": "This is a profound mission that puts everything in its rightful place."
+          , "intro": "This is a profound mission that puts everything in its right place."
           , "pic": "team.clementine"
           , "linkedin": "https://www.linkedin.com/in/cl%C3%A9mentine-piazza-42a67976/"
           , "twitter": ""
@@ -83,7 +83,7 @@
             "name": "Constance de Vernejoul"
           , "role": "Key Accounts & CRM"
           , "bio": "A NEOMA Business School graduate, Constance worked at L'Oréal, in PR and international communications. First to have joined InMemori, she's held the hands of 300 families and seeks to accompany countless more."
-          , "intro": "I wanted to be there for others during a period in their lives when people feel profoundly alone."
+          , "intro": "I wanted to be there for people during a period in their lives when they feel profoundly alone."
           , "pic": "team.constance"
           , "linkedin": "https://www.linkedin.com/in/constance-de-vernejoul-00316484/"
           , "twitter": ""
@@ -103,7 +103,7 @@
             "name": "Eva Kerner"
           , "role": "VP Business Development"
           , "bio": "A UCSB, Sciences Po and LSE grad, Eva worked in PR and digital strategy in Paris. In SF, she worked with Fabernovel to develop a corporate innovation lab in the insurance space. Eva heard Clémentine's pitch in SF and the rest is history."
-          , "intro": "It's said that we die twice. Once when we take our last breath, and the second, when someone utters out name for the last time. With InMemori, I can help make sure people's names, memories and stories live on."
+          , "intro": "It's said that we die twice. Once when we take our last breath, and the second, when someone speaks our name out for the last time. With InMemori, I can help make sure people's names, memories and stories live on."
           , "pic": "team.eva"
           , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
           , "twitter": "https://twitter.com/evakerner"
@@ -113,7 +113,7 @@
             "name": "Louis Grellet"
           , "role": "CTO"
           , "bio": "Engineer and entrepreneur, Louis was Allopneus' CTO and CEO at Flooz."
-          , "intro": "Mourning is a moment in life where technology is absent. Therefore, it's a technical challenge that I'd like to solve."
+          , "intro": "Mourning is a moment in life where technology is absent. I'd like to change that."
           , "pic": "team.louis"
           , "linkedin": "https://www.linkedin.com/in/louis-grellet-1927242/"
           , "twitter": ""
