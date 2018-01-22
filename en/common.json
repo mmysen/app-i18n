@@ -16,6 +16,7 @@
       , "contemplation": "Contemplation"
       , "interment": "Interment"
       , "cremation": "Cremation"
+      , "inhumation": "Burial"
     }
   , "template": "Template"
   , "toast-success": "Saved successfully!"
