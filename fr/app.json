@@ -98,12 +98,29 @@
       , "receipt": "Votre paiement de {{amount}} à bien été enregistré !\nRéférence : {{id}}"
       , "other": "Autre"
     }
-  , "flower": {}
+  , "flower": {
+        "step0-title": "Choisissez votre bouquet"
+      , "step0-subtitle": "Tous les bouquets sont de taille moyenne et livré avec un vase pour etre présenter sur un des lieux de cérémony"
+      , "step1-title": "Choisir une addresse de livraison"
+      , "step1-subtitle": ""
+      , "step2-title": "Validez la commande"
+      , "step2-subtitle": ""
+      , "step3-title": "Merci de votre soutien !"
+      , "step3-subtitle": ""
+      , "input-firstname-placeholder": "Prénom"
+      , "input-lastname-placeholder": "Nom"
+      , "input-email-placeholder": "Email"
+      , "label-message": "Ajouter un mot"
+      , "input-message-placeholder": "Laisser un message"
+      , "cta": "Envoyer"
+      , "cta-end": "Terminer"
+      , "receipt": "Votre paiement de {{amount}} à bien été enregistré !\nRéférence : {{id}}"
+    }
   , "print": {}
   , "delete": {
         "title": "Confirmez-vous la suppression de la page ?"
       , "text": "Vous êtes sur le point de supprimer la page en hommage à {{fullname}}."
-      , "cta": "Supprimer la page"
+      , "cta": "Supprimer"
     }
   , "share": {
         "link": {
@@ -133,6 +150,7 @@
           , "success": "Email envoyé !"
           , "info": "> Saisissez votre adresse email, nous vous envoyons le lien de la page et un modèle de mail à partager à vos proches."
         }
+      , "message": "Voici le lien de la \npage de {{fullname}} :"
       , "error": "Oups !"
     }
 

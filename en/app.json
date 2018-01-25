@@ -100,7 +100,24 @@
       , "receipt": "Your payment was successful!\nPayment reference number: {{id}}"
       , "other": "Other"
     }
-  , "flower": {}
+  , "flower": {
+        "step0-title": "Choisissez votre bouquet"
+      , "step0-subtitle": "Tous les bouquets sont de taille moyenne et livré avec un vase pour etre présenter sur un des lieux de cérémony"
+      , "step1-title": "Choisir une addresse de livraison"
+      , "step1-subtitle": ""
+      , "step2-title": "Validez la commande"
+      , "step2-subtitle": ""
+      , "step3-title": "Merci de votre soutien !"
+      , "step3-subtitle": ""
+      , "input-firstname-placeholder": "Prénom"
+      , "input-lastname-placeholder": "Nom"
+      , "input-email-placeholder": "Email"
+      , "label-message": "Ajouter un mot"
+      , "input-message-placeholder": "Laisser un message"
+      , "cta": "Envoyer"
+      , "cta-end": "Terminer"
+      , "receipt": "Votre paiement de {{amount}} à bien été enregistré !\nRéférence : {{id}}"
+    }
   , "print": {}
   , "delete": {
         "title": "Are you sure?"

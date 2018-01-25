@@ -166,7 +166,7 @@
           , "moderation": "Modéreration"
           , "admin": "Ajouter un administrateur"
           , "share": "Partager"
-          , "delete": "Supprimer"
+          , "delete": "Supprimer la page"
         }
     }
 }
