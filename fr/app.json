@@ -155,7 +155,7 @@
           , "success": "Email envoyé !"
           , "info": ""
         }
-      , "message": "Voici le lien de la \npage de {{fullname}} :"
+      , "message": "Bonjour, \nC'est avec une immense tristesse que nous vous annonçons le décès de {{fullname}}.\nNous venons de créer une page InMemori, privée, sur internet afin de lui rendre hommage à cette adresse : {{uri.page}}.\nEn vous rendant sur la page vous pourrez : \n- Consulter les informations sur les obsèques\n- Partager un message de condoléances, un souvenir, une photo\n\nNous apprécierons vos messages de soutien dans ces moments difficiles.\n\nAfin de ne pas oublier des personnes qui l'ont aimé(e), n'hésitez pas à partager cette page à toutes les personnes concernées.\nAmitiés,\n[Signature]"
       , "error": "Oups !"
     }
 
