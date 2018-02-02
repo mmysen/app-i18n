@@ -152,10 +152,10 @@
         }
       , "tab-email": {
             "text": "Share by e-mail"
-          , "placeholder": "Enter your e-mail address here"
+          , "placeholder": "E-mail address"
           , "cta": "Send"
-          , "success": "Email sent !"
-          , "info": "> We will send you an e-mail with the link of the InMemori page, accompanied by a message you can personalize and send to your close ones."
+          , "success": "Email sent!"
+          , "info": ""
         }
       , "error": "Oops!"
     }
