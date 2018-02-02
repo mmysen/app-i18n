@@ -150,10 +150,10 @@
         }
       , "tab-email": {
             "text": "Par email"
-          , "placeholder": "Votre adresse email"
+          , "placeholder": "Adresse email"
           , "cta": "Envoyer"
           , "success": "Email envoyé !"
-          , "info": "> Saisissez votre adresse email, nous vous envoyons le lien de la page et un modèle de mail à partager à vos proches."
+          , "info": ""
         }
       , "message": "Voici le lien de la \npage de {{fullname}} :"
       , "error": "Oups !"
