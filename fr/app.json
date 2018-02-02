@@ -34,6 +34,11 @@
           , "text-org": "L’ensemble de la famille souhaite rendre hommage à {{firstname}} en organisant une collecte de dons au profit de <strong>{{org}}</strong>."
           , "text-family": "L’ensemble de la famille souhaite rendre hommage à {{firstname}} en organisant une collecte de dons."
         }
+      , "flowers": {
+            "title": "Offrir des fleurs"
+          , "cta": "Offrir des fleurs"
+          , "text": "blablablabla"
+        }
       , "contact": {
             "title": "Contact"
           , "text": "Cette page a été créée par la famille de {{firstname}}. \nSi vous avez des questions, merci de contacter les personnes mentionnées ci-dessous :"

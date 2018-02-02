@@ -35,6 +35,11 @@
           , "text-family": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory."
         
         }
+      , "flowers": {
+            "title": "Offrir des fleurs"
+          , "cta": "Offrir des fleurs"
+          , "text": "blablablabla"
+        }
       , "contact": {
             "title": "Contact"
           , "text": "This page was created by {{firstname, capitalize}}'s family. Should you have any questions, please reach out to:"
