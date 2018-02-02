@@ -31,8 +31,8 @@
                 ]
             }
           , "2": {
-                "title": "Make it personal"
-              , "text": "This is the photo and introductory message your close ones will see on the page."
+                "title": "Contact"
+              , "text": "Add the person who others can contact to find out any more information."
               , "cta-open": "Edit"
               , "cta-close": "Close"
               , "cta": "Save"
