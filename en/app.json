@@ -157,6 +157,7 @@
           , "success": "Email sent!"
           , "info": ""
         }
+      , "message": "Hello,\n\nIt is with a heavy heart that we must share the news of {{fullname}}'s death.\nWe have created an intimate page where we can support each other and pay homage to {{fullname}}'s memory.\n\nYour words of support and your memories will light our path as we traverse through darkness.\n\nBy going on the page, you can: \n- View information regarding planned memorial services\n- Share your condolences, a memory or photos with us\n\nWe've thought of you but have certainly forgotten others who have loved and now lost. Please share this page with anyone that comes to mind.\n\nThank you, infinitely.\n\nFeel free to access the page here: {{uri.page}}"
       , "error": "Oops!"
     }
 
