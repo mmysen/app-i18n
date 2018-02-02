@@ -32,7 +32,7 @@
             }
           , "2": {
                 "title": "Contact"
-              , "text": "Add the person who others can contact to find out any more information."
+              , "text": "Add the people who your close ones can contact to find out any more information."
               , "cta-open": "Edit"
               , "cta-close": "Close"
               , "cta": "Save"
