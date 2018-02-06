@@ -23,7 +23,7 @@
   , "share-bar": "Share this page"
   , "home": {
        "intro": {
-            "title": "Dear friends and family, \n this page is made for you to share love in this moment of loss. This space is intimate, so please feel free to share your photos and moments lived with {{firstname, capitalize}}. Only together can we hope to overcome this loss. \nAll our love, {{firstname, capitalize}}'s family."
+            "title": "Dear friends and family, \n This page is made for you to share love in this moment of loss. This space is intimate, so please feel free to share your photos and moments lived with {{firstname, capitalize}}. Only together can we hope to overcome this loss. \nAll our love, {{firstname, capitalize}}'s family."
         }
       , "info": {
             "title": "Information"
@@ -152,7 +152,7 @@
         }
       , "tab-email": {
             "text": "Share by e-mail"
-          , "placeholder": "E-mail address"
+          , "placeholder": "E-mail addresses"
           , "cta": "Send"
           , "success": "Email sent!"
           , "info": ""
