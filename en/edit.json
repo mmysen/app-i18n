@@ -39,7 +39,7 @@
             }
           , "3": {
                 "title": "Celebration"
-              , "text": "Specify the date and location of any planned memorial ceremonies and anyone guests may reach out to for more information."
+              , "text": "Specify the date and location of any planned memorial ceremonies."
               , "cta-open": "Edit"
               , "cta-close": "Close"
               , "cta": "Save"
