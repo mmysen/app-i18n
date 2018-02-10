@@ -119,7 +119,8 @@
       , "input-email-placeholder": "Email"
       , "label-message": "Ajouter un mot"
       , "input-message-placeholder": "Laisser un message"
-      , "cta": "Envoyer"
+      , "recap-info": "bla bla bla"
+      , "cta": "Pay"
       , "cta-end": "Terminer"
       , "receipt": "Votre paiement de {{amount}} à bien été enregistré !\nRéférence : {{id}}"
     }

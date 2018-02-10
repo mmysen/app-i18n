@@ -67,7 +67,8 @@
               , "label-message": "Votre message pour introduire la collecte de dons"
               , "input-message-placeholder": "Say something"
               , "label-org": "Association"
-              , "input-org-placeholder": "Saisir l'association de votre choix"
+              , "input-org-placeholder": "Nom de l'association"
+              , "input-org-new": "Votre choix: \"{{label}}\""
               , "label-templates": "Besoin d'inspiration ?"
               , "templates": {
                     "family": [

@@ -69,6 +69,7 @@
               , "input-message-placeholder": "Write a few lines that explain what this cause means to you & your family. It will encourage others to donate generously if they understand its significance."
               , "label-org": "Organization"
               , "input-org-placeholder": "Choose an organization"
+              , "input-org-new": "Your choice: \"{{label}}\""
               , "label-templates": "Need inspiration?"
               , "templates": {
                     "family": [
