@@ -107,11 +107,11 @@
     }
   , "flower": {
         "step0-title": "Choisissez votre bouquet"
-      , "step0-subtitle": "Tous les bouquets sont de taille moyenne et livré avec un vase pour etre présenter sur un des lieux de cérémony"
-      , "step1-title": "Detail"
+      , "step0-subtitle": "Tous les bouquets sont de taille moyenne et livrés avec une bulle d'eau afin de pouvoir être présentés sur le lieu de cérémonie de votre choix."
+      , "step1-title": "Description du produit sélectionné"
       , "step1-subtitle": ""
-      , "step2-title": "Information de livraison"
-      , "step2-subtitle": "Choisissez un lieu de livraison"
+      , "step2-title": "Précisez les informations lors de la livraison"
+      , "step2-subtitle": "Choisissez un lieu pour la livraison"
       , "step3-title": "Validez la commande"
       , "step3-subtitle": ""
       , "step4-title": "Merci de votre soutien !"
@@ -124,7 +124,7 @@
       , "recap-info": "bla bla bla"
       , "cta": "Valider"
       , "cta-end": "Terminer"
-      , "receipt": "Votre paiement de {{amount}} à bien été enregistré !\nRéférence : {{id}}"
+      , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
     }
   , "print": {}
   , "delete": {
