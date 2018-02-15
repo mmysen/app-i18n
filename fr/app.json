@@ -27,12 +27,14 @@
         }
       , "info": {
             "title": "Informations"
+          , "label-privacy": "Aura lieu dans l'intimité familiale"
         }
       , "donation": {
             "title": "Faire un don"
           , "cta": "Faire un don"
           , "text-org": "L’ensemble de la famille souhaite rendre hommage à {{firstname}} en organisant une collecte de dons au profit de <strong>{{org}}</strong>."
           , "text-family": "L’ensemble de la famille souhaite rendre hommage à {{firstname}} en organisant une collecte de dons."
+          , "status": "À ce jour {{total}} on été collectés gràce à {{donators}} donateur(s)."
         }
       , "flowers": {
             "title": "Offrir des fleurs"
@@ -80,7 +82,7 @@
       , "cta-image": "Joindre une photo"
       , "cta-image-uploading": "Télécharger..."
       , "steps": {
-            "0": { "title": "Que souhaitez vous partager ?" }
+            "0": { "title": "Que souhaitez-vous partager ?" }
           , "1": { "title": "Condoléances", "text": "Exprimez vos condoléances à la famille de {{firstname}}." }
           , "2": { "title": "Souvenir", "text": "Partagez un moment vécu avec {{firstname}}." }
           , "3": { "title": "Photos", "text": "La page est tellement plus belle avec des photos." }
@@ -156,9 +158,9 @@
           , "placeholder": "Emails séparés par une virgule \",\""
           , "cta": "Envoyer"
           , "success": "Email envoyé !"
-          , "info": "> Saisissez votre adresse email, nous vous envoyons le lien de la page et un modèle de mail à partager à vos proches."
+          , "info": ""
         }
-      , "message": "Voici le lien de la \npage de {{fullname}} :"
+      , "message": "Bonjour, \n\nC'est avec une immense tristesse que nous vous annonçons le décès de {{fullname}}.\n\nNous venons de créer une page InMemori, privée, sur internet afin de lui rendre hommage.\nEn vous rendant sur la page vous pourrez : \n- Consulter les informations sur les obsèques\n- Partager un message de condoléances, un souvenir, une photo\n\nNous apprécierons vos messages de soutien dans ces moments difficiles.\n\nAfin de ne pas oublier des personnes qui l'ont aimé(e), n'hésitez pas à partager cette page à toutes les personnes concernées.\n\nAmitiés,\n\nVoici le lien de la page : {{uri.page}}"
       , "error": "Oups !"
     }
 

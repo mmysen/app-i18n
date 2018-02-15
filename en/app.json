@@ -23,10 +23,11 @@
   , "share-bar": "Share this page"
   , "home": {
        "intro": {
-            "title": "Dear friends and family, \n this page is made for you to share love in this moment of loss. This space is intimate, so please feel free to share your photos and moments lived with {{firstname, capitalize}}. Only together can we hope to overcome this loss. \nAll our love, {{firstname, capitalize}}'s family."
+            "title": "Dear friends and family, \n This page is made for you to share love in this moment of loss. This space is intimate, so please feel free to share your photos and moments lived with {{firstname, capitalize}}. Only together can we hope to overcome this loss. \nAll our love, {{firstname, capitalize}}'s family."
         }
       , "info": {
             "title": "Information"
+          , "label-privacy": "Will be held in intimate family setting"
         }
       , "donation": {
             "title": "Make a donation in {{firstname, capitalize}}'s memory"
@@ -133,7 +134,7 @@
   , "share": {
         "link": {
             "title": "Send this page"
-          , "text": "Send this page to family, friends, and everyone who's lives were touched by {{fullname}}, by sending them this link:"
+          , "text": "Send this page to family, friends, and everyone who's lives were touched by {{fullname}} by sharing this link:"
         }
       , "admin": {
             "title": "Add new administrator"
@@ -153,11 +154,12 @@
         }
       , "tab-email": {
             "text": "Share by e-mail"
-          , "placeholder": "Enter your e-mail address here"
+          , "placeholder": "E-mail addresses"
           , "cta": "Send"
-          , "success": "Email sent !"
-          , "info": "> We will send you an e-mail with the link of the InMemori page, accompanied by a message you can personalize and send to your close ones."
+          , "success": "Email sent!"
+          , "info": ""
         }
+      , "message": "Hello,\nIt is with a heavy heart that we must share the news of {{fullname}}'s death.\nWe have created an intimate page where we can support each other and pay homage to {{fullname}}'s memory.\nYour words of support and your memories will light our path as we traverse through darkness.\nBy going on the page, you can: \n- View information regarding planned memorial services\n- Share your condolences, a memory or photos with us \nWe've thought of you but have certainly forgotten others who have loved and now lost. Please share this page with anyone that comes to mind.\nThank you, infinitely.\nFeel free to access the page here: {{uri.page}}"
       , "error": "Oops!"
     }
 
