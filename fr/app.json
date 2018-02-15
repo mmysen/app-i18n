@@ -34,7 +34,7 @@
           , "cta": "Faire un don"
           , "text-org": "L’ensemble de la famille souhaite rendre hommage à {{firstname}} en organisant une collecte de dons au profit de <strong>{{org}}</strong>."
           , "text-family": "L’ensemble de la famille souhaite rendre hommage à {{firstname}} en organisant une collecte de dons."
-          , "status": "À ce jour {{total}} on été collectés gràce à {{donators}} donateur(s)."
+          , "status": "À ce jour, {{total}} ont été collectés grâce à {{donators}} donateur(s)."
         }
       , "flowers": {
             "title": "Offrir des fleurs"
