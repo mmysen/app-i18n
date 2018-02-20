@@ -122,16 +122,16 @@
       , "label-message": "Adressez quelques mots à la famille"
       , "input-message-placeholder": "Laisser un message"
       , "recap-info": {
-		    "item": {
-				"name": "{{item.name}}",
-				"product": "{{item.product}}"
-		    }
+            "item": {
+		"name": "{{item.name}}"
+	      , "product": "{{item.product}}"
+	    }
           , "shipping": {
-				"name": "{{shipping.name}}",
-				"address": "{{shipping.address}}",
-				"date_f": "{{shipping.date_f}}"
+		"name": "{{shipping.name}}"
+	      , "address": "{{shipping.address}}"
+	      , "date_f": "{{shipping.date_f}}"
 			}
-	}
+      }
       , "cta": "Valider"
       , "cta-end": "Terminer"
       , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
