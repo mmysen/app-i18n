@@ -121,21 +121,7 @@
       , "input-email-placeholder": "Email"
       , "label-message": "Adressez quelques mots à la famille"
       , "input-message-placeholder": "Laisser un message"
-<<<<<<< HEAD
       , "recap-info": "bla {{shipping.date_f}} bla bla"
-=======
-      , "recap-info": {
-            "item": {
-		"name": "{{item.name}}"
-	      , "product": "{{item.product}}"
-	    }
-          , "shipping": {
-		"name": "{{shipping.name}}"
-	      , "address": "{{shipping.address}}"
-	      , "date_f": "{{shipping.date_f}}"
-			}
-      }
->>>>>>> 0edf23b322b737e86c90ea27fa670a6e60e4ad1a
       , "cta": "Valider"
       , "cta-end": "Terminer"
       , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
