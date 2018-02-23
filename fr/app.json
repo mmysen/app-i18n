@@ -121,7 +121,7 @@
       , "input-email-placeholder": "Email"
       , "label-message": "Adressez quelques mots à la famille"
       , "input-message-placeholder": "Laisser un message"
-      , "recap-info": "bla bla bla"
+      , "recap-info": "bla {{shipping.date_f}} bla bla"
       , "cta": "Valider"
       , "cta-end": "Terminer"
       , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
