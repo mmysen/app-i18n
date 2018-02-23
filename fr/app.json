@@ -39,7 +39,7 @@
       , "flowers": {
             "title": "Offrir des fleurs"
           , "cta": "Offrir des fleurs"
-          , "text": "blablablabla"
+          , "text": "Vous pouvez offrir des fleurs, simplement, à la famille de {{firstname}}. \nLes fleurs seront livrées à l'heure sur un des lieux d'hommage."
         }
       , "contact": {
             "title": "Contact"
@@ -110,7 +110,7 @@
       , "step0-subtitle": "Tous les bouquets sont de taille moyenne et livrés avec une bulle d'eau afin de pouvoir être présentés sur le lieu de cérémonie de votre choix."
       , "step1-title": "Description du produit sélectionné"
       , "step1-subtitle": ""
-      , "step2-title": "Précisez les informations lors de la livraison"
+      , "step2-title": "Informations de livraison"
       , "step2-subtitle": "Choisissez un lieu pour la livraison"
       , "step3-title": "Validez la commande"
       , "step3-subtitle": ""
@@ -121,7 +121,21 @@
       , "input-email-placeholder": "Email"
       , "label-message": "Adressez quelques mots à la famille"
       , "input-message-placeholder": "Laisser un message"
+<<<<<<< HEAD
       , "recap-info": "bla {{shipping.date_f}} bla bla"
+=======
+      , "recap-info": {
+            "item": {
+		"name": "{{item.name}}"
+	      , "product": "{{item.product}}"
+	    }
+          , "shipping": {
+		"name": "{{shipping.name}}"
+	      , "address": "{{shipping.address}}"
+	      , "date_f": "{{shipping.date_f}}"
+			}
+      }
+>>>>>>> 0edf23b322b737e86c90ea27fa670a6e60e4ad1a
       , "cta": "Valider"
       , "cta-end": "Terminer"
       , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
