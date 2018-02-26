@@ -74,7 +74,7 @@
               , "templates": {
                     "family": [
                         "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons."
-                      , "{{firstname, capitalize}} ne souhaitait pas de fleurs, mais pour ceux qui le désirent, nous organisons une collecte de dons en sa mémoire."
+                      , "Pour ceux qui le désirent, nous organisons une collecte de dons en mémoire de {{firstname, capitalize}}."
                       , "Nous organisons une collecte de dons en mémoire de {{firstname, capitalize}}. La somme récoltée permettra à sa famille de financer, au moins en partie, ses obsèques. Merci d’avance de votre générosité."
                     ]
                   , "org": [
