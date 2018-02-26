@@ -16,7 +16,7 @@
               , "input-dob-placeholder": "jj/mm/aaaa"
               , "label-dod": "Date de décès"
               , "input-dod-placeholder": "jj/mm/aaaa"
-              , "label-intro": "Écrire un message afin de faire part à votre entourage du décès de votre proche.\n Il n’est pas nécessaire de renseigner les informations sur les obsèques, nous nous occuperons de cela plus tard."
+              , "label-intro": "Écrire un message afin de faire part à votre entourage du décès de votre proche."
               , "input-intro-placeholder": "Cette page est destinée à la famille et à tous ceux qui ont connu et aimé {{fullname}}.\nAprès une belle vie, bien remplie, entouré(e) des siens, il/elle nous a quitté le {{dod}} dernier.\nIl/elle restera à jamais dans nos coeurs.\nN’hésitez pas exprimer le lien qui vous unissait à {{firstname}}, un message, un souvenir, une photo, toute marque d’affection nous portera et nous aidera à traverser cette épreuve.\nTrès sincèrement."
               , "label-image": "Ajouter une photo de votre proche"
               , "text-image": "Vous pouvez vous occuper de cette étape plus tard, mais nous vous recommandons d’en ajouter une avant de partager la page avec vos proches. Formats acceptés : JPG, JPEG, PNG (taille maximale de 5 Mo)."
