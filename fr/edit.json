@@ -84,7 +84,7 @@
                     ]
                 }
               , "text-status": "Une collecte est en cours au bénéfice de {{org}}.\nÀ ce jour le montant des dons s'élève à <strong>{{total}}</strong>.\nVous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
-              , "label-person": "Information de l'encaisseur"
+              , "label-person": "Identité de l'organisateur"
               , "label-firstname": "Prénom"
               , "input-firstname-placeholder": "Prénom"
               , "label-lastname": "Nom"
