@@ -139,7 +139,7 @@
         }
       , "admin": {
             "title": "Ajouter un administrateur"
-          , "text": "Afin d’ajouter un administrateur à la page en hommage à {{firstname}}, saisissez son adresse email dans l’espace ci-dessous :"
+          , "text": "Saisissez l'adresse email de votre contact dans l’espace ci-dessous afin de lui donner accès à l'espace de gestion :"
         }
       , "tab-link": {
             "text": "Copier le lien"
