@@ -60,7 +60,7 @@
               , "cta-pause": "Deactivate"
               , "cta": "Save"
               , "label-country": "Country"
-              , "input-country-placeholder": "Choose country"
+              , "input-country-placeholder": "Country of residence"
               , "label-beneficiary": "Beneficiary"
               , "choice-beneficiary": [
                     "Family"
@@ -85,7 +85,7 @@
                     ]
                 }
               , "text-status": "The family has begun a fundraiser, proceeds going to {{org}}. \n To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
-              , "label-person": "Beneficiary"
+              , "label-person": "Donation organizer"
               , "label-firstname": "First name"
               , "input-firstname-placeholder": "First name"
               , "label-lastname": "Last name"
