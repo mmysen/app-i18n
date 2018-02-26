@@ -59,8 +59,8 @@
               , "cta-end": "Close"
               , "cta-pause": "Deactivate"
               , "cta": "Save"
-              , "label-country": "Country"
-              , "input-country-placeholder": "Country of residence"
+              , "label-country": "Country of residence"
+              , "input-country-placeholder": "Choose your country"
               , "label-beneficiary": "Beneficiary"
               , "choice-beneficiary": [
                     "Family"
