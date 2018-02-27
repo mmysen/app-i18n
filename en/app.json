@@ -34,6 +34,7 @@
           , "cta": "Make a donation"
           , "text-org": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory. Proceeds will go to <strong>{{org}}</strong>."
           , "text-family": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory."
+          , "status": "As of now, we have raised {{total}}$ thanks to the generosity of {{donators}} people."
         
         }
       , "flowers": {
