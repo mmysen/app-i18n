@@ -74,7 +74,7 @@
   , "memories": {}
   , "message": {
         "input-fullname-placeholder": "Vos prénom et nom"
-      , "input-email-placeholder": "Adresse email"
+      , "input-email-placeholder": "Votre email"
       , "input-email-info": "Email pour que la famille puisse vous répondre."
       , "input-message-placeholder-1": "Écrire un message pour la famille ou partager un souvenir avec {{firstname}}..."
       , "input-message-placeholder-2": "Écrire un souvenir pour la famille ou partager un souvenir avec {{firstname}}..."
@@ -108,10 +108,10 @@
   , "flower": {
         "step0-title": "Choisissez votre bouquet"
       , "step0-subtitle": "Tous les bouquets sont de taille moyenne et livrés avec une bulle d'eau afin de pouvoir être présentés sur le lieu de cérémonie de votre choix."
-      , "step1-title": "Description du produit sélectionné"
+      , "step1-title": "Votre sélection"
       , "step1-subtitle": ""
-      , "step2-title": "Informations de livraison"
-      , "step2-subtitle": "Choisissez un lieu pour la livraison"
+      , "step2-title": "Livraison"
+      , "step2-subtitle": "Choisissez un lieu. \nInterflora vous garantit une livraison 15 minutes avant le début des obsèques."
       , "step3-title": "Validez la commande"
       , "step3-subtitle": ""
       , "step4-title": "Merci de votre soutien !"
@@ -121,7 +121,7 @@
       , "input-email-placeholder": "Email"
       , "label-message": "Adressez quelques mots à la famille"
       , "input-message-placeholder": "Laisser un message"
-      , "recap-info": "bla {{shipping.date_f}} bla bla"
+      , "recap-info": "Informations de livraison :\n{{shipping.name}}\n{{shipping.date_f}}"
       , "cta": "Valider"
       , "cta-end": "Terminer"
       , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
@@ -139,7 +139,7 @@
         }
       , "admin": {
             "title": "Ajouter un administrateur"
-          , "text": "Afin d’ajouter un administrateur à la page en hommage à {{firstname}}, saisissez son adresse email dans l’espace ci-dessous :"
+          , "text": "Saisissez l'adresse email de votre contact dans l’espace ci-dessous afin de lui donner accès à l'espace de gestion :"
         }
       , "tab-link": {
             "text": "Copier le lien"
@@ -157,7 +157,7 @@
             "text": "Par email"
           , "placeholder": "Emails séparés par une virgule \",\""
           , "cta": "Envoyer"
-          , "success": "Email envoyé !"
+          , "success": "Email(s) envoyé(s) !"
           , "info": ""
         }
       , "message": "Bonjour, \n\nC'est avec une immense tristesse que nous vous annonçons le décès de {{fullname}}.\n\nNous venons de créer une page InMemori, privée, sur internet afin de lui rendre hommage.\nEn vous rendant sur la page vous pourrez : \n- Consulter les informations sur les obsèques\n- Partager un message de condoléances, un souvenir, une photo\n\nNous apprécierons vos messages de soutien dans ces moments difficiles.\n\nAfin de ne pas oublier des personnes qui l'ont aimé(e), n'hésitez pas à partager cette page à toutes les personnes concernées.\n\nAmitiés,\n\nVoici le lien de la page : {{uri.page}}"

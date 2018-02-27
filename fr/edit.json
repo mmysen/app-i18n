@@ -16,7 +16,7 @@
               , "input-dob-placeholder": "jj/mm/aaaa"
               , "label-dod": "Date de décès"
               , "input-dod-placeholder": "jj/mm/aaaa"
-              , "label-intro": "Écrire un message afin de faire part à votre entourage du décès de votre proche.\n Il n’est pas nécessaire de renseigner les informations sur les obsèques, nous nous occuperons de cela plus tard."
+              , "label-intro": "Écrire un message afin de faire part à votre entourage du décès de votre proche."
               , "input-intro-placeholder": "Cette page est destinée à la famille et à tous ceux qui ont connu et aimé {{fullname}}.\nAprès une belle vie, bien remplie, entouré(e) des siens, il/elle nous a quitté le {{dod}} dernier.\nIl/elle restera à jamais dans nos coeurs.\nN’hésitez pas exprimer le lien qui vous unissait à {{firstname}}, un message, un souvenir, une photo, toute marque d’affection nous portera et nous aidera à traverser cette épreuve.\nTrès sincèrement."
               , "label-image": "Ajouter une photo de votre proche"
               , "text-image": "Vous pouvez vous occuper de cette étape plus tard, mais nous vous recommandons d’en ajouter une avant de partager la page avec vos proches. Formats acceptés : JPG, JPEG, PNG (taille maximale de 5 Mo)."
@@ -47,7 +47,7 @@
                 "title": "Donation"
               , "text": "Créer une collecte de dons au profit d’une cause chère à votre proche"
               , "description": "Vous pouvez organiser une collecte de dons au profit d’une association chère à votre proche ou pour vous aider à financer ses obsèques. Les dons permettent à votre entourage de manifester leur soutien, en contribuant à une cause porteuse de sens."
-              , "description-info": "Afin de couvrir les frais liés au transfert de fonds et à la gestion de votre cagnotte, 5% de commission sont appliqués aux dons effectués."
+              , "description-info": "Afin de couvrir les frais liés à la gestion de votre cagnotte et au transfert de fonds, 5% de commission sont retenus sur les dons effectués."
               , "countries": [
                     ["fr", "France (EUR)"]
                   , ["us", "États-Unis (US dollar)"]
@@ -74,7 +74,7 @@
               , "templates": {
                     "family": [
                         "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons."
-                      , "{{firstname, capitalize}} ne souhaitait pas de fleurs, mais pour ceux qui le désirent, nous organisons une collecte de dons en sa mémoire."
+                      , "Pour ceux qui le désirent, nous organisons une collecte de dons en mémoire de {{firstname, capitalize}}."
                       , "Nous organisons une collecte de dons en mémoire de {{firstname, capitalize}}. La somme récoltée permettra à sa famille de financer, au moins en partie, ses obsèques. Merci d’avance de votre générosité."
                     ]
                   , "org": [
@@ -85,7 +85,7 @@
                 }
               , "text-status-family": "Une collecte est en cours au bénéfice de {{org}}.\nÀ ce jour le montant des dons s'élève à <strong>{{total}}</strong>.\nVous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
               , "text-status-org": "Une collecte est en cours pour aider au financement des obsèques.\nÀ ce jour le montant des dons s'élève à <strong>{{total}}</strong>.\nVous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
-              , "label-person": "Information de l'encaisseur"
+              , "label-person": "Identité de l'organisateur"
               , "label-firstname": "Prénom"
               , "input-firstname-placeholder": "Prénom"
               , "label-lastname": "Nom"
@@ -135,8 +135,8 @@
     }
   , "contacts": {
         "title": "Personnes à contacter"
-      , "label-name": "Nom & prénom"
-      , "placeholder-name": "Nom du contact"
+      , "label-name": "Nom du contact"
+      , "placeholder-name": "Prénom et nom"
       , "label-email": "Adresse email"
       , "placeholder-email": "Email du contact"
       , "label-phone": "Numéro de téléphone"
@@ -154,7 +154,7 @@
   , "messages": {
         "title": "Remercier vos proches"
       , "text": ""
-      , "empty": "Il n'y en a pas encore"
+      , "empty": "La fonctionnalité de remerciement sera acive dès le premier message d'hommage."
       , "cta-delete": "Supprimer"
       , "text-confirm": "Confirmez-vous la suppression du message ?"
     }

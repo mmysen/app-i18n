@@ -59,8 +59,8 @@
               , "cta-end": "Close"
               , "cta-pause": "Deactivate"
               , "cta": "Save"
-              , "label-country": "Country"
-              , "input-country-placeholder": "Choose country"
+              , "label-country": "Country of residence"
+              , "input-country-placeholder": "Choose your country"
               , "label-beneficiary": "Beneficiary"
               , "choice-beneficiary": [
                     "Family"
@@ -86,7 +86,7 @@
                 }
               , "text-status-family": "The family has begun a fundraiser, proceeds going to {{org}}.\n To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
               , "text-status-org": "The family has begun a fundraiser.\n To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
-              , "label-person": "Beneficiary"
+              , "label-person": "Donation organizer"
               , "label-firstname": "First name"
               , "input-firstname-placeholder": "First name"
               , "label-lastname": "Last name"
@@ -172,7 +172,7 @@
         "title": "Manage the page"
       , "links": {
             "info": "Information"
-          , "moderation": "Messages"
+          , "moderation": "Give thanks"
           , "admin": "Add new administrator"
           , "share": "Share page"
           , "delete": "Delete page"
