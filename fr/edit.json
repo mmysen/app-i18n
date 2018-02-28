@@ -83,8 +83,8 @@
                       , "Aider les autres, voilà ce qui aura été au coeur de la vie de {{firstname, capitalize}}. Son action, {{firstname, capitalize}} l’a menée au sein de l’association {{org}} qui le touchait tout particulièrement. Ensemble et en son nom, continuons son combat et soutenons cette association. Merci de votre générosité."
                     ]
                 }
-              , "text-status-family": "Une collecte est en cours au bénéfice de {{org}}.\nÀ ce jour le montant des dons s'élève à <strong>{{total}}</strong>.\nVous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
-              , "text-status-org": "Une collecte est en cours pour aider au financement des obsèques.\nÀ ce jour le montant des dons s'élève à <strong>{{total}}</strong>.\nVous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
+              , "text-status-family": "Une collecte est en cours pour aider au financement des obsèques.\nÀ ce jour le montant des dons s'élève à <strong>{{total}}</strong>.\nVous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
+              , "text-status-org": "Une collecte est en cours au bénéfice de {{org}}.\nÀ ce jour le montant des dons s'élève à <strong>{{total}}</strong>.\nVous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
               , "label-person": "Identité de l'organisateur"
               , "label-firstname": "Prénom"
               , "input-firstname-placeholder": "Prénom"
