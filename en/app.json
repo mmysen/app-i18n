@@ -121,7 +121,7 @@
       , "input-email-placeholder": "Email"
       , "label-message": "Write a message to the family"
       , "input-message-placeholder": "Your message"
-      , "recap-info": "Delivery information"
+      , "recap-info": "Delivery information: \n{{shipping.name}}\n{{shipping.date_f}}"
       , "cta": "Pay"
       , "cta-end": "Validate"
       , "receipt": "Your payment of {{amount}} has been sent!\nOrder number : {{id}}"
