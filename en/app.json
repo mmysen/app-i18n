@@ -38,9 +38,9 @@
         
         }
       , "flowers": {
-            "title": "Offrir des fleurs"
-          , "cta": "Offrir des fleurs"
-          , "text": "blablablabla"
+            "title": "Send flowers"
+          , "cta": "Send flowers"
+          , "text": "You can simply send flowers to the family.\n The flowers will be delivered to the memorial service(s)."
         }
       , "contact": {
             "title": "Contact"
@@ -108,23 +108,23 @@
       , "other": "Other"
     }
   , "flower": {
-        "step0-title": "Choisissez votre bouquet"
-      , "step0-subtitle": "Tous les bouquets sont de taille moyenne et livré avec un vase pour etre présenter sur un des lieux de cérémony"
-      , "step1-title": "Choisir une addresse de livraison"
+        "step0-title": "Choose your bouquet"
+      , "step0-subtitle": "All of the bouquets are medium-sized and will be delivered in water to the memorial service(s)."
+      , "step1-title": "Choose a delivery address"
       , "step1-subtitle": ""
-      , "step2-title": "Validez la commande"
+      , "step2-title": "Confirm"
       , "step2-subtitle": ""
-      , "step3-title": "Merci de votre soutien !"
+      , "step3-title": "Thank you for your support!"
       , "step3-subtitle": ""
-      , "input-firstname-placeholder": "Prénom"
-      , "input-lastname-placeholder": "Nom"
+      , "input-firstname-placeholder": "First name"
+      , "input-lastname-placeholder": "Last name"
       , "input-email-placeholder": "Email"
-      , "label-message": "Ajouter un mot"
-      , "input-message-placeholder": "Laisser un message"
+      , "label-message": "Write a message to the family"
+      , "input-message-placeholder": "Your message"
       , "recap-info": "bla bla bla"
       , "cta": "Pay"
       , "cta-end": "Terminer"
-      , "receipt": "Votre paiement de {{amount}} à bien été enregistré !\nRéférence : {{id}}"
+      , "receipt": "Your payment of {{amount}} has been sent!\nOrder number : {{id}}"
     }
   , "print": {}
   , "delete": {
