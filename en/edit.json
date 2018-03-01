@@ -126,7 +126,7 @@
       , "label-info": "Additional information"
       , "label-date": "Date of {{type, capitalize}}"
       , "placeholder-date": "Date"
-      , "label-time": "Time (24h; 14h30=2:30PM)"
+      , "label-time": "Time (24h format)"
       , "placeholder-time": "Time "
       , "label-name": "Location of {{type, capitalize}}"
       , "placeholder-name": "e.g. Mt. Sinai Mortuary, Grace Cathedral"
