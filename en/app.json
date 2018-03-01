@@ -6,7 +6,7 @@
       , "cta-right": "to friends and family."
       , "cta-share": "Share this page"
       , "cta-edit": "Edit page*"
-      , "cta-edit-tooltip": "*Only admins can edit the page. \nEvery one else can only to view, contribute & share!"
+      , "cta-edit-tooltip": "*Only administrators can edit the page. \nEveryone else can only view, contribute & share!"
       , "cta-view": "View page"
     }
   , "menu": {
