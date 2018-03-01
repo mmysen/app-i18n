@@ -6,7 +6,7 @@
       , "cta-right": "to friends and family."
       , "cta-share": "Share this page"
       , "cta-edit": "Edit page*"
-      , "cta-edit-tooltip": "*Only you have access to this feature. \nNo one else is see this function or to edit the page, only to view and contribute."
+      , "cta-edit-tooltip": "*Only admins can edit the page. \nEvery one else can only to view, contribute & share!"
       , "cta-view": "View page"
     }
   , "menu": {
@@ -101,10 +101,10 @@
       , "input-zipcode-placeholder": "Zipcode"
       , "label-info": "> Payment details"
       , "label-amount": "> Amount of donation"
-      , "label-receipt": "Do you want to receive a charitable receipt to file this donation as tax-deductible? If yes, please enter the address the family should send the charitable receipt to."
+      , "label-receipt": "Tick box if you're claiming this as a charitable donation & need a receipt."
       , "cta": "Send"
       , "cta-end": "End"
-      , "receipt": "Your payment was successful!\nPayment reference number: {{id}}"
+      , "receipt": "Payment received!\nReference number: {{id}}"
       , "other": "Other"
     }
   , "flower": {
@@ -139,7 +139,7 @@
         }
       , "admin": {
             "title": "Add new administrator"
-          , "text": "Send this link to share administrative access to {{firstname, capitalize}} page:"
+          , "text": "Send this link to share administrative access to your loved one's page:"
         }
       , "tab-link": {
             "text": "Copy link"
