@@ -47,7 +47,7 @@
           , "4": {
                 "title": "Donations"
               , "text": "Organize a memorial donation."
-              , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or that will benefit the family (to pay for funeral expenses, build a memorial, etc...). Donations allow the entourage to express their support in a meaningful way."
+              , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or that will benefit the family (to pay for funeral expenses, build a memorial, etc...). Donations allow the entourage to express their support in a meaningful way./n Our payment processor, Stripe, verifies that all payments processed are made in the name of real, genuine people, requiring the last 4 digits of your SSN."
               , "description-info": ""
               , "countries": [
                     ["fr", "France (EUR)"]
