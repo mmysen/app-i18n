@@ -154,7 +154,7 @@
   , "messages": {
         "title": "Remercier vos proches"
       , "text": ""
-      , "empty": "La fonctionnalité de remerciement sera acive dès le premier message d'hommage."
+      , "empty": "La fonctionnalité de remerciement sera active dès le premier message d'hommage."
       , "cta-delete": "Supprimer"
       , "text-confirm": "Confirmez-vous la suppression du message ?"
     }
