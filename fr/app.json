@@ -43,7 +43,7 @@
         }
       , "contact": {
             "title": "Contact"
-          , "text": "Cette page a été créée par la famille de {{firstname}}. \nSi vous avez des questions, merci de contacter les personnes mentionnées ci-dessous :"
+          , "text": "Cette page a été créée par la famille de {{firstname}}. \n\nSi vous avez des questions, vous pouvez contacter les personnes mentionnées ci-dessous :"
         }
       , "support": {
             "title": ""
