@@ -47,7 +47,7 @@
           , "4": {
                 "title": "Donations"
               , "text": "Organize a memorial donation."
-              , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or that will benefit the family (to pay for funeral expenses, build a memorial, etc...). Donations allow the entourage to express their support in a meaningful way.\n Our payment processor, Stripe, requires the last 4 digits of the donationo organizer's SSN to verify that all payments processed are made in the name of a real, genuine person."
+              , "description": "You can organize a donation drive to support an organization that was close to {{fullname}}'s heart, or that will benefit the family. Donations allow the entourage to express their support in a meaningful way.\n Our payment processor requires the last 4 digits of the donation organizer's SSN to verify that all payments processed are made in the name of a real person."
               , "description-info": "InMemori’s fee is 5% from each donation you receive to cover the costs of processing & transferring the payment."
               , "countries": [
                     ["fr", "France (EUR)"]
