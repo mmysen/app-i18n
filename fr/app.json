@@ -47,7 +47,7 @@
         }
       , "support": {
             "title": ""
-          , "text": "Voici plusieurs manières de rendre hommage à {{firstname}} :"
+          , "text": ""
           , "guestbook": {
                 "title": "Signer le recueil"
               , "text": "Envoyez vos condoléances à la famille. Partagez un souvenir avec {{firstname}}. Postez une photo."
