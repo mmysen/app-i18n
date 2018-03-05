@@ -14,7 +14,7 @@
       , "home": "Informations"
       , "guestbook": "Hommages"
       , "support": "Rendre hommage"
-      , "message": "Signer le recueil"
+      , "message": "Écrire un hommage"
       , "donation": "Faire un don"
       , "flowers": "Offrir des fleurs"
       , "print": "Imprimer le recueil"
@@ -49,7 +49,7 @@
             "title": ""
           , "text": ""
           , "guestbook": {
-                "title": "Signer le recueil"
+                "title": "Écrire un hommage"
               , "text": "Envoyez vos condoléances à la famille. Partagez un souvenir avec {{firstname}}. Postez une photo."
             }
           , "donation": {
