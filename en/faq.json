@@ -2,7 +2,7 @@
   "faq": [
 
     {
-      "section": "Create a page on InMemori",
+      "section": "CREATE A PAGE ON INMEMORI",
       "qa": [
         {
           "q": "What is InMemori?",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "section": "Managing an InMemori page",
+      "section": "MANAGING AN INMEMORI PAGE",
       "qa": [
         {
           "q": "How do I manage an InMemori page?",
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "section": "Contributing to an InMemori page",
+      "section": "CONTRIBUTING TO AN INMEMORI PAGE",
       "qa": [
         {
           "q": "Can I post multiple photos on an InMemori page?",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "section": "Other Questions",
+      "section": "OTHER QUESTIONS",
       "qa": [
         {
           "q": "You’d like to create an InMemori page or to contribute to a page but have some questions?",
