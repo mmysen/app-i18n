@@ -47,8 +47,8 @@
           , "text": "This page was created by {{firstname, capitalize}}'s family. Should you have any questions, please reach out to:"
         }
       , "support": {
-            "title": "Remembering {{firstname, capitalize}}"
-          , "text": "Here are a few ways you can celebrate {{firstname, capitalize}}'s life:"
+            "title": ""
+          , "text": ""
           , "guestbook": {
                 "title": "Write a message"
               , "text": "Share your most precious memories of {{firstname, capitalize}}.\n A photo is worth a 1,000 words, we encourage you to add photos."
