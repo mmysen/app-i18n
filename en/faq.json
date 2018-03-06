@@ -84,7 +84,7 @@
         },
         {
           "q": "What fees, if any, are charged on money donated on InMemori?",
-          "r": "<u>Money donated to US charities:</u>\nDonations raised for US charities are subject to x% fees:\n- x% covers the banking fees that secure the payment,\n- x% covers the fees charged by payment clearing houses.\n\n<u>Money donated to European charities</u>\n Donations raised for European charities are subject to x% fees:\n- x% covers the banking fees that secure the payment,\n- x% covers the fees charged by payment clearing houses.\n\n<u>Money donated to a personal cause:</u>\nFor every donation made for a personal cause, InMemori will charge x% to cover the banking fees that secure the payment and those charged by payment clearing houses."
+          "r": "<u>Money donated via InMemori service:</u>\nDonations are subject to 5% fees:\n- 2% covers the banking fees that secure the payment,\n- 3% covers the fees charged by payment clearing houses."
         },
         {
           "q": "How does the non-profit organization receive the donations collected on InMemori?",
