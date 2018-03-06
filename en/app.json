@@ -135,7 +135,7 @@
   , "share": {
         "link": {
             "title": "Send this page"
-          , "text": "Send this page to family, friends, and everyone who's lives were touched by {{fullname}} by sharing this link:"
+          , "text": "Send this page to everyone who's lives were touched by {{firstname, capitalize}} by sharing this link:"
         }
       , "admin": {
             "title": "Add new administrator"
