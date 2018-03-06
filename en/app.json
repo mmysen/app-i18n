@@ -139,7 +139,7 @@
         }
       , "admin": {
             "title": "Add new administrator"
-          , "text": "Send this link to share administrative access to your loved one's page:"
+          , "text": "Enter your contact’s e-mail address to allow them access to the administration space:"
         }
       , "tab-link": {
             "text": "Copy link"
