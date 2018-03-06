@@ -14,7 +14,7 @@
       , "home": "Information"
       , "guestbook": "InMemori book"
       , "support": "Show your support"
-      , "message": "Share your memories"
+      , "message": "Write a message"
       , "donation": "Donate"
       , "flowers": "Send flowers"
       , "print": "Print the InMemori book"
@@ -50,8 +50,8 @@
             "title": "Remembering {{firstname, capitalize}}"
           , "text": "Here are a few ways you can celebrate {{firstname, capitalize}}'s life:"
           , "guestbook": {
-                "title": "Sign the InMemori book"
-              , "text": "Share your most precious moments & memories of {{firstname, capitalize}}.\n A photo is worth a 1,000 words, we encourage you to add photos."
+                "title": "Write a message"
+              , "text": "Share your most precious memories of {{firstname, capitalize}}.\n A photo is worth a 1,000 words, we encourage you to add photos."
             }
           , "donation": {
                 "title": "Make a donation"
