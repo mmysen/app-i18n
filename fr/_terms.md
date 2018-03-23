@@ -63,7 +63,7 @@ L’Administrateur dispose sur l'interface d’administration accessible depuis 
 
 ### 4) Accès  
 
-Les Utilisateurs qui reçoivent un lien de partage pourront accéder à la page en hommage correspondate en cliquant simplement sur le lien.  
+Les Utilisateurs qui reçoivent un lien de partage pourront accéder à la page en hommage correspondante en cliquant simplement sur le lien.  
 
 L’Utilisateur peut recevoir le lien de partage de la page en hommage de la part d'un Administrateur et/ou de la part d'un autre Utilisateur ayant préalablement reçu ce lien.  
 
