@@ -154,7 +154,7 @@
           , "info": "> We will send a text to this phone number with the link of the InMemori page, accompanied by a message you can personalize and send out to your contacts."
         }
       , "tab-email": {
-            "text": "Share by e-mail. You can send this to as many people as you want."
+            "text": "Share by e-mail."
           , "placeholder": "Separate e-mails by commas"
           , "cta": "Send"
           , "success": "Email(s) sent!"
