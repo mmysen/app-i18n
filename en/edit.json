@@ -17,9 +17,9 @@
               , "input-dob-placeholder": "mm/dd/yyyy"
               , "label-dod": "Passed away on"
               , "input-dod-placeholder": "mm/dd/yyyy"
-              , "label-intro": "Write a message to inform relatives of the passing.\n No need to include information about the funeral - we'll take care of that later. "
+              , "label-intro": "Write a message to inform relatives of the passing."
               , "input-intro-placeholder": "intro"
-              , "label-image": "Upload a profile picture of {{fullname}}"
+              , "label-image": "Upload a picture of {{fullname}}"
               , "text-image": "You can complete this step later if you do not have the right picture now, but we highly recommend that you include a picture before sharing the page. Accepted formats: JPG, JPEG, PNG (max size: 5 MB)."
               , "cta-image": "Select picture"
               , "cta-image-uploading": "Uploading..."
@@ -118,7 +118,7 @@
       , "placeholder": "Give thanks for the warm words here"
     }
   , "donations": {
-        "receipt-text": "To make sure the non-profit organization you've chosen sends you & the donors a tax-deductible charitable receipt, download & send them this spreadsheet."
+        "receipt-text": "To make sure the non-profit organization you've chosen sends you & the donors a tax receipt, send them this spreadsheet."
       , "receipt-cta": "Download"
     }
   , "places": {
