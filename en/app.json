@@ -83,8 +83,8 @@
       , "cta-image": "Add picture"
       , "cta-image-uploading": "Uploading..."
       , "steps": {
-            "0": { "title": "While there are many ways to remember & celebrate, here's three." }
-          , "1": { "title": "Condolences", "text": "Express your feelings of support with the family in their time of need." }
+            "0": { "title": "What would you like to share?" }
+          , "1": { "title": "Condolences", "text": "Express your feelings of support with {{firstname}}'s family." }
           , "2": { "title": "Memories", "text": "Share your memories of {{firstname, capitalize}}." }
           , "3": { "title": "Photos", "text": "Upload photos of memories lived with {{firstname, capitalize}}." }
         }
