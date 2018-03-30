@@ -3,7 +3,7 @@
 <br/>  
 ### Éditeur  
 
-Le site internet https://www.inmemori.com/ est la propriété de Rest In Peace, (ci-après, l’ « Éditeur »).  
+Le site internet https://www.inmemori.com est la propriété de Rest In Peace, (ci-après, l’ « Éditeur »).  
 
 Conformément au Code de la Propriété Intellectuelle, toute exploitation, représentation ou reproduction de tout ou partie du site internet est strictement interdite sauf autorisation expresse et préalable de l’Éditeur.  
 
