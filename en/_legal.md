@@ -1,22 +1,22 @@
 <br/>  
-## Mentions légales  
+## Legal notice 
 <br/>  
-### Editeur  
+### Editor  
 
-Le site internet https://www.inmemori.com/ est la propriété de Rest In Peace, (ci-après, l’ « Editeur »).  
+This website https://www.inmemori.com is the property of Rest In Peace SAS, (The "Editor").  
 
-Conformément au Code de la Propriété Intellectuelle, toute exploitation, représentation ou reproduction de tout ou partie du site internet est strictement interdite sauf autorisation expresse et préalable de l’Editeur.  
+Pursuant to intellectual property laws, any use, representation, or reproduction, wholly or in part, of this website without prior and express consent of the Editor is strictly prohibited.
 
-### Liens hypertextes  
+### Hyperlinks  
 
-L’éditeur décline toute responsabilité quant aux sites internet accessibles depuis son propre site.  
+The Editor shall have no liability with respect to hyperlinks available on the website. 
 
-Les liens hypertextes mis en place dans le cadre du présent site web en direction d'autres ressources présentes sur le réseau internet, et notamment, vers des partenaires, sont clairement identifiés et font l'objet d'une information et/ou d'une autorisation préalable des sites pointés. L’Editeur s'engage à faire cesser les liens hypertextes à la première demande écrite des entreprises à qui appartiennent ces sites. Les liens hypertextes en direction d'autres ressources présentes sur le réseau internet ne sauraient engager la responsabilité de l’Editeur.  
+Hyperlinks made to other sites or contents available on the web, including to trading partners’ contents, from this website are clearly identified and subject to a prior information and/or authorization of the target websites. The Editor covenants to remove hyperlinks upon the first application in writing made by the owners of the target websites. The Editor shall have no liability whatsoever with respect to hyperlinks to other contents available on the web.
 
-### Crédits  
+### Credits  
 
-Directeur de publication : SAS Rest In Peace  
-Webmaster : SAS Rest In Peace  
-Conception, réalisation et hébergement du site internet : SAS Rest In Peace (conception, réalisation)
+Publication director: SAS Rest In Peace  
+Webmaster: SAS Rest In Peace  
+Design, production and host: SAS Rest In Peace (design and production)
 <br/>
 <br/>
