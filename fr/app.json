@@ -16,7 +16,7 @@
       , "support": "Rendre hommage"
       , "message": "Écrire un message"
       , "donation": "Faire un don"
-      , "flowers": "Offrir des fleurs"
+      , "flowers": "Embellir la cérémonie"
       , "print": "Imprimer le recueil"
       , "share": "Partager cette page"
     }
@@ -37,8 +37,8 @@
           , "status": "À ce jour, {{total}} ont été collectés grâce à {{donators}} donateur(s)."
         }
       , "flowers": {
-            "title": "Offrir des fleurs"
-          , "cta": "Offrir des fleurs"
+            "title": "Embellir la cérémonie"
+          , "cta": "Embellir la cérémonie"
           , "text": "Vous pouvez offrir des fleurs, simplement. \nCelles-ci seront livrées à l'heure sur un des lieux d'hommage."
         }
       , "contact": {
