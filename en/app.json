@@ -23,17 +23,17 @@
   , "share-bar": "Share this page"
   , "home": {
        "intro": {
-            "title": "Dear friends and family, \n This page is made for you to share love in this moment of loss. This space is intimate, so please feel free to share your photos and moments lived with {{firstname, capitalize}}. Only together can we hope to overcome this loss. \nAll our love, {{firstname, capitalize}}'s family."
+            "title": "Dear friends and family, \n This page is made for you to share love in this moment of loss. This space is intimate, so please feel free to share your photos and moments lived with {{firstname}}. Only together can we hope to overcome this loss. \nAll our love, {{firstname}}'s family."
         }
       , "info": {
             "title": "Information"
           , "label-privacy": "Will be held in intimate family setting"
         }
       , "donation": {
-            "title": "Make a donation in {{firstname, capitalize}}'s memory"
+            "title": "Make a donation in {{firstname}}'s memory"
           , "cta": "Make a donation"
-          , "text-org": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory. Proceeds will go to <strong>{{org}}</strong>."
-          , "text-family": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory."
+          , "text-org": "The family is organizing a fundraiser in {{firstname}}'s memory. Proceeds will go to <strong>{{org}}</strong>."
+          , "text-family": "The family is organizing a fundraiser in {{firstname}}'s memory."
           , "status": "As of now, we have raised {{total}}$ thanks to the generosity of {{donators}} people."
         
         }
@@ -44,23 +44,23 @@
         }
       , "contact": {
             "title": "Contact"
-          , "text": "This page was created by {{firstname, capitalize}}'s family. Should you have any questions, please reach out to:"
+          , "text": "This page was created by {{firstname}}'s family. Should you have any questions, please reach out to:"
         }
       , "support": {
             "title": ""
           , "text": ""
           , "guestbook": {
                 "title": "Write a message"
-              , "text": "Share your most precious memories of {{firstname, capitalize}}.\n A photo is worth a 1,000 words, we encourage you to add photos."
+              , "text": "Share your most precious memories of {{firstname}}.\n A photo is worth a 1,000 words, we encourage you to add photos."
             }
           , "donation": {
                 "title": "Make a donation"
-              , "text-family": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory."
-              , "text-org": "The family is organizing a fundraiser in {{firstname, capitalize}}'s memory. Proceeds will go to {{org}}."
+              , "text-family": "The family is organizing a fundraiser in {{firstname}}'s memory."
+              , "text-org": "The family is organizing a fundraiser in {{firstname}}'s memory. Proceeds will go to {{org}}."
             }
           , "share": {
                 "title": "Share this page"
-              , "text": "Send {{firstname, capitalize}}'s friends the link to this page so they too can contribute."
+              , "text": "Send {{firstname}}'s friends the link to this page so they too can contribute."
             }
         }
     }
@@ -70,23 +70,23 @@
       , "tab-pictures": "{{count}} Picture(s)"
       , "cta-add": "Add a picture"
       , "cta-message": "Write a message"
-      , "no-result": "All the tribute messages will be published be here. Your memories and your words will help carry {{firstname, capitalize}}'s dear ones through their journey. Be the first to share, to support, to inspire others to do the same."
+      , "no-result": "All the tribute messages will be published be here. Your memories and your words will help carry {{firstname}}'s dear ones through their journey. Be the first to share, to support, to inspire others to do the same."
     }
   , "memories": {}
   , "message": {
         "input-fullname-placeholder": "Your first and last name(s)"
       , "input-email-placeholder": "Email"
       , "input-email-info": "This way, the family can be in touch with you."
-      , "input-message-placeholder-1": "Write a message for the family or share a memory of {{firstname, capitalize}}..."
-      , "input-message-placeholder-2": "Write a memory for the family or share a memory of {{firstname, capitalize}}..."
+      , "input-message-placeholder-1": "Write a message for the family or share a memory of {{firstname}}..."
+      , "input-message-placeholder-2": "Write a memory for the family or share a memory of {{firstname}}..."
       , "cta": "Share on the InMemori book"
       , "cta-image": "Add picture"
       , "cta-image-uploading": "Uploading..."
       , "steps": {
             "0": { "title": "What would you like to share?" }
           , "1": { "title": "Condolences", "text": "Express your feelings of support with {{firstname}}'s family." }
-          , "2": { "title": "Memories", "text": "Share your memories of {{firstname, capitalize}}." }
-          , "3": { "title": "Photos", "text": "Upload photos of memories lived with {{firstname, capitalize}}." }
+          , "2": { "title": "Memories", "text": "Share your memories of {{firstname}}." }
+          , "3": { "title": "Photos", "text": "Upload photos of memories lived with {{firstname}}." }
         }
     }
   , "donation": {
