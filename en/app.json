@@ -17,7 +17,7 @@
       , "message": "Write a message"
       , "donation": "Donate"
       , "flowers": "Send flowers"
-      , "print": "Print the InMemori book"
+      , "book": "Print the InMemori book"
       , "share": "Share this page"
     }
   , "share-bar": "Share this page"

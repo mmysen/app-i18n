@@ -67,8 +67,11 @@
                 ]
               , "label-message": "Votre message pour introduire la collecte de dons"
               , "input-message-placeholder": "Say something"
+              , "select-org-placeholder": "Choisir une association"
+              , "select-custom-org-text": "Association de votre choix"
               , "label-org": "Association"
               , "input-org-placeholder": "Nom de l'association"
+              , "label-custom-org": "Nom de l'association"
               , "input-org-new": "Votre choix: \"{{label}}\""
               , "label-templates": "Besoin d'inspiration ?"
               , "templates": {
@@ -115,6 +118,10 @@
         "label": "À: "
       , "cta": "Envoyer"
       , "placeholder": "Envoyer un message de remerciement..."
+      , "state": "réponse envoyée"
+      , "cta-close": "Fermer"
+      , "cta-open": "Répondre"
+      , "cta-open2": "Remercier"
     }
   , "donations": {
         "receipt-text": "Informations nécessaires à transmettre à l'association pour générer les reçus fiscaux"

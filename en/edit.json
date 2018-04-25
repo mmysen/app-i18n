@@ -68,8 +68,11 @@
                 ]
               , "label-message": "Your message to introduce the fundraiser."
               , "input-message-placeholder": "Write a few lines that explain what this cause means to you & your family. It will encourage others to donate generously if they understand its significance."
+              , "select-org-placeholder": "Choose an organization"
+              , "select-custom-org-text": "Organization of your choice"
               , "label-org": "Organization"
               , "input-org-placeholder": "Choose an organization"
+              , "label-custom-org": "Name of the organization"
               , "input-org-new": "Your choice: \"{{label}}\""
               , "label-templates": "Need inspiration?"
               , "templates": {
@@ -116,6 +119,10 @@
         "label": "To: "
       , "cta": "Send"
       , "placeholder": "Give thanks for the warm words here"
+      , "state": "response sent"
+      , "cta-close": "Close"
+      , "cta-open": "Reply"
+      , "cta-open2": "Reply"
     }
   , "donations": {
         "receipt-text": "To make sure the non-profit organization you've chosen sends you & the donors a tax receipt, send them this spreadsheet."
