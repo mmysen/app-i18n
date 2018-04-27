@@ -100,7 +100,7 @@
       , "label-info": "> Informations bancaires"
       , "label-amount": "> Montant du don"
       , "label-receipt": "Reçu fiscal (facultatif)"
-      , "cta": "Envoyer"
+      , "cta": "Payer"
       , "cta-end": "Terminer"
       , "receipt": "Votre paiement de {{amount}} à bien été enregistré !\nRéférence : {{id}}"
       , "other": "Autre"
