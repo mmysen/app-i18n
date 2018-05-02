@@ -90,6 +90,7 @@
     }
   , "donation": {
         "title": "Nouvelle donation"
+      , "amounts": "50,100,150,200,300"
       , "title-success": "Merci de votre soutien !"
       , "input-firstname-placeholder": "Prénom"
       , "input-lastname-placeholder": "Nom"
@@ -124,6 +125,8 @@
       , "recap-info": "Informations de livraison :\n{{shipping.name}}\n{{shipping.date_f}}"
       , "cta": "Valider"
       , "cta-end": "Terminer"
+      , "cart-item": "Bouquet"
+      , "cart-shipping": "Livraison"
       , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
     }
   , "book": {

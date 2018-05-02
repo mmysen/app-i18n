@@ -139,6 +139,7 @@
       , "label-address": "Adresse"
       , "placeholder-address": "71 Rue des Rondeaux, 75020 Paris"
       , "cta-delete": "Supprimer"
+      , "cta-add": "Ajouter une étape"
     }
   , "contacts": {
         "title": "Personnes à contacter"
