@@ -11,6 +11,7 @@
   , "fulldate": "LLL"
   , "shortdate": "LL"
   , "show-map": "Show on a map"
+  , "typesList": "ceremony,contemplation,inhumation,interment,cremation"
   , "types": {
         "ceremony": "Ceremony"
       , "contemplation": "Contemplation"
