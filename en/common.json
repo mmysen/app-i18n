@@ -18,6 +18,8 @@
       , "interment": "Interment"
       , "cremation": "Cremation"
       , "inhumation": "Burial"
+      , "gathering": "Gathering"
+      , "reception": "Reception"
     }
   , "template": "Template"
   , "toast-success": "Saved successfully!"
