@@ -95,6 +95,7 @@
       , "input-firstname-placeholder": "Prénom"
       , "input-lastname-placeholder": "Nom"
       , "input-email-placeholder": "Email"
+      , "input-recipient-placeholder": "Destinataire"
       , "input-address-placeholder": "Adresse"
       , "input-city-placeholder": "Ville"
       , "input-zipcode-placeholder": "Code postal"
@@ -112,7 +113,7 @@
       , "step1-title": "Votre sélection"
       , "step1-subtitle": ""
       , "step2-title": "Livraison"
-      , "step2-subtitle": "Choisissez un lieu. \nInterflora vous garantit une livraison 15 minutes avant le début des obsèques."
+      , "step2-subtitle": ""
       , "step3-title": "Validez la commande"
       , "step3-subtitle": ""
       , "step4-title": "Merci de votre soutien !"
@@ -129,6 +130,15 @@
       , "cart-shipping": "Livraison"
       , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
     }
+  , "shipping": {
+        "conditions": "Livraison en France métropolitaine uniquement."
+      , "interflora": " Interflora vous garantit une livraison 15 minutes avant le début des obsèques."
+      , "custom-label": "Adresse de votre choix"
+      , "input-recipient-placeholder": "Destinataire"
+      , "input-address-placeholder": "Adresse"
+      , "input-city-placeholder": "Ville"
+      , "input-zipcode-placeholder": "Code postal"
+  }
   , "book": {
         "step0-title": "Mon livre Inmemori"
       , "step0-subtitle": ""

@@ -96,6 +96,7 @@
       , "input-firstname-placeholder": "First name"
       , "input-lastname-placeholder": "Last name"
       , "input-email-placeholder": "Email"
+      , "input-recipient-placeholder": "Recipient"
       , "input-address-placeholder": "Address"
       , "input-city-placeholder": "City"
       , "input-state-placeholder": "State"
@@ -129,6 +130,15 @@
       , "cart-shipping": "Shipping"
       , "receipt": "Your payment of {{amount}} has been sent!\nOrder number : {{id}}"
     }
+  , "shipping": {
+        "conditions": "Shipping to France only."
+      , "interflora": " Interflora vous garantit une livraison 15 minutes avant le début des obsèques."
+      , "custom-label": "Address of your choice"
+      , "input-recipient-placeholder": "Recipient"
+      , "input-address-placeholder": "Address"
+      , "input-city-placeholder": "City"
+      , "input-zipcode-placeholder": "Zipcode"
+  }
   , "print": {}
   , "delete": {
         "title": "Are you sure?"

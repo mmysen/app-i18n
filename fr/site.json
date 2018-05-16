@@ -20,6 +20,7 @@
       , "input-lastname-placeholder": "Nom du défunt"
       , "input-dod-placeholder": "Date de décès"
       , "input-email-placeholder": "Votre adresse email"
+      , "input-phone-placeholder": "Numéro de mobile"
       , "cta-v0": "Créer une page"
       , "cta-v1": "Créer une page"
       , "lookup-text": "Vous recherchez une page déjà existante ?"

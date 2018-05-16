@@ -141,6 +141,9 @@
       , "placeholder-address": "1 Lincoln Bd, San Francisco, CA 94129"
       , "cta-delete": "Remove"
       , "cta-add": "Add an event"
+      , "select-type-placeholder": "Choose an event"
+      , "select-type-custom-text": "Event of your choice"
+      , "label-type": "Name of the event"
     }
   , "contacts": {
         "title": "Who should relatives reach out if they need more information?"

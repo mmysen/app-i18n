@@ -140,6 +140,9 @@
       , "placeholder-address": "71 Rue des Rondeaux, 75020 Paris"
       , "cta-delete": "Supprimer"
       , "cta-add": "Ajouter une étape"
+      , "select-type-placeholder": "Choisir un évènement"
+      , "select-type-custom-text": "Évènement de votre choix"
+      , "label-type": "Nom de l'évènement"
     }
   , "contacts": {
         "title": "Personnes à contacter"
