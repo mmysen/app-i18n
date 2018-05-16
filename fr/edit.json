@@ -122,7 +122,7 @@
       , "state": "réponse envoyée"
       , "cta-close": "Fermer"
       , "cta-open": "Répondre"
-      , "cta-open2": "Remercier"
+      , "cta-open2": "Remerciement groupé"
     }
   , "donations": {
         "receipt-text": "Informations nécessaires à transmettre à l'association pour générer les reçus fiscaux"
