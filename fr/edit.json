@@ -118,6 +118,7 @@
         "label": "À: "
       , "cta": "Envoyer"
       , "placeholder": "Envoyer un message de remerciement..."
+      , "placeholder2": "Envoyer un message de remerciement à tous vos proches qui ont participé à la collecte de dons"
       , "state": "réponse envoyée"
       , "cta-close": "Fermer"
       , "cta-open": "Répondre"

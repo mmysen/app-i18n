@@ -119,6 +119,7 @@
         "label": "To: "
       , "cta": "Send"
       , "placeholder": "Give thanks for the warm words here"
+      , "placeholder2": "Give thanks for the warm words here"
       , "state": "response sent"
       , "cta-close": "Close"
       , "cta-open": "Reply"
