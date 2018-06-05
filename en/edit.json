@@ -120,7 +120,7 @@
       , "cta": "Send"
       , "placeholder": "Give thanks for the warm words here"
       , "placeholder2": "Give thanks for the warm words here"
-      , "state": "response sent"
+      , "state": "Response sent"
       , "cta-close": "Close"
       , "cta-open-memories": "Reply"
       , "cta-open-donations": "Remercier"
