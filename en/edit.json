@@ -123,8 +123,8 @@
       , "state": "Response sent"
       , "cta-close": "Close"
       , "cta-open-memories": "Reply"
-      , "cta-open-donations": "Remercier"
-      , "cta-open-donations-grouped": "Remerciement groupé"
+      , "cta-open-donations": "Reply"
+      , "cta-open-donations-grouped": "Reply to all"
     }
   , "donations": {
         "receipt-text": "To make sure the non-profit organization you've chosen sends you & the donors a tax receipt, send them this spreadsheet."
