@@ -120,10 +120,10 @@
       , "cta": "Send"
       , "placeholder": "Give thanks for the warm words here"
       , "placeholder2": "Give thanks for the warm words here"
-      , "state": "response sent"
+      , "state": "Response sent"
       , "cta-close": "Close"
       , "cta-open": "Reply"
-      , "cta-open2": "Replied"
+      , "cta-open2": "Reply"
     }
   , "donations": {
         "receipt-text": "To make sure the non-profit organization you've chosen sends you & the donors a tax receipt, send them this spreadsheet."
