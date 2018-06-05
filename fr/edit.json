@@ -121,8 +121,9 @@
       , "placeholder2": "Envoyer un message de remerciement à tous vos proches qui ont participé à la collecte de dons"
       , "state": "réponse envoyée"
       , "cta-close": "Fermer"
-      , "cta-open": "Répondre"
-      , "cta-open2": "Remerciement groupé"
+      , "cta-open-memories": "Répondre"
+      , "cta-open-donations": "Remercier"
+      , "cta-open-donations-grouped": "Remerciement groupé"
     }
   , "donations": {
         "receipt-text": "Informations nécessaires à transmettre à l'association pour générer les reçus fiscaux"

@@ -21,6 +21,7 @@
       , "gathering": "Gathering"
       , "reception": "Reception"
     }
+  , "unauthorized": "nope"
   , "template": "Template"
   , "toast-success": "Saved successfully!"
   , "toast-message-sent": "Message sent!"
