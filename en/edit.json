@@ -123,7 +123,7 @@
       , "state": "response sent"
       , "cta-close": "Close"
       , "cta-open": "Reply"
-      , "cta-open2": "Reply"
+      , "cta-open2": "Replied"
     }
   , "donations": {
         "receipt-text": "To make sure the non-profit organization you've chosen sends you & the donors a tax receipt, send them this spreadsheet."
