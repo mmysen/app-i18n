@@ -1,0 +1,223 @@
+{
+    "header": {
+        "title": "{{fullname}}"
+      , "titleOf": ""
+      , "cta": "Envoyer cette page"
+      , "cta-right": "à vos amis et à votre famille."
+      , "cta-share": "Partager la page"
+      , "cta-edit": "Modifier la page*"
+      , "cta-edit-tooltip": "*Vous seuls avez accès à cette fonctionnalité. \nElle ne sera pas visible de vos proches."
+      , "cta-view": "Voir la page"
+    }
+  , "menu": {
+        "welcome": "Consulter"
+      , "home": "Informations"
+      , "guestbook": "Hommages"
+      , "support": "Rendre hommage"
+      , "message": "Écrire un message"
+      , "donation": "Faire un don"
+      , "flowers": "Embellir la cérémonie"
+      , "book": "Imprimer le recueil"
+      , "share": "Partager cette page"
+    }
+  , "share-bar": "Partagez cette page"
+  , "home": {
+        "intro": {
+            "title": "Chère famille, chers amis, \n cette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec {{firstname}}, et qui nous aidera à traverser cette épreuve. \n Avec toute notre affection"
+        }
+      , "info": {
+            "title": "Informations"
+          , "label-privacy": "Aura lieu dans l'intimité familiale"
+        }
+      , "donation": {
+            "title": "Faire un don"
+          , "cta": "Faire un don"
+          , "text-org": "L’ensemble de la famille souhaite rendre hommage à {{firstname}} en organisant une collecte de dons au profit de <strong>{{org}}</strong>."
+          , "text-family": "L’ensemble de la famille souhaite rendre hommage à {{firstname}} en organisant une collecte de dons."
+          , "status": "À ce jour, {{total}} ont été collectés grâce à {{donators}} donateur(s)."
+        }
+      , "flowers": {
+            "title": "Embellir la cérémonie"
+          , "cta": "Embellir la cérémonie"
+          , "text": "Vous pouvez offrir des fleurs, simplement. \nCelles-ci seront livrées à l'heure sur un des lieux d'hommage."
+        }
+      , "contact": {
+            "title": "Contact"
+          , "text": "Cette page a été créée par la famille de {{firstname}}. \n\nSi vous avez des questions, vous pouvez contacter les personnes mentionnées ci-dessous :"
+        }
+      , "support": {
+            "title": ""
+          , "text": ""
+          , "guestbook": {
+                "title": "Écrire un message"
+              , "text": "Envoyez vos condoléances à la famille. Partagez un souvenir avec {{firstname}}. Postez une photo."
+            }
+          , "donation": {
+                "title": "Faire un don"
+              , "text-family": "Soutenez la famille dans l’organisation des obsèques de {{firstname}}."
+              , "text-org": "Soutenez l’association {{org}}, selon les volontés de {{firstname}}."
+            }
+          , "share": {
+                "title": "Partager cette page"
+              , "text": "Vous connaissez un proche concerné ? Envoyez lui le lien de la page afin qu'il puisse participer."
+            }
+        }
+    }
+  , "guestbook": {
+        "title": "Hommages"
+      , "tab-entries": "{{count}} Message(s)"
+      , "tab-pictures": "{{count}} Photo(s)"
+      , "cta-add": "Partager une photo"
+      , "cta-message": "Ecrire un message"
+      , "no-result": "Tous les messages d'hommage apparaîtront ici.\nVos mots et vos pensées accompagneront la famille de {{firstname}}.\nSoyez le premier à vous manifester."
+    }
+  , "memories": {}
+  , "message": {
+        "input-fullname-placeholder": "Vos prénom et nom"
+      , "input-email-placeholder": "Votre email"
+      , "input-email-info": "Email pour que la famille puisse vous répondre."
+      , "input-message-placeholder-1": "Écrire un message pour la famille ou partager un souvenir avec {{firstname}}..."
+      , "input-message-placeholder-2": "Écrire un souvenir pour la famille ou partager un souvenir avec {{firstname}}..."
+      , "cta": "Partager sur le recueil"
+      , "cta-image": "Joindre une photo"
+      , "cta-image-uploading": "Télécharger..."
+      , "steps": {
+            "0": { "title": "Que souhaitez-vous partager ?" }
+          , "1": { "title": "Condoléances", "text": "Exprimez vos condoléances à la famille de {{firstname}}." }
+          , "2": { "title": "Souvenir", "text": "Partagez un moment vécu avec {{firstname}}." }
+          , "3": { "title": "Photos", "text": "La page est tellement plus belle avec des photos." }
+        }
+    }
+  , "donation": {
+        "title": "Nouvelle donation"
+      , "amounts": "50,100,150,200,300"
+      , "title-success": "Merci de votre soutien !"
+      , "input-firstname-placeholder": "Prénom"
+      , "input-lastname-placeholder": "Nom"
+      , "input-email-placeholder": "Email"
+      , "input-recipient-placeholder": "Destinataire"
+      , "input-address-placeholder": "Adresse"
+      , "input-city-placeholder": "Ville"
+      , "input-zipcode-placeholder": "Code postal"
+      , "label-info": "> Informations bancaires"
+      , "label-amount": "> Montant du don"
+      , "label-receipt": "Reçu fiscal (facultatif)"
+      , "cta": "Payer"
+      , "cta-end": "Terminer"
+      , "receipt": "Votre paiement de {{amount}} à bien été enregistré !\nRéférence : {{id}}"
+      , "other": "Autre"
+    }
+  , "flower": {
+        "step0-title": "Choisissez votre bouquet"
+      , "step0-subtitle": "Tous les bouquets sont de taille moyenne et livrés avec une bulle d'eau afin de pouvoir être présentés sur le lieu de cérémonie de votre choix."
+      , "step1-title": "Votre sélection"
+      , "step1-subtitle": ""
+      , "step2-title": "Livraison"
+      , "step2-subtitle": ""
+      , "step3-title": "Validez la commande"
+      , "step3-subtitle": ""
+      , "step4-title": "Merci de votre soutien !"
+      , "step4-subtitle": ""
+      , "input-firstname-placeholder": "Prénom"
+      , "input-lastname-placeholder": "Nom"
+      , "input-email-placeholder": "Email"
+      , "label-message": "Adressez quelques mots à la famille"
+      , "input-message-placeholder": "Laisser un message"
+      , "recap-info": "Informations de livraison :\n{{shipping.name}}\n{{shipping.date_f}}"
+      , "cta": "Valider"
+      , "cta-end": "Terminer"
+      , "cart-item": "Bouquet"
+      , "cart-shipping": "Livraison"
+      , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
+    }
+  , "shipping": {
+        "conditions": "Livraison en France métropolitaine uniquement."
+      , "interflora": " Interflora vous garantit une livraison 15 minutes avant le début des obsèques."
+      , "custom-label": "Adresse de votre choix"
+      , "input-recipient-placeholder": "Destinataire"
+      , "input-address-placeholder": "Adresse"
+      , "input-city-placeholder": "Ville"
+      , "input-zipcode-placeholder": "Code postal"
+  }
+  , "book": {
+        "step0-title": "Mon livre Inmemori"
+      , "step0-subtitle": ""
+      , "step1-title": "Livraison"
+      , "step1-subtitle": ""
+      , "step2-title": "Finalisez la commande"
+      , "step2-subtitle": ""
+      , "step3-title": "Merci de votre soutien !"
+      , "step3-subtitle": ""
+      , "item-info": "La qualité d’impression des images dépend de la taille des photos postées par chacun sur le recueil d’hommages, merci de votre compréhension."
+      , "label-qty": "Quantité : "
+      , "shipping-info": "Afin de vous garantir l’impression d’un livre de belle qualité au meilleur prix, nous mutualisons les commandes.\nLes délais de livraison peuvent donc varier de 15 à 30 jours après la commande. Livraison en France uniquement."
+      , "input-firstname-placeholder": "Prénom"
+      , "input-lastname-placeholder": "Nom"
+      , "input-email-placeholder": "Email"
+      , "label-message": "Adressez quelques mots à la famille"
+      , "input-message-placeholder": "Laisser un message"
+      , "cta": "Valider"
+      , "cta-end": "Terminer"
+      , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
+    }
+  , "print": {}
+  , "delete": {
+        "title": "Confirmez-vous la suppression de la page ?"
+      , "text": "Vous êtes sur le point de supprimer la page en hommage à {{fullname}}."
+      , "cta": "Supprimer"
+    }
+  , "share": {
+        "link": {
+            "title": "Partager cette page"
+          , "text": "Partagez cette page avec toutes les personnes qui ont croisé le chemin de {{firstname}} :"
+        }
+      , "admin": {
+            "title": "Ajouter un administrateur"
+          , "text": "Saisissez l'adresse email de votre contact dans l’espace ci-dessous afin de lui donner accès à l'espace de gestion :"
+        }
+      , "tab-link": {
+            "text": "Copier le lien"
+          , "cta": "Copier le lien"
+          , "tooltip": "Copié !"
+        }
+      , "tab-sms": {
+            "text": "Par SMS"
+          , "placeholder": "Votre numéro de téléphone"
+          , "cta": "Envoyer"
+          , "success": "SMS envoyé !"
+          , "info": "> Saisissez votre numéro afin de recevoir le lien de la page."
+        }
+      , "tab-email": {
+            "text": "Par email"
+          , "placeholder": "Emails séparés par une virgule \",\""
+          , "cta": "Envoyer"
+          , "success": "Email(s) envoyé(s) !"
+          , "info": ""
+        }
+      , "message": "Bonjour, \n\nC'est avec une immense tristesse que nous vous annonçons le décès de {{fullname}}.\n\nNous venons de créer une page InMemori, privée, sur internet afin de lui rendre hommage.\nEn vous rendant sur la page vous pourrez : \n- Consulter les informations sur les obsèques\n- Partager un message de condoléances, un souvenir, une photo\n\nNous apprécierons vos messages de soutien dans ces moments difficiles.\n\nAfin de ne pas oublier des personnes qui l'ont aimé(e), n'hésitez pas à partager cette page à toutes les personnes concernées.\n\nAmitiés,\n\nVoici le lien de la page : {{uri.page}}"
+      , "error": "Oups !"
+    }
+
+  , "edit": {
+        "header": {
+            "cta": "Voir la page"
+        }
+    }
+
+
+  , "stripe": {
+        "label": "By registering your account, you agree to our Services Agreement and the Stripe Connected Account Agreement."
+      , "agreement": "Les services de paiement pour les utilisateurs officiant sur InMemori sont fournis par Stripe et soumis à l’Accord sur les comptes Stripe Connected (Stripe Connected Account Agreement), qui inclut les modalités de service de Stripe. En agréant aux présentes CGU ou en continuant à opérer en tant qu'utilisateur officiant sur InMemori, vous acceptez d’être lié aux Conditions Générales d’Utilisation Stripe, celles-ci pouvant occasionnellement faire l’objet de modifications de la part de Stripe. Du fait que InMemori permette d’effectuer les paiements via Stripe, vous acceptez de fournir à InMemori des informations précises et complètes sur vous et votre activité, et autorisez InMemori à partager ces informations ainsi que celles concernant les transactions effectuées via la solution de paiement fournie par Stripe."
+      , "link": "https://stripe.com/fr/connect-account/legal"
+    }
+}
+
+
+
+
+
+
+
+
+
+
