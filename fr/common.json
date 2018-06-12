@@ -21,11 +21,11 @@
       , "gathering": "Collation"
       , "reception": "Réception"
     }
-  , "unauthorized": "nope"
+  , "unauthorized": "Nous ne reconnaissons pas votre adresse ip.\nPour des questions de sécurité et pour accéder à votre espace de gestion, veuillez-vous reconnecter depuis le premier email envoyé par InMemori. \nSi vous ne retrouvez pas cet email ou si vous rencontrez le moindre problème, veuillez-nous contacter à l'adresse contact@inmemori.com."
   , "template": "Suggestion"
   , "toast-success": "Enregistrement terminé !"
   , "toast-message-sent": "Message envoyé !"
-  , "confirm-areusure": "Êtes vous sûr ?"
+  , "confirm-areusure": "Êtes-vous sûr ?"
   , "yes": "Oui"
   , "no": "Non"
   , "prev": "Retour"
