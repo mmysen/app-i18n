@@ -21,7 +21,7 @@
       , "gathering": "Collation"
       , "reception": "Réception"
     }
-  , "unauthorized": "Nous ne reconnaissons pas votre adresse ip.\nPour des questions de sécurité et pour accéder à votre espace de gestion, veuillez-vous reconnecter depuis le premier email envoyé par InMemori. \nSi vous ne retrouvez pas cet email ou si vous rencontrez le moindre problème, veuillez-nous contacter à l'adresse contact@inmemori.com."
+  , "unauthorized": "Pour des questions de sécurité, veuillez-vous reconnecter à votre espace de gestion depuis le premier email InMemori que vous avez reçu.\n\nSi vous ne retrouvez pas cet email ou si vous rencontrez le moindre problème, écrivez-nous à contact@inmemori.com."
   , "template": "Suggestion"
   , "toast-success": "Enregistrement terminé !"
   , "toast-message-sent": "Message envoyé !"
