@@ -73,7 +73,7 @@
               , "input-org-placeholder": "Nom de l'association"
               , "label-custom-org": "Nom de l'association"
               , "input-org-new": "Votre choix: \"{{label}}\""
-              , "label-templates": "Besoin d'inspiration ?"
+              , "label-templates": "Si no se le ocurre cómo expresarlo, a continuación hay algunas ideas:"
               , "templates": {
                     "family": [
                         "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons."
