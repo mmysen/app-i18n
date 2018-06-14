@@ -22,7 +22,7 @@
       , "reception": "Réception"
     }
   , "unauthorized": "nope"
-  , "template": "Suggestion"
+  , "template": "Modelo"
   , "toast-success": "Enregistrement terminé !"
   , "toast-message-sent": "Message envoyé !"
   , "confirm-areusure": "Êtes vous sûr ?"
