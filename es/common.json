@@ -13,11 +13,11 @@
   , "show-map": "Voir sur Google map"
   , "typesList": "ceremony,contemplation,inhumation,interment,cremation,gathering,reception"
   , "types": {
-        "ceremony": "Cérémonie"
-      , "contemplation": "Recueillement"
-      , "inhumation": "Inhumation"
-      , "interment": "Enterrement"
-      , "cremation": "Crémation"
+        "ceremony": "Ceremonial"
+      , "contemplation": "Contemplación"
+      , "inhumation": "Sepelio"
+      , "interment": "Inhumación"
+      , "cremation": "Cremación"
       , "gathering": "Collation"
       , "reception": "Réception"
     }
