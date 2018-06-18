@@ -49,7 +49,7 @@
             "title": ""
           , "text": ""
           , "guestbook": {
-                "title": "Écrire un message"
+                "title": "Escribir un mensaje"
               , "text": "Envoyez vos condoléances à la famille. Partagez un souvenir avec {{firstname}}. Postez une photo."
             }
           , "donation": {
@@ -74,7 +74,7 @@
   , "memories": {}
   , "message": {
         "input-fullname-placeholder": "Vos prénom et nom"
-      , "input-email-placeholder": "Votre email"
+      , "input-email-placeholder": "Correo Electrónico"
       , "input-email-info": "Email pour que la famille puisse vous répondre."
       , "input-message-placeholder-1": "Écrire un message pour la famille ou partager un souvenir avec {{firstname}}..."
       , "input-message-placeholder-2": "Écrire un souvenir pour la famille ou partager un souvenir avec {{firstname}}..."
@@ -135,9 +135,9 @@
       , "interflora": "Interflora le garantiza que las flores llegarán 15 minutos antes del comienzo del servicio."
       , "custom-label": "Adresse de votre choix"
       , "input-recipient-placeholder": "Destinataire"
-      , "input-address-placeholder": "Adresse"
-      , "input-city-placeholder": "Ville"
-      , "input-zipcode-placeholder": "Code postal"
+      , "input-address-placeholder": "Dirección"
+      , "input-city-placeholder": "Ciudad"
+      , "input-zipcode-placeholder": "Código Postal"
   }
   , "book": {
         "step0-title": "Mon livre Inmemori"
@@ -151,9 +151,9 @@
       , "item-info": "La qualité d’impression des images dépend de la taille des photos postées par chacun sur le recueil d’hommages, merci de votre compréhension."
       , "label-qty": "Quantité : "
       , "shipping-info": "Afin de vous garantir l’impression d’un livre de belle qualité au meilleur prix, nous mutualisons les commandes.\nLes délais de livraison peuvent donc varier de 15 à 30 jours après la commande. Livraison en France uniquement."
-      , "input-firstname-placeholder": "Prénom"
-      , "input-lastname-placeholder": "Nom"
-      , "input-email-placeholder": "Email"
+      , "input-firstname-placeholder": "Nombre"
+      , "input-lastname-placeholder": "Apellido"
+      , "input-email-placeholder": "Correo Electrónico"
       , "label-message": "Adressez quelques mots à la famille"
       , "input-message-placeholder": "Laisser un message"
       , "cta": "Valider"
