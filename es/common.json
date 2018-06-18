@@ -24,10 +24,10 @@
   , "unauthorized": "nope"
   , "template": "Modelo"
   , "toast-success": "Enregistrement terminé !"
-  , "toast-message-sent": "Message envoyé !"
-  , "confirm-areusure": "Êtes vous sûr ?"
-  , "yes": "Oui"
-  , "no": "Non"
+  , "toast-message-sent": "¡Mensaje enviado!"
+  , "confirm-areusure": "¿Está seguro?”
+  , "yes": "Si"
+  , "no": "No"
   , "prev": "Retour"
   , "next": "Suivant"
 }
