@@ -1,8 +1,8 @@
 {
     "links": {
-        "faq": "FAQ"
-      , "terms": "CGU"
-      , "legal": "Mentions légales"
+        "faq": "Preguntas frecuentes"
+      , "terms": "Términos y reglamentos"
+      , "legal": "Aviso Legal"
     }
   , "lang": {
       "fr": "Français",
@@ -14,21 +14,21 @@
   , "show-map": "Voir sur Google map"
   , "typesList": "ceremony,contemplation,inhumation,interment,cremation,gathering,reception"
   , "types": {
-        "ceremony": "Cérémonie"
-      , "contemplation": "Recueillement"
-      , "inhumation": "Inhumation"
-      , "interment": "Enterrement"
-      , "cremation": "Crémation"
+        "ceremony": "Ceremonial"
+      , "contemplation": "Contemplación"
+      , "inhumation": "Sepelio"
+      , "interment": "Inhumación"
+      , "cremation": "Cremación"
       , "gathering": "Collation"
       , "reception": "Réception"
     }
   , "unauthorized": "nope"
-  , "template": "Suggestion"
+  , "template": "Modelo"
   , "toast-success": "Enregistrement terminé !"
-  , "toast-message-sent": "Message envoyé !"
-  , "confirm-areusure": "Êtes vous sûr ?"
-  , "yes": "Oui"
-  , "no": "Non"
+  , "toast-message-sent": "¡Mensaje enviado!"
+  , "confirm-areusure": "¿Está seguro?”
+  , "yes": "Si"
+  , "no": "No"
   , "prev": "Retour"
   , "next": "Suivant"
 }

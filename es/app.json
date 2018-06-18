@@ -2,25 +2,25 @@
     "header": {
         "title": "{{fullname}}"
       , "titleOf": ""
-      , "cta": "Envoyer cette page"
-      , "cta-right": "à vos amis et à votre famille."
-      , "cta-share": "Partager la page"
-      , "cta-edit": "Modifier la page*"
-      , "cta-edit-tooltip": "*Vous seuls avez accès à cette fonctionnalité. \nElle ne sera pas visible de vos proches."
-      , "cta-view": "Voir la page"
+      , "cta": ""
+      , "cta-right": ""
+      , "cta-share": "Compartir esta página"
+      , "cta-edit": "Editar página*"
+      , "cta-edit-tooltip": "*Sólo los administradores pueden editar la página. \nLos demás sólo pueden verla, contribuir a ella o compartirla."
+      , "cta-view": "Ver página"
     }
   , "menu": {
-        "welcome": "Consulter"
-      , "home": "Informations"
-      , "guestbook": "Hommages"
-      , "support": "Rendre hommage"
-      , "message": "Écrire un message"
-      , "donation": "Faire un don"
-      , "flowers": "Embellir la cérémonie"
+        "welcome": "Bienvenido"
+      , "home": "Información"
+      , "guestbook": "Libro de InMemori"
+      , "support": "Demostrar su apoyo"
+      , "message": "Escribir un mensaje"
+      , "donation": "Donar"
+      , "flowers": "Enviar flores"
       , "book": "Imprimer le recueil"
-      , "share": "Partager cette page"
+      , "share": "Compartir esta página"
     }
-  , "share-bar": "Partagez cette page"
+  , "share-bar": "Compartir esta página"
   , "home": {
         "intro": {
             "title": "Chère famille, chers amis, \n cette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec {{firstname}}, et qui nous aidera à traverser cette épreuve. \n Avec toute notre affection"
@@ -37,19 +37,19 @@
           , "status": "À ce jour, {{total}} ont été collectés grâce à {{donators}} donateur(s)."
         }
       , "flowers": {
-            "title": "Embellir la cérémonie"
-          , "cta": "Embellir la cérémonie"
-          , "text": "Vous pouvez offrir des fleurs, simplement. \nCelles-ci seront livrées à l'heure sur un des lieux d'hommage."
+            "title": "Enviar flores"
+          , "cta": "Enviar flores"
+          , "text": "Puede fácilmente enviar flores a la familia.\nLas flores serán enviadas al servicio funerario."
         }
       , "contact": {
-            "title": "Contact"
-          , "text": "Cette page a été créée par la famille de {{firstname}}. \n\nSi vous avez des questions, vous pouvez contacter les personnes mentionnées ci-dessous :"
+            "title": "Contacto"
+          , "text": "Esta página fue creada por la familia de {{firstname}}. \n\nEn caso de tener alguna consulta, favor de contactarse con:"
         }
       , "support": {
             "title": ""
           , "text": ""
           , "guestbook": {
-                "title": "Écrire un message"
+                "title": "Escribir un mensaje"
               , "text": "Envoyez vos condoléances à la famille. Partagez un souvenir avec {{firstname}}. Postez une photo."
             }
           , "donation": {
@@ -64,17 +64,17 @@
         }
     }
   , "guestbook": {
-        "title": "Hommages"
-      , "tab-entries": "{{count}} Message(s)"
-      , "tab-pictures": "{{count}} Photo(s)"
+        "title": "Libro de InMemori"
+      , "tab-entries": "{{count}} Publicación(es)"
+      , "tab-pictures": "{{count}} Fotografía(s)"
       , "cta-add": "Partager une photo"
-      , "cta-message": "Ecrire un message"
-      , "no-result": "Tous les messages d'hommage apparaîtront ici.\nVos mots et vos pensées accompagneront la famille de {{firstname}}.\nSoyez le premier à vous manifester."
+      , "cta-message": "Escribir un mensaje"
+      , "no-result": "Todos los mensajes de homenaje serán publicados aquí.\nSus recuerdos y sus palabras ayudarán a los seres queridos de {{firstname}}a navegar por este camino.\nSea el primero en compartir, ayudar e inspirar a otros a hacer lo mismo."
     }
   , "memories": {}
   , "message": {
         "input-fullname-placeholder": "Vos prénom et nom"
-      , "input-email-placeholder": "Votre email"
+      , "input-email-placeholder": "Correo Electrónico"
       , "input-email-info": "Email pour que la famille puisse vous répondre."
       , "input-message-placeholder-1": "Écrire un message pour la famille ou partager un souvenir avec {{firstname}}..."
       , "input-message-placeholder-2": "Écrire un souvenir pour la famille ou partager un souvenir avec {{firstname}}..."
@@ -82,62 +82,62 @@
       , "cta-image": "Joindre une photo"
       , "cta-image-uploading": "Télécharger..."
       , "steps": {
-            "0": { "title": "Que souhaitez-vous partager ?" }
-          , "1": { "title": "Condoléances", "text": "Exprimez vos condoléances à la famille de {{firstname}}." }
-          , "2": { "title": "Souvenir", "text": "Partagez un moment vécu avec {{firstname}}." }
-          , "3": { "title": "Photos", "text": "La page est tellement plus belle avec des photos." }
+            "0": { "title": "¿Qué le gustaría compartir?" }
+          , "1": { "title": "Pésame", "text": "Expresar un mensaje de respaldo a la familia de {{firstname}}." }
+          , "2": { "title": "Recuerdos", "text": "Escribir un mensaje a la familia o compartir un recuerdo de {{firstname}}." }
+          , "3": { "title": "Fotografías", "text": "La page est tellement plus belle avec des photos." }
         }
     }
   , "donation": {
-        "title": "Nouvelle donation"
+        "title": "Nueva donación"
       , "amounts": "50,100,150,200,300"
       , "title-success": "Merci de votre soutien !"
-      , "input-firstname-placeholder": "Prénom"
-      , "input-lastname-placeholder": "Nom"
-      , "input-email-placeholder": "Email"
+      , "input-firstname-placeholder": "Nombre"
+      , "input-lastname-placeholder": "Apellido"
+      , "input-email-placeholder": "Correo Electrónico"
       , "input-recipient-placeholder": "Destinataire"
-      , "input-address-placeholder": "Adresse"
-      , "input-city-placeholder": "Ville"
-      , "input-zipcode-placeholder": "Code postal"
+      , "input-address-placeholder": "Dirección"
+      , "input-city-placeholder": "Ciudad"
+      , "input-zipcode-placeholder": "Código Postal"
       , "label-info": "> Informations bancaires"
-      , "label-amount": "> Montant du don"
-      , "label-receipt": "Reçu fiscal (facultatif)"
+      , "label-amount": "> Cantidad de la donación"
+      , "label-receipt": "Comprobante fiscal (opcional)"
       , "cta": "Payer"
       , "cta-end": "Terminer"
       , "receipt": "Votre paiement de {{amount}} à bien été enregistré !\nRéférence : {{id}}"
-      , "other": "Autre"
+      , "other": "Otro"
     }
   , "flower": {
-        "step0-title": "Choisissez votre bouquet"
+        "step0-title": "Elija su ramo de flores"
       , "step0-subtitle": "Tous les bouquets sont de taille moyenne et livrés avec une bulle d'eau afin de pouvoir être présentés sur le lieu de cérémonie de votre choix."
-      , "step1-title": "Votre sélection"
+      , "step1-title": "Su selección"
       , "step1-subtitle": ""
-      , "step2-title": "Livraison"
+      , "step2-title": "Envío"
       , "step2-subtitle": ""
-      , "step3-title": "Validez la commande"
+      , "step3-title": "Confirmar su compra"
       , "step3-subtitle": ""
       , "step4-title": "Merci de votre soutien !"
       , "step4-subtitle": ""
-      , "input-firstname-placeholder": "Prénom"
-      , "input-lastname-placeholder": "Nom"
-      , "input-email-placeholder": "Email"
-      , "label-message": "Adressez quelques mots à la famille"
-      , "input-message-placeholder": "Laisser un message"
-      , "recap-info": "Informations de livraison :\n{{shipping.name}}\n{{shipping.date_f}}"
+      , "input-firstname-placeholder": "Nombre"
+      , "input-lastname-placeholder": "Apellido"
+      , "input-email-placeholder": "Correo Electrónico"
+      , "label-message": "Escribir un mensaje a la familia"
+      , "input-message-placeholder": "Su mensaje"
+      , "recap-info": "Información de entrega:\n{{shipping.name}}\n{{shipping.date_f}}"
       , "cta": "Valider"
       , "cta-end": "Terminer"
       , "cart-item": "Bouquet"
-      , "cart-shipping": "Livraison"
+      , "cart-shipping": "Envío"
       , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
     }
   , "shipping": {
         "conditions": "Livraison en France métropolitaine uniquement."
-      , "interflora": " Interflora vous garantit une livraison 15 minutes avant le début des obsèques."
+      , "interflora": "Interflora le garantiza que las flores llegarán 15 minutos antes del comienzo del servicio."
       , "custom-label": "Adresse de votre choix"
       , "input-recipient-placeholder": "Destinataire"
-      , "input-address-placeholder": "Adresse"
-      , "input-city-placeholder": "Ville"
-      , "input-zipcode-placeholder": "Code postal"
+      , "input-address-placeholder": "Dirección"
+      , "input-city-placeholder": "Ciudad"
+      , "input-zipcode-placeholder": "Código Postal"
   }
   , "book": {
         "step0-title": "Mon livre Inmemori"
@@ -151,9 +151,9 @@
       , "item-info": "La qualité d’impression des images dépend de la taille des photos postées par chacun sur le recueil d’hommages, merci de votre compréhension."
       , "label-qty": "Quantité : "
       , "shipping-info": "Afin de vous garantir l’impression d’un livre de belle qualité au meilleur prix, nous mutualisons les commandes.\nLes délais de livraison peuvent donc varier de 15 à 30 jours après la commande. Livraison en France uniquement."
-      , "input-firstname-placeholder": "Prénom"
-      , "input-lastname-placeholder": "Nom"
-      , "input-email-placeholder": "Email"
+      , "input-firstname-placeholder": "Nombre"
+      , "input-lastname-placeholder": "Apellido"
+      , "input-email-placeholder": "Correo Electrónico"
       , "label-message": "Adressez quelques mots à la famille"
       , "input-message-placeholder": "Laisser un message"
       , "cta": "Valider"
@@ -168,7 +168,7 @@
     }
   , "share": {
         "link": {
-            "title": "Partager cette page"
+            "title": "Compartir esta página"
           , "text": "Partagez cette page avec toutes les personnes qui ont croisé le chemin de {{firstname}} :"
         }
       , "admin": {
@@ -176,9 +176,9 @@
           , "text": "Saisissez l'adresse email de votre contact dans l’espace ci-dessous afin de lui donner accès à l'espace de gestion :"
         }
       , "tab-link": {
-            "text": "Copier le lien"
-          , "cta": "Copier le lien"
-          , "tooltip": "Copié !"
+            "text": "Copiar enlace"
+          , "cta": "Copiar enlace"
+          , "tooltip": "¡Copiado!"
         }
       , "tab-sms": {
             "text": "Par SMS"
@@ -188,19 +188,19 @@
           , "info": "> Saisissez votre numéro afin de recevoir le lien de la page."
         }
       , "tab-email": {
-            "text": "Par email"
-          , "placeholder": "Emails séparés par une virgule \",\""
-          , "cta": "Envoyer"
+            "text": "Por correo electrónico"
+          , "placeholder": "Separe direcciones de correo con una coma \",\""
+          , "cta": "Enviar"
           , "success": "Email(s) envoyé(s) !"
           , "info": ""
         }
-      , "message": "Bonjour, \n\nC'est avec une immense tristesse que nous vous annonçons le décès de {{fullname}}.\n\nNous venons de créer une page InMemori, privée, sur internet afin de lui rendre hommage.\nEn vous rendant sur la page vous pourrez : \n- Consulter les informations sur les obsèques\n- Partager un message de condoléances, un souvenir, une photo\n\nNous apprécierons vos messages de soutien dans ces moments difficiles.\n\nAfin de ne pas oublier des personnes qui l'ont aimé(e), n'hésitez pas à partager cette page à toutes les personnes concernées.\n\nAmitiés,\n\nVoici le lien de la page : {{uri.page}}"
-      , "error": "Oups !"
+      , "message": "Hola, \n\nCon gran pesar debemos informar del fallecimiento de {{fullname}}.\n\nHemos creado una página privada para conmemorar a {{fistname}}.\n\nSus palabras de apoyo y sus recuerdos son una luz en nuestro camino por la oscuridad.\n\nAl ir  a la página, Ud. podrá: \n- Ver información acerca de la ceremonia conmemorativa que se haya planeado.\n- Compartir su pésame, sus recuerdos, o una fotografía con nosotros.\n\nHemos pensado en Ud. pero, con seguridad, hemos olvidado a otras personas que también amaron a su ser querido.\n\nFavor de compartir esta página con cualquiera que tenga en mente. \n\nLe estamos infinitamente agradecidos.\n\nNo dude en acceder a la página aquí:  {{uri.page}}"
+      , "error": "¡Uy!"
     }
 
   , "edit": {
         "header": {
-            "cta": "Voir la page"
+            "cta": "Ver página"
         }
     }
 

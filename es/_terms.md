@@ -1,211 +1,250 @@
 <br/>  
-## Conditions générales d'utilisation  
+## Condiciones generales de uso  
 <br/>  
 
   
-Les présentes Conditions Générales d’Utilisation (ci-après, les « CGU »), soumises au droit français, ont vocation à régir l’utilisation par toute personne (ci-après, l’ « Utilisateur ») du site internet accessible à l’adresse web www.inmemori.com (ci-après, le « Site ») édité par Rest In Peace (ci-après, l’ « Éditeur »).
+Estas Condiciones Generales de Uso ("T y C" - Términos y Condiciones) están diseñadas para regular el uso por parte de cualquier persona (el "Usuario") de la página de internet (o sitio web) www.inmemori.com (el "Sitio") publicado por Rest In Peace (el "Editor").
 
-Tout accès ou toute utilisation du Site emporte acceptation expresse et sans réserve des présentes CGU par l’Utilisateur. Tout Utilisateur garantit l’Éditeur qu’il dispose de l’ensemble des droits, autorisations et pouvoirs nécessaires pour accepter les CGU au nom de la société, association ou toute autre entité (ci-après, l’ « Entité ») au nom de laquelle il/elle accède ou utilise le Site, l’accès ou l’utilisation du Site par l’Utilisateur emportant acceptation expresse et sans réserve des CGU par l’Entité.
+Cualquier acceso o uso del Sitio implica la aceptación sin reservas de estos Términos y Condiciones por parte de los Usuarios. Los Usuarios garantizan al editor que tienen todos los derechos, autorizaciones y permisos necesarios para aceptar los T y C en nombre de ellos o de la compañía, asociación u otra entidad (la "Entidad") en cuyo nombre o bajo cuya cuenta accedan o usen el Sitio.
 
-L’Éditeur se réserve le droit de pouvoir modifier les présentes CGU à tout moment. Les conditions applicables sont celles en vigueur et accessibles sur le Site à la date d’accès par l’Utilisateur.
+El acceso o uso del Sitio por parte del Usuario implica la aceptación sin reservas de los T y C.
+
+El Editor tendrá derecho a modificar estos términos y condiciones en cualquier momento. Los términos y condiciones aplicables serán aquellos que estén vigentes y accesibles en el Sitio en la fecha en que el Usuario acceda al Sitio.
 
 <br/>  
-### 1) Présentation du Site  
+### 1) Presentación del sitio  
 
-Le site www.inmemori.com s’adresse aux personnes qui viennent de perdre un proche et met à leur disposition un espace numérique, privé et personnalisé pour :
+El Sitio www.inmemori.com está destinado a personas que acaben de perder un pariente y les proporciona un espacio digital privado y personal que se puede usar para:
 
-* Transmettre rapidement les informations sur les obsèques à toutes les personnes concernées
-* Recevoir les condoléances et les souvenirs de leur entourage
-* Organiser une collecte de dons en sa mémoire  
+* Transmitir rápidamente información sobre los arreglos funerarios a todas las personas interesadas
+* Recibir los pésames y homenajes de sus allegados
+* Organizar una colecta de donaciones en memoria al difunto  
 
-Comment ça marche ?
+¿Cómo funciona?
 
-* L’administrateur (un « Administrateur »), se rend sur inmemori.com et crée un espace privé, appelé page en hommage (une « page en hommage »), en renseignant dans l'interface d'administration toutes les informations qu’il est nécessaire ou qu'il juge utile de partager : prénom et nom de la personne décédée, date du décès, message d'introduction personnalisé, informations pratiques sur les obsèques (date, heure et lieu de chaque étape). Il pourra également organiser une collecte de dons en la mémoire de la personne défunte, en faveur de la famille ou d'une association.
-* Une fois la page en en hommage complétée, l’Administrateur récupère un lien privé de partage qu’il peut alors envoyer à toutes les personnes concernées par SMS ou par email.
-* Chaque personne ayant reçu le lien de partage peut, en cliquant simplement dessus, consulter la page en hommage. Elle y trouve alors toutes les informations pratiques sur les obsèques qui auront été renseignées, elle peut également laisser un message de condoléances, partager un souvenir et/ou une photo et participer à une collecte de dons.  
+* El administrador (el "Administrador") accede a inmemori.com y crea un espacio privado, conocido como página de homenaje (la "Página de homenaje"), completando en panel de administración toda la información necesaria o que se considere útil para compartir: el nombre y apellido del difunto, la fecha de defunción, un mensaje introductorio personalizado, información útil sobre el funeral (fecha, hora y lugar de cada etapa de la ceremonia). El Administrador también puede organizar una colecta de fondos en memoria del fallecido, y los ingresos pueden ser destinados a la familia o una organización benéfica.
+* Una vez que se haya llenado la Página de homenaje, el Administrador recibirá un enlace privado para compartir, que podrá luego enviarse a todas las personas interesadas por mensaje de texto o correo electrónico.
+* Cada persona que reciba el enlace compartido podrá ver la Página de homenaje cliqueando en él. Podrá luego acceder a toda información útil sobre los arreglos funerarios que se hayan ingresado, y también dejar un mensaje de pésame, compartir un recuerdo y/o una fotografía y/ o colaborar con una donación. 
 
-inmemori.com a donc été conçu pour permettre :
+El sitio fue diseñado para:
 
-* Aux familles de transmettre très rapidement les informations pratiques sur les obsèques à l’ensemble des personnes concernées.
-* Aux proches de la famille de retrouver en un clic ces informations, et de pouvoir rendre hommage sereinement et simplement.  
+* Permitir a las familias transmitir rápidamente cualquier información útil sobre arreglos funerarios a todas las personas interesadas.
+* Permitir fácilmente que los familiares encuentren y accedan a esta información y que sea una manera clara y simple de rendir tributo a los difuntos. 
 
-La manière dont le service a été pensé, associée à la rapidité des usages numériques, en font un service pratique et très utile.
+La forma en que el Sitio ha sido diseñado, combinado con la velocidad de las comunicaciones digitales, lo convierten en un servicio muy práctico y útil.
 
-### 2) Création et activation d’une page en hommage  
+### 2) Creación y activación de una página de homenaje  
 
-Les pages en hommage sont créées par les Administrateurs depuis www.inmemori.com ou sont complétés par les Administrateurs qui ont souscrit au service de création d’une page en hommage auprès d’un partenaire. A toutes fins utiles, il est précisé que pour le besoin des présentes CGU, l’Administrateur est un Utilisateur.
+Los Administradores crean páginas de homenaje accediendo al Sitio www.inmemori.com oo a través de un socio afiliado del Editor.  A los efectos de estos T y C, cualquier Administrador es considerado un Usuario del Sitio.
 
-Tout Administrateur qui souhaite créer une page doit renseigner le formulaire présent sur la page d’accueil du Site. Il est alors dirigé vers l'interface d'administration de la page en hommage et suit les différentes étapes de création de la page.
+Cualquier Administrador que desee crear una página de homenaje deberá completar el formulario que aparece en la página de inicio del Sitio. Los administradores serán redirigidos al panel de control de la Página de homenaje y pasarán por las varias etapas de creación de la Página de homenaje.
 
-Une fois la page en hommage complétée par l’Administrateur, ce dernier est invité à la partager par sms et/ou par email.
+Una vez que un Administrador haya completado una página de homenaje, se le pedirá que la comparta a través de un mensaje de texto y/o correo electrónico.
 
-Dès que la page en hommage est créée, l’Administrateur reçoit un courrier électronique à l’adresse e-mail qu’il a indiquée contenant le lien vers l'interface d’administration ; il peut ainsi administrer la page en hommage qu’il a créée à tout moment (cf. paragraphe 3 des présentes).
+Tan pronto como se haya creado la Página de homenaje, el Administrador recibirá un correo electrónico que contendrá el enlace al panel de administración; de esta manera podrá administrar la Página de homenaje que haya creado (ver sección 3 de estos T y C).
 
-Dès que la page en hommage est complétée, l’Administrateur reçoit un courrier électronique à l’adresse e-mail qu’il a indiquée contenant le lien de partage à transmettre à toutes les personnes concernées.
+Tan pronto se haya completado la Página de homenaje, el Administrador también recibirá un correo electrónico que contendrá el enlace a ser compartido con todos los posibles interesados en la página  de homenaje.
 
-### 3) Fonctionnalités de la page en hommage 
+### 3) Funciones de una página de homenaje 
 
-L’Administrateur dispose sur l'interface d’administration accessible depuis le lien d’administration notamment les fonctionnalités suivantes :
+El Administrador tendrá acceso a las siguientes funciones desde el panel de administración disponible a través del enlace provisto:
 
-* Récupérer le lien de partage actif de la page en hommage afin de le transmettre facilement aux personnes concernées ;
-* Savoir combien de personnes ont consulté la page ;
-* Consulter et supprimer si nécessaire les messages laissés sur la page en hommage ;
-* Savoir combien de personnes ont laissé un message ;
-* Télécharger le recueil de tous les messages, souvenirs et/ou photos laissés sur la page en hommage ;
-* Organiser une collecte de dons ;
-* Savoir combien de personnes ont fait un don ;
-* Récupérer les contacts des personnes qui ont déposé un message, un souvenir, une photographie et/ou fait un don sur la page en hommage ;
-* Récupérer la liste des donateurs et des montants correspondants ;
-* Clôturer la collecte de dons ;
-* Modifier la page en hommage à tout moment ;
-* Ajouter toute personne en tant qu’Administrateur de la page ; chaque Administrateur ayant alors accès à l'interface d'administration et aux fonctions réservées aux Administrateurs ;
-* Clore la page en hommage à tout moment.  
+* Obtener el enlace para compartir la Página de homenaje que podrá ser enviado fácilmente las personas interesadas ;
+* Ver un contador mostrando la cantidad de personas que accedan a la Página de homenaje ;
+* Ver y eliminar cualquier mensaje publicado en la Página de homenaje ;
+* Ver un contador de mensajes ;
+* Ver un resumen de todos los mensajes, recuerdos y/o fotografías subidos o publicados en la página de homenaje ;
+* Organizar una colecta o donación ;
+* Ver cuántas personas han colaborado con la donación ;
+* Obtener la información para contactar a las personas que hayan dejado un mensaje, un recuerdo, una fotografía y/o hayan hecho una donación en la Página de homenaje ;
+* Obtener la lista de donantes y los importes correspondientes de sus donaciones ;
+* Cerrar una colecta ;
+* Modificar la Página de homenaje en cualquier momento ;
+* Agregar cualquier persona como Administrador de la Página de homenaje; cada Administrador tendrá acceso al panel de administración y a sus funciones ;
+* Eliminar la Página en cualquier momento que lo desee.  
 
-### 4) Accès  
+### 4) Acceso  
 
-Les Utilisateurs qui reçoivent un lien de partage pourront accéder à la page en hommage correspondante en cliquant simplement sur le lien.  
+Los Usuarios que reciban el enlace a ser compartido podrán acceder a la Página de homenaje con sólo cliquear en él.  
 
-L’Utilisateur peut recevoir le lien de partage de la page en hommage de la part d'un Administrateur et/ou de la part d'un autre Utilisateur ayant préalablement reçu ce lien.  
+Los Usuarios podrán recibir el enlace para compartir la página de homenaje de un Administrador y/o cualquier otro usuario que haya recibido este enlace de antemano.   
 
-### 5) Obligations de l’Administrateur  
+### 5) Obligaciones del Administrador
 
-La violation des dispositions des CGU par l’Administrateur peut entraîner la suspension de l'accès au Site et la suppression de la page en hommage sans préjudice de tous dommages et intérêts que pourrait solliciter l’Éditeur. En conséquence, l’Éditeur se réserve la possibilité de refuser toute activation qui contrevient ou a contrevenu aux dispositions des CGU.
+Cualquier violación de estos T y C por parte del Administrador puede dar lugar a la suspensión de su acceso al Sitio y a la eliminación de la Página de homenaje, sin perjuicio de cualquier retribución que el Editor pudiera tener derecho a reclamar.
 
-L’Administrateur est responsable de toutes les données qu’il saisit directement sur le Site et sur une page en hommage (cf. paragraphe 8 des présentes).
+De esta manera el Editor tendrá derecho a rechazar cualquier activación de una Página de homenaje que viole o haya violado las disposiciones de los presentes T y C.
 
-### 6) Contribution  
+Los Administradores serán responsables de todos los datos que hayan ingresado directamente en el Sitio y en una Página de homenaje (consultar la sección 8 de estos T y C).
 
-L’Utilisateur qui consulte une page en hommage pourra y contribuer de la manière suivante :
+### 6) Contribuciones  
 
-* en laissant un message : l’Utilisateur renseigne son nom, son prénom, son adresse électronique et inscrit le message qu’il souhaite déposer sur la page en hommage, en y joignant éventuellement une photographie.
-* en partageant un souvenir : l’Utilisateur renseigne son nom, son prénom, son adresse électronique et inscrit le souvenir qu’il souhaite déposer sur la page en hommage, en y joignant éventuellement une photographie.
-* en partageant une photographie : l’Utilisateur renseigne son nom, son prénom, son adresse électronique et joint la photographie qu'il souhaite déposer sur la page en hommage.
-* en participant à une collecte de dons : l’Utilisateur renseigne son nom, son prénom, son adresse électronique, sa nationalité, son pays de résidence, sa date de naissance et le montant du don qu'il souhaite faire.  
+Los Usuarios que vean una Página de homenaje podrán contribuir de las siguientes maneras:
 
-L’Utilisateur est informé que l’Administrateur dispose de la possibilité (i) de récupérer les adresses électroniques des Utilisateurs qui ont déposé un message, un souvenir, une photographie et/ou qui ont fait un don sur la page en hommage, de la possibilité (ii) de télécharger le contenu des messages, des souvenirs et des photographies déposés par les Utilisateurs sur la page en hommage, et de la possibilité (iii) de supprimer un message, un souvenir et/ou une photographie déposés par les Utilisateurs sans qu'ils ne soient prévenus.
+* Dejando un mensaje: Para hacerlo, los Usuarios deberán ingresar su nombre y apellido y correo electrónico, y escribir el mensaje a ser publicado en la Página de homenaje, agregándole una fotografía si lo desean.
+* Compartiendo un recuerdo: Para hacerlo, los Usuarios deberán ingresar su nombre y apellido y correo electrónico, y dejar el recuerdo  a ser publicado en la Página de homenaje, agregándole una fotografía si lo desean.
+* Compartiendo una fotografía: Para hacerlo, los Usuarios deberán ingresar su nombre y apellido y correo electrónico, y subir la fotografía que deseen que sea publicada en la Página de homenaje. 
+* Siendo parte de una colecta: Para hacerlo, los Usuarios deberán ingresar su nombre y apellido, correo electrónico y nacionalidad,  su país de residencia, su fecha de nacimiento y la cantidad de dinero que deseen donar.   
 
-### 7) Propriété intellectuelle  
+De esta manera se informa a los Usuarios que el Administrador puede: (i) acceder a las direcciones de correo electrónico de los Usuarios que hayan dejado un mensaje, un recuerdo, una fotografía y/o que hayan hecho una donación en la Página de homenaje, (ii) descargar el contenido de los mensajes, recuerdos y fotografías ingresados o subidos por los Usuarios en la página de homenaje, (iii) eliminar los mensajes, los recuerdos  y / o las fotografías ingresados o subidos  por los Usuarios, sin que se notifique a los mismos.
 
-#### 7.1) Propriété intellectuelle des Utilisateurs  
+### 7) Propriedad intelectual
 
+#### 7.1) Propiedad intelectual de los Usuarios
 
-**a) Diffusion des contenus**  
 
-Le contenu et les informations que les Utilisateurs publient sur une page en hommage leur appartiennent. L’Utilisateur accorde à l’Éditeur une licence de propriété intellectuelle non exclusive, transférable, sous-licenciable, sans redevance et mondiale pour l’utilisation des contenus qu’ils publient sur le Site. L’Utilisateur autorise notamment l’Éditeur à reproduire/représenter le contenu et, en tant que de besoin, en adapter le format afin que l’Administrateur puisse télécharger, et le cas échéant imprimer, l’ensemble des messages, des souvenirs et/ou des photographies laissés sur une page en hommage. Cette licence de propriété intellectuelle se termine lorsque le contenu d'un utilisateur est retiré du Site ou lorsque l'Administrateur supprime la page en hommage, sauf si les contenus ont été partagés avec d’autres personnes sur un autre support que le Site (notamment impression par un Administrateur de l’ensemble des messages, des souvenirs et/ou des photographies déposés sur une page en hommage – Cf. ci-avant).
+**a) Publicación de contenidos**  
 
-L’Utilisateur peut envoyer un email à l’adresse contact@inmemori.com pour retirer un contenu. L’Administrateur peut supprimer tout contenu déposé par quelconque Utilisateur.
+El contenido y la información que los Usuarios publiquen en una Página de homenaje les pertenece.  Los Usuarios otorgan al Editor una licencia de propiedad intelectual gratuita, mundial, no exclusiva y transferible que podrá ser sub-licenciada, del contenido que publiquen en el Sitio durante el período completo que duren esos derechos (junto con cualquier extensión y/o renovación). Los Usuarios autorizan al Editor a reproducir y mostrar el contenido, y a adaptar su formato para que el Administrador pueda descargar y, cuando corresponda, imprimir, todos los mensajes, recuerdos y / o fotografías subidos o publicadas en una página de homenaje.
 
-L’Administrateur peut à tout moment, en utilisant la fonction dédiée, modifier et/ou supprimer tout contenu ou toute information qu’il a publiés sur une page en hommage.
+Los Usuarios podrán enviar un correo electrónico a contact@inmemori.com para quitar cualquier contenido. Los Administradores podrán eliminar cualquier contenido subido o publicado por un Usuario en las páginas que administren.
 
-**b) Sécurité des contenus**  
+Al usar una función específica, los Administradores podrán en cualquier momento, modificar y / o eliminar cualquier contenido o información que publicado en una Página de homenaje.
 
-L’Utilisateur est par ailleurs informé que, compte tenu des caractéristiques intrinsèques de l'internet, les contenus et informations transmis ne sont pas protégés contre les risques de détournement et/ou de piratage, ce dont l’Editeur ne saurait être tenu responsable.
+**b) Seguridad del contenido**  
 
-Pour assurer la sécurité du Site, l’Utilisateur prend les engagements suivants :
+Se notifica a los Usuarios que, en vista de las características intrínsecas de Internet, el contenido y la información que se transmita por la red no estarán protegidos frente a los riesgos de apropiación indebida y/o piratería, por lo que el Editor no aceptará ninguna responsabilidad.
 
-* Ne pas publier de communications commerciales sans autorisation sur le Site.
-* Ne pas accéder au Site à l’aide de méthodes automatisées.
-* Ne pas effectuer de marketing multiniveau illégal.
-* Ne pas télécharger de virus ou autre codes malveillants.
-* Ne pas intimider et ne pas harceler d’autres personnes.
-* Ne pas publier de contenu incitant à la haine ou à la violence, pornographique, ou contenant de la nudité ou de la violence gratuite.
-*  Ne pas développer ni exploiter une application tierce dont le contenu est lié aux boissons alcoolisées, à des sites de rencontres pour adultes ou à d’autres produits et services pour adultes (y compris les publicités) sans restriction d’accès liée à l’âge.
-* Ne pas utiliser le Site à des fins illégales, malveillantes ou discriminatoires.
-* Ne pas permettre ni encourager les infractions aux présents engagements.
-* Ne pas créer, s’il est Administrateur, une fausse page en hommage, à savoir l’annonce de la mort d’une personne qui n’est pas décédée.  
+Para garantizar la seguridad del Sitio, los Usuarios se comprometen a:
 
-#### 7.2) Propriété intellectuelle des autres Utilisateurs  
+* No publicar mensajes comerciales en el Sitio sin permiso.
+* No acceder al Sitio usando métodos automatizados.
+* No participar en prácticas de comercialización ilícitas.
+* No descargar ni cargar virus u otro código malicioso.
+* No intimidar ni acosar a otras personas.
+* No publicar ningún contenido que incite al odio o a la violencia, o contenido de naturaleza pornográfica o que contenga desnudos o violencia gratuita.
+*  No elaborar u operar aplicaciones de terceros cuyo contenido esté vinculado a bebidas alcohólicas, sitios de citas para adultos u otros productos y servicios para adultos (incluyendo anuncios publicitarios) sin restricción de acceso basada en la edad.
+* No utilizar el Sitio con fines ilícitos,  malintencionados o discriminatorios.
+* No permitir o alentar infracciones a los compromisos aquí citados.
+* No crear, si son Administradores, una falsa Página de homenaje, como, por ejemplo, un aviso de fallecimiento de una persona que no haya fallecido.  
 
-D'autres Utilisateurs du Site (ci-après, les « Autres Utilisateurs ») peuvent mettre en ligne des contenus et informations conformément aux présentes CGU. L’Utilisateur s’engage à ne pas consulter les contenus des Autres Utilisateurs pour toute raison autre qu'une utilisation personnelle non commerciale, telle que prévue et autorisée par les fonctionnalités normales du Site.
+#### 7.2) Derechos de propiedad intelectual de los Usuarios  
 
-Par ailleurs, au regard de la possibilité d’export des contenus, l’Utilisateur s’engage à ne pas exporter les contenus des Autres Utilisateurs sur des sites constituant ou comprenant des éléments constituant (i) une violation des droits de propriété intellectuelle de tiers, (ii) une atteinte aux personnes (notamment diffamation, insultes, injures, etc.) et au respect de la vie privée, (iii) une incitation à la violence ou à la haine contre tout individu ou groupe, (iv) une incitation à la cruauté envers les animaux, (v) un contenu sexuellement explicite ou fortement suggestif, (vi) une incitation à la consommation de drogues ou à toute activité illicite, de manière générale, (vii) une atteinte à l'ordre public et aux bonnes mœurs et, plus généralement, une atteinte à la réglementation applicable en vigueur.
+Otros Usuarios del sitio (los "Otros Usuarios") podrán publicar contenido e información en línea en conformidad con estos T y C. Los Usuarios se comprometen a no ver el contenido de Otros Usuarios para ningún fin que no sea de uso personal y no comercial, según lo previsto y permitido por las funciones normales del Sitio.
 
-#### 7.3) Propriété intellectuelle de l’Editeur  
+Además, a la luz de la posibilidad de exportar contenido, los Usuarios se comprometen a no exportar el contenido de Otros Usuarios a sitios que constituyan o incluyan aspectos que constituyan (i) una infracción a los derechos de propiedad intelectual de terceros, (ii) un insulto a la dignidad de una persona (por ejemplo, difamación, insultos, blasfemias, etc.) o una violación del derecho a la intimidad, (iii) incitación a la violencia o el odio hacia cualquier individuo o grupo, (iv) incitación a la crueldad hacia los animales, (v) contenido sexualmente explícito o altamente sugestivo, (vi) una incitación a consumir drogas o participar en cualquier actividad ilegal, (vii) una amenaza al orden público y la moral pública, y en general, cualquier atropello a las normas vigentes y pertinentes.
 
-Le Site est la propriété exclusive de l’Éditeur. D'une manière générale, l’Éditeur accorde aux Utilisateurs un droit gratuit, personnel, non-exclusif et non-transférable d'accès et d'utilisation du Site sous réserve de l’acceptation et du respect des CGU. Tout autre droit étant expressément exclu sans l’accord préalable écrit de l’Editeur. Le contenu, autre que les contenus et informations insérés par les Utilisateurs, inclus ou accessible sur et/ou à travers le Site, notamment tout texte, graphisme, logo, nom, marque, désignation, onglet, fonctionnalité, image, son, donnée, photographie, et tout autre matériel ou logiciel (ci-après, le « Contenu InMemori ») est la propriété exclusive de l’Editeur ou de ses licenciés, est protégé par le droit de la propriété intellectuelle et est soumis aux lois et réglementations applicables en la matière. Le Contenu Inmemori ne doit en aucun cas être téléchargé, copié, altéré, modifié, supprimé, distribué, transmis, diffusé, vendu, loué, concédé ou exploité (en tout ou en partie) de quelque manière que ce soit, sans l'accord expresse et écrit de l’Editeur ou de ses licenciés. Les Utilisateurs acceptent de ne pas utiliser ou exploiter le Contenu InMemori à des fins autres que ceux visés au sein des présentes CGU. En outre, les Utilisateurs ne sont pas autorisés à modifier, améliorer, éditer, traduire, décompiler, désassembler ou créer une ou plusieurs oeuvre(s) dérivée(s) à partir du Contenu InMemori (en tout ou en partie), sauf si cette possibilité leur a été expressément octroyée par l’Éditeur ou par les propriétaires de ce(s) contenu(s), dans le cadre d'un accord distinct.
+Para notificar de cualquier tipo de material reproducido, publicado o distribuido a través del Sitio que constituya una infracción a la propiedad intelectual, se deberá contactar al agente de derechos de autor designado por Editor enviando un mensaje por escrito o a través de un correo electrónico a contact@inmemori.com.  Cualquier aviso de infracción deberá incluir la siguiente información: (1) una descripción detallada de la obra protegida por derechos de autor que supuestamente se hayan infringido; (2) una descripción de la ubicación del material supuestamente infractor en el Sitio; (3) información de contacto, incluida la dirección, el número de teléfono y, si está disponible, la dirección de correo electrónico del notificador; (4) una declaración que indique de buena fe que el uso del material supuestamente en infracción no está autorizado por el propietario de la propiedad intelectual, su agente, o la ley; (5) una declaración bajo pena de perjurio, afirmando que la información en el aviso es precisa y que la persona que la  notifica está autorizada para actuar en nombre del propietario de los derechos de autor; y (6) una firma electrónica o física del propietario de los derechos intelectuales, o alguien autorizado en nombre del propietario de tales derechos para validar la infracción a los derechos intelectuales  y enviar la declaración. Téngase en cuenta que la información de contacto proporcionada en este párrafo es sólo para uso en casos de una supuesta infracción de derechos de autor.
 
-### 8) Responsabilité  
+#### 7.3) La propiedad intelectual des Editor
 
-#### 8.1) Responsabilité de l’Éditeur  
+El sitio es propiedad exclusiva del Editor. Por norma general, el Editor otorga a los Usuarios el derecho libre, personal, no exclusivo e intransferible de acceder a, y utilizar el Sitio sujeto a la aceptación y cumplimiento de los T y C por los Usuarios, quedando expresamente excluido cualquier otro derecho en ausencia del consentimiento escrito del Editor.
 
-L’Éditeur met à la disposition des Utilisateurs sur le Site un certain nombre de contenus et informations créés, publiés par d’autres Utilisateurs ou par des Administrateurs. Les Utilisateurs, en qualité d’auteurs, sont seuls responsables des contenus et informations qu’ils publient sur le Site. En conséquence, la responsabilité de l’Éditeur ne saurait être engagée dans le cas où les contenus ou informations publiés par les Autres Utilisateurs contreviendraient aux dispositions légales et/ou règlementaires en vigueur ou aurait causé quelconque dommage à un Utilisateur ou à toute personne.
+El contenido del Sitio, que no sea el contenido y la información subida o publicada por los Usuarios, que se incluye o se pueda acceder a través del Sitio, sea  texto, gráficos, logotipo, nombre, marca comercial, denominación, pestaña, funcionalidad, imagen, sonido, datos, fotografías y cualquier otro hardware -soporte físico-  o software -soporte lógico- (el "Contenido del Editor") es propiedad exclusiva del Editor o de sus licenciatarios, y está protegido por la ley de propiedad intelectual, estando sujeto a todas las leyes  y reglamentos vigentes y aplicables al respecto..
 
-LES CONTENUS ET INFORMATIONS SONT FOURNIS PAR LES UTILISATEURS ET/OU LES ADMINISTRATEURS ET DIFFUSÉS PAR L’ÉDITEUR À TITRE INFORMATIF. L’ÉDITEUR NE CERTIFIE AUCUNEMENT LA FIABILITÉ DES INFORMATIONS COMMUNIQUÉES PAR LES UTILISATEURS ET/OU LES ADMINISTRATEURS ET NOTAMMENT DES TEXTES, NOMS OU PHOTOGRAPHIES QU’ILS INSÈRENT SUR LE SITE. L’ÉDITEUR RECOMMANDE VIVEMENT AUX UTILISATEURS ET AUX ADMINISTRATEURS DE VÉRIFIER LES INFORMATIONS QU’ILS DÉPOSENT EN AYANT PARTICULIÈREMENT À L’ESPRIT LE CONTEXTE FORTEMENT CHARGÉ EN ÉMOTIONS DANS LEQUEL CES INFORMATIONS SONT PARTAGÉES. L’ÉDITEUR ALERTE NOTAMMENT LES UTILISATEURS ET LES ADMINISTRATEURS CONTRE LES CONSÉQUENCES D’UNE FAUSSE PAGE EN HOMMAGE, À SAVOIR L’ANNONCE DE LA MORT D’UNE PERSONNE QUI N’EST PAS DÉCÉDÉE, DESQUELS IL NE SAURAIT ÊTRE TENU POUR RESPONSABLE.
+El Contenido del Editor no puede ser, bajo ninguna circunstancia, descargado, copiado, modificado, eliminado, distribuido, enviado o reenviado, transmitido, vendido, alquilado, concedido o aprovechado, total o parcialmente, de manera alguna, sin el consentimiento expreso por escrito del Editor. o de sus licenciatarios. Los Usuarios se comprometen a no utilizar ni aprovechar el Contenido del Editor para ningún otro fin que no sea el mencionado en estos T y C. Además, los Usuarios tienen prohibido modificar, mejorar, imprimir, traducir, descompilar, desmontar o crear una o más obras derivadas basadas total o parcialmente en el Contenido del Editor, a menos que el Editor, o los propietarios de este Contenido, les otorgue expresamente esta posibilidad a los Usuarios a través de un acuerdo por separado.
 
-L’Utilisateur peut signaler tout abus (notamment, contenu qui enfreigne les droits de propriété intellectuelle d’autrui, contenu incitant à la haine ou à la violence, pornographique, ou contenant de la nudité ou de la violence gratuite) qu’il constate sur le Site en cliquant sur le lien « Signaler un abus ». Il est alors invité à envoyer un message électronique à l’adresse abus@inmemori.com. Il peut également directement envoyer un message électronique à cette adresse.
+### 8) Responsabilidades
 
-#### 8.2) Responsabilité de l’Utilisateur  
+#### 8.1) Responsabilidades des Editor
 
-En fournissant un contenu ou une information sur le Site (qu'il s'agisse de textes, de photographies, de commentaires, de noms), l’Utilisateur est tenu au respect des dispositions légales et réglementaires en vigueur. Il appartient en conséquence à l’Utilisateur de s’assurer que le stockage et la diffusion de ce contenu ou de cette information via le Site ne constitue pas (i) une violation des droits de propriété intellectuelle de tiers, (ii) une atteinte aux personnes (notamment diffamation, insultes, injures, etc.) et au respect de la vie privée, (iii) une atteinte à l'ordre public et aux bonnes mœurs (notamment, apologie des crimes contre l'humanité, incitation à la haine raciale, pornographie enfantine, etc.). En mettant en ligne et en mettant à la disposition du public un contenu ou une information sur et/ou à travers le Site, l’Utilisateur garantit détenir tous les droits et autorisations nécessaires de la part des ayants droit concernés et s’être acquitté de tous les droits et paiements dus au titre des présentes aux sociétés de gestion collective.
+El Editor proporciona a los Usuarios del Sitio una cantidad determinada de contenido e información creada y publicada por Otros Usuarios o por los Administradores. Los Usuarios, como autores, serán los únicos responsables del contenido y la información que publiquen en el Sitio. De esta manera y por la presente, el Editor renuncia a toda responsabilidad legal en los casos en que el contenido o la información publicada por Otros Usuarios viole las leyes y normativas vigentes o cause algún daño a algún Usuario en general o en particular o a cualquier otra persona.
 
-À défaut, le contenu ou l’information pourra être retiré du Site sans formalité préalable. En outre, l’Utilisateur encourt, à titre personnel, les sanctions pénales spécifiques au contenu litigieux (peines d'emprisonnement et amendes), outre la condamnation éventuelle au paiement de dommages et intérêts. Compte tenu du caractère communautaire du Site et par respect pour les sensibilités de chacun, il appartient à l'Utilisateur de conserver une certaine éthique quant aux contenus, informations et/ou commentaires mis en ligne et, notamment, de s'abstenir de diffuser tout contenu à caractère violent ou pornographique.
+EL CONTENIDO Y LA INFORMACIÓN SON PROPORCIONADOS POR LOS USUARIOS Y/O ADMINISTRADORES Y DIFUNDIDOS POR EL EDITOR, TAL COMO ESTÁN, Y SÓLO CON FINES INFORMATIVOS. EL EDITOR NO GARANTIZA DE NINGUNA MANERA LA VERACIDAD DE LA INFORMACIÓN DIVULGADA POR LOS USUARIOS Y / O ADMINISTRADORES, Y, EN ESPECIAL, DE CUALQUIER TEXTO, NOMBRE O FOTOGRAFÍA QUE ÉSTOS SUBAN AL SITIO. EL EDITOR RECOMIENDA ENCARECIDAMENTE A LOS USUARIOS Y ADMINISTRADORES QUE VERIFIQUEN, CON SUMO CUIDADO, LA INFORMACIÓN QUE SUBAN AL SITIO, TENIENDO EN CUENTA LAS CIRCUNSTANCIAS DE GRAN TENSIÓN EMOCIONAL BAJO LAS QUE ESTA INFORMACIÓN ES COMPARTIDA. EL EDITOR ADEMÁS ADVIERTE A LOS USUARIOS Y ADMINISTRADORES SOBRE LAS CONSECUENCIAS DE PUBLICAR UNA FALSA PÁGINA DE HOMENAJE PARA INVENTAR EL ANUNCIO DEL FALLECIMIENTO DE UNA PERSONA QUE NO HAYA FALLECIDO, DE LA CUAL EL EDITOR RENUNCIA A TODA RESPONSABILIDAD POR MEDIO DE LA PRESENTE.1h
 
-#### 8.3) Le Site est soumis aux contraintes liées à l’Internet  
+EN LA MEDIDA EN QUE ASÍ LO PERMITAN LAS NORMAS LEGALES, EL EDITOR  EXCLUYE TODAS LAS CONDICIONES, GARANTÍAS, DECLARACIONES U OTROS TÉRMINOS QUE PUEDAN APLICARSE AL SERVICIO O A CUALQUIER CONTENIDO DEL MISMO, YA SEAN EXPLÍCITOS  O IMPLÍCITOS.
 
-L’Utilisateur déclare avoir parfaitement connaissance des caractéristiques et limites du réseau Internet, par lequel l’Éditeur met à disposition le Site et les page en hommage. L’Utilisateur reconnaît donc que (i) les transmissions de données sur Internet ne bénéficient que d'une fiabilité technique relative, celles-ci circulant sur des réseaux hétérogènes aux caractéristiques et capacités techniques diverses, qui sont parfois saturés à certaines périodes de la journée ; (ii) les données circulant sur Internet ne sont pas protégées contre des détournements éventuels, et qu'elles peuvent faire l'objet d'une captation des informations diffusées et (iii) qu'il est impossible de contrôler l'utilisation qui pourrait en être faite par des tiers sur Internet.
+EL EDITOR NO ASUMIRÁ RESPONSABILIDAD ANTE NINGUNA PÉRDIDA O DAÑO SUFRIDOS POR EL USUARIO O TERCEROS, SEA POR CONTRATO, CULPA (INCLUYENDO NEGLIGENCIA), INCUMPLIMIENTO DE OBLIGACIONES AMPARADAS POR LA LEY, O CUALQUIER OTRO MODO, INCLUSO SI DICHOS DAÑOS FUERAN PREVISIBLES, QUE SURJAN O ESTÉN RELACIONADOS CON:
 
-En conséquence, l’Éditeur ne peut être responsable pour l'un quelconque des faits ou évènements mentionnés ci-dessus.
+* EL USO, O LA IMPOSIBILIDAD DE USO, DEL SITIO ; 
+* EL USO O LA CONFIANZA O SEGURIDAD DEPOSITADA POR EL USUARIO EN CUALQUIER PRODUCTO O CONTENIDO PUBLICADO EN EL SITIO, DEL CUAL, CONCRETAMENTE,  EL EDITOR NO SEA RESPONSABLE POR:
+* LA PÉRDIDA DE BENEFICIOS, DE VENTAS, COMERCIAL O DE INGRESOS ;
+* INTERRUPCIÓN COMERCIAL ;
+* PÉRDIDA DE DATOS U OTROS PROGRAMAS ;
+* PÉRDIDA DE AHORROS PREVISTOS ;
+* PÉRDIDA DE OPORTUNIDAD COMERCIAL, FONDO DE COMERCIO O REPUTACIÓN ; 
+* CUALQUIER PÉRDIDA O DAÑO INDIRECTO O CONSECUENTE.
 
-L’Éditeur est également dégagé de toute responsabilité en cas de force majeure, dont notamment le dysfonctionnement du réseau Internet, des lignes téléphoniques, du matériel de réception empêchant ou entravant l'utilisation du Site et l’administration ou la consultation de la page en hommage.
+EL EDITOR NO SERÁ RESPONSABLE DE NINGUNA PÉRDIDA O DAÑO CAUSADO POR UN VIRUS, UN ATAQUE DE DENEGACIÓN DE SERVICIO DISTRIBUIDO (DDoS) O CUALQUIER OTRO MATERIAL TECNOLÓGICO DESTRUCTIVO QUE PUEDA INFECTAR EL EQUIPO INFORMÁTICO, PROGRAMAS INFORMÁTICOS, DATOS Y DEMÁS MATERIAL PRIVADO DEL USUARIO DEBIDO AL USO DEL SITIO O A LA DESCARGA DE CUALQUIER CONTENIDO DEL SITIO O AL USO DE CUALQUIER OTRO SITIO WEB CON VÍNCULOS A ÉL.
 
-### 9) Données personnelles  
+NO HAY NADA EN ESTOS TÉRMINOS QUE PUEDA SER INTERPRETADO DE FORMA QUE EXCLUYA O LIMITE LA RESPONSABILIDAD DEL EDITOR EN CASO DE FALLECIMIENTO O DAÑOS FÍSICOS PRODUCTO DE NUESTRA NEGLIGENCIA, O FRAUDE O TERGIVERSACIÓN FRAUDULENTA, O CUALQUIER OTRA RESPONSABILIDAD QUE NO PUEDA SER EXCLUIDA O LIMITADA DE ACUERDO A LA LEGISLACIÓN VIGENTE.
 
-#### 9.1) Données à caractère personnel  
+Los Usuarios pueden denunciar cualquier abuso (tal como cualquier contenido que viole los derechos de propiedad intelectual de terceros, que incite al odio o la violencia, que sea pornográfico o contenga desnudos o violencia gratuita) que noten en el Sitio cliqueando en el enlace "denunciar abuso".  Luego se les pedirá que envíen un mensaje electrónico a la dirección abus@inmemori.com. También pueden enviar un mensaje electrónico a esta dirección directamente.
 
-Les données à caractère personnel que l’Éditeur collecte auprès des Utilisateurs comprennent notamment :
+#### 8.2) Responsabilidades del Usuario
 
-ses noms et prénoms, son âge, son pays de résidence et sa nationalité ;
-son adresse de courrier électronique ;
-son adresse IP (adresse virtuelle attribuée à l’appareil connecté sur internet).  
+Al proporcionar contenido o información al Sitio (texto, fotografías, comentarios o nombres), los Usuarios deberán cumplir con los estatutos y regulaciones vigentes. Los Usuarios deberán asegurarse de que el almacenamiento y la publicación de estos contenidos o de esta información a través del Sitio no constituya (i) una violación a los derechos de propiedad intelectual de terceros, (ii) un insulto a la dignidad de una persona (por ejemplo, difamación, insultos, blasfemias, etc.) o una violación del derecho a la intimidad (iii) una amenaza al orden público y a la moral pública (como la apología de crímenes contra la humanidad, la incitación al odio racial, la pornografía infantil, etc.).  Al cargar contenido o información y ponerla a disposición del público en o a través del Sitio, los Usuarios garantizan que poseen todos los derechos y permisos requeridos por los titulares de los derechos afectados y que han pagado todos los derechos y pagos debidos bajo estos T y C a las compañías administradoras de derechos apropiadas.
 
-#### 9.2) Finalité du traitement  
+En su defecto, el contenido o la información podrán ser retirados del Sitio sin ninguna formalidad previa. Además, los Usuarios podrán sufrir sanciones penales específicas a los casos de contenidos controversiales (sentencias de prisión y multas), además de la posibilidad de que se les ordene pagar daños y perjuicios. Dada la naturaleza de la comunidad del Sitio, y por respeto a la sensibilidad de todos, se espera que los Usuarios actúen con cierto sentido de respeto y ética en cuanto al tipo de contenido, información y/o comentarios que suban o carguen, y que se abstengan, en especial, de difundir cualquier contenido de naturaleza violenta o pornográfica.
 
-Le responsable du traitement des données à caractère personnel de l’Utilisateur est l’Éditeur.
+Los Usuarios se comprometen a indemnizar y eximir de culpa y cargo al Editor y a cada uno de sus respectivos directores, funcionarios, gerentes, empleados, accionistas, agentes, representantes y licenciatarios, de toda pérdida, gasto, daño y costo, incluidos los honorarios de los abogados y costos legales razonables que surjan  del uso del Sitio por los Usuarios, la violación de estos T & C o la violación de cualquier derecho de un tercero o una entidad. El Editor se reserva el derecho de tomar el control y defensa exclusivas ante cualquier reclamo al que tenga derecho a indemnización según lo dispuesto esta sección. En tal caso, los Usuarios aceptan cooperar con el Editor cuando sea solicitado razonablemente.
 
-Les données à caractère personnel collectées auprès de l’Utilisateur et traitées par l’Editeur ont pour finalité de :
+#### 8.3) El Sitio está sujeto a las limitaciones propias de Internet
 
-permettre aux Utilisateurs d’accéder aux fonctionnalités et options du Site ;
-permettre aux Administrateurs d’accéder aux fonctionnalités qui lui sont réservées ;
-permettre aux Utilisateurs de contacter d’Autres Utilisateurs ;
-permettre à l’Éditeur d’envoyer par courrier électronique à l’Utilisateur les réponses à ses requêtes et des informations diverses ;
-établir des statistiques générales sur le trafic du Site et sur les différentes rubriques qui y sont contenues ;
-toute autre finalité liée à celles qui sont énumérées ci-dessus.  
+Los Usuarios declaran que son plenamente conscientes de las características y limitaciones de la red de Internet a través de la cual el Editor provee el Sitio y la Página de homenaje. De esta manera,  los Usuarios reconocen que (i) la transmisión de datos a través de Internet es solo relativamente confiable en términos técnicos, dado que los datos circulan a través de redes heterogéneas con diferentes características y capacidades técnicas que a veces se saturan en determinados momentos del día; (ii) los datos que transitan por Internet no están protegidos contra los riesgos de piratería o  de apropiación indebida, y  que cualquier información que se publique puede ser interceptada, (iii) es imposible controlar el uso que puedan hacer terceros,  de los datos que sean transmitidos a través de Internet.
 
-#### 9.3) Protection des données  
+Por lo tanto, el Editor se exime de responsabilidad por cualquiera de los hechos o eventos mencionados anteriormente.
 
-L’Éditeur s’engage à protéger l’ensemble des données à caractère personnel de l’Utilisateur, lesquelles données sont recueillies et traitées par l’Éditeur avec la plus stricte confidentialité, conformément aux dispositions législatives et réglementaires applicables.
+El Editor también se exime de responsabilidad en cualquier caso de fuerza mayor, incluidos el mal funcionamiento de la red de Internet, de las líneas telefónicas, de la terminal receptora del Usuario, etc., que evite o impida el uso del Sitio y la administración o visualización de la Página de homenaje.
 
-Le traitement des données à caractère personnel inclut notamment l'utilisation, la conservation, l'enregistrement, le transfert, l'adaptation, l'analyse, la récapitulation, la modification, la déclaration, le partage et la destruction des données à caractère personnel en fonction de ce qui est nécessaire au regard des circonstances ou des exigences légales.
+### 9) Protección de datos
 
-Toutes les données à caractère personnel collectées sont conservées pour une durée limitée en fonction de la finalité du traitement et de la durée de conservation prévue par la législation en vigueur.
+#### 9.1) Datos personales
 
-#### 9.4) Droit d’opposition, de rectification et de suppression de l’Utilisateur  
+Los datos personales de los Usuarios que recopile el Editor comprenderán específicamente:
 
-Conformément aux dispositions législatives et réglementaires applicables, l’Utilisateur peut à tout moment :
+nombre y apellido, edad, país de residencia y nacionalidad ;
+dirección de correo electrónico ;
+dirección de IP (dirección virtual asignada a una terminal conectada a Internet).
 
-s’opposer au traitement de ses données à caractère personnel par l’Éditeur ;
-s’opposer à la communication des données à caractère personnel le concernant à des tiers ;
-accéder à l’ensemble des données à caractère personnel le concernant traitées par l’Éditeur ;
-rectifier, mettre à jour et supprimer des données à caractère personnel le concernant traitées par l’Éditeur.
-Pour exercer ses droits, il suffit à l’Utilisateur d’adresser un message électronique à l’adresse contact@inmemori.com en prenant soin de justifier de son identité (mentionner ses noms, prénoms, adresse de courrier électronique et joindre une copie de sa pièce d’identité) à l’Éditeur, aux coordonnées visées en préambule des présentes CGU.
+#### 9.2) Finalidades de la recopilación y el procesamiento de datos
 
-### 10) Disponibilité du Site  
+El responsable a cargo del procesamiento de los datos personales de los Usuarios es el Editor.
 
-Le Site et les pages en hommage sont par principe accessibles 24 heures sur 24, 7 jours sur 7, sauf interruption, programmée ou non, pour les besoins de maintenance ou cas de force majeure. Etant de fait soumis à une obligation de moyens, l’Éditeur ne saurait être tenu responsable de tout dommage, quelle qu'en soit la nature, résultant d'une indisponibilité du Site ou d’une page en hommage.
+Los datos personales de los Usuarios que sean recopilados y procesados por el editor tienen por finalidad:
 
-L’Éditeur ne garantit pas que le Site, et le serveur qui le met à disposition, soient exempts de virus et autres composants dangereux. Il appartient à l'Utilisateur de prendre toutes les mesures appropriées pour protéger ses propres données et/ou logiciels de la contamination par d'éventuels virus circulant sur le réseau internet et de vérifier que sa configuration informatique ne contient aucun virus et qu’elle est en parfait état de fonctionnement.
+permitir a los Usuarios acceder a las funciones y opciones en el Sitio ;
+permitir a los Administradores acceder a las funciones que les sean asignadas ;
+permitir a los Usuarios contactarse entre ellos ;
+permitir que el  Editor envíe a los Usuarios respuestas a solicitudes y demás información necesaria  por correo electrónico ;
+compilar estadísticas generales sobre el tráfico del Sitio y sobre las diferentes secciones contenidas en él ;
+cualquier otro propósito relacionado con lo mencionado anteriormente.
 
-L'Utilisateur accepte le fait que l’Éditeur et ses fournisseurs ne pourront en aucun cas être tenus responsables des dommages, matériels et/ou immatériels, directs et/ou indirects qui pourraient résulter de l’accès ou de l’utilisation du Site et/ou de son contenu, y compris l’inaccessibilité, les pertes de données, les détériorations, les destructions ou les virus qui pourraient affecter l’équipement informatique de l’Utilisateur, et/ou de la présence de virus sur son Site.
+#### 9.3) Protección de datos
 
-### 11) Cookies  
+El Editor se compromete a proteger, con la más estricta confidencialidad, todos los datos personales de los Usuarios que sean recopilados y procesados por éste, conforme a las disposiciones legales y reglamentarias aplicables.
 
-Voir la Politique des cookies qui fait partie intégrante des présentes CGU.
+El procesamiento de los datos personales de los Usuarios puede llegar a implicar el uso, preservación, registro, transferencia, adaptación, análisis, resumen, modificación, información, intercambio y destrucción de los datos personales, dependiendo de lo que sea necesario a la luz de las circunstancias o de los derechos legales requeridos en el momento.
 
-### 12) Divers  
+Todos los datos personales que se recopilen serán conservados por un período limitado, en función de la finalidad del tratamiento y al período de retención de datos permitido por la legislación vigente. 
 
-Les registres informatisés conservés dans les systèmes de l’Editeur dans le respect des règles de l'art en matière de sécurité, seront considérés comme preuves des communications de courriers électroniques, envois de formulaire d'inscription, contenus. L'archivage des formulaires d'inscription est effectué sur un support de nature à assurer le caractère fidèle et durable requis par les dispositions légales en vigueur. Il est convenu qu'en cas de divergence entre les registres informatisés de l’Éditeur et les documents au format papier ou électronique dont l’Utilisateur dispose, les registres informatisés de l’Éditeur feront foi.
+#### 9.4) El derecho de los Usuarios a objetar el uso de sus datos o corregirlo y eliminarlos 
 
-Conditions générales relatives à la fonction de collecte de dons : Consulter les conditions générales relatives à Stripe.  
+De conformidad con las disposiciones legales y reglamentarias aplicables, los Usuarios pueden en cualquier momento:
 
-Mis à jour : 18/12/2017
+objetar el procesamiento de sus datos personales por parte del Editor ;
+oponerse a que sus datos personales sean transmitidos a terceros ;
+acceder a todos los datos personales que les pertenezcan que el Editor posea ;
+corregir, actualizar y/o eliminar cualquiera de lo datos personales que les pertenezcan que estén en poder del Editor.
+
+Para poder ejercer sus derechos, los Usuarios solo necesitan enviar un correo electrónico al Editor a contact@inmemori.com, suministrando pruebas de su identidad (nombre y apellido, dirección de correo electrónico y copia adjunta de un documento de identidad válido).
+
+### 10) Disponibilidad del Sitio
+
+El Sitio y las Páginas de homenaje estarán, en principio, accesibles durante todo el día, los 7 días de la semana, excepto en el caso de una interrupción programada o no programada para fines de mantenimiento, falla de Internet o cualquier caso de fuerza mayor. El Editor renuncia a la responsabilidad por cualquier daño que pueda resultar de la falta de disponibilidad del sitio o de cualquier Página de homenaje en particular.
+
+El Editor no garantiza que el sitio y su servidor estén libres de virus y/u otros elementos peligrosos. Es responsabilidad de los Usuarios tomar todas las precauciones adecuadas para proteger sus propios datos y/o aplicaciones de software de ser contaminados por cualquier virus que circule por Internet y para verificar que su configuración de servicios tecnológicos (TI) no contenga ningún virus y se encuentre en buenas condiciones de funcionamiento. 
+
+### 11) Enlaces a sitios externos
+
+El Sitio podrá tener enlaces a otros sitios en Internet. Estos sitios pueden llegar a contener información o material que algunas personas consideren inapropiado u ofensivo. Estos otros sitios no están bajo el control del Editor y el Editor no se responsabiliza por la exactitud de la información proporcionada, el cumplimiento de los derechos de autor, legalidad, decencia, ni ningún otro aspecto del contenido de dichos sitios. La inclusión de dichos enlaces no implica la aprobación de ningún sitio por parte del Editor ni de cualquier forma de asociación alguna con sus gestores.
+
+Cualquier área del Sitio que sea accedida a través de un servicio en línea registrado a un tercero está sujeta a las reglas, políticas y directrices de dicho servicio en línea registrado a un tercero.
+
+### 12) Cookies  
+
+Consulte la política de cookies que forma parte integral de estos T y C.
+
+### 13) Divers  
+
+Los registros conservados en las instalaciones del Editor, de acuerdo a los más altos estándares de seguridad, serán considerados pruebas del intercambio de mensajes electrónicos, el envío de formularios de inscripción y la subida de contenido al Sitio. Los formularios de inscripción se archivarán en un medio que garantice su almacenamiento preciso y duradero según lo exijan las disposiciones legales vigentes. En caso de divergencia entre los registros del Editor y cualquier otro documento guardado por los Usuarios en papel o formato electrónico, los registros del Editor prevalecerán y tendrán valor de prueba.
+
+Para ver los Términos y Condiciones generales sobre las funciones de la recopilación de datos consulte los términos y condiciones de MangoPay.
+
+### 14) Normativas aplicables y resolución de litigios
+
+Estos Términos y Condiciones de uso se regirán e interpretarán de acuerdo con la legislación francesa. 
+Cualquier litigio relacionado en alguna manera con el uso del Sitio deberá ser enviado a los tribunales de París, en el caso en el que no se pueda encontrar una solución amistosa entre el Usuario y el Editor.
+
+Actualizado : 18/12/2017
 <br/>
