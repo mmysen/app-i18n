@@ -24,9 +24,9 @@
               , "cta-image-uploading": "Téléchargement en cours..."
               , "label-templates": "Si no se le ocurre cómo expresarlo, a continuación hay algunas ideas:"
               , "templates": [
-                    "Queridos nuestros,\n\nComo algunos ya sabrán, nuestro preciado {{firstname}} dejó este mundo el {{dod, lowercase}} después de haber vivido {{age}} hermosos años. Esta página está destinada a todos ustedes, para así compartir sus cálidas palabras de apoyo con nosotros y entre ustedes durante esta triste etapa. Los invitamos a compartir recuerdos y fotos de momentos vividos con {{firstname}}.\n\nes enviamos todo nuestro amor."
-                  , "Con gran pesar informamos del fallecimiento de {{fullname}}, el {dod, lowercase}}."
-                  , "Estimada familia y amigos,\n\nCon infinita tristeza les informamos del fallecimiento de {{firstname}}, sucedido el {{dod, lowercase}}.\nEntretanto nuestra familia hace duelo, les pedimos si por favor podrían compartir sus condolencias y mensajes de cariño aquí."
+                    "Querida familia y amigos,\n\nNuestro amado {{firstname}} dejó este mundo el {{dod, lowercase}} espués de haber vivido {{age}} hermosos años. Esta página está destinada a todos ustedes, para que compartan sus cálidas palabras de apoyo con nosotros y entre ustedes durante esta triste etapa. \nLos invitamos a compartir recuerdos y fotos de momentos vividos con {{firstname}}."
+                  , "Con gran pesar les informamos del fallecimiento de {{fullname}}, el {dod, lowercase}}."
+                  , "Estimada familia y amigos,\n\nCon infinita tristeza les informamos del fallecimiento de {{firstname}}, sucedido el {{dod, lowercase}}.\nLos invitamos a esta página para que celebremos la vida de {{firstname}} por medio de mensajes, recuerdos y fotografías."
                 ]
             }
           , "2": {
@@ -46,7 +46,7 @@
           , "4": {
                 "title": "Donaciones"
               , "text": "Coordinar una colecta conmemorativa."
-              , "description": "Ud. puede coordinar una colecta para hacer donaciones a una organización benéfica preciada por {{firstname}}, o que sirva de ayuda a la familia del difunto. Los donativos les permiten a los allegados expresar su apoyo de una manera significativa.\nNuestro proceso de pagos requiere los últimos 4 números del SSN (número de seguridad social) del coordinador de la colecta para asegurarnos de que todos los pagos procesados estén a nombre de una persona verdadera."
+              , "description": "Ud. puede coordinar una colecta para hacer donaciones a una organización benéfica importante para {{firstname}}, o para apoyar a su familia a cubrir los gastos funerarios. Por medio de la colecta, sus seres queridos obtienen otra alternativa para expresar su apoyo.\nNuestro proceso de pagos requiere los últimos 4 números del SSN (número de seguridad social) del coordinador de la colecta para asegurarnos de que todos los pagos procesados estén a nombre de una persona verdadera."
               , "description-info": "Por cada donación que reciba, InMemori toma un 5% para cubrir los gastos por procesamiento y transferencia de fondos."
               , "countries": [
                     ["fr", "France (EUR)"]
@@ -65,7 +65,7 @@
                     "Familia"
                   , "Organización de bien público"
                 ]
-              , "label-message": "Votre message pour introduire la collecte de dons"
+              , "label-message": "Su mensaje para iniciar la colecta"
               , "input-message-placeholder": "Say something"
               , "select-org-placeholder": "Choisir une association"
               , "select-custom-org-text": "Association de votre choix"
@@ -73,17 +73,17 @@
               , "input-org-placeholder": "Nom de l'association"
               , "label-custom-org": "Nom de l'association"
               , "input-org-new": "Votre choix: \"{{label}}\""
-              , "label-templates": "Si no se le ocurre cómo expresarlo, a continuación hay algunas ideas:"
+              , "label-templates": "¿Necesita inspiración?"
               , "templates": {
                     "family": [
-                        "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons."
-                      , "Pour ceux qui le désirent, nous organisons une collecte de dons en mémoire de {{firstname, capitalize}}."
-                      , "Nous organisons une collecte de dons en mémoire de {{firstname, capitalize}}. La somme récoltée permettra à sa famille de financer, au moins en partie, ses obsèques. Un grand merci pour votre générosité."
+                        "Nuestra familia desea honrar a nuestro querido {{firstname}} por medio de una una colecta."
+                      , "Para demostrar su apoyo, puede hacer una donación para la colecta en honor a {{firstname}}."
+                      , "Hemos organizado una colecta en honor a {{firstname}}. Los fondos recaudados cubrirán parcialmente el costo de las ceremonias conmemorativas. Estamos infinitamente agradecidos por su generosidad."
                     ]
                   , "org": [
-                        "Toute sa vie {{firstname, capitalize}} a servi les autres au sein de l’association {{org}}.\n\nNous souhaitons poursuivre ce combat en sa mémoire et organisons une collecte de dons pour soutenir cette association qui lui tenait tellement à coeur. Nous pensons que c’est ce que {{firstname, capitalize}} aurait souhaité. Un grand merci pour votre générosité."
-                      , "Comme vous le savez, {{firstname, capitalize}} a été emporté par la maladie après des années de combat. En mémoire de {{firstname, capitalize}} et de toutes les autres victimes de cette maladie, nous avons décidé de soutenir l’association {{org}} afin de financer la recherche et de sauver des milliers de vies futures. Un grand merci de soutenir cette cause qui nous tient particulièrement à coeur."
-                      , "{{firstname, capitalize}} a toujours eu à coeur d'aider les autres et s'est natuellement engagé au sein de l’association {{org}} qui le touchait tout particulièrement. En son hommage, soutenons cette association. Un grand merci pour votre générosité."
+                        "{{firstname}} dedicó su vida al servicio del bien público, trabajando con {{org}}, siempre queriendo crear un mundo mejor.\n\nNos gustaría continuar esta ambiciosa tarea en honor a {{firstname}} recaudando fondos que serán destinados a una organización cuya misión era importante para él/ella. Creemos que {{firstname}} lo hubiera querido así. Gracias por su bondad y generosidad."
+                      , "Como muchos de ustedes saben, nuestro querido/a {{firstname}} perdió su vida por causa de (nombre de la enfermedad) después de años de heroica lucha. En honor a {{firstname}} y a todas las demás valientes personas que cayeron víctimas de esta terrible enfermedad, nos gustaría juntar fondos para {{org}} destinados a hallar nuevos tratamientos y, algún día, la cura que salvará incontables vidas. Gracias por apoyarnos en esta misión tan preciada para nosotros."
+                      , "Ayudar a los demás siempre fue una prioridad en la vida de {{firstname}}. Él/ella dedicó su tiempo a {{org}}. Juntos, y honrando su alma piadosa y caritativa, continuemos su misión y apoyemos el trabajo que realiza esta organización. Gracias por su generosidad."
                     ]
                 }
               , "text-status-family": "Une collecte est en cours pour aider au financement des obsèques.\nÀ ce jour le montant des dons s'élève à <strong>{{total}}</strong>.\nVous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
