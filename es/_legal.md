@@ -1,22 +1,22 @@
 <br/>  
-## Mentions légales  
+## Aviso jurídico  
 <br/>  
-### Éditeur  
+### Editor 
 
-Le site internet https://www.inmemori.com est la propriété de Rest In Peace, (ci-après, l’ « Éditeur »).  
+El sitio web https://www.inmemori.com es propiedad de Rest In Peace (en lo sucesivo, el "Editor").  
 
-Conformément au Code de la Propriété Intellectuelle, toute exploitation, représentation ou reproduction de tout ou partie du site internet est strictement interdite sauf autorisation expresse et préalable de l’Éditeur.  
+De conformidad con el Código de propiedad Intelectual, cualquier explotación, representación o reproducción total o parcial del sitio web está estrictamente prohibida sin el permiso previo y expreso del Editor.
 
-### Liens hypertextes  
+### Hiper enlaces 
 
-L’Éditeur décline toute responsabilité quant aux sites internet accessibles depuis son propre site.  
+El Editor no es responsable por los otros sitios web que sean accedidos desde su propio sitio.
 
-Les liens hypertextes mis en place dans le cadre du présent site web en direction d'autres ressources présentes sur le réseau internet, et notamment, vers des partenaires, sont clairement identifiés et font l'objet d'une information et/ou d'une autorisation préalable des sites pointés. L’Éditeur s'engage à faire cesser les liens hypertextes à la première demande écrite des entreprises à qui appartiennent ces sites. Les liens hypertextes en direction d'autres ressources présentes sur le réseau internet ne sauraient engager la responsabilité de l’Éditeur.  
+Los hiperenlaces colocados en el marco del presente sitio de internet en dirección a otras fuentes en Internet, y en particular hacia los socios, están claramente identificados y están sujetos a información y/o autorización previa por parte de dichos sitios. El Editor se compromete a cesar los enlaces de hipertexto a la primera solicitud por escrito de las empresas a las que pertenezcan estos sitios. Los enlaces de hipertexto a otras fuentes en Internet no son responsabilidad del Editor.
 
-### Crédits  
+### Créditos  
 
-Directeur de publication : SAS Rest In Peace  
-Webmaster : SAS Rest In Peace  
-Conception, réalisation et hébergement du site internet : SAS Rest In Peace (conception, réalisation)
+Director de publicación: SAS Rest In Peace
+Administrados de sitio web: SAS Rest In Peace
+Concepción, realización y hospedaje del sitio web: SAS Rest In Peace (concepción, realización)
 <br/>
 <br/>
