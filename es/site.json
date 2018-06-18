@@ -3,33 +3,33 @@
 
   , "links": {
         "home": "Accueil"
-      , "about": "À propos"
-      , "team": "L'équipe"
-      , "press": "Presse"
-      , "contact": "Contact"
-      , "example": "Voir un exemple"
+      , "about": "Sobre nosotros"
+      , "team": "Nuestro equipo"
+      , "press": "Prensa"
+      , "contact": "Contacto"
+      , "example": "Ver página de muestra"
       , "signup": "Créer une page"
     }
 
   , "signup": {
-        "title-v0": "Rassembler. Rendre hommage. Se souvenir."
-      , "text-v0": "Vous venez de perdre un proche.\n Créez un espace privé afin de rassembler son entourage et lui rendre hommage."
-      , "title-v1": "Créer une page d'hommage"
+        "title-v0": "Reunirse. Conmemorar. Recordar."
+      , "text-v0": "Ha perdido a un ser querido.\n Puede crear un espacio seguro a través del cual reunir a sus familiares y amigos para honrar la memoria de su ser querido."
+      , "title-v1": "Crear una página de homenaje"
       , "text-v1": "Commencez par nous en dire plus sur votre proche :"
-      , "input-firstname-placeholder": "Prénom du défunt"
-      , "input-lastname-placeholder": "Nom du défunt"
-      , "input-dod-placeholder": "Date de décès"
-      , "input-email-placeholder": "Votre adresse email"
+      , "input-firstname-placeholder": "Nombre de su ser querido"
+      , "input-lastname-placeholder": "Apellido de su ser querido"
+      , "input-dod-placeholder": "Fecha del fallecimiento"
+      , "input-email-placeholder": "Dirección de correo electrónico"
       , "input-phone-placeholder": "Numéro de mobile"
-      , "input-firstname-placeholder-partner": "Prénom du défunt"
-      , "input-lastname-placeholder-partner": "Nom du défunt"
-      , "input-dod-placeholder-partner": "Date de décès du défunt"
-      , "input-email-placeholder-partner": "Email de la famille"
+      , "input-firstname-placeholder-partner": "Nombre de su ser querido"
+      , "input-lastname-placeholder-partner": "Apellido de su ser querido"
+      , "input-dod-placeholder-partner": "Fecha del fallecimiento de su ser querido"
+      , "input-email-placeholder-partner": "Dirección de correo electrónico"
       , "input-phone-placeholder-partner": "Numéro de mobile"
-      , "cta-v0": "Créer une page"
-      , "cta-v1": "Créer une page"
-      , "lookup-text": "Vous recherchez une page déjà existante ?"
-      , "lookup-tooltip": "Demandez le lien de la page à la famille ou à des proches."
+      , "cta-v0": "Crear una página de homenaje"
+      , "cta-v1": "Crear una página de homenaje"
+      , "lookup-text": "Buscar una página existente?"
+      , "lookup-tooltip": "Pedir el enlace a la página a la familia del difunto."
     }
   , "home": {
         "inform": {
@@ -41,23 +41,23 @@
           , "text": "Famille et amis pourront facilement présenter leurs condoléances et aussi partager des souvenirs et des moments vécus avec votre proche. Cet hommage collectif apporte un grand réconfort. \n Vous pourrez aussi, si vous le souhaitez, organiser une collecte de dons en hommage à votre proche afin de soutenir une association ou une cause qui lui était chère."
         }
       , "how": {
-            "title": "Comment ça marche"
-          , "text": "InMemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu en rassemblant famille et amis. Créer une page est très facile et ne vous prendra que quelques minutes."
+            "title": "Cómo funciona"
+          , "text": "InMemori es un servicio gratuito que le permite rendir homenaje a la persona que perdió. En muy pocos y sencillos pasos puede reunir a familiares y amigos, homenajear la vida de su ser querido y recordarlo conjuntamente."
           , "create": {
-                "title": "Créer une page"
+                "title": "Crear una página"
               , "text": "Personnaliser la page et ajouter une photo de votre proche. \n Préciser les informations sur les obsèques."
             }
           , "share": {
-                "title": "La partager"
+                "title": "Compartirla"
               , "text": "Partager la page avec votre famille et vos amis en transmettant simplement son lien sécurisé par email ou par sms. La page est privée et ne sera accessible que par ceux qui ont reçu le lien."
             }
           , "manage": {
-                "title": "La modifier"
-              , "text": "Suivre l'activité de la page (visites, messages, dons...). \n Télécharger et imprimer le recueil des hommages."
+                "title": "Administrarla"
+              , "text": "Administre la actividad en la página (visitas, publicaciones, donaciones). \n Descargue, imprima y comparta el libro de los recuerdos para conmemorar las demostraciones de amor de los parientes y amigos."
             }
         }
       , "values": {
-            "title": "Nos principes"
+            "title": "El poder de sanar"
           , "text": "Nous avons créé InMemori afin de révéler l'essentiel de la vie. \n Voici nos principes fondamentaux."
           , "collective": {
                 "title": "Partage"
@@ -68,31 +68,31 @@
               , "text": "Les pages sont privées et n'apparaîtront jamais dans les résultats de recherche internet. Seuls ceux qui reçoivent le lien y ont accès."
             }
           , "elegance": {
-                "title": "Élégance"
-              , "text": "La page d'hommage est un livre d'or sobre et élégant, destiné à révéler la beauté des messages et des photos partagés par votre entourage."
+                "title": "Sobrio"
+              , "text": "Una página en InMemori es una manera sobria de honrar la vida, el espíritu y la memoria de su ser querido. Su simple diseño pone de manifiesto la belleza de las anécdotas y las fotos que Ud. comparta."
             }
         }
       , "testimonial": {
-            "title": "Témoignages"
+            "title": "Testimonios de nuestros usuarios"
           , "text": "Ce que les gens ont à dire d'InMemori."
           , "one": {
-                "from": "Michel Tailland"
-              , "text": "Grâce à InMemori, nous avons pu transmettre les informations sur les obsèques à toutes les personnes concernées en seulement une heure."
+                "from": "John Burg"
+              , "text": "Gracias a InMemori pudimos mandar información sobre el funeral a todos los interesados en una sola noche.  "
             }
           , "two": {
-                "from": "Yann Pesret"
-              , "text": "Le fait que tous ses proches puissent accéder aux autres messages est réconfortant car chacun peut se rendre compte que les hommages se distinguent. Chacun a son souvenir propre. De cette manière nous pouvons compiler ce qu'il faut retenir et transmettre de l'être cher.\nVotre service apaise la douleur de cette perte."
+                "from": "Barbara Pham"
+              , "text": "Su prestación funciona notablemente bien: eliminó el estrés adicional de nuestra vida y nuestros familiares pudieron fácilmente hacer donaciones a una organización benéfica preciada por mi padre."
             }
           , "three": {
-                "from": "Agathe Blion"
-              , "text": "Votre service est remarquable. \n Il diminue considérablement le stress lié à l'organisation. Nos proches ont pu facilement faire un don à l'association chère à notre papa."
+                "from": "Lonnie Brooks"
+              , "text": "InMemori nos apoyó durante esta difícil situación y nos proporcionó consuelo a través de los homenajes y los recuerdos compartidos. La página que honra a nuestra madre es de un valor incalculable."
             }
         }
       , "celebrate": {
-            "title": "Célébrer une vie"
-          , "text": "InMemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu et à rassembler votre famille et vos amis. \n Nous sommes là pour vous accompagner durant ce moment difficile."
-          , "cta-view": "Voir un exemple"
-          , "cta-create": "Créer une page"
+            "title": "Honrar una vida"
+          , "text": "InMemori es un servicio gratuito que lo ayuda a honrar la memoria de su ser querido y reunir a familiares y amigos.\nEstamos aquí para Ud."
+          , "cta-view": "Ver página de muestra"
+          , "cta-create": "Crear una página ahora"
         }
     }
 }
