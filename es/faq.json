@@ -2,118 +2,118 @@
   "faq": [
 
     {
-      "section": "CRÉER UNE PAGE SUR INMEMORI",
+      "section": "CREAR UNA PÁGINA EN INMEMORI",
       "qa": [
         {
-          "q": "InMemori ?",
-          "r": "Pour découvrir la mission d’InMemori et nos valeurs, consultez la rubrique <a href='/about'>À propos</a>."
+          "q": "¿Qué es InMemori?",
+          "r": "InMemori es un servicio digital gratuito que le permite honrar la memoria de un ser querido. Para saber más sobre nuestra declaración de objetivos y principios no dude en consultar nuestra página <a href='/about'>À propos</a>."
         },
         {
-          "q": "À quoi sert une page d’hommage ?",
-          "r": "Grâce au service InMemori, vous disposez d'une page privée qui vous permet de : \n- transmettre rapidement les informations sur les obsèques à chacune des personnes concernées,\n- recevoir et conserver les condoléances et les souvenirs de vos proches,\n- organiser une collecte de dons en sa mémoire, si vous le souhaitez."
+          "q": "¿Para qué sirve una página en InMemori?",
+          "r": "Con InMemori, Ud. tendrá acceso a una página privada con la que podrá: \n- informar rápidamente a sus seres queridos sobre la hora y el lugar del sepelio,\n- enviar y preservar mensajes de pésame y recuerdos compartidos con y por los suyos,\n- si lo desea, organizar una colecta honrando la memoria de su ser querido y/o facilitar a los suyos el envío de flores."
         },
         {
-          "q": "Comment créer une page d’hommage ?",
-          "r": "Il vous suffit de renseigner les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/signup'>ici</a>.\nLa création de la page ne vous prendra que 5 minutes.\n\nUne fois la page créée, vous aurez accès à votre espace de gestion, sur lequel vous pourrez :\n- suivre l’activité de la page (nombre de vues, nombre d’hommages),\n- organiser une collecte de dons, si vous le souhaitez,\n- imprimer le recueil de tous les hommages partagés,\n- remercier vos proches et les donateurs grâce à la liste de contacts."
+          "q": "¿Cómo puedo crear una página en InMemori?",
+          "r": "Ud. puede crear una página con tan sólo su nombre, la fecha de fallecimiento de su ser querido y su dirección de correo electrónico. Simplemente cliquee <a href='/signup'>aquí</a>para comenzar.\nCrear una página no debería tomarle más de 5 minutos.\n\nUna vez que la página ha sido creada, Ud. tendrá acceso a su panel de administración con el cual Ud. podrá:\n- administrar la página (ver cuántas personas la han visitado, cuántas entradas han sido compartidas, etc.),\n- organizar una colecta para una entidad de bien público a su elección o para la familia del difunto,\n- imprimir un libro de recuerdos compilando todos los recuerdos y los mensajes compartidos,\n- agradecer a quienes han contribuido con la página."
         },
         {
-          "q": "Qui peut créer une page d’hommage ?",
-          "r": "Tout le monde peut créer une page : un membre de la famille, un ami, un collègue…\nIl vous suffit de renseigner les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/signup'>ici</a>."
+          "q": "¿Quién puede crear una página en InMemori?",
+          "r": "Toda persona con acceso a internet puede crear una página, sea familiar, amigo o colega.\nSimplemente necesita proveer el nombre y apellido del difunto, su fecha de fallecimiento y el correo electrónico de la persona creando la página. Luego cliquee <a href='/signup'>aquí</a>."
         },
         {
-          "q": "Comment inviter mes proches à consulter cette page ?",
-          "r": "Très simplement. Il vous suffit de partager la page par sms et par email, depuis votre espace de gestion.\nVous pouvez aussi, si vous le souhaitez, copier le lien et le coller sur les canaux de communication de votre choix (réseaux sociaux, WhatsApp, faire-part papier…)."
+          "q": "¿Cómo puedo invitar a mis amigos a ver y compartir la página?",
+          "r": "Es muy fácil. Sólo necesita enviarles el enlace a través de mensaje de texto o  correo electrónico. Puede hacerlo desde el panel de administración.\nTambién puede copiar y pegar el enlace en cualquier plataforma de comunicación que Ud. use, sea WhatsApp, etc."
         },
         {
-          "q": "Qui peut voir cette page ?",
-          "r": "Seules les personnes qui reçoivent le lien y ont accès.\nLa page étant privée, elle n’apparaîtra jamais dans les résultats des moteurs de recherche."
+          "q": "¿Quién tiene acceso a la página?",
+          "r": "Sólo las personas que hayan recibido el enlace tendrán acceso a la página.\nLa página será siempre personal y no podrá ser mencionada en ningún buscador."
         },
         {
-          "q": "Puis-je créer une page si je n’ai pas encore toutes les informations ?",
-          "r": "Oui, seules quelques informations sont essentielles pour créer une page.\nVous devez renseigner les prénom et nom de votre proche, sa date de décès et votre adresse email afin de recevoir le lien qui vous permettra de créer la page d’hommage. Vous pourrez ensuite à tout moment vous rendre sur votre espace de gestion pour la modifier ou la compléter."
+          "q": "¿Puedo crear una página si no tengo todos los detalles sobre el sepelio?",
+          "r": "Por supuesto. Para crear una página sólo necesita tres datos: nombre y apellido del difunto, fecha de fallecimiento y la dirección de correo electrónico del creador de la página (nosotros le enviaremos el enlace a la página para ayudarlo a empezar).\nLuego podrá acceder al panel de administración en cualquier momento que lo desee para editar o administrar la página."
         },
         {
-          "q": "Comment retrouver la page InMemori d’un proche décédé ?",
-          "r": "L’intimité des familles est au coeur de l’engagement d’InMemori, c’est pour cela que les pages sont privées. Seules les personnes qui reçoivent le lien y ont accès.\nSi vous apprenez qu’une page InMemori a été créée pour un proche, n’hésitez pas à contacter la famille ou des amis afin qu’ils vous communiquent le lien pour que vous puissiez y accéder."
+          "q": "¿Cómo puedo encontrar la página de alguien que sé que ha fallecido?",
+          "r": "La privacidad de las familias es parte fundamental del trabajo que realizamos en InMemori. Es por eso que nuestras páginas son personales. Sólo los que han recibido un enlace a la página pueden accederla.\nSi Ud. sabe que una página ha sido creada para una persona que Ud. conocía, no dude en contactarse con la familia o los amigos del difunto y ellos gustosamente le enviarán el enlace para que Ud. pueda acceder a la página."
         },
         {
-          "q": "Combien coûte le service InMemori ?",
+          "q": "¿Cuánto cuesta InMemori?",
           "r": "InMemori est un service gratuit pour permettre à tous d’y avoir accès.\nNotre ambition est que toutes les familles qui traversent un deuil puissent y trouver aide et réconfort."
         }
       ]
     },
     {
-      "section": "GÉRER UNE PAGE INMEMORI",
+      "section": "ADMINISTRANDO UNA PÁGINA EN INMEMORI",
       "qa": [
         {
-          "q": "Comment gérer la page d’hommage ?",
-          "r": "Si vous êtes administrateur, vous avez reçu par email et par sms un lien qui vous redirige vers un espace de gestion.\nDepuis cet espace, vous pouvez personnaliser et compléter la page :\n- en ajoutant une photo,\n- en personnalisant le faire-part,\n- en renseignant ou en modifiant les informations sur les obsèques,\n- en activant une collecte de dons pour soutenir une association de votre choix.\nVous pouvez aussi ajouter d’autres administrateurs, vous leur donnerez ainsi accès à l’espace de gestion."
+          "q": "¿Cómo administro una página en InMemori?",
+          "r": "Si Ud. es el administrador de la página, habrá recibido un enlace a través de un mensaje de texto o correo electrónico que lo remitirá al panel de administración.\nDepuis cet espace, vous pouvez personnaliser et compléter la page :\n- agregar una fotografía del difunto,\n- en personnalisant le faire-part,\n- en renseignant ou en modifiant les informations sur les obsèques,\n- en activant une collecte de dons pour soutenir une association de votre choix.\nVous pouvez aussi ajouter d’autres administrateurs, vous leur donnerez ainsi accès à l’espace de gestion."
         },
         {
-          "q": "Que faire si des messages ou des photos postés sur la page d’hommage ne sont pas appropriés ?",
-          "r": "Si vous êtes administrateur de la page, vous pouvez à tout moment supprimer un message ou une photo depuis votre espace de gestion."
+          "q": "¿Qué hago si alguien publica un mensaje o una foto inapropiada?",
+          "r": "Si Ud. es el administrador de la página puede eliminar cualquier mensaje o foto en cualquier momento desde el panel de administración."
         },
         {
           "q": "Puis-je supprimer la page d’hommage ?",
           "r": "Si vous êtes administrateur de la page, il vous est possible de mettre en veille ou de supprimer la page au moment de votre choix.\nSachez que vous pouvez garder une trace de tous les hommages partagés par vos proches en imprimant le recueil InMemori."
         },
         {
-          "q": "Que devient cette page d’hommage avec le temps ?",
-          "r": "Il existe trois possibilités :\n- maintenir la page en ligne pour permettre à tous vos proches d’y retourner et de consulter les hommages,\n- mettre en veille la page pour conserver les hommages mais bloquer son accès,\n- supprimer la page.\nLe temps du deuil est personnel, c’est pour cela qu’InMemori a choisi de laisser ce choix aux administrateurs de la page."
+          "q": "¿Qué sucede con una página en InMemori a medida que pasa el tiempo?",
+          "r": "Ud. tiene tres posibilidades:\n- mantenerla en la red, permitiendo a los suyos que la consulten a placer para leer mensajes previos o dejar nuevos para continuar honrando la memoria de su ser querido,\n- archivarla, guardando las fotos y los mensajes pero bloqueando el acceso a otros usuarios,\n- eliminar la página.\nEl proceso de duelo es muy personal, por lo que  preferimos dejarle la opción de administrar la página como le sea más conveniente."
         }
       ]
     },
     {
-      "section": "PARTICIPER À UNE PAGE INMEMORI",
+      "section": "CONTRIBUIR A UNA PÁGINA EN INMEMORI",
       "qa": [
         {
-          "q": "Puis-je poster plusieurs photos sur une page d’hommage ?",
-          "r": "Oui, très facilement.\nIl vous suffit de cliquer sur le bouton “Participer” et de choisir l’action “Photos”, vous pouvez alors ajouter autant de photos que vous le souhaitez.\nVous pouvez même joindre plusieurs photos à la fin d’un message de condoléances ou d’un souvenir afin d’enrichir votre hommage."
+          "q": "¿Puedo publicar múltiples fotos a una página de InMemori?",
+          "r": "¡Sí! Es muy sencillo.\nSólo cliquee el botón que dice “Firmar el libro”,  elija la opción “Fotos” y agregue tantas fotos como lo desee.\nVPuede incluso agregar múltiples fotos al final de un mensaje de pésame o un recuerdo para comunicar sus ideas."
         },
         {
-          "q": "Quelle est la différence entre un message de condoléances et un souvenir ?",
+          "q": "¿Cuál es la diferencia entre un mensaje de pésame y un recuerdo?",
           "r": "Un message de condoléances est un témoignage de soutien et de participation à la douleur d’autrui.\nUn souvenir est un moment vécu avec la personne défunte ou qui illustre sa vie.\nCes deux types de message participent à l’hommage et les souvenirs apportent de la douceur et décrochent parfois même un sourire aux personnes les plus affectées."
         },
         {
           "q": "À qui peuvent bénéficier les donations ?",
-          "r": "Toutes les associations déclarées peuvent, sans autorisation spéciale et quel que soit leur objet, recevoir des dons manuels (c’est à dire effectués “de la main à la main”, soit des dons effectués par des particuliers), et ce en application de l’article 6 de la loi du 1er juillet 1901.\n\n\nSource : <a target='_new' href='http://www.associations.gouv.fr/dons-manuels.html'>www.associations.gouv.fr</a>"
+          "r": "Cualquier organización acreditada, sin importar su declaración de objetivos y sin necesidad de una autorización especial, puede recibir donaciones y juntar fondos."
         },
         {
-          "q": "Sur quel compte est crédité l’argent des donations ?",
-          "r": "L’argent des donations est crédité sur le compte de l’administrateur qui clôture la collecte de dons. Il lui suffit pour cela de renseigner sa date de naissance et son IBAN.\nC’est alors à lui qu’il revient de reverser cette somme à l’association choisie ou à la famille."
+          "q": "¿Quién recibe los fondos acumulados a través de la herramienta de donaciones?",
+          "r": "Los fondos donados son transferidos al administrador de la página una vez que cierre la cuenta bancaria de aporte de donaciones. El administrador de página sólo necesita proveer su fecha de nacimiento y su información bancaria (número de ruta bancaria e información sobre su cuenta).\nEnviar los fondos donados a la entidad de bien escogida es responsabilidad del administrador de página."
         },
         {
           "q": "Des frais sont-ils appliqués aux dons versés sur InMemori ?",
-          "r": "<u>Dons effectués via le service InMemori</u>\nLes dons sont soumis à des frais de 5% :\n- 2% servent à couvrir les frais bancaires liés à la sécurisation et au traitement des paiements,\n- 3% servent à couvrir les coûts liés aux opérations et à l’assistance relative aux paiements."
+          "r": "El dinero donado a través de InMemori está sujeto a un 5% de comisión:\n- 2% cubre las tasas bancarias que aseguran el pago,\n- 3% cubre los honorarios de las cámaras de compensación."
         },
         {
-          "q": "Comment l’association choisie reçoit-elle les dons effectués sur InMemori ?",
-          "r": "L’administrateur qui clôture la collecte reçoit le montant de l’ensemble des dons, déduit des frais de traitement, sur son compte bancaire.\nIl n’a plus qu’à transmettre cette somme à l’association mentionnée sur la page d’hommage depuis le site web de l’association, par virement ou par chèque."
+          "q": "¿Cómo recibe las donaciones recaudadas en InMemori una entidad sin fines de lucro?",
+          "r": "El administrador de la página responsable de cerrar la colecta de donaciones recibirá el monto total de las donaciones recaudadas, menos las comisiones, en su cuenta bancaria. \nEl administrador sólo necesita transferir los fondos a la entidad mencionada en la página a través de un cheque o giro bancario."
         },
         {
-          "q": "Les dons effectués sur InMemori sont-ils éligibles à une déduction fiscale ?",
-          "r": "Oui, sous certaines conditions.\nLa loi prévoit effectivement la possibilité pour les particuliers de bénéficier d’une réduction d’impôt pour les dons qu’ils ont versés à une association. Les associations considérées d’intérêt général ou d'utilité publique peuvent notamment éditer des reçus fiscaux. \nPour être considérée d'intérêt général, l'association doit remplir 3 conditions : \n- ne pas être à but lucratif, \n- avoir un objet social et une gestion désintéressée, \n- ne pas fonctionner au profit d’un cercle restreint."
+          "q": "¿Son las donaciones a través de InMemori deducibles de impuestos?",
+          "r": "Sí, si Ud. dona dinero o una propiedad a una organización habilitada, su donación puede ser desgravada llenando el formulario impositivo 1040."
         },
         {
-          "q": "Quel est le montant de la réduction fiscale ?",
-          "r": "La réduction d’impôts porte sur 66% des sommes versées par le donateur, dans la limite de 20% de son revenu imposable. Cette réduction est portée à 75% lorsque l’association a pour objet la fourniture gratuite de repas, de soins ou d’hébergement aux personnes en difficulté, dans la limite de 531€ versés par le donateur.\nPour les dons aux associations provenant d'entreprise, la réduction fiscale est de 60% du montant des dons versés à l’association, dans la limite de 0,5% du chiffre d’affaires annuel.\nEnfin, lorsque le montant dépasse la limite des 20% du revenu imposable, l’excédent est reporté sur les 5 années suivantes, dans les mêmes conditions fiscales.\n\nSource : <a target='_new' href='http://www.service-public.fr/particuliers/vosdroits/F426'>www.service-public.fr</a>"
+          "q": "¿Cuál es la cantidad deducible de impuestos?",
+          "r": "Ud. puede deducir hasta un máximo de 50% de su impuesto bruto (AGI) (renglón 16 en el formulario impositivo 1040 del IRS) para el año fiscal de la fecha de donación.\nLa cantidad de su donación puede verse reducida por contribuciones que podrían beneficiarlo. Por ejemplo, si Ud. paga $250 por la entrada a un baile benéfico que cuesta $50 sólo $200 son deducibles, más allá de si Ud. concurre al baile o no.\nPara solicitar una deducción por contribuciones hechas en efectivo, cheque o regalos, Ud. debe conservar un registro bancario, registro de deducción de nómina, o un comunicado escrito provisto por la entidad de bien público, que incluya la fecha y el monto de su contribución. Para contribuciones a partir de $250 o más, también debe incluir una descripción de bienes aportados, y si algún producto o servicio es dado a cambio de la donación.\nFormularios adicionales pueden ser requeridos para contribuciones que excedan una cantidad determinada (por ejemplo, el formulario 8283 para contribuciones no monetarias de más de $500 y la sección B del formulario 8283 para contribuciones de más de $5000).\n\nFuente: <a target='_new' href='http://www.service-public.fr/particuliers/vosdroits/F426'>www.service-public.fr</a>"
         }
       ]
     },
     {
-      "section": "DIVERS",
+      "section": "OTRAS CONSULTAS",
       "qa": [
         {
-          "q": "Vous souhaitez créer une page InMemori ou participer à une page d’hommage mais vous avez des questions ?",
-          "r": "Il vous suffit de contacter Constance et notre équipe, qui assistent les familles et les proches au quotidien : \nPar email : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \nPar téléphone, tous les jours de la semaine et à tout moment, au numéro renseigné sur l’email et le sms envoyés par InMemori. \n <em>(Valable si vous avez déjà créé la page ou participé une première fois à la page d’hommage de votre proche)</em>.\n\nVotre sérénité est au coeur de notre engagement et nous sommes mobilisés pour vous répondre en moins de 24h."
+          "q": "¿Le gustaría crear una página en InMemori o contribuir con una página pero tiene dudas?",
+          "r": "No tiene más que contactar a Constance o a cualquier otra persona de nuestro equipo. Estamos aquí para ayudar a las familias y a sus allegados cuando y donde estén: \nPor correo electrónico: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \nPor teléfono: Puede llamar al número que se encuentra al pie del correo electrónico o mensaje de texto que ha recibido de InMemori cualquier día y a cualquier hora.\n\nSu tranquilidad es una parte esencial de nuestro trabajo. Estamos a su servicio las 24 horas del día, los 7 días de la semana."
         },
         {
           "q": "Comment nous aider ?",
-          "r": "Notre souhait pour InMemori est que chaque famille qui traverse un deuil puisse y trouver aide et réconfort. Nous avons besoin de vous pour mettre InMemori sur leur chemin et pour les accompagner avec justesse :\n- en parlant d’InMemori autour de vous, \n- en nous transmettant vos suggestions d’amélioration, \n- en nous envoyant le témoignage de votre expérience sur InMemori \n<em>(Ce que cela vous a apporté ? Comment cela vous a aidé ?)</em>,\n- en nous suivant sur nos réseaux sociaux : <a target='_new' href='https://www.facebook.com/inmemori.fr/'><i class='fa fa-facebook-square mr-1'></i>FR</a> <a target='_new' href='https://www.facebook.com/Inmemori-608021039394765/'><i class='fa fa-facebook-square mr-1'></i>US</a> <a target='_new' href='https://twitter.com/inmemori_fr?lang=en&lang=en'><i class='fa fa-twitter-square mr-1'></i></a> <a target='_new' href='https://www.linkedin.com/company/18116192/'><i class='fa fa-linkedin-square mr-1'></i></a>\n\nNous nous tenons à votre disposition, n’hésitez pas à nous écrire à l’adresse suivante : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
+          "r": "Esperamos que InMemori sea de alivio para cualquier familia que esté lamentando la pérdida de un ser querido. Necesitamos su ayuda para asegurarnos de que las familias sepan que InMemori es un recurso del que pueden disponer en esos momentos. Ud. puede hacer lo siguiente:\n- hablar sobre InMemori con sus amigos, familiares e, incluso, compañeros de trabajo, \n- enviarnos un correo eléctronico recomendándonos cómo podemos mejorar nuestro servicio, \n- Sus ideas y sugerencias son siempre bienvenidas!\n<em>(¿De qué manera nuestro servicio lo ayudó a Ud. o a sus familiares? ¿Cómo lo hizo sentir?)</em>,\n- finalmente, seguirnos en las redes sociales. <a target='_new' href='https://www.facebook.com/inmemori.fr/'><i class='fa fa-facebook-square mr-1'></i>FR</a> <a target='_new' href='https://www.facebook.com/Inmemori-608021039394765/'><i class='fa fa-facebook-square mr-1'></i>US</a> <a target='_new' href='https://twitter.com/inmemori_fr?lang=en&lang=en'><i class='fa fa-twitter-square mr-1'></i></a> <a target='_new' href='https://www.linkedin.com/company/18116192/'><i class='fa fa-linkedin-square mr-1'></i></a>\n\nEstamos a su servicio. No dude en contactarnos a: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
         },
         {
-          "q": "Comment rejoindre InMemori ?",
-          "r": "Si vous souhaitez rejoindre l’aventure InMemori, n'hésitez pas à nous transmettre votre candidature à <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
+          "q": "¿Le gusta nuestro proyecto y nuestros principios? ¡Puede unirse al equipo!",
+          "r": "Si desea unirse a nuestra preciosa empresa, favor de enviarnos su currículum y un comentario explicándonos qué es lo que lo impulsa a: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
         }
       ]
     }
