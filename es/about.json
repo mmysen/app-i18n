@@ -28,26 +28,26 @@
     }
 
   , "press": {
-        "title": "Espace presse"
-      , "title2": "Dernières parutions"
-      , "text": "L’équipe relations presse d’InMemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média : contact@inmemori.com"
+        "title": "Prensa"
+      , "title2": "Última notas de prensa"
+      , "text": "Invitamos a los periodistas a que contacten al equipo de RR.PP. de InMemori para cualquier pedido de información o entrevistas.\n\nContacto de prens: contact@inmemori.com"
       , "items": [  
         ["CHEF D'ENTREPRISE", "Avril 2018", "http://www.chefdentreprise.com/Thematique/digital-innovation-1074/Breves/Quand-entrepreneuses-battent-cliches-breche-329974.htm#77QJmtEjQquiABS2.97"]
           , ["MADAME FIGARO", "Avril 2018", "http://madame.lefigaro.fr/business/journee-de-la-femme-digitale-2018-jfd-portraits-entrepreneures-startuppeuses-180418-148280"]
           , ["CHALLENGES", "Avril 2018", "https://www.challenges.fr/start-up/in-memori-se-recueillir-commemorer-se-souvenir_577766"]     
           , ["CHALLENGES", "Avril 2018", "https://www.challenges.fr/sommet-start-up/qui-sont-les-cinq-start-up-laureates-des-100-ou-investir-de-challenges_580128"]     
           , ["LA TRIBUNE", "Avril 2018", "https://objectifaquitaine.latribune.fr/business/2018-04-05/inmemori-la-mort-lui-va-si-bien-774288.html"]   
-          , ["FRENCH MORNING", "Décembre 2017", "https://frenchmorning.com/in-memori-start-up-francaise-daide-deuil-souvenir/"]  
-          , ["FRANCE INFO", "Novembre 2017", "https://www.francetvinfo.fr/replay-radio/le-pitch-start-up/le-pitch-start-up-inmemori-la-start-up-qui-aide-a-organiser-des-funerailles_2462084.html"]
-          , ["FORBES", "Septembre 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
-          , ["USINE DIGITALE", "Juillet 2017", "https://www.usine-digitale.fr/article/comment-inmemori-s-attaque-habilement-a-la-delicate-digitalisation-des-obseques.N568394"]
+          , ["FRENCH MORNING", "Diciembre 2017", "https://frenchmorning.com/in-memori-start-up-francaise-daide-deuil-souvenir/"]  
+          , ["FRANCE INFO", "Noviembre 2017", "https://www.francetvinfo.fr/replay-radio/le-pitch-start-up/le-pitch-start-up-inmemori-la-start-up-qui-aide-a-organiser-des-funerailles_2462084.html"]
+          , ["FORBES", "Septiembre 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
+          , ["USINE DIGITALE", "Julio 2017", "https://www.usine-digitale.fr/article/comment-inmemori-s-attaque-habilement-a-la-delicate-digitalisation-des-obseques.N568394"]
         ]
     }
 
   , "contact": {
-        "title": "Besoin d’aide ?"
-      , "title2": "Nos bureaux"
-      , "text": "Si vous avez la moindre question sur le service, il vous suffit de contacter Constance et notre équipe assistance à l’adresse email suivante : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>. Nous vous répondrons en moins de 24 heures."
+        "title": "¿Alguna consulta?"
+      , "title2": "Nuestras oficinas"
+      , "text": "Si Ud. tiene alguna pregunta o necesita consultarnos acerca del uso de nuestro servicio, por favor no dude en contactarse con Constance o con nuestro equipo de ayuda enviando un correo electrónico a <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>. Le responderemos en menos de 24 horas."
       , "items": [
             ["Paris", "5 rue des Colonnes\n75002 Paris \nFrance", {"lat":48.8693696,"lng":2.3393760000000157}]
           , ["New York", "72 Allen St.\nNew York, NY 10002\nUnited States", {"lat":40.7175099,"lng":-73.9909217}]
@@ -55,15 +55,15 @@
       , "team": [
         { 
             "name": "Constance de Vernejoul"
-          , "role": "Responsable produit et relations client"
+          , "role": "Gerente de sistema y CRM"
           , "pic": "team.constance"
-          , "country": "France"
+          , "country": "Francia"
         },
         { 
             "name": "Eva Kerner"
-          , "role": "Directrice Business Development US"
+          , "role": "Vicepresidente de desarrollo comercial"
           , "pic": "team.eva"
-          , "country": "Etats-Unis"
+          , "country": "EÉ.UU."
         }
       ]
     }
