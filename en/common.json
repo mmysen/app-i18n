@@ -6,7 +6,8 @@
     }
   , "lang": {
       "fr": "Français",
-      "en": "English"
+      "en": "English",
+      "es": "Spanish"
     }
   , "fulldate": "LLL"
   , "shortdate": "LL"
