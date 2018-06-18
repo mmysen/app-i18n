@@ -1,7 +1,7 @@
 {
 
     "mission": {
-        "title": "Notre mission"
+        "title": "Nuestro propósito"
       , "text": "La mission d’InMemori est d’aider chaque famille qui vient de perdre un proche à rassembler toutes les personnes concernées et à rendre hommage à sa vie.\n\nChaque jour, des messages de condoléances, des souvenirs, des témoignages magnifiques sont partagés grâce au service, qui nous rappellent le besoin d'être ensemble dans ces moments éprouvants.\n\nNotre ambition pour InMemori est que chaque famille qui traverse un deuil puisse y trouver de l’aide et du réconfort. Le service est d’ailleurs gratuit pour permettre à tous d'y avoir accès. En un an déjà, nous avons accompagné 60 000 personnes."
     }
 
@@ -18,12 +18,12 @@
     }
 
   , "values": {
-        "title": "Nos valeurs"
-      , "text": "La mission d’InMemori est de révéler l'essentiel de la vie. "
+        "title": "Nuestros principios"
+      , "text": "Nuestro propósito es develar los momentos esenciales de la vida."
       , "items": [
-            ["Sensibilité", "InMemori place la délicatesse et la compréhension des familles et des proches au coeur de son action."]
-          , ["Intimité", "InMemori offre un espace privé qui protège les mots, les hommages et les souvenirs de chacun."]
-          , ["Universalité", "InMemori s’adresse à tous les âges, cultures et croyances."]
+            ["Discreción", "InMemori place la délicatesse et la compréhension des familles et des proches au coeur de son action."]
+          , ["Privacidad", "InMemori provee un espacio seguro de compartir, protegiendo las palabras,  las fotos y los recuerdos, salvaguardándolos de miradas indeseadas."]
+          , ["Universalidad", "InMemori s’adresse à tous les âges, cultures et croyances."]
         ]
     }
 
@@ -70,15 +70,15 @@
 
   , "team": {
 
-        "title": "Qui sommes nous ?"
+        "title": "Quiénes somos?"
       , "text": "Une équipe qui réunit belles énergies, force d'âme et enthousiasme au service d’InMemori."
 
       , "items": [
         { 
             "name": "Clémentine Piazza"
-          , "role": "Présidente et fondatrice"
-          , "bio": "C'est un projet profond qui remet tout à sa place."
-          , "intro": "C'est un projet profond qui remet tout à sa place."
+          , "role": "CEO y Fundadora"
+          , "bio": "Esta es una importante misión que pone todo en su lugar."
+          , "intro": "Esta es una importante misión que pone todo en su lugar."
           , "pic": "team.clementine"
           , "linkedin": "https://www.linkedin.com/in/cl%C3%A9mentine-piazza-42a67976/"
           , "twitter": ""
@@ -86,9 +86,9 @@
         },
         { 
             "name": "Constance de Vernejoul"
-          , "role": "Responsable produit et relation clients"
-          , "bio": "J’avais envie d’être là pour les autres à un moment de la vie où l’on se retrouve facilement seul."
-          , "intro": "J’avais envie d’être là pour les autres à un moment de la vie où l’on se retrouve facilement seul."
+          , "role": "Gerente de sistema y CRM"
+          , "bio": "Quería ayudar a la gente durante un período en sus vidas donde se siente profundamente solos."
+          , "intro": "Quería ayudar a la gente durante un período en sus vidas donde se siente profundamente solos."
           , "pic": "team.constance"
           , "linkedin": "https://www.linkedin.com/in/constance-de-vernejoul-00316484/"
           , "twitter": ""
@@ -97,8 +97,8 @@
         { 
             "name": "Marly  Diallo"
           , "role": "Directrice France"
-          , "bio": "À notre échelle et au quotidien, on contribue à être plus forts ensemble."
-          , "intro": "À notre échelle et au quotidien, on contribue à être plus forts ensemble."
+          , "bio": "Nuestro esfuerzo diario contribuye a crear un espíritu comunitario sólido y fuerte."
+          , "intro": "Nuestro esfuerzo diario contribuye a crear un espíritu comunitario sólido y fuerte."
           , "pic": "team.marly"
           , "linkedin": "https://www.linkedin.com/in/marly-diallo-55751327/"
           , "twitter": ""
@@ -106,9 +106,9 @@
         },
         { 
             "name": "Eva Kerner"
-          , "role": "Directrice Business Development US"
-          , "bio": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec InMemori, je peux m’assurer  que la mémoire des gens perdure."
-          , "intro": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec InMemori, je peux m’assurer  que la mémoire des gens perdure."
+          , "role": "Vicepresidente de desarrollo comercial"
+          , "bio": "Se dice que morimos dos veces: La primera, cuando damos nuestro último suspiro y la segunda, cuando alguien dice nuestro nombre por última vez. A través de InMemori puedo ayudar a garantizar que los nombres, los recuerdos y las historias de las personas perduren."
+          , "intro": "Se dice que morimos dos veces: La primera, cuando damos nuestro último suspiro y la segunda, cuando alguien dice nuestro nombre por última vez. A través de InMemori puedo ayudar a garantizar que los nombres, los recuerdos y las historias de las personas perduren."
           , "pic": "team.eva"
           , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
           , "twitter": ""
@@ -116,9 +116,9 @@
         },
         { 
             "name": "Louis Grellet"
-          , "role": "CTO"
-          , "bio": "C’est un moment de la vie où le digital est absent et un challenge technique que j’ai envie de relever."
-          , "intro": "C’est un moment de la vie où le digital est absent et un challenge technique que j’ai envie de relever."
+          , "role": "Director de tecnología"
+          , "bio": "El duelo es un momento en la vida en donde la tecnología está ausente. Me gustaría cambiarlo."
+          , "intro": "El duelo es un momento en la vida en donde la tecnología está ausente. Me gustaría cambiarlo."
           , "pic": "team.louis"
           , "linkedin": "https://www.linkedin.com/in/louis-grellet-1927242/"
           , "twitter": ""
