@@ -2,7 +2,7 @@
 
     "mission": {
         "title": "Nuestro propósito"
-      , "text": "La mission d’InMemori est d’aider chaque famille qui vient de perdre un proche à rassembler toutes les personnes concernées et à rendre hommage à sa vie.\n\nChaque jour, des messages de condoléances, des souvenirs, des témoignages magnifiques sont partagés grâce au service, qui nous rappellent le besoin d'être ensemble dans ces moments éprouvants.\n\nNotre ambition pour InMemori est que chaque famille qui traverse un deuil puisse y trouver de l’aide et du réconfort. Le service est d’ailleurs gratuit pour permettre à tous d'y avoir accès. En un an déjà, nous avons accompagné 60 000 personnes."
+      , "text": "La misión de InMemori es ayudar a cada familia que ha perdido a un ser querido a reunir a todas las personas afectadas por la pérdida para que juntos puedan rendir homenaje a la vida del ser querido.\n\nTodos los días, los mensajes de condolencias, recuerdos y testimonios maravillosos son compartidos a través del servicio, que nos recuerdan la necesidad de estar juntos en estos tiempos difíciles.\n\nNuestra ambición para InMemori es que cada familia afligida pueda encontrar ayuda y consuelo. En tan solo un año, hemos acompañado a más de 71,000 personas."
     }
 
   , "story": {
@@ -21,9 +21,9 @@
         "title": "Nuestros principios"
       , "text": "Nuestro propósito es develar los momentos esenciales de la vida."
       , "items": [
-            ["Discreción", "InMemori place la délicatesse et la compréhension des familles et des proches au coeur de son action."]
+            ["Discreción", "InMemori pone la delicadeza y la comprensión de las familias y sus seres queridos al centro de sus acciones."]
           , ["Privacidad", "InMemori provee un espacio seguro de compartir, protegiendo las palabras,  las fotos y los recuerdos, salvaguardándolos de miradas indeseadas."]
-          , ["Universalidad", "InMemori s’adresse à tous les âges, cultures et croyances."]
+          , ["Universalidad", "InMemori es para todas las edades, culturas y creencias."]
         ]
     }
 
@@ -96,7 +96,7 @@
         },
         { 
             "name": "Marly  Diallo"
-          , "role": "Directrice France"
+          , "role": "Directora Francia"
           , "bio": "Nuestro esfuerzo diario contribuye a crear un espíritu comunitario sólido y fuerte."
           , "intro": "Nuestro esfuerzo diario contribuye a crear un espíritu comunitario sólido y fuerte."
           , "pic": "team.marly"
