@@ -24,9 +24,9 @@
               , "cta-image-uploading": "Descargando..."
               , "label-templates": "Si no se le ocurre cómo expresarlo, a continuación hay algunas ideas:"
               , "templates": [
-                    "Querida familia y amigos,\n\nNuestro amado {{firstname}} dejó este mundo el {{dod, lowercase}} espués de haber vivido {{age}} hermosos años. Esta página está destinada a todos ustedes, para que compartan sus cálidas palabras de apoyo con nosotros y entre ustedes durante esta triste etapa. \nLos invitamos a compartir recuerdos y fotos de momentos vividos con {{firstname}}."
+                    "Querida familia y amigos,\n\nNuestro amado {{firstname}} dejó este mundo el {{dod}} espués de haber vivido {{age}} hermosos años. Esta página está destinada a todos ustedes, para que compartan sus cálidas palabras de apoyo con nosotros y entre ustedes durante esta triste etapa. \nLos invitamos a compartir recuerdos y fotos de momentos vividos con {{firstname}}."
                   , "Con gran pesar les informamos del fallecimiento de {{fullname}}, el {dod, lowercase}}."
-                  , "Estimada familia y amigos,\n\nCon infinita tristeza les informamos del fallecimiento de {{firstname}}, sucedido el {{dod, lowercase}}.\nLos invitamos a esta página para que celebremos la vida de {{firstname}} por medio de mensajes, recuerdos y fotografías."
+                  , "Estimada familia y amigos,\n\nCon infinita tristeza les informamos del fallecimiento de {{firstname}}, sucedido el {{dod}}.\nLos invitamos a esta página para que celebremos la vida de {{firstname}} por medio de mensajes, recuerdos y fotografías."
                 ]
             }
           , "2": {
