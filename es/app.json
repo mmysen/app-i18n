@@ -34,7 +34,7 @@
           , "cta": "Hacer una donación"
           , "text-org": "Nuestra familia desea rendir homenaje a {{firstname}} por medio de una campaña de recaudación de fondos para <strong> {{org}} </ strong>."
           , "text-family": "Nuestra familia desea rendir homenaje a {{firstname}} por medio de una recaudación de fondos."
-          , "status": "Hasta la fecha, se ha recaudado {{total}} gracias a {{donators}} donante (s)."
+          , "status": "Hasta la fecha, se ha recaudado {{total}} gracias a {{donators}} donante(s)."
         }
       , "flowers": {
             "title": "Enviar flores"
@@ -55,7 +55,7 @@
           , "donation": {
                 "title": "Hacer una donación"
               , "text-family": "Apoye a la familia en la organización del funeral de {{firstname}}."
-              , "text-org": "Apoye a la asociación {{org}}, de acuerdo con los deseos de {{first name}}."
+              , "text-org": "Apoye a la asociación {{org}}, de acuerdo con los deseos de {{firstname}}."
             }
           , "share": {
                 "title": "Comparte esta pagina"
@@ -69,7 +69,7 @@
       , "tab-pictures": "{{count}} Fotografía(s)"
       , "cta-add": "Compartir una foto"
       , "cta-message": "Escribir un mensaje"
-      , "no-result": "Todos los mensajes de homenaje serán publicados aquí.\nSus recuerdos y sus palabras ayudarán a los seres queridos de {{firstname}}a navegar por este camino.\nSea el primero en compartir, ayudar e inspirar a otros a hacer lo mismo."
+      , "no-result": "Todos los mensajes de homenaje serán publicados aquí.\nSus recuerdos y sus palabras ayudarán a los seres queridos de {{firstname}} a navegar por este camino.\nSea el primero en compartir, ayudar e inspirar a otros a hacer lo mismo."
     }
   , "memories": {}
   , "message": {
@@ -104,7 +104,7 @@
       , "label-receipt": "Comprobante fiscal (opcional)"
       , "cta": "Pagar"
       , "cta-end": "Terminar"
-      , "receipt": "¡Su pago de {{amount}} ha sido registrado!\nRéférence : {{id}}"
+      , "receipt": "¡Su pago de {{amount}} ha sido registrado!\nReferencia: {{id}}"
       , "other": "Otro"
     }
   , "flower": {
