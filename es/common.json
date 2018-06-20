@@ -7,7 +7,7 @@
   , "lang": {
       "fr": "Français",
       "en": "English",
-      "es": "Espagnol"
+      "es": "Español"
     }
   , "fulldate": "dddd D MMMM YYYY a las HH[h]mm"
   , "shortdate": "dddd D MMMM YYYY"
