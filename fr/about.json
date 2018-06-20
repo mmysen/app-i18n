@@ -30,7 +30,7 @@
   , "press": {
         "title": "Espace presse"
       , "title2": "Dernières parutions"
-      , "text": "L’équipe relations presse d’InMemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média : contact@inmemori.com"
+      , "text": "L’équipe relations presse d’InMemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
       , "items": [  
        ["FRENCHWEB", "Mai 2018", "https://www.frenchweb.fr/inmemori-veut-faire-entrer-le-deuil-dans-lere-du-digital/326428"]   
           , ["CHEF D'ENTREPRISE", "Avril 2018", "http://www.chefdentreprise.com/Thematique/digital-innovation-1074/Breves/Quand-entrepreneuses-battent-cliches-breche-329974.htm#77QJmtEjQquiABS2.97"]
