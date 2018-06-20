@@ -5,6 +5,18 @@
       , "text": "La misión de InMemori es ayudar a cada familia que ha perdido a un ser querido a reunir a todas las personas afectadas por la pérdida para que juntos puedan rendir homenaje a la vida del ser querido.\n\nTodos los días, los mensajes de condolencias, recuerdos y testimonios maravillosos son compartidos a través del servicio, que nos recuerdan la necesidad de estar juntos en estos tiempos difíciles.\n\nNuestra ambición para InMemori es que cada familia afligida pueda encontrar ayuda y consuelo. En tan solo un año, hemos acompañado a más de 71,000 personas."
     }
 
+     , "story": {
+        "title": "How we came about"
+      , "text": [
+            ["January 2016\nParis", "Clémentine commits herself to supporting grieving families as they organize the funeral services. While simultaneously working as the CMO of a French publicly traded company, Clémentine spent time with families who've suffered a loss to best understand how she could comfort them."]
+          , ["July 2016\nParis", "InMemori is born."]
+          , ["January 2017\nParis", "Constance joins the team. She speaks with families everyday, answering their questions and helping them make full use of InMemori."]
+          , ["February 2017\nParis", "Families and their loved ones, grateful for InMemori and its role in their healing, become its ambassadors. Through word of mouth, InMemori was able to comfort 30,000 people in their moment of loss."]
+          , ["March 2017\nSan Francisco", "InMemori is selected to participate in an acceleration program in Silicon Valley, The Refiners. InMemori goes global."]
+          , ["September 2017\nParis - NYC", "Offices in Paris and NYC are opened. The team consists of 5 people dedicated to fulfilling InMemori's purpose."]
+        ]
+    }
+    
   , "values": {
         "title": "Nuestros principios"
       , "text": "Nuestro propósito es develar los momentos esenciales de la vida."
