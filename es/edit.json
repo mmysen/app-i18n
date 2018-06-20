@@ -31,7 +31,7 @@
             }
           , "2": {
                 "title": "Contactos"
-              , "text": "Puede agregar personas a ser contactadas por sus seres queridos en el caso que requieran más información al respecto."
+              , "text": "Puede agregar personas a ser contactadas por sus seres queridos en el caso que requieran más información al respecto"
               , "cta-open": "Editar"
               , "cta-close": "Cerrar"
               , "cta": "Guardar"
@@ -45,7 +45,7 @@
             }
           , "4": {
                 "title": "Donaciones"
-              , "text": "Coordinar una colecta conmemorativa."
+              , "text": "Coordinar una colecta conmemorativa"
               , "description": "Ud. puede coordinar una colecta para hacer donaciones a una organización benéfica importante para {{firstname}}, o para apoyar a su familia a cubrir los gastos funerarios. Por medio de la colecta, sus seres queridos obtienen otra alternativa para expresar su apoyo.\nNuestro proceso de pagos requiere los últimos 4 números del SSN (número de seguridad social) del coordinador de la colecta para asegurarnos de que todos los pagos procesados estén a nombre de una persona verdadera."
               , "description-info": "Por cada donación que reciba, InMemori toma un 5% para cubrir los gastos por procesamiento y transferencia de fondos."
               , "countries": [
