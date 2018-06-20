@@ -11,7 +11,7 @@
     }
   , "fulldate": "LLL"
   , "shortdate": "LL"
-  , "show-map": "Show on a map"
+  , "show-map": "Show on Google maps"
   , "typesList": "ceremony,contemplation,interment,cremation,inhumation,gathering,reception"
   , "types": {
         "ceremony": "Ceremony"
