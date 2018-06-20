@@ -9,7 +9,7 @@
       "en": "English",
       "es": "Español"
     }
-  , "fulldate": "dddd D MMMM YYYY - hh[h]mm"
+  , "fulldate": "dddd D MMMM YYYY - h:mm A"
   , "shortdate": "dddd D MMMM YYYY"
   , "show-map": "Ver en Google maps"
   , "typesList": "ceremony,contemplation,inhumation,interment,cremation,gathering,reception"
