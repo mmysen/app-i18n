@@ -38,7 +38,7 @@
         },
         {
           "q": "¿Cuánto cuesta InMemori?",
-          "r": "InMemori est un service gratuit pour permettre à tous d’y avoir accès.\nNotre ambition est que toutes les familles qui traversent un deuil puissent y trouver aide et réconfort."
+          "r": "InMemori es un servicio gratuito al que todos pueden acceder.\nNuestra ambición es que todas las familias en duelo encuentren ayuda y consuelo."
         }
       ]
     },
@@ -47,15 +47,15 @@
       "qa": [
         {
           "q": "¿Cómo administro una página en InMemori?",
-          "r": "Si Ud. es el administrador de la página, habrá recibido un enlace a través de un mensaje de texto o correo electrónico que lo remitirá al panel de administración.\nDepuis cet espace, vous pouvez personnaliser et compléter la page :\n- agregar una fotografía del difunto,\n- en personnalisant le faire-part,\n- en renseignant ou en modifiant les informations sur les obsèques,\n- en activant une collecte de dons pour soutenir une association de votre choix.\nVous pouvez aussi ajouter d’autres administrateurs, vous leur donnerez ainsi accès à l’espace de gestion."
+          "r": "Si Ud. es el administrador de la página, habrá recibido un enlace a través de un mensaje de texto o correo electrónico que lo remitirá al panel de administración.\nDesde este espacio, puede personalizar y completar la página: \n- agregar una fotografía del difunto,\n- personalizar el anuncio,\n- agregar o modificar la información de los servicios funerarios,\n- activar una colecta de donaciones para cubrir los gastos funerarios o para apoyar a una asociación de su elección.\nTambién puede agregar otros administradores para que puedan acceder al área de administración."
         },
         {
           "q": "¿Qué hago si alguien publica un mensaje o una foto inapropiada?",
           "r": "Si Ud. es el administrador de la página puede eliminar cualquier mensaje o foto en cualquier momento desde el panel de administración."
         },
         {
-          "q": "Puis-je supprimer la page d’hommage ?",
-          "r": "Si vous êtes administrateur de la page, il vous est possible de mettre en veille ou de supprimer la page au moment de votre choix.\nSachez que vous pouvez garder une trace de tous les hommages partagés par vos proches en imprimant le recueil InMemori."
+          "q": "¿Puedo eliminar la página de tributo?",
+          "r": "Si usted es administrador de la página puede pausar o eliminar la página en cualquier momento.\nTenga en cuenta que puede guardar un seguimiento de todos los tributos compartidos por sus seres queridos al imprimir el los homenajes en InMemori."
         },
         {
           "q": "¿Qué sucede con una página en InMemori a medida que pasa el tiempo?",
@@ -72,10 +72,10 @@
         },
         {
           "q": "¿Cuál es la diferencia entre un mensaje de pésame y un recuerdo?",
-          "r": "Un message de condoléances est un témoignage de soutien et de participation à la douleur d’autrui.\nUn souvenir est un moment vécu avec la personne défunte ou qui illustre sa vie.\nCes deux types de message participent à l’hommage et les souvenirs apportent de la douceur et décrochent parfois même un sourire aux personnes les plus affectées."
+          "r": "Un mensaje de condolencia es un testimonio de apoyo y participación en el dolor de los demás.\nUna memoria es un momento vivido con la persona fallecida que ilustra su vida.\nEstos dos tipos de mensaje forman parte del tributo y los recuerdos que aportan dulzura y, a veces, una sonrisa a las personas más afectadas."
         },
         {
-          "q": "À qui peuvent bénéficier les donations ?",
+          "q": "¿Quién puede beneficiarse de las donaciones?",
           "r": "Cualquier organización acreditada, sin importar su declaración de objetivos y sin necesidad de una autorización especial, puede recibir donaciones y juntar fondos."
         },
         {
@@ -83,7 +83,7 @@
           "r": "Los fondos donados son transferidos al administrador de la página una vez que cierre la cuenta bancaria de aporte de donaciones. El administrador de página sólo necesita proveer su fecha de nacimiento y su información bancaria (número de ruta bancaria e información sobre su cuenta).\nEnviar los fondos donados a la entidad de bien escogida es responsabilidad del administrador de página."
         },
         {
-          "q": "Des frais sont-ils appliqués aux dons versés sur InMemori ?",
+          "q": "¿Se aplican tarifas a las donaciones realizadas en InMemori?",
           "r": "El dinero donado a través de InMemori está sujeto a un 5% de comisión:\n- 2% cubre las tasas bancarias que aseguran el pago,\n- 3% cubre los honorarios de las cámaras de compensación."
         },
         {
@@ -108,7 +108,7 @@
           "r": "No tiene más que contactar a Constance o a cualquier otra persona de nuestro equipo. Estamos aquí para ayudar a las familias y a sus allegados cuando y donde estén: \nPor correo electrónico: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \nPor teléfono: Puede llamar al número que se encuentra al pie del correo electrónico o mensaje de texto que ha recibido de InMemori cualquier día y a cualquier hora.\n\nSu tranquilidad es una parte esencial de nuestro trabajo. Estamos a su servicio las 24 horas del día, los 7 días de la semana."
         },
         {
-          "q": "Comment nous aider ?",
+          "q": "¿Cómo puede ayudarnos?",
           "r": "Esperamos que InMemori sea de alivio para cualquier familia que esté lamentando la pérdida de un ser querido. Necesitamos su ayuda para asegurarnos de que las familias sepan que InMemori es un recurso del que pueden disponer en esos momentos. Ud. puede hacer lo siguiente:\n- hablar sobre InMemori con sus amigos, familiares e, incluso, compañeros de trabajo, \n- enviarnos un correo eléctronico recomendándonos cómo podemos mejorar nuestro servicio, \n- Sus ideas y sugerencias son siempre bienvenidas!\n<em>(¿De qué manera nuestro servicio lo ayudó a Ud. o a sus familiares? ¿Cómo lo hizo sentir?)</em>,\n- finalmente, seguirnos en las redes sociales. <a target='_new' href='https://www.facebook.com/inmemori.fr/'><i class='fa fa-facebook-square mr-1'></i>FR</a> <a target='_new' href='https://www.facebook.com/Inmemori-608021039394765/'><i class='fa fa-facebook-square mr-1'></i>US</a> <a target='_new' href='https://twitter.com/inmemori_fr?lang=en&lang=en'><i class='fa fa-twitter-square mr-1'></i></a> <a target='_new' href='https://www.linkedin.com/company/18116192/'><i class='fa fa-linkedin-square mr-1'></i></a>\n\nEstamos a su servicio. No dude en contactarnos a: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
         },
         {

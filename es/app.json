@@ -12,29 +12,29 @@
   , "menu": {
         "welcome": "Bienvenido"
       , "home": "Información"
-      , "guestbook": "Libro de InMemori"
+      , "guestbook": "Homenajes"
       , "support": "Demostrar su apoyo"
       , "message": "Escribir un mensaje"
       , "donation": "Donar"
       , "flowers": "Enviar flores"
-      , "book": "Imprimer le recueil"
+      , "book": "Imprimir el recuerdo"
       , "share": "Compartir esta página"
     }
   , "share-bar": "Compartir esta página"
   , "home": {
         "intro": {
-            "title": "Chère famille, chers amis, \n cette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec {{firstname}}, et qui nous aidera à traverser cette épreuve. \n Avec toute notre affection"
+            "title": "Querida familia, queridos amigos, \n esta página está destinada a recopilar sus memorias. Por favor compartan con nosotros mensajes, recuerdos o fotos de momentos que vivieron con {{firstname}}. Su apoyo nos ayudará a cruzar esta prueba. \n Con todo nuestro afecto."
         }
       , "info": {
-            "title": "Informations"
-          , "label-privacy": "Aura lieu dans l'intimité familiale"
+            "title": "Información"
+          , "label-privacy": "Se llevará a cabo en la intimidad familiar"
         }
       , "donation": {
-            "title": "Faire un don"
-          , "cta": "Faire un don"
-          , "text-org": "L’ensemble de la famille souhaite rendre hommage à {{firstname}} en organisant une collecte de dons au profit de <strong>{{org}}</strong>."
-          , "text-family": "L’ensemble de la famille souhaite rendre hommage à {{firstname}} en organisant une collecte de dons."
-          , "status": "À ce jour, {{total}} ont été collectés grâce à {{donators}} donateur(s)."
+            "title": "Hacer una donación"
+          , "cta": "Hacer una donación"
+          , "text-org": "Nuestra familia desea rendir homenaje a {{firstname}} por medio de una campaña de recaudación de fondos para <strong> {{org}} </ strong>."
+          , "text-family": "Nuestra familia desea rendir homenaje a {{firstname}} por medio de una recaudación de fondos."
+          , "status": "Hasta la fecha, se ha recaudado {{total}} gracias a {{donators}} donante (s)."
         }
       , "flowers": {
             "title": "Enviar flores"
@@ -50,73 +50,73 @@
           , "text": ""
           , "guestbook": {
                 "title": "Escribir un mensaje"
-              , "text": "Envoyez vos condoléances à la famille. Partagez un souvenir avec {{firstname}}. Postez une photo."
+              , "text": "Envía tus condolencias a la familia. Comparte un recuerdo con {{firstname}}. Publica una foto."
             }
           , "donation": {
-                "title": "Faire un don"
-              , "text-family": "Soutenez la famille dans l’organisation des obsèques de {{firstname}}."
-              , "text-org": "Soutenez l’association {{org}}, selon les volontés de {{firstname}}."
+                "title": "Hacer una donación"
+              , "text-family": "Apoye a la familia en la organización del funeral de {{firstname}}."
+              , "text-org": "Apoye a la asociación {{org}}, de acuerdo con los deseos de {{first name}}."
             }
           , "share": {
-                "title": "Partager cette page"
-              , "text": "Vous connaissez un proche concerné ? Envoyez lui le lien de la page afin qu'il puisse participer."
+                "title": "Comparte esta pagina"
+              , "text": "¿Conoce a un pariente preocupado? Envíele el link de la página para que el o ella pueda participar."
             }
         }
     }
   , "guestbook": {
-        "title": "Libro de InMemori"
+        "title": "Homenajes"
       , "tab-entries": "{{count}} Publicación(es)"
       , "tab-pictures": "{{count}} Fotografía(s)"
-      , "cta-add": "Partager une photo"
+      , "cta-add": "Compartir una foto"
       , "cta-message": "Escribir un mensaje"
       , "no-result": "Todos los mensajes de homenaje serán publicados aquí.\nSus recuerdos y sus palabras ayudarán a los seres queridos de {{firstname}}a navegar por este camino.\nSea el primero en compartir, ayudar e inspirar a otros a hacer lo mismo."
     }
   , "memories": {}
   , "message": {
-        "input-fullname-placeholder": "Vos prénom et nom"
+        "input-fullname-placeholder": "Su nombre y apellido"
       , "input-email-placeholder": "Correo Electrónico"
-      , "input-email-info": "Email pour que la famille puisse vous répondre."
-      , "input-message-placeholder-1": "Écrire un message pour la famille ou partager un souvenir avec {{firstname}}..."
-      , "input-message-placeholder-2": "Écrire un souvenir pour la famille ou partager un souvenir avec {{firstname}}..."
-      , "cta": "Partager sur le recueil"
-      , "cta-image": "Joindre une photo"
-      , "cta-image-uploading": "Télécharger..."
+      , "input-email-info": "Email para que la familia le pueda responder."
+      , "input-message-placeholder-1": "Escribir un mensaje para la familia..."
+      , "input-message-placeholder-2": "Compartir una memoria con {{firstname}}......"
+      , "cta": "Compartir en la colección"
+      , "cta-image": "Adjuntar una foto"
+      , "cta-image-uploading": "Descargar..."
       , "steps": {
             "0": { "title": "¿Qué le gustaría compartir?" }
           , "1": { "title": "Pésame", "text": "Expresar un mensaje de respaldo a la familia de {{firstname}}." }
           , "2": { "title": "Recuerdos", "text": "Escribir un mensaje a la familia o compartir un recuerdo de {{firstname}}." }
-          , "3": { "title": "Fotografías", "text": "La page est tellement plus belle avec des photos." }
+          , "3": { "title": "Fotografías", "text": "La página es mucho más bella con fotos." }
         }
     }
   , "donation": {
         "title": "Nueva donación"
       , "amounts": "50,100,150,200,300"
-      , "title-success": "Merci de votre soutien !"
+      , "title-success": "¡Gracias por su apoyo!"
       , "input-firstname-placeholder": "Nombre"
       , "input-lastname-placeholder": "Apellido"
       , "input-email-placeholder": "Correo Electrónico"
-      , "input-recipient-placeholder": "Destinataire"
+      , "input-recipient-placeholder": "Destinatario"
       , "input-address-placeholder": "Dirección"
       , "input-city-placeholder": "Ciudad"
       , "input-zipcode-placeholder": "Código Postal"
-      , "label-info": "> Informations bancaires"
+      , "label-info": "> Información bancaria"
       , "label-amount": "> Cantidad de la donación"
       , "label-receipt": "Comprobante fiscal (opcional)"
-      , "cta": "Payer"
-      , "cta-end": "Terminer"
-      , "receipt": "Votre paiement de {{amount}} à bien été enregistré !\nRéférence : {{id}}"
+      , "cta": "Pagar"
+      , "cta-end": "Terminar"
+      , "receipt": "¡Su pago de {{amount}} ha sido registrado!\nRéférence : {{id}}"
       , "other": "Otro"
     }
   , "flower": {
         "step0-title": "Elija su ramo de flores"
-      , "step0-subtitle": "Tous les bouquets sont de taille moyenne et livrés avec une bulle d'eau afin de pouvoir être présentés sur le lieu de cérémonie de votre choix."
+      , "step0-subtitle": "Todos los ramos de flores son de un tamaño mediano y vienen con una burbuja de agua para poder ser presentados en el lugar de la ceremonia."
       , "step1-title": "Su selección"
       , "step1-subtitle": ""
       , "step2-title": "Envío"
       , "step2-subtitle": ""
       , "step3-title": "Confirmar su compra"
       , "step3-subtitle": ""
-      , "step4-title": "Merci de votre soutien !"
+      , "step4-title": "¡Gracias por su apoyo!"
       , "step4-subtitle": ""
       , "input-firstname-placeholder": "Nombre"
       , "input-lastname-placeholder": "Apellido"
@@ -124,56 +124,56 @@
       , "label-message": "Escribir un mensaje a la familia"
       , "input-message-placeholder": "Su mensaje"
       , "recap-info": "Información de entrega:\n{{shipping.name}}\n{{shipping.date_f}}"
-      , "cta": "Valider"
-      , "cta-end": "Terminer"
+      , "cta": "Validar"
+      , "cta-end": "Terminar"
       , "cart-item": "Bouquet"
       , "cart-shipping": "Envío"
-      , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
+      , "receipt": "¡Su pago de {{amount}} ha sido registrado!\nReferencia : {{id}}"
     }
   , "shipping": {
-        "conditions": "Livraison en France métropolitaine uniquement."
+        "conditions": "Entrega únicamente en Francia."
       , "interflora": "Interflora le garantiza que las flores llegarán 15 minutos antes del comienzo del servicio."
-      , "custom-label": "Adresse de votre choix"
-      , "input-recipient-placeholder": "Destinataire"
+      , "custom-label": "Dirección de su elección"
+      , "input-recipient-placeholder": "Destinatario"
       , "input-address-placeholder": "Dirección"
       , "input-city-placeholder": "Ciudad"
       , "input-zipcode-placeholder": "Código Postal"
   }
   , "book": {
-        "step0-title": "Mon livre Inmemori"
+        "step0-title": "Mi libro InMemori"
       , "step0-subtitle": ""
-      , "step1-title": "Livraison"
+      , "step1-title": "Entrega"
       , "step1-subtitle": ""
-      , "step2-title": "Finalisez la commande"
+      , "step2-title": "Complete la orden"
       , "step2-subtitle": ""
-      , "step3-title": "Merci de votre soutien !"
+      , "step3-title": "¡Gracias por su apoyo!"
       , "step3-subtitle": ""
-      , "item-info": "La qualité d’impression des images dépend de la taille des photos postées par chacun sur le recueil d’hommages, merci de votre compréhension."
-      , "label-qty": "Quantité : "
-      , "shipping-info": "Afin de vous garantir l’impression d’un livre de belle qualité au meilleur prix, nous mutualisons les commandes.\nLes délais de livraison peuvent donc varier de 15 à 30 jours après la commande. Livraison en France uniquement."
+      , "item-info": "La calidad de impresión de las imágenes depende del tamaño de las fotos publicadas por cada persona en la colección de tributos. Gracias por su comprensión."
+      , "label-qty": "Cantidad :"
+      , "shipping-info": "Para garantizar la impresión de un libro de buena calidad al mejor precio agrupamos los pedidos.\nEl tiempo de entrega puede variar de 15 a 30 días después de la orden. Entrega solo en Francia."
       , "input-firstname-placeholder": "Nombre"
       , "input-lastname-placeholder": "Apellido"
       , "input-email-placeholder": "Correo Electrónico"
-      , "label-message": "Adressez quelques mots à la famille"
-      , "input-message-placeholder": "Laisser un message"
-      , "cta": "Valider"
-      , "cta-end": "Terminer"
-      , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
+      , "label-message": "Dirija algunas palabras a la familia"
+      , "input-message-placeholder": "Escribir un mensaje"
+      , "cta": "Validar"
+      , "cta-end": "Terminar"
+      , "receipt": "¡Su pago de {{amount}} ha sido registrado!\nReferencia : {{id}}"
     }
   , "print": {}
   , "delete": {
-        "title": "Confirmez-vous la suppression de la page ?"
-      , "text": "Vous êtes sur le point de supprimer la page en hommage à {{fullname}}."
-      , "cta": "Supprimer"
+        "title": "¿Confirma la eliminación de la página?"
+      , "text": "Está a punto de eliminar la pagina en honor a {{fullname}}."
+      , "cta": "Eliminar"
     }
   , "share": {
         "link": {
             "title": "Compartir esta página"
-          , "text": "Partagez cette page avec toutes les personnes qui ont croisé le chemin de {{firstname}} :"
+          , "text": "Comparta esta página con todas las personas que fueron tocadas por la vida de {{firstname}} :"
         }
       , "admin": {
-            "title": "Ajouter un administrateur"
-          , "text": "Saisissez l'adresse email de votre contact dans l’espace ci-dessous afin de lui donner accès à l'espace de gestion :"
+            "title": "Agregar un administrador"
+          , "text": "Ingrese la dirección de correo electrónico de su contacto en el espacio a continuación para darle acceso al área de administración:"
         }
       , "tab-link": {
             "text": "Copiar enlace"
@@ -181,17 +181,17 @@
           , "tooltip": "¡Copiado!"
         }
       , "tab-sms": {
-            "text": "Par SMS"
-          , "placeholder": "Votre numéro de téléphone"
-          , "cta": "Envoyer"
-          , "success": "SMS envoyé !"
-          , "info": "> Saisissez votre numéro afin de recevoir le lien de la page."
+            "text": "Por mensaje de texto"
+          , "placeholder": "Su número de teléfono"
+          , "cta": "Enviar"
+          , "success": "¡Mensaje enviado!"
+          , "info": "> Ingrese su número para recibir el link de la página"
         }
       , "tab-email": {
             "text": "Por correo electrónico"
           , "placeholder": "Separe direcciones de correo con una coma \",\""
           , "cta": "Enviar"
-          , "success": "Email(s) envoyé(s) !"
+          , "success": "¡Email(s) enviado(s)!"
           , "info": ""
         }
       , "message": "Hola, \n\nCon gran pesar debemos informar del fallecimiento de {{fullname}}.\n\nHemos creado una página privada para conmemorar a {{fistname}}.\n\nSus palabras de apoyo y sus recuerdos son una luz en nuestro camino por la oscuridad.\n\nAl ir  a la página, Ud. podrá: \n- Ver información acerca de la ceremonia conmemorativa que se haya planeado.\n- Compartir su pésame, sus recuerdos, o una fotografía con nosotros.\n\nHemos pensado en Ud. pero, con seguridad, hemos olvidado a otras personas que también amaron a su ser querido.\n\nFavor de compartir esta página con cualquiera que tenga en mente. \n\nLe estamos infinitamente agradecidos.\n\nNo dude en acceder a la página aquí:  {{uri.page}}"
@@ -206,8 +206,8 @@
 
 
   , "stripe": {
-        "label": "By registering your account, you agree to our Services Agreement and the Stripe Connected Account Agreement."
-      , "agreement": "Les services de paiement pour les utilisateurs officiant sur InMemori sont fournis par Stripe et soumis à l’Accord sur les comptes Stripe Connected (Stripe Connected Account Agreement), qui inclut les modalités de service de Stripe. En agréant aux présentes CGU ou en continuant à opérer en tant qu'utilisateur officiant sur InMemori, vous acceptez d’être lié aux Conditions Générales d’Utilisation Stripe, celles-ci pouvant occasionnellement faire l’objet de modifications de la part de Stripe. Du fait que InMemori permette d’effectuer les paiements via Stripe, vous acceptez de fournir à InMemori des informations précises et complètes sur vous et votre activité, et autorisez InMemori à partager ces informations ainsi que celles concernant les transactions effectuées via la solution de paiement fournie par Stripe."
+        "label": "Al registrar su cuenta, usted acepta nuestro Acuerdo de Servicios y el Acuerdo de cuenta de Stripe Connected."
+      , "agreement": "Los servicios de pago para usuarios de InMemori son proporcionados por Stripe y están sujetos al Acuerdo de cuenta de Stripe Connected (Stripe Connected Account Agreement), que incluye los Términos de servicio de Stripe. Al aceptar estos Términos o continuar operando como usuario de InMemori, usted acepta estar sujeto a los Términos de uso de Stripe, en ocasiones pueden estar sujetos a cambios por Stripe. Debido a que InMemori permite que los pagos se realicen a través de Stripe, usted acepta proporcionar a InMemori información precisa y completa sobre usted y su empresa, y autoriza a InMemori compartir esta información, así como información sobre las transacciones realizadas a través de la solución de pago provista por Stripe."
       , "link": "https://stripe.com/fr/connect-account/legal"
     }
 }

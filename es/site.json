@@ -2,7 +2,7 @@
     "sample-slug": "mdarricourt"
 
   , "links": {
-        "home": "Accueil"
+        "home": "Inicio"
       , "about": "Sobre nosotros"
       , "team": "Nuestro equipo"
       , "press": "Prensa"
@@ -15,17 +15,17 @@
         "title-v0": "Reunirse. Conmemorar. Recordar."
       , "text-v0": "Ha perdido a un ser querido.\n Puede crear un espacio seguro a través del cual reunir a sus familiares y amigos para honrar la memoria de su ser querido."
       , "title-v1": "Crear una página de homenaje"
-      , "text-v1": "Commencez par nous en dire plus sur votre proche :"
+      , "text-v1": "Comience diciéndonos más acerca de su ser querido :"
       , "input-firstname-placeholder": "Nombre de su ser querido"
       , "input-lastname-placeholder": "Apellido de su ser querido"
       , "input-dod-placeholder": "Fecha del fallecimiento"
       , "input-email-placeholder": "Dirección de correo electrónico"
-      , "input-phone-placeholder": "Numéro de mobile"
+      , "input-phone-placeholder": "Número de teléfono celular"
       , "input-firstname-placeholder-partner": "Nombre de su ser querido"
       , "input-lastname-placeholder-partner": "Apellido de su ser querido"
       , "input-dod-placeholder-partner": "Fecha del fallecimiento de su ser querido"
       , "input-email-placeholder-partner": "Dirección de correo electrónico"
-      , "input-phone-placeholder-partner": "Numéro de mobile"
+      , "input-phone-placeholder-partner": "Número de teléfono celular"
       , "cta-v0": "Crear una página de homenaje"
       , "cta-v1": "Crear una página de homenaje"
       , "lookup-text": "Buscar una página existente?"
@@ -33,23 +33,23 @@
     }
   , "home": {
         "inform": {
-            "title": "Informer vos proches"
-          , "text": "InMemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre rapidement les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes et la partager avec toutes les personnes concernées est très facile : il vous suffit pour cela de transmettre par email ou par sms le lien sécurisé de la page."
+            "title": "Informe a sus seres queridos"
+          , "text": "InMemori le permite compartir la muerte de su ser querido con su familia y amigos y compartir rápidamente la información del funeral con ellos. \n Crear una página privada solo le lleva 5 minutos y compartirla con todas las personas involucradas es muy fácil: solo tiene que enviar por correo electrónico o por SMS el link seguro de la página."
         }
       , "collect": {
-            "title": "Inviter vos proches à se souvenir et à rendre hommage"
-          , "text": "Famille et amis pourront facilement présenter leurs condoléances et aussi partager des souvenirs et des moments vécus avec votre proche. Cet hommage collectif apporte un grand réconfort. \n Vous pourrez aussi, si vous le souhaitez, organiser une collecte de dons en hommage à votre proche afin de soutenir une association ou une cause qui lui était chère."
+            "title": "Invite a sus seres queridos a recordar y rendir homenaje"
+          , "text": "Los familiares y amigos pueden ofrecer sus condolencias y también compartir recuerdos y momentos con su ser querido. Este tributo colectivo brinda un gran consuelo. \n También, si lo desea, puede organizar una colecta de donaciones en homenaje a su ser querido para apoyar una asociación de su elección o para cubrir los gastos funerarios."
         }
       , "how": {
             "title": "Cómo funciona"
           , "text": "InMemori es un servicio gratuito que le permite rendir homenaje a la persona que perdió. En muy pocos y sencillos pasos puede reunir a familiares y amigos, homenajear la vida de su ser querido y recordarlo conjuntamente."
           , "create": {
                 "title": "Crear una página"
-              , "text": "Personnaliser la page et ajouter une photo de votre proche. \n Préciser les informations sur les obsèques."
+              , "text": "PPersonalizar la página y agregar una imagen de su ser querido. \n Especificar información funeraria."
             }
           , "share": {
                 "title": "Compartirla"
-              , "text": "Partager la page avec votre famille et vos amis en transmettant simplement son lien sécurisé par email ou par sms. La page est privée et ne sera accessible que par ceux qui ont reçu le lien."
+              , "text": "Comparta la página con su familia y amigos simplemente transmitiendo su link seguro por correo electrónico o mensaje de texto. La página es privada y solo será accesible para aquellos que hayan recibido el enlace."
             }
           , "manage": {
                 "title": "Administrarla"
@@ -58,14 +58,14 @@
         }
       , "values": {
             "title": "El poder de sanar"
-          , "text": "Nous avons créé InMemori afin de révéler l'essentiel de la vie. \n Voici nos principes fondamentaux."
+          , "text": "Creamos InMemori para revelar la esencia de la vida. \n Aquí están nuestros principios básicos."
           , "collective": {
-                "title": "Partage"
-              , "text": "Les personnes que vous invitez à voir cette page peuvent à leur tour la partager avec leurs proches. Rassembler famille et amis apporte du réconfort à chacun dans ces moments de deuil."
+                "title": "Compartir"
+              , "text": "Las personas que invite a ver esta página pueden compartirla con sus seres queridos. Reunir a familiares y amigos brinda consuelo a todos en estos momentos de duelo."
             }
           , "privacy": {
-                "title": "Intimité"
-              , "text": "Les pages sont privées et n'apparaîtront jamais dans les résultats de recherche internet. Seuls ceux qui reçoivent le lien y ont accès."
+                "title": "Intimidad"
+              , "text": "Las páginas son privadas y nunca aparecerán en los resultados de búsqueda en Internet. Solo aquellos que reciben el link tienen acceso a ella."
             }
           , "elegance": {
                 "title": "Sobrio"
@@ -74,17 +74,17 @@
         }
       , "testimonial": {
             "title": "Testimonios de nuestros usuarios"
-          , "text": "Ce que les gens ont à dire d'InMemori."
+          , "text": "Lo que la gente dice sobre InMemori."
           , "one": {
-                "from": "John Burg"
+                "from": "Antonio Orozco"
               , "text": "Gracias a InMemori pudimos mandar información sobre el funeral a todos los interesados en una sola noche.  "
             }
           , "two": {
-                "from": "Barbara Pham"
+                "from": "Marina Flores"
               , "text": "Su prestación funciona notablemente bien: eliminó el estrés adicional de nuestra vida y nuestros familiares pudieron fácilmente hacer donaciones a una organización benéfica preciada por mi padre."
             }
           , "three": {
-                "from": "Lonnie Brooks"
+                "from": "Diana Ruiz"
               , "text": "InMemori nos apoyó durante esta difícil situación y nos proporcionó consuelo a través de los homenajes y los recuerdos compartidos. La página que honra a nuestra madre es de un valor incalculable."
             }
         }

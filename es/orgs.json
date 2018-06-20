@@ -1,30 +1,28 @@
 [
 
-    { "name": "Action contre la Faim" }
-  , { "name": "AIDES" }
-  , { "name": "AFM-Téléthon" }
-  , { "name": "Association des paralysés de France" }
-  , { "name": "Autisme France" }
-  , { "name": "Amnesty International" }
-  , { "name": "Croix Rouge" }
-  , { "name": "Emmaüs" }
-  , { "name": "Fondation Abbé Pierre" }
-  , { "name": "Fondation pour la recherche médicale" }
-  , { "name": "France Alzheimer" }
-  , { "name": "Handicap International" }
-  , { "name": "Les petits frères des Pauvres" }
-  , { "name": "Les Restos du Coeurs" }
-  , { "name": "Ligue contre le cancer" }
-  , { "name": "Mécénat chirurgie cardiaque enfants du monde" }
-  , { "name": "Médecins du Monde" }
-  , { "name": "Médecins sans frontières" }
-  , { "name": "Secours catholique" }
-  , { "name": "Secours populaire" }
-  , { "name": "Secours islamique" }
-  , { "name": "Sidaction" }
-  , { "name": "Sourire à la vie" }
-  , { "name": "Unicef" }
-  , { "name": "Vaincre la mucoviscidose" }
+    { "name": "American Civil Liberties Union" }
+  , { "name": "American Red Cross" }    
+  , { "name": "Breast Cancer Research Foundation" }
+  , { "name": "Cancer Research Institute" }
+  , { "name": "City of Hope & Affiliates" }
+  , { "name": "Children's Defense Fund" }
+  , { "name": "Conservation Fund" }
+  , { "name": "Doctors Without Borders USA" }    
+  , { "name": "Drug Policy Alliance" }
+  , { "name": "Latinos for Education" }
+  , { "name": "Hispanic Federation" }
+  , { "name": "Habitat for Humanity International (National Office)" }
+  , { "name": "Human Rights Watch" }    
+  , { "name": "International Rescue Committee" } 
+  , { "name": "Jewish National Fund" }       
+  , { "name": "Leukemia & Lymphoma Society" }
+  , { "name": "Memorial Sloan Kettering Cancer Center" }
+  , { "name": "National Wildlife Federation" }  
+  , { "name": "Oxfam-America" }    
+  , { "name": "Planned Parenthood Federation of America" }  
+  , { "name": "Rotary Foundation of Rotary International" }    
+  , { "name": "Sierra Club Foundation" }
+  , { "name": "Union of Concerned Scientists" }
 
 
 ]
