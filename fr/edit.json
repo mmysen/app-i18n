@@ -160,7 +160,7 @@
   , "moderation": {
         "title": "Remercier vos proches"
       , "tabs": {
-            "messages": "Hommages"
+            "messages": "Messages"
           , "donations": "Donations"
         }
     }
