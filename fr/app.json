@@ -12,7 +12,7 @@
   , "menu": {
         "welcome": "Consulter"
       , "home": "Informations"
-      , "guestbook": "Hommages"
+      , "guestbook": "Messages"
       , "support": "Rendre hommage"
       , "message": "Écrire un message"
       , "donation": "Faire un don"
