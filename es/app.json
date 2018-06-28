@@ -12,7 +12,7 @@
   , "menu": {
         "welcome": "Bienvenido"
       , "home": "Información"
-      , "guestbook": "Homenajes"
+      , "guestbook": "Mensajes"
       , "support": "Demostrar su apoyo"
       , "message": "Escribir un mensaje"
       , "donation": "Donar"
@@ -64,7 +64,7 @@
         }
     }
   , "guestbook": {
-        "title": "Homenajes"
+        "title": "Mensajes"
       , "tab-entries": "{{count}} Publicación(es)"
       , "tab-pictures": "{{count}} Fotografía(s)"
       , "cta-add": "Compartir una foto"
