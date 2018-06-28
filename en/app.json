@@ -10,7 +10,7 @@
       , "cta-view": "View page"
     }
   , "menu": {
-        "welcome": "Welcome"
+        "welcome": "View"
       , "home": "Information"
       , "guestbook": "Messages"
       , "support": "Show your support"
