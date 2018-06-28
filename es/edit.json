@@ -160,7 +160,7 @@
   , "moderation": {
         "title": "Agradecer a sus seres queridos"
       , "tabs": {
-            "messages": "Homenajes"
+            "messages": "Mensajes"
           , "donations": "Donaciones"
         }
     }
