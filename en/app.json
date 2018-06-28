@@ -12,7 +12,7 @@
   , "menu": {
         "welcome": "Welcome"
       , "home": "Information"
-      , "guestbook": "InMemori book"
+      , "guestbook": "Messages"
       , "support": "Show your support"
       , "message": "Write a message"
       , "donation": "Donate"
@@ -65,7 +65,7 @@
         }
     }
   , "guestbook": {
-        "title": "InMemori book"
+        "title": "Messages"
       , "tab-entries": "{{count}} Post(s)"
       , "tab-pictures": "{{count}} Picture(s)"
       , "cta-add": "Add a picture"
