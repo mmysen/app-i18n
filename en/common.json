@@ -22,7 +22,7 @@
       , "gathering": "Gathering"
       , "reception": "Reception"
     }
-  , "unauthorized": "For security reasons, please access the administration space by opening the first InMemori e-mail you received and clicking on 'My admin space'.\n\nIf you can't find that e-mail or are having any issues, please contact us at contact@inmemori.com."
+  , "unauthorized": "For security reasons, please access the administration space by opening the first InMemori e-mail you received and clicking on 'My admin space'.\n\nIf you can't find that e-mail or are having any issues, please contact us at <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
   , "template": "Template"
   , "toast-success": "Saved successfully!"
   , "toast-message-sent": "Message sent!"
