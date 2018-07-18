@@ -30,9 +30,10 @@
   , "press": {
         "title": "Espace presse"
       , "title2": "Dernières parutions"
-      , "text": "L’équipe relations presse d’InMemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média : contact@inmemori.com"
+      , "text": "L’équipe relations presse d’InMemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
       , "items": [  
-       ["FRENCHWEB", "Mai 2018", "https://www.frenchweb.fr/inmemori-veut-faire-entrer-le-deuil-dans-lere-du-digital/326428"]   
+       ["CHEF D'ENTREPRISE", "Juillet 2018", "http://www.chefdentreprise.com/Thematique/actualites-1056/Breves/InMemori-remporte-finale-fran-aise-Startup-Tour-2018-332615.htm#pYUsfSle7MPIoV2e.97"]   
+          , ["FRENCHWEB", "Mai 2018", "https://www.frenchweb.fr/inmemori-veut-faire-entrer-le-deuil-dans-lere-du-digital/326428"]   
           , ["CHEF D'ENTREPRISE", "Avril 2018", "http://www.chefdentreprise.com/Thematique/digital-innovation-1074/Breves/Quand-entrepreneuses-battent-cliches-breche-329974.htm#77QJmtEjQquiABS2.97"]
           , ["MADAME FIGARO", "Avril 2018", "http://madame.lefigaro.fr/business/journee-de-la-femme-digitale-2018-jfd-portraits-entrepreneures-startuppeuses-180418-148280"]
           , ["CHALLENGES", "Avril 2018", "https://www.challenges.fr/start-up/in-memori-se-recueillir-commemorer-se-souvenir_577766"]     
@@ -41,7 +42,6 @@
           , ["FRENCH MORNING", "Décembre 2017", "https://frenchmorning.com/in-memori-start-up-francaise-daide-deuil-souvenir/"]  
           , ["FRANCE INFO", "Novembre 2017", "https://www.francetvinfo.fr/replay-radio/le-pitch-start-up/le-pitch-start-up-inmemori-la-start-up-qui-aide-a-organiser-des-funerailles_2462084.html"]
           , ["FORBES", "Septembre 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
-          , ["USINE DIGITALE", "Juillet 2017", "https://www.usine-digitale.fr/article/comment-inmemori-s-attaque-habilement-a-la-delicate-digitalisation-des-obseques.N568394"]
         ]
     }
 

@@ -5,18 +5,18 @@
       , "text": "La misión de InMemori es ayudar a cada familia que ha perdido a un ser querido a reunir a todas las personas afectadas por la pérdida para que juntos puedan rendir homenaje a la vida del ser querido.\n\nTodos los días, los mensajes de condolencias, recuerdos y testimonios maravillosos son compartidos a través del servicio, que nos recuerdan la necesidad de estar juntos en estos tiempos difíciles.\n\nNuestra ambición para InMemori es que cada familia afligida pueda encontrar ayuda y consuelo. En tan solo un año, hemos acompañado a más de 71,000 personas."
     }
 
-  , "story": {
-        "title": "Notre histoire"
+     , "story": {
+        "title": "Nuestra Historia"
       , "text": [
-            ["Janvier 2016\nParis", "Clémentine décide d’accompagner les familles en deuil lors de l'organisation des obsèques. Alors qu'elle est encore la directrice marketing d'un groupe du CAC40, elle passe chaque semaine pendant 6 mois des moments auprès de familles qui viennent de perdre un proche pour comprendre comment les aider dans cette épreuve."]
-          , ["Juillet 2016\nParis", "InMemori est créé."]
-          , ["Janvier 2017\nParis", "Constance rejoint l'aventure pour accompagner au quotidien les familles et leurs proches afin de répondre à leurs questions et leur permettre d’utiliser ce nouveau service en toute sérénité."]
-          , ["Février 2017\nParis", "Les familles et leurs proches sont reconnaissants et attachés au service, ils deviennent des ambassadeurs d’InMemori. Grâce au bouche à oreille, InMemori a déjà apporté du réconfort à plus de 30 000 personnes."]
-          , ["Mars 2017\nSan Francisco", "InMemori est sélectionné par The Refiners, un accélérateur de startups de la Silicon Valley. L’horizon d’InMemori s’élargit au monde entier."]
-          , ["Septembre 2017\nParis - New York", "Les bureaux de Paris et New York sont ouverts. L’équipe compte désormais cinq personnes toutes animées par l’impact de la mission d’InMemori."] 
+            ["Enero 2016\nParis", "Clémentine se compromete a apoyar a familias en duelo mientras organizan los servicios funerarios. Mientras trabajaba como Directora de Mercadotecnia en una compañía Francesa que cotiza en la bolsa, Clémentine acompañaba a familias que habían sufrido una pérdida para entender cómo ayudarlas."]
+          , ["Julio 2016\nParis", "InMemori is born."]
+          , ["January 2017\nParis", "Constance se une al equipo. Ella habla con familias todos los días y les responde sus preguntas para que puedan hacer el mejor uso de InMemori."]
+          , ["Febrero 2017\nParis", "Las familias agradecidas y sus seres queridos se convierten en embajadores de InMemori. Gracias a que comparten su historia con InMemori, nuestro servicio reconfortó a más de 30,000 personas en su momento de duelo."]
+          , ["Marzo 2017\nSan Francisco", "InMemori es seleccionado para participar en The Refiners, un acelerador de empresas en Silicon Valley. InMemori se vuelve global."]
+          , ["Septiembre 2017\nParis - Nueva York", "Abren las oficinas de París y Nueva York. El equipo consiste de 5 personas animadas por el impacto del propósito de InMemori."]
         ]
     }
-
+    
   , "values": {
         "title": "Nuestros principios"
       , "text": "Nuestro propósito es develar los momentos esenciales de la vida."
@@ -29,10 +29,12 @@
 
   , "press": {
         "title": "Prensa"
-      , "title2": "Última notas de prensa"
-      , "text": "Invitamos a los periodistas a que contacten al equipo de RR.PP. de InMemori para cualquier pedido de información o entrevistas.\n\nContacto de prens: contact@inmemori.com"
+      , "title2": "Últimas notas de prensa"
+      , "text": "Invitamos a los periodistas a que contacten al equipo de RR.PP. de InMemori para cualquier pedido de información o entrevistas.\n\nContacto de prensa: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
       , "items": [  
-        ["CHEF D'ENTREPRISE", "Abril 2018", "http://www.chefdentreprise.com/Thematique/digital-innovation-1074/Breves/Quand-entrepreneuses-battent-cliches-breche-329974.htm#77QJmtEjQquiABS2.97"]
+         ["CHEF D'ENTREPRISE", "Julio 2018", "http://www.chefdentreprise.com/Thematique/actualites-1056/Breves/InMemori-remporte-finale-fran-aise-Startup-Tour-2018-332615.htm#pYUsfSle7MPIoV2e.97"]   
+          , ["FRENCHWEB", "Mayo 2018", "https://www.frenchweb.fr/inmemori-veut-faire-entrer-le-deuil-dans-lere-du-digital/326428"]   
+          , ["CHEF D'ENTREPRISE", "Abril 2018", "http://www.chefdentreprise.com/Thematique/digital-innovation-1074/Breves/Quand-entrepreneuses-battent-cliches-breche-329974.htm#77QJmtEjQquiABS2.97"]
           , ["MADAME FIGARO", "Abril 2018", "http://madame.lefigaro.fr/business/journee-de-la-femme-digitale-2018-jfd-portraits-entrepreneures-startuppeuses-180418-148280"]
           , ["CHALLENGES", "Abril 2018", "https://www.challenges.fr/start-up/in-memori-se-recueillir-commemorer-se-souvenir_577766"]     
           , ["CHALLENGES", "Abril 2018", "https://www.challenges.fr/sommet-start-up/qui-sont-les-cinq-start-up-laureates-des-100-ou-investir-de-challenges_580128"]     
@@ -40,7 +42,6 @@
           , ["FRENCH MORNING", "Diciembre 2017", "https://frenchmorning.com/in-memori-start-up-francaise-daide-deuil-souvenir/"]  
           , ["FRANCE INFO", "Noviembre 2017", "https://www.francetvinfo.fr/replay-radio/le-pitch-start-up/le-pitch-start-up-inmemori-la-start-up-qui-aide-a-organiser-des-funerailles_2462084.html"]
           , ["FORBES", "Septiembre 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
-          , ["USINE DIGITALE", "Julio 2017", "https://www.usine-digitale.fr/article/comment-inmemori-s-attaque-habilement-a-la-delicate-digitalisation-des-obseques.N568394"]
         ]
     }
 

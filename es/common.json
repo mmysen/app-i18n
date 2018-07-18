@@ -7,12 +7,12 @@
   , "lang": {
       "fr": "Français",
       "en": "English",
-      "es": "Espagnol"
+      "es": "Español"
     }
-  , "fulldate": "dddd D MMMM YYYY a las HH[h]mm"
+  , "fulldate": "LLLL"
   , "shortdate": "dddd D MMMM YYYY"
-  , "show-map": "Ver en Google map"
-  , "typesList": "ceremonia, velación,misa,entierro,cremación,reunión,recepción"
+  , "show-map": "Ver en Google maps"
+  , "typesList": "ceremony,contemplation,inhumation,interment,cremation,gathering,reception"
   , "types": {
         "ceremony": "Ceremonia"
       , "contemplation": "Velación"

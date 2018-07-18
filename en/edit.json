@@ -161,7 +161,7 @@
   , "moderation": {
         "title": "Moderate the page"
       , "tabs": {
-            "messages": "Tributes"
+            "messages": "Messages"
           , "donations": "Donations"
         }
     }

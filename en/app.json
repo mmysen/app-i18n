@@ -10,14 +10,14 @@
       , "cta-view": "View page"
     }
   , "menu": {
-        "welcome": "Welcome"
+        "welcome": "View"
       , "home": "Information"
-      , "guestbook": "InMemori book"
+      , "guestbook": "Messages"
       , "support": "Show your support"
       , "message": "Write a message"
       , "donation": "Donate"
       , "flowers": "Send flowers"
-      , "book": "Print the InMemori book"
+      , "book": "Order the InMemori book"
       , "share": "Share this page"
     }
   , "share-bar": "Share this page"
@@ -70,7 +70,7 @@
         }
     }
   , "guestbook": {
-        "title": "InMemori book"
+        "title": "Messages"
       , "tab-entries": "{{count}} Post(s)"
       , "tab-pictures": "{{count}} Picture(s)"
       , "cta-add": "Add a picture"

@@ -12,7 +12,7 @@
   , "menu": {
         "welcome": "Consulter"
       , "home": "Informations"
-      , "guestbook": "Hommages"
+      , "guestbook": "Messages"
       , "support": "Rendre hommage"
       , "message": "Écrire un message"
       , "donation": "Faire un don"
@@ -69,7 +69,7 @@
         }
     }
   , "guestbook": {
-        "title": "Hommages"
+        "title": "Messages"
       , "tab-entries": "{{count}} Message(s)"
       , "tab-pictures": "{{count}} Photo(s)"
       , "cta-add": "Partager une photo"
@@ -80,9 +80,9 @@
         "input-fullname-placeholder": "Vos prénom et nom"
       , "input-email-placeholder": "Votre email"
       , "input-email-info": "Email pour que la famille puisse vous répondre."
-      , "input-message-placeholder-1": "Écrire un message pour la famille ou partager un souvenir avec {{firstname}}..."
-      , "input-message-placeholder-2": "Écrire un souvenir pour la famille ou partager un souvenir avec {{firstname}}..."
-      , "cta": "Partager sur le recueil"
+      , "input-message-placeholder-1": "Écrire un message de condoléances. Il sera visible de tous ceux qui ont connu {{firstname}}."
+      , "input-message-placeholder-2": "Partager un souvenir avec {{firstname}}. Il sera visible de tous ceux qui ont connu {{firstname}}."
+      , "cta": "Partager"
       , "cta-image": "Joindre une photo"
       , "cta-image-uploading": "Télécharger..."
       , "steps": {
