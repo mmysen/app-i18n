@@ -41,6 +41,11 @@
           , "cta": "Embellir la cérémonie"
           , "text": "Vous pouvez offrir des fleurs, simplement. \nCelles-ci seront livrées à l'heure sur un des lieux d'hommage."
         }
+      , "book": {
+            "title": "Commander le livre"
+          , "cta": "Commander le livre"
+          , "text": "Afin de garder une trace de tous ces magnifique mots et photos écrit en hommage à {{firstname}}, commandez le livre imprimé en son hommage."
+        }
       , "contact": {
             "title": "Contact"
           , "text": "Cette page a été créée par la famille de {{firstname}}. \n\nSi vous avez des questions, vous pouvez contacter les personnes mentionnées ci-dessous :"
@@ -71,7 +76,6 @@
       , "cta-message": "Ecrire un message"
       , "no-result": "Tous les messages d'hommage apparaîtront ici.\nVos mots et vos pensées accompagneront la famille de {{firstname}}.\nSoyez le premier à vous manifester."
     }
-  , "memories": {}
   , "message": {
         "input-fullname-placeholder": "Vos prénom et nom"
       , "input-email-placeholder": "Votre email"
@@ -88,6 +92,32 @@
           , "3": { "title": "Photos", "text": "La page est tellement plus belle avec des photos." }
         }
     }
+
+
+  , "client": {
+        "input-firstname-placeholder": "Prénom"
+      , "input-lastname-placeholder": "Nom"
+      , "input-email-placeholder": "Email"
+    }
+  , "item": {
+        "label-qty": "Quantité"
+    }
+  , "shipping": {
+        "conditions": "Livraison en France métropolitaine uniquement."
+      , "label-withInvoice": "Utiliser une autre adresse pour la facturation ?"
+      , "input-name-placeholder": "Nom"
+      , "input-phone-placeholder": "Téléphone"
+      , "input-recipient-placeholder": "Destinataire"
+      , "input-address-placeholder": "Adresse"
+      , "input-city-placeholder": "Ville"
+      , "input-zipcode-placeholder": "Code postal"
+      , "input-info-placeholder": "Infos complémentaire (téléphone, étage...)"
+    }
+  , "tx": {
+        "receipt": "Votre paiement de {{tx.amount_f}} a bien été enregistré !\nRéférence : {{tx.chargeId}}"
+    }
+
+
   , "donation": {
         "title": "Nouvelle donation"
       , "amounts": "50,100,150,200,300"
@@ -104,9 +134,11 @@
       , "label-receipt": "Reçu fiscal (facultatif)"
       , "cta": "Payer"
       , "cta-end": "Terminer"
-      , "receipt": "Votre paiement de {{amount}} à bien été enregistré !\nRéférence : {{id}}"
       , "other": "Autre"
+      , "receipt": "Votre paiement de {{amount_f}} a bien été enregistré !\nRéférence : {{chargeId}}"
+
     }
+
   , "flower": {
         "step0-title": "Choisissez votre bouquet"
       , "step0-subtitle": "Tous les bouquets sont de taille moyenne et livrés avec une bulle d'eau afin de pouvoir être présentés sur le lieu de cérémonie de votre choix."
@@ -118,27 +150,18 @@
       , "step3-subtitle": ""
       , "step4-title": "Merci de votre soutien !"
       , "step4-subtitle": ""
-      , "input-firstname-placeholder": "Prénom"
-      , "input-lastname-placeholder": "Nom"
-      , "input-email-placeholder": "Email"
+      , "label-custom-address": "Adresse de votre choix"
+      , "label-interflora": "Interflora vous garantit une livraison 15 minutes avant le début des obsèques."
       , "label-message": "Adressez quelques mots à la famille"
       , "input-message-placeholder": "Laisser un message"
-      , "recap-info": "Informations de livraison :\n{{shipping.name}}\n{{shipping.date_f}}"
+      , "shipping-info": "Informations de livraison :\n{{shipping.name}}\n{{shipping.date_f}}"
       , "cta": "Valider"
       , "cta-end": "Terminer"
       , "cart-item": "Bouquet"
       , "cart-shipping": "Livraison"
-      , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
+      , "receipt": "Votre paiement de {{tx.amount_f}} a bien été enregistré !\nRéférence : {{tx.chargeId}}"
     }
-  , "shipping": {
-        "conditions": "Livraison en France métropolitaine uniquement."
-      , "interflora": " Interflora vous garantit une livraison 15 minutes avant le début des obsèques."
-      , "custom-label": "Adresse de votre choix"
-      , "input-recipient-placeholder": "Destinataire"
-      , "input-address-placeholder": "Adresse"
-      , "input-city-placeholder": "Ville"
-      , "input-zipcode-placeholder": "Code postal"
-  }
+
   , "book": {
         "step0-title": "Mon livre Inmemori"
       , "step0-subtitle": ""
@@ -149,23 +172,17 @@
       , "step3-title": "Merci de votre soutien !"
       , "step3-subtitle": ""
       , "item-info": "La qualité d’impression des images dépend de la taille des photos postées par chacun sur le recueil d’hommages, merci de votre compréhension."
-      , "label-qty": "Quantité : "
       , "shipping-info": "Afin de vous garantir l’impression d’un livre de belle qualité au meilleur prix, nous mutualisons les commandes.\nLes délais de livraison peuvent donc varier de 15 à 30 jours après la commande. Livraison en France uniquement."
-      , "input-firstname-placeholder": "Prénom"
-      , "input-lastname-placeholder": "Nom"
-      , "input-email-placeholder": "Email"
-      , "label-message": "Adressez quelques mots à la famille"
-      , "input-message-placeholder": "Laisser un message"
       , "cta": "Valider"
       , "cta-end": "Terminer"
-      , "receipt": "Votre paiement de {{amount}} a bien été enregistré !\nRéférence : {{id}}"
     }
-  , "print": {}
+
   , "delete": {
         "title": "Confirmez-vous la suppression de la page ?"
       , "text": "Vous êtes sur le point de supprimer la page en hommage à {{fullname}}."
       , "cta": "Supprimer"
     }
+
   , "share": {
         "link": {
             "title": "Partager cette page"

@@ -11,6 +11,24 @@
       , "signup": "Créer une page"
     }
 
+  , "welcome": {
+        "title0": "Faire-Part"
+      , "title1": "Contact"
+      , "title2": "Obsèques"
+      , "title3": "Page crée"
+      , "info0": "Informations sur votre proche disparu."
+      , "info1": "Vos Informations"
+      , "info2": "Vous pouvez ajouter une étape supplémentaire. Si vous n’avez pas ces informations, vous pourrez les renseigner ultérieurement."
+      , "info3": "Bravo, la page en hommage à {{fullname}} est activée et prête à être partagée !"
+      , "cta-back": "Retour"
+      , "cta0": "Suivant"
+      , "cta1": "Suivant"
+      , "cta2": "Suivant"
+      , "cta3": "Voir la page"
+      , "cta-image": "Choisir une photo"
+      , "cta-image-uploading": "Veuillez patienter..."
+    }
+    
   , "signup": {
         "title-v0": "Rassembler. Rendre hommage. Se souvenir."
       , "text-v0": "Vous venez de perdre un proche.\n Créez un espace privé afin de rassembler son entourage et lui rendre hommage."

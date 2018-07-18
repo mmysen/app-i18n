@@ -41,6 +41,11 @@
           , "cta": "Enviar flores"
           , "text": "Puede fácilmente enviar flores a la familia.\nLas flores serán enviadas al servicio funerario."
         }
+      , "book": {
+            "title": "Commander le livre"
+          , "cta": "Commander le livre"
+          , "text": "Afin de garder une trace de tous ces magnifique mots et photos écrit en hommage à {{firstname}}, commandez le livre imprimé en son hommage."
+        }
       , "contact": {
             "title": "Contacto"
           , "text": "Esta página fue creada por la familia de {{firstname}}. \n\nEn caso de tener alguna consulta, favor de contactarse con:"
@@ -71,7 +76,6 @@
       , "cta-message": "Escribir un mensaje"
       , "no-result": "Todos los mensajes de homenaje serán publicados aquí.\nSus recuerdos y sus palabras ayudarán a los seres queridos de {{firstname}}a navegar por este camino.\nSea el primero en compartir, ayudar e inspirar a otros a hacer lo mismo."
     }
-  , "memories": {}
   , "message": {
         "input-fullname-placeholder": "Su nombre y apellido"
       , "input-email-placeholder": "Correo Electrónico"
@@ -88,6 +92,32 @@
           , "3": { "title": "Fotografías", "text": "La página es mucho más bella con fotos." }
         }
     }
+
+
+  , "client": {
+        "input-firstname-placeholder": "Apellido"
+      , "input-lastname-placeholder": "Nombre"
+      , "input-email-placeholder": "Correo Electrónico"
+    }
+  , "item": {
+        "label-qty": "Quantité"
+    }
+  , "shipping": {
+        "conditions": "Entrega únicamente en Francia."
+      , "label-withInvoice": "Utiliser une autre adresse pour la facturation ?"
+      , "input-name-placeholder": "Nombre"
+      , "input-phone-placeholder": "Phone"
+      , "input-recipient-placeholder": "Destinatario"
+      , "input-address-placeholder": "Dirección"
+      , "input-city-placeholder": "Ciudad"
+      , "input-zipcode-placeholder": "Código Postal"
+      , "input-info-placeholder": "Infos complémentaire (téléphone, étage...)"
+    }
+  , "tx": {
+        "receipt": "¡Su pago de {{tx.amount_f}} ha sido registrado!\nRéférence : {{tx.chargeId}}"
+    }
+
+
   , "donation": {
         "title": "Nueva donación"
       , "amounts": "50,100,150,200,300"
@@ -102,10 +132,10 @@
       , "label-info": "> Información bancaria"
       , "label-amount": "> Cantidad de la donación"
       , "label-receipt": "Comprobante fiscal (opcional)"
+      , "label-other-amount": "Otro"
       , "cta": "Pagar"
       , "cta-end": "Terminar"
-      , "receipt": "¡Su pago de {{amount}} ha sido registrado!\nRéférence : {{id}}"
-      , "other": "Otro"
+      , "receipt": "¡Su pago de {{amount_f}} ha sido registrado!\nRéférence : {{chargeId}}"
     }
   , "flower": {
         "step0-title": "Elija su ramo de flores"
@@ -118,9 +148,8 @@
       , "step3-subtitle": ""
       , "step4-title": "¡Gracias por su apoyo!"
       , "step4-subtitle": ""
-      , "input-firstname-placeholder": "Nombre"
-      , "input-lastname-placeholder": "Apellido"
-      , "input-email-placeholder": "Correo Electrónico"
+      , "label-custom-address": "Dirección de su elección"
+      , "label-interflora": "Interflora le garantiza que las flores llegarán 15 minutos antes del comienzo del servicio."
       , "label-message": "Escribir un mensaje a la familia"
       , "input-message-placeholder": "Su mensaje"
       , "recap-info": "Información de entrega:\n{{shipping.name}}\n{{shipping.date_f}}"
@@ -128,17 +157,9 @@
       , "cta-end": "Terminar"
       , "cart-item": "Bouquet"
       , "cart-shipping": "Envío"
-      , "receipt": "¡Su pago de {{amount}} ha sido registrado!\nReferencia : {{id}}"
+      , "receipt": "¡Su pago de {{tx.amount_f}} ha sido registrado!\nReferencia : {{tx.chargeId}}"
     }
-  , "shipping": {
-        "conditions": "Entrega únicamente en Francia."
-      , "interflora": "Interflora le garantiza que las flores llegarán 15 minutos antes del comienzo del servicio."
-      , "custom-label": "Dirección de su elección"
-      , "input-recipient-placeholder": "Destinatario"
-      , "input-address-placeholder": "Dirección"
-      , "input-city-placeholder": "Ciudad"
-      , "input-zipcode-placeholder": "Código Postal"
-  }
+
   , "book": {
         "step0-title": "Mi libro InMemori"
       , "step0-subtitle": ""
@@ -148,24 +169,18 @@
       , "step2-subtitle": ""
       , "step3-title": "¡Gracias por su apoyo!"
       , "step3-subtitle": ""
-      , "item-info": "La calidad de impresión de las imágenes depende del tamaño de las fotos publicadas por cada persona en la colección de tributos. Gracias por su comprensión."
-      , "label-qty": "Cantidad :"
+      , "item-info": "La qualité d’impression des images dépend de la taille des photos postées par chacun sur le recueil d’hommages, merci de votre compréhension."
       , "shipping-info": "Para garantizar la impresión de un libro de buena calidad al mejor precio agrupamos los pedidos.\nEl tiempo de entrega puede variar de 15 a 30 días después de la orden. Entrega solo en Francia."
-      , "input-firstname-placeholder": "Nombre"
-      , "input-lastname-placeholder": "Apellido"
-      , "input-email-placeholder": "Correo Electrónico"
-      , "label-message": "Dirija algunas palabras a la familia"
-      , "input-message-placeholder": "Escribir un mensaje"
       , "cta": "Validar"
       , "cta-end": "Terminar"
-      , "receipt": "¡Su pago de {{amount}} ha sido registrado!\nReferencia : {{id}}"
     }
-  , "print": {}
+
   , "delete": {
         "title": "¿Confirma la eliminación de la página?"
       , "text": "Está a punto de eliminar la pagina en honor a {{fullname}}."
       , "cta": "Eliminar"
     }
+
   , "share": {
         "link": {
             "title": "Compartir esta página"
