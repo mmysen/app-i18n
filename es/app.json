@@ -114,7 +114,7 @@
       , "input-info-placeholder": "Infos complémentaire (téléphone, étage...)"
     }
   , "tx": {
-        "receipt": "¡Su pago de {{tx.amount_f}} ha sido registrado!\nRéférence : {{tx.chargeId}}"
+        "receipt": "¡Su pago de {{context.tx.amount_f}} ha sido registrado!\nRéférence : {{context.tx.chargeId}}"
     }
 
 
@@ -136,7 +136,7 @@
       , "cta": "Pagar"
       , "cta-end": "Terminar"
       , "other": "Otro"
-      , "receipt": "¡Su pago de {{amount_f}} ha sido registrado!\nRéférence : {{chargeId}}"
+      , "receipt": "¡Su pago de {{context.tx.amount_f}} ha sido registrado!\nRéférence : {{context.tx.chargeId}}"
     }
   , "flower": {
         "step0-title": "Elija su ramo de flores"
@@ -153,12 +153,12 @@
       , "label-interflora": "Interflora le garantiza que las flores llegarán 15 minutos antes del comienzo del servicio."
       , "label-message": "Escribir un mensaje a la familia"
       , "input-message-placeholder": "Su mensaje"
-      , "recap-info": "Información de entrega:\n{{shipping.name}}\n{{shipping.date_f}}"
+      , "shipping-info": "Información de entrega:\n{{context.shipping.name}}\n{{context.shipping.date_f}}"
       , "cta": "Validar"
       , "cta-end": "Terminar"
       , "cart-item": "Bouquet"
       , "cart-shipping": "Envío"
-      , "receipt": "¡Su pago de {{tx.amount_f}} ha sido registrado!\nReferencia : {{tx.chargeId}}"
+      , "receipt": "¡Su pago de {{context.tx.amount_f}} ha sido registrado!\nReferencia : {{context.tx.chargeId}}"
     }
 
   , "book": {
