@@ -114,7 +114,7 @@
       , "input-info-placeholder": "Infos complémentaire (téléphone, étage...)"
     }
   , "tx": {
-        "receipt": "Votre paiement de {{tx.amount_f}} a bien été enregistré !\nRéférence : {{tx.chargeId}}"
+        "receipt": "Votre paiement de {{context.tx.amount_f}} a bien été enregistré !\nRéférence : {{context.tx.chargeId}}"
     }
 
 
@@ -135,7 +135,7 @@
       , "cta": "Payer"
       , "cta-end": "Terminer"
       , "other": "Autre"
-      , "receipt": "Votre paiement de {{amount_f}} a bien été enregistré !\nRéférence : {{chargeId}}"
+      , "receipt": "Votre paiement de {{context.tx.amount_f}} a bien été enregistré !\nRéférence : {{context.tx.chargeId}}"
 
     }
 
@@ -154,12 +154,12 @@
       , "label-interflora": "Interflora vous garantit une livraison 15 minutes avant le début des obsèques."
       , "label-message": "Adressez quelques mots à la famille"
       , "input-message-placeholder": "Laisser un message"
-      , "shipping-info": "Informations de livraison :\n{{shipping.name}}\n{{shipping.date_f}}"
+      , "shipping-info": "Informations de livraison :\n{{context.shipping.name}}\n{{context.shipping.date_f}}"
       , "cta": "Valider"
       , "cta-end": "Terminer"
       , "cart-item": "Bouquet"
       , "cart-shipping": "Livraison"
-      , "receipt": "Votre paiement de {{tx.amount_f}} a bien été enregistré !\nRéférence : {{tx.chargeId}}"
+      , "receipt": "Votre paiement de {{context.tx.amount_f}} a bien été enregistré !\nRéférence : {{context.tx.chargeId}}"
     }
 
   , "book": {
