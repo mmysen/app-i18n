@@ -44,7 +44,7 @@
       , "book": {
             "title": "Commander le livre"
           , "cta": "Commander le livre"
-          , "text": "Afin de garder une trace de tous ces magnifique mots et photos écrit en hommage à {{firstname}}, commandez le livre imprimé en son hommage."
+          , "text": "Afin de garder une trace de tous ces magnifique mots et photos écrits en hommage à {{firstname}}, commandez le livre imprimé en son hommage."
         }
       , "contact": {
             "title": "Contact"
@@ -95,8 +95,8 @@
 
 
   , "cart": {
-        "label-item": "Produit"
-      , "label-qty": "Qty"
+        "label-item": "Livre InMemori"
+      , "label-qty": "Quantité"
       , "label-price": "Prix"
       , "label-shipping": "Frais de livraison :"
       , "label-total": "Total :"
@@ -120,7 +120,7 @@
       , "input-address-placeholder": "Adresse"
       , "input-city-placeholder": "Ville"
       , "input-zipcode-placeholder": "Code postal"
-      , "input-info-placeholder": "Infos complémentaire (téléphone, étage...)"
+      , "input-info-placeholder": "Informations complémentaires (digicode, étage...)"
     }
   , "tx": {
         "receipt": "Votre paiement de {{context.tx.amount_f}} a bien été enregistré !\nRéférence : {{context.tx.chargeId}}"
@@ -208,7 +208,7 @@
           , "cta": ""
         }
       , "item-info": "La qualité d’impression des images dépend de la taille des photos postées par chacun sur le recueil d’hommages, merci de votre compréhension."
-      , "shipping-info": "Afin de vous garantir un livre de belle qualité au meilleur prix, nous mutualisons les commandes. Les délais de livraison varient de 15 à 30 jours après la commande."
+      , "shipping-info": "Afin de vous garantir un livre de belle qualité au meilleur prix, nous regroupons les commandes. Les délais de livraison varient de 15 à 30 jours après la commande."
       , "cta-prev": "Retour"
       , "cta-end": "Terminer"
     }
