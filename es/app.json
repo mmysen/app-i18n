@@ -186,7 +186,7 @@
           , "cta": "Pedir"
         }
       , "step1": {
-            "title": "Cesta"
+            "title": "Mi carrito"
           , "subtitle": ""
           , "cta": "Siguiente"
         }
