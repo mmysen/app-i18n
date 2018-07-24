@@ -149,16 +149,26 @@
     }
 
   , "flower": {
-        "step0-title": "Choisissez votre bouquet"
-      , "step0-subtitle": "Tous les bouquets sont de taille moyenne et livrés avec une bulle d'eau afin de pouvoir être présentés sur le lieu de cérémonie de votre choix."
-      , "step1-title": "Votre sélection"
-      , "step1-subtitle": ""
-      , "step2-title": "Livraison"
-      , "step2-subtitle": ""
-      , "step3-title": "Validez la commande"
-      , "step3-subtitle": ""
-      , "step4-title": "Merci de votre soutien !"
-      , "step4-subtitle": ""
+        "step0": {
+            "title": "Choisissez votre bouquet"
+          , "stbtitle": "Tous les bouquets sont de taille moyenne et livrés avec une bulle d'eau afin de pouvoir être présentés sur le lieu de cérémonie de votre choix."
+        }
+      , "step1": {
+            "title": "Votre sélection"
+          , "subtitle": ""
+        }
+      , "step2": {
+            "title": "Livraison"
+          , "subtitle": ""
+        }
+      , "step3": {
+            "title": "Validez la commande"
+          , "subtitle": ""
+        }
+      , "step4": {
+            "title": "Merci de votre soutien !"
+          , "subtitle": ""
+        }
       , "label-custom-address": "Adresse de votre choix"
       , "label-interflora": "Interflora vous garantit une livraison 15 minutes avant le début des obsèques."
       , "label-message": "Adressez quelques mots à la famille"

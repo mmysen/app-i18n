@@ -150,14 +150,22 @@
       , "receipt": "Payment received!\nReference number: {{context.tx.chargeId}}"
     }
   , "flower": {
-        "step0-title": "Choose your bouquet"
-      , "step0-subtitle": "All of the bouquets are medium-sized and will be delivered in water to the memorial service(s)."
-      , "step1-title": "Your selection"
-      , "step1-subtitle": ""
-      , "step2-title": "Delivery"
-      , "step2-subtitle": "Choose an address. \n Interflora guarantees that your flowers will be delivered 15 minutes before services begin."
-      , "step3-title": "Confirm your purchase"
-      , "step3-subtitle": ""
+      "step0": {
+          "title": "Choose your bouquet"
+        , "subtitle": "All of the bouquets are medium-sized and will be delivered in water to the memorial service(s)."
+      }
+      , "step1": {
+          "title": "Your selection"
+        , "subtitle": ""
+      }
+      , "step2": {
+          "title": "Delivery"
+        , "subtitle": "Choose an address. \n Interflora guarantees that your flowers will be delivered 15 minutes before services begin."
+      }
+      , "step3": {
+          "title": "Confirm your purchase"
+        , "subtitle": ""
+      }
       , "label-custom-address": "Address of your choice"
       , "label-interflora": " Interflora vous garantit une livraison 15 minutes avant le début des obsèques."
       , "label-message": "Write a message to the family"

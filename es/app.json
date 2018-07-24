@@ -147,16 +147,26 @@
       , "receipt": "¡Su pago de {{context.tx.amount_f}} ha sido registrado!\nRéférence : {{context.tx.chargeId}}"
     }
   , "flower": {
-        "step0-title": "Elija su ramo de flores"
-      , "step0-subtitle": "Todos los ramos de flores son de un tamaño mediano y vienen con una burbuja de agua para poder ser presentados en el lugar de la ceremonia."
-      , "step1-title": "Su selección"
-      , "step1-subtitle": ""
-      , "step2-title": "Envío"
-      , "step2-subtitle": ""
-      , "step3-title": "Confirmar su compra"
-      , "step3-subtitle": ""
-      , "step4-title": "¡Gracias por su apoyo!"
-      , "step4-subtitle": ""
+        "step0": {
+            "title": "Elija su ramo de flores"
+          , "subtitle": "Todos los ramos de flores son de un tamaño mediano y vienen con una burbuja de agua para poder ser presentados en el lugar de la ceremonia."
+        }
+      , "step1": {
+            "title": "Su selección"
+          , "subtitle": ""
+        }
+      , "step2": {
+            "title": "Envío"
+          , "subtitle": ""
+        }
+      , "step3": {
+            "title": "Confirmar su compra"
+          , "subtitle": ""
+        }
+      , "step4": {
+            "title": "¡Gracias por su apoyo!"
+          , "subtitle": ""
+        }
       , "label-custom-address": "Dirección de su elección"
       , "label-interflora": "Interflora le garantiza que las flores llegarán 15 minutos antes del comienzo del servicio."
       , "label-message": "Escribir un mensaje a la familia"
