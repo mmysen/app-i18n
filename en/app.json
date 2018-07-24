@@ -105,7 +105,7 @@
 
 
   , "client": {
-        "input-firstname-placeholder": "Fistname"
+        "input-firstname-placeholder": "Firstname"
       , "input-lastname-placeholder": "Lastname"
       , "input-email-placeholder": "Email"
     }
@@ -167,7 +167,7 @@
         , "subtitle": ""
       }
       , "label-custom-address": "Address of your choice"
-      , "label-interflora": " Interflora vous garantit une livraison 15 minutes avant le début des obsèques."
+      , "label-interflora": " Interflora guarantees that your flowers will be delivered 15 minutes before services begin."
       , "label-message": "Write a message to the family"
       , "input-message-placeholder": "Your message"
       , "recap-info": "Delivery information: \n{{context.shipping.name}}\n{{context.shipping.date_f}}"
@@ -190,7 +190,7 @@
         }
       , "step2": {
             "title": "Delivery"
-          , "subtitle": "Shipping to France only"
+          , "subtitle": "Shipping to metropolitan France only"
           , "cta": "Next"
         }
       , "step3": {
