@@ -190,7 +190,7 @@
         }
       , "step2": {
             "title": "Delivery"
-          , "subtitle": "[Shipping to France only]"
+          , "subtitle": "Shipping to France only"
           , "cta": "Next"
         }
       , "step3": {
