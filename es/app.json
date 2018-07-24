@@ -94,11 +94,11 @@
     }
 
   , "cart": {
-        "label-item": "Producto"
-      , "label-qty": "Unidades"
-      , "label-price": "Precio"
-      , "label-shipping": "Gastos de envío :"
-      , "label-total": "Total :"
+        "label-item": "Libro InMemori"
+      , "label-qty": "Cantidad"
+      , "label-price": "Precio unitario"
+      , "label-shipping": "Gastos de envío de artículos (solo en Francia continental) :"
+      , "label-total": "Precio total :"
     }
 
 
@@ -108,7 +108,7 @@
       , "input-email-placeholder": "Correo Electrónico"
     }
   , "item": {
-        "label-qty": "Quantité"
+        "label-qty": "Cantidad"
     }
   , "shipping": {
         "conditions": "Entrega únicamente en Francia."
