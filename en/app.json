@@ -45,7 +45,7 @@
       , "book": {
             "title": "Order a book"
           , "cta": "Order a book"
-          , "text": "To keep a trace of all the beautiful words and photos shared on the InMemori page of {firstname}}, order the book to keep the memories shared."
+          , "text": "To keep a trace of all the beautiful words and photos shared on the InMemori page of {{firstname}}, order the book to keep the memories shared."
         }
       , "contact": {
             "title": "Contact"
