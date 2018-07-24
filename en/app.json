@@ -17,7 +17,7 @@
       , "message": "Write a message"
       , "donation": "Donate"
       , "flowers": "Send flowers"
-      , "book": "Order the InMemori book"
+      , "book": "Order a book"
       , "share": "Share this page"
     }
   , "share-bar": "Share this page"
@@ -43,9 +43,9 @@
           , "text": "You can simply send flowers to the family.\n The flowers will be delivered to the memorial service(s)."
         }
       , "book": {
-            "title": "Commander le livre"
-          , "cta": "Commander le livre"
-          , "text": "Afin de garder une trace de tous ces magnifique mots et photos écrit en hommage à {{firstname}}, commandez le livre imprimé en son hommage."
+            "title": "Order a book"
+          , "cta": "Order a book"
+          , "text": "To keep a trace of all the beautiful words and photos shared on the InMemori page of {firstname}}, order the book to keep the memories shared."
         }
       , "contact": {
             "title": "Contact"
@@ -96,11 +96,11 @@
 
 
   , "cart": {
-        "label-item": "Product"
-      , "label-qty": "Qty"
+        "label-item": "InMemori book"
+      , "label-qty": "Quantity"
       , "label-price": "Price"
-      , "label-shipping": "Shipping :"
-      , "label-total": "Total :"
+      , "label-shipping": "Shipping cost (in metropolitan France only):"
+      , "label-total": "Total:"
     }
 
 
@@ -122,7 +122,7 @@
       , "input-address-placeholder": "Address"
       , "input-city-placeholder": "City"
       , "input-zipcode-placeholder": "Zipcode"
-      , "input-info-placeholder": "Additional infos (phone, floor...)"
+      , "input-info-placeholder": "Additional infos (floor...)"
     }
   , "tx": {
         "receipt": "Your payment of {{context.tx.amount_f}} has been sent!\nOrder number : {{context.tx.chargeId}}"
@@ -179,7 +179,7 @@
     }
   , "book": {
         "step0": {
-            "title": "Inmemori book"
+            "title": "InMemori book"
           , "subtitle": ""
           , "cta": "Order"
         }
@@ -189,22 +189,22 @@
           , "cta": "Next"
         }
       , "step2": {
-            "title": "Shipping"
+            "title": "Delivery"
           , "subtitle": "[Shipping to France only]"
           , "cta": "Next"
         }
       , "step3": {
-            "title": "Validez la commande"
+            "title": "Confirm my purchase"
           , "subtitle": ""
-          , "cta": "Valider"
+          , "cta": "Confirm"
         }
       , "step4": {
-            "title": "Order complete"
+            "title": "Thank you for your purchase!"
           , "subtitle": ""
           , "cta": ""
         }
-      , "item-info": "La qualité d’impression des images dépend de la taille des photos postées par chacun sur le recueil d’hommages, merci de votre compréhension."
-      , "shipping-info": "Afin de vous garantir un livre de belle qualité au meilleur prix, nous mutualisons les commandes. Les délais de livraison varient de 15 à 30 jours après la commande."
+      , "item-info": "The print quality of the images depends on the size of the photos posted by each one, thank you for your understanding."
+      , "shipping-info": "To guarantee you the best price, we group and send all the book orders to print once a month. Therefore, the delivery time could take up to 30 days after purchase."
       , "cta-prev": "Back"
       , "cta-end": "Close"
     }
