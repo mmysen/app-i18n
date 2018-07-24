@@ -42,9 +42,9 @@
           , "text": "Puede fácilmente enviar flores a la familia.\nLas flores serán enviadas al servicio funerario."
         }
       , "book": {
-            "title": "Commander le livre"
-          , "cta": "Commander le livre"
-          , "text": "Afin de garder une trace de tous ces magnifique mots et photos écrit en hommage à {{firstname}}, commandez le livre imprimé en son hommage."
+            "title": "Pedir el recuerdo"
+          , "cta": "Pedir el recuerdo"
+          , "text": "Para conservar todos los mensajes y fotos compartidos en homenaje a {{firstname}}, puede pedir el libro InMemori."
         }
       , "contact": {
             "title": "Contacto"
@@ -183,10 +183,10 @@
         "step0": {
             "title": "Mi libro InMemori"
           , "subtitle": ""
-          , "cta": "Commander"
+          , "cta": "Pedir"
         }
       , "step1": {
-            "title": "Mi carrito"
+            "title": "Cesta"
           , "subtitle": ""
           , "cta": "Próximo"
         }
