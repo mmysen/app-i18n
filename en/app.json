@@ -125,7 +125,7 @@
       , "input-info-placeholder": "Additional infos (phone, floor...)"
     }
   , "tx": {
-        "receipt": "Your payment of {{tx.amount_f}} has been sent!\nOrder number : {{tx.chargeId}}"
+        "receipt": "Your payment of {{context.tx.amount_f}} has been sent!\nOrder number : {{context.tx.chargeId}}"
     }
 
 
@@ -147,7 +147,7 @@
       , "label-other-amount": "Other"
       , "cta": "Send"
       , "cta-end": "End"
-      , "receipt": "Payment received!\nReference number: {{chargeId}}"
+      , "receipt": "Payment received!\nReference number: {{context.tx.chargeId}}"
     }
   , "flower": {
         "step0-title": "Choose your bouquet"
@@ -162,12 +162,12 @@
       , "label-interflora": " Interflora vous garantit une livraison 15 minutes avant le début des obsèques."
       , "label-message": "Write a message to the family"
       , "input-message-placeholder": "Your message"
-      , "recap-info": "Delivery information: \n{{shipping.name}}\n{{shipping.date_f}}"
+      , "recap-info": "Delivery information: \n{{context.shipping.name}}\n{{context.shipping.date_f}}"
       , "cta": "Validate"
       , "cta-end": "Close"
       , "cart-item": "Flowers"
       , "cart-shipping": "Shipping"
-      , "receipt": "Payment received!\nReference number: {{tx.chargeId}}"
+      , "receipt": "Payment received!\nReference number: {{context.tx.chargeId}}"
     }
   , "book": {
         "step0": {
