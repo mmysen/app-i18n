@@ -94,10 +94,10 @@
     }
 
   , "cart": {
-        "label-item": "Produit"
-      , "label-qty": "Qty"
-      , "label-price": "Prix"
-      , "label-shipping": "Frais de livraison :"
+        "label-item": "Producto"
+      , "label-qty": "Unidades"
+      , "label-price": "Precio"
+      , "label-shipping": "Gastos de envío :"
       , "label-total": "Total :"
     }
 
@@ -112,14 +112,14 @@
     }
   , "shipping": {
         "conditions": "Entrega únicamente en Francia."
-      , "label-withInvoice": "Utiliser une autre adresse pour la facturation ?"
+      , "label-withInvoice": "¿Utilizar otra dirección por la facturación?"
       , "input-name-placeholder": "Nombre"
-      , "input-phone-placeholder": "Phone"
+      , "input-phone-placeholder": "Teléfono"
       , "input-recipient-placeholder": "Destinatario"
       , "input-address-placeholder": "Dirección"
       , "input-city-placeholder": "Ciudad"
       , "input-zipcode-placeholder": "Código Postal"
-      , "input-info-placeholder": "Infos complémentaire (téléphone, étage...)"
+      , "input-info-placeholder": "Informaciones complementarias (código, planta...)"
     }
   , "tx": {
         "receipt": "¡Su pago de {{context.tx.amount_f}} ha sido registrado!\nRéférence : {{context.tx.chargeId}}"
@@ -205,10 +205,10 @@
           , "subtitle": ""
           , "cta": ""
         }
-      , "item-info": "La qualité d’impression des images dépend de la taille des photos postées par chacun sur le recueil d’hommages, merci de votre compréhension."
+      , "item-info": "La calidad de impresión de las imágenes depende de la dimensión de las fotos publicadas, gracias por su comprensión."
       , "shipping-info": "Afin de vous garantir un livre de belle qualité au meilleur prix, nous mutualisons les commandes. Les délais de livraison varient de 15 à 30 jours après la commande."
       , "shipping-info": "Para garantizar la impresión de un libro de buena calidad al mejor precio agrupamos los pedidos.\nEl tiempo de entrega puede variar de 15 a 30 días después de la orden."
-      , "cta-prev": "Back"
+      , "cta-prev": "Regreso"
       , "cta-end": "Terminar"
     }
 
