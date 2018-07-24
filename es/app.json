@@ -42,9 +42,9 @@
           , "text": "Puede fácilmente enviar flores a la familia.\nLas flores serán enviadas al servicio funerario."
         }
       , "book": {
-            "title": "Pedir el recuerdo"
-          , "cta": "Pedir el recuerdo"
-          , "text": "Para conservar todos los mensajes y fotos compartidos en homenaje a {{firstname}}, puede pedir el libro InMemori."
+            "title": "Ordene el libro"
+          , "cta": "Ordene el libro"
+          , "text": "Para realizar un seguimiento de todas estas bellas palabras y fotos escritas en homenaje a {{firstname}}, ordene el libro impreso en su tributo."
         }
       , "contact": {
             "title": "Contacto"
@@ -112,14 +112,14 @@
     }
   , "shipping": {
         "conditions": "Entrega únicamente en Francia."
-      , "label-withInvoice": "¿Utilizar otra dirección por la facturación?"
+      , "label-withInvoice": "Dirección de facturación idéntica"
       , "input-name-placeholder": "Nombre"
       , "input-phone-placeholder": "Teléfono"
       , "input-recipient-placeholder": "Destinatario"
       , "input-address-placeholder": "Dirección"
       , "input-city-placeholder": "Ciudad"
       , "input-zipcode-placeholder": "Código Postal"
-      , "input-info-placeholder": "Informaciones complementarias (código, planta...)"
+      , "input-info-placeholder": "Informaciones complementarias (código de puerta, planta...)"
     }
   , "tx": {
         "receipt": "¡Su pago de {{context.tx.amount_f}} ha sido registrado!\nRéférence : {{context.tx.chargeId}}"
@@ -206,8 +206,8 @@
           , "cta": ""
         }
       , "item-info": "La calidad de impresión de las imágenes depende de la dimensión de las fotos publicadas, gracias por su comprensión."
-      , "shipping-info": "Para garantizar la impresión de un libro de buena calidad al mejor precio agrupamos los pedidos.\nEl tiempo de entrega puede variar de 15 a 30 días después de la orden."
-      , "cta-prev": "Regreso"
+      , "shipping-info": "Para garantizarle el mejor precio, agrupamos los pedidos realizados por las familias que utilizaron InMemori este mes. \nLos plazos de entrega pueden ser de hasta 30 días después de su pedido."
+      , "cta-prev": "Regresar"
       , "cta-end": "Terminar"
     }
 
