@@ -17,7 +17,7 @@
       , "message": "Escribir un mensaje"
       , "donation": "Donar"
       , "flowers": "Enviar flores"
-      , "book": "Imprimir el recuerdo"
+      , "book": "Ordene el libro"
       , "share": "Compartir esta página"
     }
   , "share-bar": "Compartir esta página"
@@ -188,12 +188,12 @@
       , "step1": {
             "title": "Cesta"
           , "subtitle": ""
-          , "cta": "Próximo"
+          , "cta": "Siguiente"
         }
       , "step2": {
             "title": "Entrega"
           , "subtitle": "[Entrega solo en Francia]"
-          , "cta": "Próximo"
+          , "cta": "Siguiente"
         }
       , "step3": {
             "title": "Complete la orden"
