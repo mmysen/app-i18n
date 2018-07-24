@@ -94,20 +94,30 @@
         }
     }
 
+
+  , "cart": {
+        "label-item": "Product"
+      , "label-qty": "Qty"
+      , "label-price": "Price"
+      , "label-shipping": "Shipping :"
+      , "label-total": "Total :"
+    }
+
+
   , "client": {
-        "input-firstname-placeholder": "Prénom"
-      , "input-lastname-placeholder": "Nom"
+        "input-firstname-placeholder": "Fistname"
+      , "input-lastname-placeholder": "Lastname"
       , "input-email-placeholder": "Email"
     }
   , "item": {
-        "label-qty": "Quantité"
+        "label-qty": "Quantity"
     }
     
   , "shipping": {
         "conditions": "Shipping to France only."
       , "label-withInvoice": "Use a different addresse for invoice ?"
-      , "input-name-placeholder": "Nom"
-      , "input-phone-placeholder": "Téléphone"
+      , "input-name-placeholder": "Name"
+      , "input-phone-placeholder": "Phone"
       , "input-recipient-placeholder": "Recipient"
       , "input-address-placeholder": "Address"
       , "input-city-placeholder": "City"
@@ -160,18 +170,35 @@
       , "receipt": "Payment received!\nReference number: {{tx.chargeId}}"
     }
   , "book": {
-        "step0-title": "Mon livre Inmemori"
-      , "step0-subtitle": ""
-      , "step1-title": "Livraison"
-      , "step1-subtitle": ""
-      , "step2-title": "Finalisez la commande"
-      , "step2-subtitle": ""
-      , "step3-title": "Merci de votre soutien !"
-      , "step3-subtitle": ""
+        "step0": {
+            "title": "Inmemori book"
+          , "subtitle": ""
+          , "cta": "Order"
+        }
+      , "step1": {
+            "title": "My cart"
+          , "subtitle": ""
+          , "cta": "Next"
+        }
+      , "step2": {
+            "title": "Shipping"
+          , "subtitle": "[Shipping to France only]"
+          , "cta": "Next"
+        }
+      , "step3": {
+            "title": "Validez la commande"
+          , "subtitle": ""
+          , "cta": "Valider"
+        }
+      , "step4": {
+            "title": "Order complete"
+          , "subtitle": ""
+          , "cta": ""
+        }
       , "item-info": "La qualité d’impression des images dépend de la taille des photos postées par chacun sur le recueil d’hommages, merci de votre compréhension."
-      , "shipping-info": "Afin de vous garantir l’impression d’un livre de belle qualité au meilleur prix, nous mutualisons les commandes.\nLes délais de livraison peuvent donc varier de 15 à 30 jours après la commande. Livraison en France uniquement."
-      , "cta": "Valider"
-      , "cta-end": "Terminer"
+      , "shipping-info": "Afin de vous garantir un livre de belle qualité au meilleur prix, nous mutualisons les commandes. Les délais de livraison varient de 15 à 30 jours après la commande."
+      , "cta-prev": "Back"
+      , "cta-end": "Close"
     }
 
   , "delete": {

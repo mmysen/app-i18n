@@ -93,6 +93,14 @@
         }
     }
 
+  , "cart": {
+        "label-item": "Produit"
+      , "label-qty": "Qty"
+      , "label-price": "Prix"
+      , "label-shipping": "Frais de livraison :"
+      , "label-total": "Total :"
+    }
+
 
   , "client": {
         "input-firstname-placeholder": "Apellido"
@@ -162,19 +170,39 @@
     }
 
   , "book": {
-        "step0-title": "Mi libro InMemori"
-      , "step0-subtitle": ""
-      , "step1-title": "Entrega"
-      , "step1-subtitle": ""
-      , "step2-title": "Complete la orden"
-      , "step2-subtitle": ""
-      , "step3-title": "¡Gracias por su apoyo!"
-      , "step3-subtitle": ""
+        "step0": {
+            "title": "Mi libro InMemori"
+          , "subtitle": ""
+          , "cta": "Commander"
+        }
+      , "step1": {
+            "title": "Mi carrito"
+          , "subtitle": ""
+          , "cta": "Próximo"
+        }
+      , "step2": {
+            "title": "Entrega"
+          , "subtitle": "[Entrega solo en Francia]"
+          , "cta": "Próximo"
+        }
+      , "step3": {
+            "title": "Complete la orden"
+          , "subtitle": ""
+          , "cta": "Validar"
+        }
+      , "step4": {
+            "title": "¡Gracias por su apoyo!"
+          , "subtitle": ""
+          , "cta": ""
+        }
       , "item-info": "La qualité d’impression des images dépend de la taille des photos postées par chacun sur le recueil d’hommages, merci de votre compréhension."
-      , "shipping-info": "Para garantizar la impresión de un libro de buena calidad al mejor precio agrupamos los pedidos.\nEl tiempo de entrega puede variar de 15 a 30 días después de la orden. Entrega solo en Francia."
-      , "cta": "Validar"
+      , "shipping-info": "Afin de vous garantir un livre de belle qualité au meilleur prix, nous mutualisons les commandes. Les délais de livraison varient de 15 à 30 jours après la commande."
+      , "shipping-info": "Para garantizar la impresión de un libro de buena calidad al mejor precio agrupamos los pedidos.\nEl tiempo de entrega puede variar de 15 a 30 días después de la orden."
+      , "cta-prev": "Back"
       , "cta-end": "Terminar"
     }
+
+
 
   , "delete": {
         "title": "¿Confirma la eliminación de la página?"
