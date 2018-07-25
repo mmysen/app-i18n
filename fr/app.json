@@ -44,7 +44,7 @@
       , "book": {
             "title": "Commander le livre"
           , "cta": "Commander le livre"
-          , "text": "Afin de garder une trace de tous ces magnifique mots et photos écrits en hommage à {{firstname}}, commandez le livre imprimé en son hommage."
+          , "text": "Afin de garder une trace de tous ces magnifiques mots et photos écrits en hommage à {{firstname}}, commandez le livre imprimé en son hommage."
         }
       , "contact": {
             "title": "Contact"
