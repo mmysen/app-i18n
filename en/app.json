@@ -99,7 +99,7 @@
         "label-item": "InMemori book"
       , "label-qty": "Quantity"
       , "label-price": "Price"
-      , "label-shipping": "Shipping cost (in metropolitan France only):"
+      , "label-shipping": "Shipping cost:"
       , "label-total": "Total:"
     }
 
