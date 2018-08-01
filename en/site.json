@@ -29,7 +29,7 @@
         }
       , "step3": { 
             "title": "Page created"
-          , "info": "Congratulations, the page in honor of {{fullname}} is created, you can now share it with your close ones !"
+          , "info": "Congratulations, the page in honor of {{fullname}} is created, you can now share it with your close ones!"
           , "cta": "See the page"
         }
       , "cta-back": "Back"
