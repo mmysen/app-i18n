@@ -12,19 +12,27 @@
     }
 
   , "welcome": {
-        "title0": "Faire-Part"
-      , "title1": "Contact"
-      , "title2": "Obsèques"
-      , "title3": "Page crée"
-      , "info0": "Informations sur votre proche disparu."
-      , "info1": "Vos Informations"
-      , "info2": "Vous pouvez ajouter une étape supplémentaire. Si vous n’avez pas ces informations, vous pourrez les renseigner ultérieurement."
-      , "info3": "Bravo, la page en hommage à {{fullname}} est activée et prête à être partagée !"
+        "step0": { 
+            "title": "Faire-Part"
+          , "info": "Informations sur votre proche disparu."
+          , "cta": "Suivant"
+        }
+      , "step1": { 
+            "title": "Contact"
+          , "info": "Vos Informations"
+          , "cta": "Suivant"
+        }
+      , "step2": { 
+            "title": "Obsèques"
+          , "info": "Vous pouvez ajouter une étape supplémentaire. Si vous n’avez pas ces informations, vous pourrez les renseigner ultérieurement."
+          , "cta": "Suivant"
+        }
+      , "step3": { 
+            "title": "Page crée"
+          , "info": "Bravo, la page en hommage à {{fullname}} est activée et prête à être partagée !"
+          , "cta": "Voir la page"
+        }
       , "cta-back": "Retour"
-      , "cta0": "Suivant"
-      , "cta1": "Suivant"
-      , "cta2": "Suivant"
-      , "cta3": "Voir la page"
       , "cta-image": "Choisir une photo"
       , "cta-image-uploading": "Veuillez patienter..."
     }
@@ -49,6 +57,25 @@
       , "lookup-text": "Looking for an existing page?"
       , "lookup-tooltip": "Ask the family for the link to the page."
     }
+
+  , "places": {
+        "label-privacy": "Will be held in intimate family setting"
+      , "label-info": "Additional information"
+      , "label-date": "Date of event"
+      , "placeholder-date": "Date"
+      , "label-time": "Time (24h format)"
+      , "placeholder-time": "Time "
+      , "label-name": "Location of event"
+      , "placeholder-name": "e.g. Mt. Sinai Mortuary, Grace Cathedral"
+      , "label-address": "Address"
+      , "placeholder-address": "1 Lincoln Bd, San Francisco, CA 94129"
+      , "cta-delete": "Remove"
+      , "cta-add": "Add an event"
+      , "select-type-placeholder": "Choose an event"
+      , "select-type-custom-text": "Event of your choice"
+      , "label-type": "Name of the event"
+    }
+    
   , "home": {
         "inform": {
             "title": "Gather and inform"

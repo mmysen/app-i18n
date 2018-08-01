@@ -12,19 +12,27 @@
     }
 
   , "welcome": {
-        "title0": "Faire-Part"
-      , "title1": "Contact"
-      , "title2": "Obsèques"
-      , "title3": "Page crée"
-      , "info0": "Informations sur votre proche disparu."
-      , "info1": "Vos Informations"
-      , "info2": "Vous pouvez ajouter une étape supplémentaire. Si vous n’avez pas ces informations, vous pourrez les renseigner ultérieurement."
-      , "info3": "Bravo, la page en hommage à {{fullname}} est activée et prête à être partagée !"
+        "step0": { 
+            "title": "Faire-Part"
+          , "info": "Informations sur votre proche disparu."
+          , "cta": "Suivant"
+        }
+      , "step1": { 
+            "title": "Contact"
+          , "info": "Vos Informations"
+          , "cta": "Suivant"
+        }
+      , "step2": { 
+            "title": "Obsèques"
+          , "info": "Vous pouvez ajouter une étape supplémentaire. Si vous n’avez pas ces informations, vous pourrez les renseigner ultérieurement."
+          , "cta": "Suivant"
+        }
+      , "step3": { 
+            "title": "Page crée"
+          , "info": "Bravo, la page en hommage à {{fullname}} est activée et prête à être partagée !"
+          , "cta": "Voir la page"
+        }
       , "cta-back": "Retour"
-      , "cta0": "Suivant"
-      , "cta1": "Suivant"
-      , "cta2": "Suivant"
-      , "cta3": "Voir la page"
       , "cta-image": "Choisir une photo"
       , "cta-image-uploading": "Veuillez patienter..."
     }
@@ -49,6 +57,25 @@
       , "lookup-text": "¿Busca una página existente?"
       , "lookup-tooltip": "Pida el link de la página a la familia del difunto."
     }
+
+  , "places": {
+        "label-privacy": "Se llevará a cabo en la intimidad familiar"
+      , "label-info": "Información complementaria"
+      , "label-date": "Fecha"
+      , "placeholder-date": "dd/mm/aaaa"
+      , "label-time": "Hora"
+      , "placeholder-time": "hh:mm "
+      , "label-name": "Nombre del lugar"
+      , "placeholder-name": "Las Reuniones Cemetery"
+      , "label-address": "Dirección"
+      , "placeholder-address": "9021 Channel Drive, Santa Barbara, CA 93108"
+      , "cta-delete": "Eliminar"
+      , "cta-add": "Agregar un evento"
+      , "select-type-placeholder": "Elegir un evento"
+      , "select-type-custom-text": "Evento de su eleccion"
+      , "label-type": "Nombre del evento"
+    }
+    
   , "home": {
         "inform": {
             "title": "Informe a sus seres queridos"

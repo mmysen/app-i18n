@@ -12,19 +12,27 @@
     }
 
   , "welcome": {
-        "title0": "Faire-Part"
-      , "title1": "Contact"
-      , "title2": "Obsèques"
-      , "title3": "Page crée"
-      , "info0": "Informations sur votre proche disparu."
-      , "info1": "Vos Informations"
-      , "info2": "Vous pouvez ajouter une étape supplémentaire. Si vous n’avez pas ces informations, vous pourrez les renseigner ultérieurement."
-      , "info3": "Bravo, la page en hommage à {{fullname}} est activée et prête à être partagée !"
+        "step0": { 
+            "title": "Faire-Part"
+          , "info": "Informations sur votre proche disparu."
+          , "cta": "Suivant"
+        }
+      , "step1": { 
+            "title": "Contact"
+          , "info": "Vos Informations"
+          , "cta": "Suivant"
+        }
+      , "step2": { 
+            "title": "Obsèques"
+          , "info": "Vous pouvez ajouter une étape supplémentaire. Si vous n’avez pas ces informations, vous pourrez les renseigner ultérieurement."
+          , "cta": "Suivant"
+        }
+      , "step3": { 
+            "title": "Page crée"
+          , "info": "Bravo, la page en hommage à {{fullname}} est activée et prête à être partagée !"
+          , "cta": "Voir la page"
+        }
       , "cta-back": "Retour"
-      , "cta0": "Suivant"
-      , "cta1": "Suivant"
-      , "cta2": "Suivant"
-      , "cta3": "Voir la page"
       , "cta-image": "Choisir une photo"
       , "cta-image-uploading": "Veuillez patienter..."
     }
@@ -49,6 +57,25 @@
       , "lookup-text": "Vous recherchez une page déjà existante ?"
       , "lookup-tooltip": "Demandez le lien de la page à la famille ou à des proches."
     }
+
+  , "places": {
+      "label-privacy": "Aura lieu dans l'intimité familiale"
+    , "label-info": "Information complémentaire"
+    , "label-date": "Date"
+    , "placeholder-date": "jj/mm/aaaa"
+    , "label-time": "Heure"
+    , "placeholder-time": "hh:mm "
+    , "label-name": "Nom du lieu"
+    , "placeholder-name": "Crématorium du Père Lachaise"
+    , "label-address": "Adresse"
+    , "placeholder-address": "71 Rue des Rondeaux, 75020 Paris"
+    , "cta-delete": "Supprimer"
+    , "cta-add": "Ajouter une étape"
+    , "select-type-placeholder": "Choisir un évènement"
+    , "select-type-custom-text": "Évènement de votre choix"
+    , "label-type": "Nom de l'évènement"
+  }
+
   , "home": {
         "inform": {
             "title": "Informer vos proches"
