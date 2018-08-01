@@ -24,7 +24,7 @@
         }
       , "step2": { 
             "title": "Celebration"
-          , "info": "Specify the date and location of any planned memorial ceremonies. You can add another event. If you do not have the information right now, you can complete them later."
+          , "info": "You can add another event. If you do not have the information right now, you can complete them later."
           , "cta": "Next"
         }
       , "step3": { 
