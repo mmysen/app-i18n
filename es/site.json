@@ -8,33 +8,33 @@
       , "press": "Prensa"
       , "contact": "Contacto"
       , "example": "Ver página de muestra"
-      , "signup": "Créer une page"
+      , "signup": "Crear una página"
     }
 
   , "welcome": {
         "step0": { 
-            "title": "Faire-Part"
-          , "info": "Informations sur votre proche disparu."
-          , "cta": "Suivant"
+            "title": "Informacíon"
+          , "info": "Favor de informarnos sobre la persona que Ud. perdió"
+          , "cta": "Siguiente"
         }
       , "step1": { 
-            "title": "Contact"
-          , "info": "Vos Informations"
-          , "cta": "Suivant"
+            "title": "Contactos"
+          , "info": "Sus informaciones"
+          , "cta": "Siguiente"
         }
       , "step2": { 
-            "title": "Obsèques"
-          , "info": "Vous pouvez ajouter une étape supplémentaire. Si vous n’avez pas ces informations, vous pourrez les renseigner ultérieurement."
-          , "cta": "Suivant"
+            "title": "Ceremonia"
+          , "info": "Puede agregar otro evento. Si no tiene Ud. las informaciones, puede completarlas ulteriormente."
+          , "cta": "Siguiente"
         }
       , "step3": { 
-            "title": "Page crée"
-          , "info": "Bravo, la page en hommage à {{fullname}} est activée et prête à être partagée !"
-          , "cta": "Voir la page"
+            "title": "Página creada"
+          , "info": "¡Bravo, la página en honor a {{fullname}} es creada y lista para ser compartida!"
+          , "cta": "Ver página"
         }
-      , "cta-back": "Retour"
-      , "cta-image": "Choisir une photo"
-      , "cta-image-uploading": "Veuillez patienter..."
+      , "cta-back": "Regreso"
+      , "cta-image": "Seleccionar fotografía"
+      , "cta-image-uploading": "Espere por favor"
     }
 
   , "signup": {
