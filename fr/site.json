@@ -35,6 +35,24 @@
       , "cta-back": "Retour"
       , "cta-image": "Choisir une photo"
       , "cta-image-uploading": "Veuillez patienter..."
+      , "features": {
+            "info": "Depuis votre espace de gestion, vous pouvez :"
+          , "0": { 
+                "title": "Partager le lien de votre page"
+              , "text": "avec tous vos proches concernés"
+              , "icon": "/static/img/icons/devices.png"
+            }
+          , "1": { 
+                "title": "Ajouter un administrateur"
+              , "text": "Un membre de la famille ou un ami vous aidera à gérer la page"
+              , "icon": "/static/img/icons/team.png"
+            }
+          , "2": { 
+                "title": "Soutenir une association"
+              , "text": "Organiser une collecte de dons"
+              , "icon": "/static/img/icons/donation.png"
+            }
+        }
     }
     
   , "signup": {
