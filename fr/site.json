@@ -28,7 +28,7 @@
           , "cta": "Suivant"
         }
       , "step3": { 
-            "title": "Page crée"
+            "title": "Page créée"
           , "info": "Bravo, la page en hommage à {{fullname}} est activée et prête à être partagée !"
           , "cta": "Voir la page"
         }

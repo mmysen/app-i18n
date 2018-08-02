@@ -13,28 +13,28 @@
 
   , "welcome": {
         "step0": { 
-            "title": "Faire-Part"
-          , "info": "Informations sur votre proche disparu."
-          , "cta": "Suivant"
+            "title": "Information"
+          , "info": "Please tell us about the person you lost."
+          , "cta": "Next"
         }
       , "step1": { 
             "title": "Contact"
-          , "info": "Vos Informations"
-          , "cta": "Suivant"
+          , "info": "Your information"
+          , "cta": "Next"
         }
       , "step2": { 
-            "title": "Obsèques"
-          , "info": "Vous pouvez ajouter une étape supplémentaire. Si vous n’avez pas ces informations, vous pourrez les renseigner ultérieurement."
-          , "cta": "Suivant"
+            "title": "Celebration"
+          , "info": "You can add another event. If you do not have the information right now, you can complete them later."
+          , "cta": "Next"
         }
       , "step3": { 
-            "title": "Page crée"
-          , "info": "Bravo, la page en hommage à {{fullname}} est activée et prête à être partagée !"
-          , "cta": "Voir la page"
+            "title": "Page created"
+          , "info": "Congratulations, the page in honor of {{fullname}} is created, you can now share it with your close ones!"
+          , "cta": "See the page"
         }
-      , "cta-back": "Retour"
-      , "cta-image": "Choisir une photo"
-      , "cta-image-uploading": "Veuillez patienter..."
+      , "cta-back": "Back"
+      , "cta-image": "Chose a picture"
+      , "cta-image-uploading": "Please wait"
       , "features": {
             "info": "Depuis votre espace de gestion, vous pouvez :"
           , "0": { 
