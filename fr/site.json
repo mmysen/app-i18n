@@ -24,7 +24,7 @@
         }
       , "step2": { 
             "title": "Obsèques"
-          , "info": "Vous pouvez ajouter une étape supplémentaire. Si vous n’avez pas ces informations, vous pourrez les renseigner ultérieurement."
+          , "info": "Vous pourrez ajouter une étape supplémentaire ultérieurement."
           , "cta": "Suivant"
         }
       , "step3": { 
