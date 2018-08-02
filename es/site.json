@@ -24,7 +24,7 @@
         }
       , "step2": { 
             "title": "Ceremonia"
-          , "info": "Puede agregar otro evento. Si no tiene Ud. las informaciones, puede completarlas ulteriormente."
+          , "info": "Podrá agregar otro evento ulteriormente."
           , "cta": "Siguiente"
         }
       , "step3": { 
