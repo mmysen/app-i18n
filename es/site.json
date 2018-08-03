@@ -36,7 +36,7 @@
       , "cta-image": "Seleccionar fotografía"
       , "cta-image-uploading": "Espere por favor"
       , "features": {
-            "info": "Depuis votre espace de gestion, vous pouvez :"
+            "info": "Desde su área de administración, usted puede :"
           , "0": { 
                 "title": "Compartir el link de su página"
               , "text": "con toda su comunidad"
@@ -48,8 +48,8 @@
               , "icon": "/static/img/icons/team.png"
             }
           , "2": { 
-                "title": "Coordinar una colecta conmemorativa"
-              , "text": "organizar une campaña de recaudación de fondos"
+                "title": "Apoyar a una asociación de beneficiencia"
+              , "text": "coordinar una colecta conmemorativa"
               , "icon": "/static/img/icons/donation.png"
             }
         }
