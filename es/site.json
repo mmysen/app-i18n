@@ -38,18 +38,18 @@
       , "features": {
             "info": "Depuis votre espace de gestion, vous pouvez :"
           , "0": { 
-                "title": "Partager le lien de votre page"
-              , "text": "avec tous vos proches concernés"
+                "title": "Compartir el link de su página"
+              , "text": "con toda su comunidad"
               , "icon": "/static/img/icons/devices.png"
             }
           , "1": { 
-                "title": "Ajouter un administrateur"
-              , "text": "Un membre de la famille ou un ami vous aidera à gérer la page"
+                "title": "Agregar nuevo administrador"
+              , "text": "un familiar o amigo le ayudará a administrar la página"
               , "icon": "/static/img/icons/team.png"
             }
           , "2": { 
-                "title": "Soutenir une association"
-              , "text": "Organiser une collecte de dons"
+                "title": "Coordinar una colecta conmemorativa"
+              , "text": "organizar une campaña de recaudación de fondos"
               , "icon": "/static/img/icons/donation.png"
             }
         }
