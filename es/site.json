@@ -44,12 +44,12 @@
             }
           , "1": { 
                 "title": "Agregar nuevo administrador"
-              , "text": "un familiar o amigo le ayudará a administrar la página"
+              , "text": "Un familiar o amigo le ayudará a administrar la página"
               , "icon": "/static/img/icons/team.png"
             }
           , "2": { 
                 "title": "Apoyar a una asociación de beneficiencia"
-              , "text": "coordinar una colecta conmemorativa"
+              , "text": "Coordinar una colecta conmemorativa"
               , "icon": "/static/img/icons/donation.png"
             }
         }
