@@ -36,20 +36,20 @@
       , "cta-image": "Chose a picture"
       , "cta-image-uploading": "Please wait"
       , "features": {
-            "info": "Depuis votre espace de gestion, vous pouvez :"
+            "info": "From your admin space, you will be able to :"
           , "0": { 
-                "title": "Partager le lien de votre page"
-              , "text": "avec tous vos proches concernés"
+                "title": "Share the link of the page"
+              , "text": "with all your close ones"
               , "icon": "/static/img/icons/devices.png"
             }
           , "1": { 
-                "title": "Ajouter un administrateur"
-              , "text": "Un membre de la famille ou un ami vous aidera à gérer la page"
+                "title": "Add new administrator"
+              , "text": "a member of your family or a close friend can help you manage the page"
               , "icon": "/static/img/icons/team.png"
             }
           , "2": { 
-                "title": "Soutenir une association"
-              , "text": "Organiser une collecte de dons"
+                "title": "Support a charity organization"
+              , "text": "organize a memorial donation"
               , "icon": "/static/img/icons/donation.png"
             }
         }
