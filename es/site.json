@@ -48,7 +48,7 @@
               , "icon": "/static/img/icons/team.png"
             }
           , "2": { 
-                "title": "Apoyar a una asociación de beneficiencia"
+                "title": "Apoyar a una asociación"
               , "text": "Coordinar una colecta conmemorativa"
               , "icon": "/static/img/icons/donation.png"
             }
