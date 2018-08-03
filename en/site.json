@@ -44,12 +44,12 @@
             }
           , "1": { 
                 "title": "Add new administrator"
-              , "text": "a member of your family or a close friend can help you manage the page"
+              , "text": "A member of your family or a close friend can help you manage the page"
               , "icon": "/static/img/icons/team.png"
             }
           , "2": { 
                 "title": "Support a charity organization"
-              , "text": "organize a memorial donation"
+              , "text": "Organize a memorial donation"
               , "icon": "/static/img/icons/donation.png"
             }
         }
