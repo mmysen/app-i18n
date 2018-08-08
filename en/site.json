@@ -53,6 +53,13 @@
               , "icon": "/static/img/icons/donation.png"
             }
         }
+      , "labels": {
+            "firstname": "lorem ipsum"
+          , "lastname": "lorem ipsum"
+          , "dod": "lorem ipsum"
+          , "email": "lorem ipsum"
+          , "phone": "lorem ipsum"
+        }
     }
 
   , "signup": {
