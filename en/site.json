@@ -54,11 +54,11 @@
             }
         }
       , "labels": {
-            "firstname": "lorem ipsum"
-          , "lastname": "lorem ipsum"
-          , "dod": "lorem ipsum"
-          , "email": "lorem ipsum"
-          , "phone": "lorem ipsum"
+            "firstname": "What is the firstname of the deceased?"
+          , "lastname": "What is the lastname of the deceased?"
+          , "dod": "What is the date of passing?"
+          , "email": "What is your email?"
+          , "phone": "What is your phone number?"
         }
     }
 
