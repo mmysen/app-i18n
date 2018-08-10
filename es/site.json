@@ -54,11 +54,11 @@
             }
         }
       , "labels": {
-            "firstname": "lorem ipsum"
-          , "lastname": "lorem ipsum"
-          , "dod": "lorem ipsum"
-          , "email": "lorem ipsum"
-          , "phone": "lorem ipsum"
+            "firstname": "¿Cómo se llama?"
+          , "lastname": "¿Cual es su appelido?"
+          , "dod": "¿Cuándo se falleció?"
+          , "email": "¿Cual est su correo electrónico?"
+          , "phone": "¿Cual es su número?"
         }
     }
 
@@ -70,7 +70,7 @@
       , "input-firstname-placeholder": "Nombre del difunto"
       , "input-lastname-placeholder": "Apellido del difunto"
       , "input-dod-placeholder": "Fecha del fallecimiento"
-      , "input-email-placeholder": "Dirección de correo electrónico"
+      , "input-email-placeholder": "Correo electrónico"
       , "input-phone-placeholder": "Número de teléfono celular"
       , "input-firstname-placeholder-partner": "Nombre del difunto"
       , "input-lastname-placeholder-partner": "Apellido del difunto"
