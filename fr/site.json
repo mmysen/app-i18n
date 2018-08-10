@@ -54,11 +54,11 @@
             }
         }
       , "labels": {
-            "firstname": "lorem ipsum"
-          , "lastname": "lorem ipsum"
-          , "dod": "lorem ipsum"
-          , "email": "lorem ipsum"
-          , "phone": "lorem ipsum"
+            "firstname": "Quel est son prénom ?"
+          , "lastname": "Quel est son nom de famille ?"
+          , "dod": "Quelle est sa date de décès ?"
+          , "email": "Quelle est votre adresse email ?"
+          , "phone": "Quel est votre numéro de téléphone ?"
         }
     }
     
