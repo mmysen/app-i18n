@@ -1,6 +1,4 @@
-<br/>  
-## Allgemeine Nutzungsbedingungen   
-<br/>  
+ ## Allgemeine Nutzungsbedingungen    
 
   
 Diese Allgemeinen Nutzungsbedingungen (im Folgenden die „ANB“) unterliegen dem französischen Recht und sollen die Nutzung jedweder Person (im Folgenden der „Nutzer“) der Internetseite regeln, die unter der Webadresse www.inmemori.com (im Folgenden die „Seite“) vorzufinden ist, die durch den Herausgeber Rest In Peace (im Folgenden der „Herausgeber“) herausgegeben wird.
@@ -8,8 +6,7 @@ Diese Allgemeinen Nutzungsbedingungen (im Folgenden die „ANB“) unterliegen d
 Durch den Zugriff auf und die Nutzung dieser Seite, stimmt der Nutzer ausdrücklich und vorbehaltslos diesen ANB zu. Jeder Nutzer garantiert dem Herausgeber, dass er über sämtliche erforderlichen Rechte, Vollmachten und Befugnisse zur Zustimmung zu den ANB im Namen der Gesellschaft, des Vereins oder jeder anderen Instanz (im Folgenden die „Instanz“) verfügt, in deren Namen er oder sie auf die Seite zugreift oder diese nutzt.
 
 Durch den Zugriff auf und die Nutzung dieser Seite durch den Nutzer stimmt die Instanz ausdrücklich und vorbehaltslos diesen ANB zu. Anwendbar sind jeweils die zum Datum des Zugriffs durch den Nutzer gültigen auf der Seite angegebenen Bedingungen.
-
-<br/>  
+  
 ### 1) Präsentation der Seite  
 
 Die Seite www.inmemori.com wendet sich an Menschen, die gerade einen Angehörigen verloren haben, und bietet Ihnen einen digitalen, privaten, individuell gestalteten Raum, um:
