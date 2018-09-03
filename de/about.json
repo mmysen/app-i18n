@@ -6,14 +6,14 @@
     }
 
   , "story": {
-        "title": ""
+        "title": "Unsere Geschichte"
       , "text": [
-            ["", ""]
-            ["", ""]
-          , ["", ""]
-          , ["", ""]
-          , ["", ""]
-          , ["", ""] 
+            ["Januar 2016\nParis", "x"]
+            ["July 2016\nParis", "x"]
+          , ["Januar 2017\nParis", "x"]
+          , ["Februar 2017\nParis", "x"]
+          , ["März 2017\nSan Francisco", "x"]
+          , ["September 2017\nParis - New York", "x"] 
         ]
     }
 
