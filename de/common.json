@@ -1,0 +1,34 @@
+{
+    "links": {
+        "faq": "FAQ"
+      , "terms": "CGU"
+      , "legal": "Mentions légales"
+    }
+  , "lang": {
+      "fr": "Français",
+      "en": "English",
+      "es": "Español"
+    }
+  , "fulldate": "dddd D MMMM YYYY à HH[h]mm"
+  , "shortdate": "dddd D MMMM YYYY"
+  , "show-map": "Voir sur Google maps"
+  , "typesList": "ceremony,contemplation,inhumation,interment,cremation,gathering,reception"
+  , "types": {
+        "ceremony": "Cérémonie"
+      , "contemplation": "Recueillement"
+      , "inhumation": "Inhumation"
+      , "interment": "Enterrement"
+      , "cremation": "Crémation"
+      , "gathering": "Collation"
+      , "reception": "Réception"
+    }
+  , "unauthorized": "Pour des questions de sécurité, veuillez-vous reconnecter à votre espace de gestion depuis le premier email InMemori que vous avez reçu.\n\nSi vous ne retrouvez pas cet email ou si vous rencontrez le moindre problème, écrivez-nous à <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
+  , "template": "Suggestion"
+  , "toast-success": "Enregistrement terminé !"
+  , "toast-message-sent": "Message envoyé !"
+  , "confirm-areusure": "Êtes-vous sûr ?"
+  , "yes": "Oui"
+  , "no": "Non"
+  , "prev": "Retour"
+  , "next": "Suivant"
+}

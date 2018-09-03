@@ -1,0 +1,203 @@
+{
+    "info": {
+        "title": "Informations sur la page"
+      , "tabs": {
+            "1": {
+                "title": "Faire part"
+              , "text": "Modifier les informations sur votre proche (nom, prénom, dates)"
+              , "cta-open": "Modifier"
+              , "cta-close": "Fermer"
+              , "cta": "Enregistrer"
+              , "label-firstname": "Prénom"
+              , "input-firstname-placeholder": "Prénom de votre proche"
+              , "label-lastname": "Nom"
+              , "input-lastname-placeholder": "Nom de votre proche"
+              , "label-dob": "Date de naissance"
+              , "input-dob-placeholder": "jj/mm/aaaa"
+              , "label-dod": "Date de décès"
+              , "input-dod-placeholder": "jj/mm/aaaa"
+              , "label-intro": "Écrire un message afin de faire part à votre entourage du décès de votre proche."
+              , "input-intro-placeholder": "Cette page est destinée à la famille et à tous ceux qui ont connu et aimé {{fullname}}.\nAprès une belle vie, bien remplie, entouré(e) des siens, il/elle nous a quitté le {{dod}} dernier.\nIl/elle restera à jamais dans nos coeurs.\nN’hésitez pas exprimer le lien qui vous unissait à {{firstname}}, un message, un souvenir, une photo, toute marque d’affection nous portera et nous aidera à traverser cette épreuve.\nTrès sincèrement."
+              , "label-image": "Ajouter une photo de votre proche"
+              , "text-image": "Vous pouvez vous occuper de cette étape plus tard, mais nous vous recommandons d’en ajouter une avant de partager la page avec vos proches. Formats acceptés : JPG, JPEG, PNG (taille maximale de 5 Mo)."
+              , "cta-image": "Choisir une photo"
+              , "cta-image-uploading": "Téléchargement en cours..."
+              , "label-templates": "Besoin d'inspiration ?"
+              , "templates": [
+                    "Chère famille, chers amis,\n\nnous avons la grande tristesse de vous faire part du décès de {{firstname}} survenu le {{dod, lowercase}} dernier, à l’âge de {{age}} ans. Cette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec {{firstname}}.\n\nAvec toute notre affection."
+                  , "L’ensemble de la famille et tous les proches ont la douleur de vous part du décès de {{fullname}}, survenu le {{dod, lowercase}}."
+                  , "Cette page est destinée à la famille et à tous ceux qui ont connu et aimé {{fullname}} décédé le {{dod, lowercase}} dernier.\n{{firstname}} restera à jamais dans nos coeurs.\nN’hésitez pas à laisser sur cette page un message, un souvenir ou une photo.\nTrès sincèrement."
+                ]
+            }
+          , "2": {
+                "title": "Contacts"
+              , "text": "Ajouter le nom des personnes à contacter pour toute demande d’informations"
+              , "cta-open": "Modifier"
+              , "cta-close": "Fermer"
+              , "cta": "Enregistrer"
+            }
+          , "3": {
+                "title": "Obsèques"
+              , "text": "Préciser les lieux et heures des obsèques"
+              , "cta-open": "Modifier"
+              , "cta-close": "Fermer"
+              , "cta": "Enregistrer"
+            }
+          , "4": {
+                "title": "Donation"
+              , "text": "Créer une collecte de dons au profit d’une cause chère à votre proche"
+              , "description": "Vous pouvez organiser une collecte de dons au profit d’une association chère à votre proche ou pour vous aider à financer ses obsèques. Les dons permettent à votre entourage de manifester leur soutien, en contribuant à une cause porteuse de sens."
+              , "description-info": "Afin de couvrir les frais liés à la gestion de votre cagnotte et au transfert de fonds, 5% de commission sont retenus sur les dons effectués."
+              , "countries": [
+                    ["fr", "France (EUR)"]
+                  , ["us", "États-Unis (US dollar)"]
+                ]
+              , "cta-open": "Activer"
+              , "cta-close": "Fermer"
+              , "cta-init": "Activer"
+              , "cta-end": "Clôturer"
+              , "cta-pause": "Désactiver"
+              , "cta": "Enregistrer"
+              , "label-country": "Pays"
+              , "input-country-placeholder": "Choisir un pays"
+              , "label-beneficiary": "Bénéficiaire"
+              , "choice-beneficiary": [
+                    "Famille"
+                  , "Association"
+                ]
+              , "label-message": "Votre message pour introduire la collecte de dons"
+              , "input-message-placeholder": "Say something"
+              , "select-org-placeholder": "Choisir une association"
+              , "select-custom-org-text": "Association de votre choix"
+              , "label-org": "Association"
+              , "input-org-placeholder": "Nom de l'association"
+              , "label-custom-org": "Nom de l'association"
+              , "input-org-new": "Votre choix: \"{{label}}\""
+              , "label-templates": "Besoin d'inspiration ?"
+              , "templates": {
+                    "family": [
+                        "L’ensemble de la famille souhaite rendre hommage à {{firstname, capitalize}} en organisant une collecte de dons."
+                      , "Pour ceux qui le désirent, nous organisons une collecte de dons en mémoire de {{firstname, capitalize}}."
+                      , "Nous organisons une collecte de dons en mémoire de {{firstname, capitalize}}. La somme récoltée permettra à sa famille de financer, au moins en partie, ses obsèques. Un grand merci pour votre générosité."
+                    ]
+                  , "org": [
+                        "Toute sa vie {{firstname, capitalize}} a servi les autres au sein de l’association {{org}}.\n\nNous souhaitons poursuivre ce combat en sa mémoire et organisons une collecte de dons pour soutenir cette association qui lui tenait tellement à coeur. Nous pensons que c’est ce que {{firstname, capitalize}} aurait souhaité. Un grand merci pour votre générosité."
+                      , "Comme vous le savez, {{firstname, capitalize}} a été emporté par la maladie après des années de combat. En mémoire de {{firstname, capitalize}} et de toutes les autres victimes de cette maladie, nous avons décidé de soutenir l’association {{org}} afin de financer la recherche et de sauver des milliers de vies futures. Un grand merci de soutenir cette cause qui nous tient particulièrement à coeur."
+                      , "{{firstname, capitalize}} a toujours eu à coeur d'aider les autres et s'est natuellement engagé au sein de l’association {{org}} qui le touchait tout particulièrement. En son hommage, soutenons cette association. Un grand merci pour votre générosité."
+                    ]
+                }
+              , "text-status-family": "Une collecte est en cours pour aider au financement des obsèques.\nÀ ce jour le montant des dons s'élève à <strong>{{total}}</strong>.\nVous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
+              , "text-status-org": "Une collecte est en cours au bénéfice de {{org}}.\nÀ ce jour le montant des dons s'élève à <strong>{{total}}</strong>.\nVous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
+              , "label-person": "Identité de l'organisateur"
+              , "label-firstname": "Prénom"
+              , "input-firstname-placeholder": "Votre prénom"
+              , "label-lastname": "Nom"
+              , "input-lastname-placeholder": "Votre nom"
+              , "label-iban": "Numéro IBAN"
+              , "input-iban-placeholder": "FR89370400440532013000"
+              , "label-routing": "Routing number"
+              , "input-routing-placeholder": "ex: 110000000"
+              , "label-ssnlast4": "Last 4 SSN digits"
+              , "input-ssnlast4-placeholder": "Last 4 SSN digits"
+              , "label-ssn": "Social security number"
+              , "input-ssn-placeholder": "SSN"
+              , "label-dob": "Date de naissance"
+              , "input-dob-placeholder": "Votre date de naissance"
+              , "label-address": "Adresse"
+              , "input-address-placeholder": "Votre adresse"
+              , "input-statecode-placeholder": "State"
+              , "input-city-placeholder": "Ville"
+              , "input-zipcode-placeholder": "Code postal"
+              , "title-success": "Collecte de fonds terminée"
+              , "text-success": "Les fonds vous seront versés d'ici 72h. \nSi votre collecte de dons était organisée en faveur d'une association, vous pouvez les contacter directement pour leur reverser les fonds."
+            }
+        }
+
+    }
+  , "thanks": {
+        "label": "À: "
+      , "cta": "Envoyer"
+      , "placeholder": "Envoyer un message de remerciement..."
+      , "placeholder2": "Envoyer un message de remerciement à tous vos proches qui ont participé à la collecte de dons"
+      , "state": "réponse envoyée"
+      , "cta-close": "Fermer"
+      , "cta-open-memories": "Répondre"
+      , "cta-open-donations": "Remercier"
+      , "cta-open-donations-grouped": "Remerciement groupé"
+    }
+  , "donations": {
+        "receipt-text": "Informations nécessaires à transmettre à l'association pour générer les reçus fiscaux"
+      , "receipt-cta": "Télécharger"
+    }
+  , "places": {
+        "label-privacy": "Aura lieu dans l'intimité familiale"
+      , "label-info": "Information complémentaire"
+      , "label-date": "Date"
+      , "placeholder-date": "jj/mm/aaaa"
+      , "label-time": "Heure"
+      , "placeholder-time": "hh:mm "
+      , "label-name": "Nom du lieu"
+      , "placeholder-name": "Crématorium du Père Lachaise"
+      , "label-address": "Adresse"
+      , "placeholder-address": "71 Rue des Rondeaux, 75020 Paris"
+      , "cta-delete": "Supprimer"
+      , "cta-add": "Ajouter une étape"
+      , "select-type-placeholder": "Choisir un événement"
+      , "select-type-custom-text": "Événement de votre choix"
+      , "label-type": "Nom de l'événement"
+    }
+  , "contacts": {
+        "title": "Personnes à contacter"
+      , "label-name": "Nom du contact"
+      , "placeholder-name": "Prénom et nom"
+      , "label-email": "Adresse email"
+      , "placeholder-email": "Email du contact"
+      , "label-phone": "Numéro de téléphone"
+      , "placeholder-phone": "Téléphone du contact"
+      , "cta-delete": "Supprimer"
+      , "cta-add": "Ajouter un contact"
+    }
+  , "moderation": {
+        "title": "Remercier vos proches"
+      , "tabs": {
+            "messages": "Messages"
+          , "donations": "Donations"
+        }
+    }
+  , "messages": {
+        "title": "Remercier vos proches"
+      , "text": ""
+      , "empty": "La fonctionnalité de remerciement sera active dès le premier message d'hommage."
+      , "cta-delete": "Supprimer"
+      , "text-confirm": "Confirmez-vous la suppression du message ?"
+    }
+  , "stats": {
+        "title": "Statistiques"
+      , "cta": ""
+      , "text": ""
+      , "view": "consultations"
+      , "comments": "messages"
+      , "donations": "dons"
+      , "collected": "recueillis"
+    }
+  , "actions": {
+        "title": "Gérer la page"
+      , "links": {
+            "info": "Informations"
+          , "moderation": "Remerciements"
+          , "admin": "Ajouter un administrateur"
+          , "share": "Partager la page"
+          , "delete": "Supprimer la page"
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+

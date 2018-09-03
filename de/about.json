@@ -1,0 +1,132 @@
+{
+
+    "mission": {
+        "title": "Notre mission"
+      , "text": "La mission d’InMemori est d’aider chaque famille qui vient de perdre un proche à rassembler toutes les personnes concernées et à rendre hommage à sa vie.\n\nChaque jour, des messages de condoléances, des souvenirs, des témoignages magnifiques sont partagés grâce au service, qui nous rappellent le besoin d'être ensemble dans ces moments éprouvants.\n\nNotre ambition pour InMemori est que chaque famille qui traverse un deuil puisse y trouver de l’aide et du réconfort. Le service est d’ailleurs gratuit pour permettre à tous d'y avoir accès. En un an déjà, nous avons accompagné 60 000 personnes."
+    }
+
+  , "story": {
+        "title": "Notre histoire"
+      , "text": [
+            ["Janvier 2016\nParis", "Clémentine décide d’accompagner les familles en deuil lors de l'organisation des obsèques. Alors qu'elle est encore la directrice marketing d'un groupe du CAC40, elle passe chaque semaine pendant 6 mois des moments auprès de familles qui viennent de perdre un proche pour comprendre comment les aider dans cette épreuve."]
+          , ["Juillet 2016\nParis", "InMemori est créé."]
+          , ["Janvier 2017\nParis", "Constance rejoint l'aventure pour accompagner au quotidien les familles et leurs proches afin de répondre à leurs questions et leur permettre d’utiliser ce nouveau service en toute sérénité."]
+          , ["Février 2017\nParis", "Les familles et leurs proches sont reconnaissants et attachés au service, ils deviennent des ambassadeurs d’InMemori. Grâce au bouche à oreille, InMemori a déjà apporté du réconfort à plus de 30 000 personnes."]
+          , ["Mars 2017\nSan Francisco", "InMemori est sélectionné par The Refiners, un accélérateur de startups de la Silicon Valley. L’horizon d’InMemori s’élargit au monde entier."]
+          , ["Septembre 2017\nParis - New York", "Les bureaux de Paris et New York sont ouverts. L’équipe compte désormais cinq personnes toutes animées par l’impact de la mission d’InMemori."] 
+        ]
+    }
+
+  , "values": {
+        "title": "Nos valeurs"
+      , "text": "La mission d’InMemori est de révéler l'essentiel de la vie. "
+      , "items": [
+            ["Sensibilité", "InMemori place la délicatesse et la compréhension des familles et des proches au coeur de son action."]
+          , ["Intimité", "InMemori offre un espace privé qui protège les mots, les hommages et les souvenirs de chacun."]
+          , ["Universalité", "InMemori s’adresse à tous les âges, cultures et croyances."]
+        ]
+    }
+
+  , "press": {
+        "title": "Espace presse"
+      , "title2": "Dernières parutions"
+      , "text": "L’équipe relations presse d’InMemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
+      , "items": [  
+       ["CHEF D'ENTREPRISE", "Juillet 2018", "http://www.chefdentreprise.com/Thematique/actualites-1056/Breves/InMemori-remporte-finale-fran-aise-Startup-Tour-2018-332615.htm#pYUsfSle7MPIoV2e.97"]   
+          , ["FRENCHWEB", "Mai 2018", "https://www.frenchweb.fr/inmemori-veut-faire-entrer-le-deuil-dans-lere-du-digital/326428"]   
+          , ["CHEF D'ENTREPRISE", "Avril 2018", "http://www.chefdentreprise.com/Thematique/digital-innovation-1074/Breves/Quand-entrepreneuses-battent-cliches-breche-329974.htm#77QJmtEjQquiABS2.97"]
+          , ["MADAME FIGARO", "Avril 2018", "http://madame.lefigaro.fr/business/journee-de-la-femme-digitale-2018-jfd-portraits-entrepreneures-startuppeuses-180418-148280"]
+          , ["CHALLENGES", "Avril 2018", "https://www.challenges.fr/start-up/in-memori-se-recueillir-commemorer-se-souvenir_577766"]     
+          , ["CHALLENGES", "Avril 2018", "https://www.challenges.fr/sommet-start-up/qui-sont-les-cinq-start-up-laureates-des-100-ou-investir-de-challenges_580128"]     
+          , ["LA TRIBUNE", "Avril 2018", "https://objectifaquitaine.latribune.fr/business/2018-04-05/inmemori-la-mort-lui-va-si-bien-774288.html"]   
+          , ["FRENCH MORNING", "Décembre 2017", "https://frenchmorning.com/in-memori-start-up-francaise-daide-deuil-souvenir/"]  
+          , ["FRANCE INFO", "Novembre 2017", "https://www.francetvinfo.fr/replay-radio/le-pitch-start-up/le-pitch-start-up-inmemori-la-start-up-qui-aide-a-organiser-des-funerailles_2462084.html"]
+          , ["FORBES", "Septembre 2017", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/"]
+        ]
+    }
+
+  , "contact": {
+        "title": "Besoin d’aide ?"
+      , "title2": "Nos bureaux"
+      , "text": "Si vous avez la moindre question sur le service, il vous suffit de contacter Constance et notre équipe assistance à l’adresse email suivante : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>. Nous vous répondrons en moins de 24 heures."
+      , "items": [
+            ["Paris", "5 rue des Colonnes\n75002 Paris \nFrance", {"lat":48.8693696,"lng":2.3393760000000157}]
+          , ["New York", "72 Allen St.\nNew York, NY 10002\nUnited States", {"lat":40.7175099,"lng":-73.9909217}]
+        ]
+      , "team": [
+        { 
+            "name": "Constance de Vernejoul"
+          , "role": "Responsable produit et relations client"
+          , "pic": "team.constance"
+          , "country": "France"
+        },
+        { 
+            "name": "Eva Kerner"
+          , "role": "Directrice Business Development US"
+          , "pic": "team.eva"
+          , "country": "Etats-Unis"
+        }
+      ]
+    }
+
+  , "team": {
+
+        "title": "Qui sommes nous ?"
+      , "text": "Une équipe qui réunit belles énergies, force d'âme et enthousiasme au service d’InMemori."
+
+      , "items": [
+        { 
+            "name": "Clémentine Piazza"
+          , "role": "Présidente et fondatrice"
+          , "bio": "C'est un projet profond qui remet tout à sa place."
+          , "intro": "C'est un projet profond qui remet tout à sa place."
+          , "pic": "team.clementine"
+          , "linkedin": "https://www.linkedin.com/in/cl%C3%A9mentine-piazza-42a67976/"
+          , "twitter": ""
+          , "site": ""
+        },
+        { 
+            "name": "Constance de Vernejoul"
+          , "role": "Responsable produit et relation clients"
+          , "bio": "J’avais envie d’être là pour les autres à un moment de la vie où l’on se retrouve facilement seul."
+          , "intro": "J’avais envie d’être là pour les autres à un moment de la vie où l’on se retrouve facilement seul."
+          , "pic": "team.constance"
+          , "linkedin": "https://www.linkedin.com/in/constance-de-vernejoul-00316484/"
+          , "twitter": ""
+          , "site": ""
+        },
+        { 
+            "name": "Marly  Diallo"
+          , "role": "Directrice France"
+          , "bio": "À notre échelle et au quotidien, on contribue à être plus forts ensemble."
+          , "intro": "À notre échelle et au quotidien, on contribue à être plus forts ensemble."
+          , "pic": "team.marly"
+          , "linkedin": "https://www.linkedin.com/in/marly-diallo-55751327/"
+          , "twitter": ""
+          , "site": ""
+        },
+        { 
+            "name": "Eva Kerner"
+          , "role": "Directrice Business Development US"
+          , "bio": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec InMemori, je peux m’assurer  que la mémoire des gens perdure."
+          , "intro": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec InMemori, je peux m’assurer  que la mémoire des gens perdure."
+          , "pic": "team.eva"
+          , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
+          , "twitter": ""
+          , "site": ""
+        },
+        { 
+            "name": "Louis Grellet"
+          , "role": "CTO"
+          , "bio": "C’est un moment de la vie où le digital est absent et un challenge technique que j’ai envie de relever."
+          , "intro": "C’est un moment de la vie où le digital est absent et un challenge technique que j’ai envie de relever."
+          , "pic": "team.louis"
+          , "linkedin": "https://www.linkedin.com/in/louis-grellet-1927242/"
+          , "twitter": ""
+          , "site": "http://louis.earth"
+        }
+      ]
+
+  }
+
+}
