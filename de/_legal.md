@@ -1,22 +1,22 @@
 <br/>  
-## Mentions légales  
+## Impressum  
 <br/>  
-### Éditeur  
+### Herausgeber  
 
-Le site internet https://www.inmemori.com est la propriété de Rest In Peace, (ci-après, l’ « Éditeur »).  
+Die Internetseite https://www.inmemori.com ist das Eigentum von Rest In Peace, (im Folgenden der „Herausgeber“).  
 
-Conformément au Code de la Propriété Intellectuelle, toute exploitation, représentation ou reproduction de tout ou partie du site internet est strictement interdite sauf autorisation expresse et préalable de l’Éditeur.  
+Gemäß der Regelung zum geistigen Eigentumsrecht ist jede gewerbliche Nutzung, Darstellung oder Reproduktion dieser Internetseite, auch auszugsweise, ohne vorherige und ausdrückliche Genehmigung durch den Herausgeber strengstens verboten.  
 
-### Liens hypertextes  
+### Hyperlink  
 
-L’Éditeur décline toute responsabilité quant aux sites internet accessibles depuis son propre site.  
+Der Herausgeber übernimmt keinerlei Haftung für Internetseiten, die von seiner eigenen Seite aus erreichbar sind.  
 
-Les liens hypertextes mis en place dans le cadre du présent site web en direction d'autres ressources présentes sur le réseau internet, et notamment, vers des partenaires, sont clairement identifiés et font l'objet d'une information et/ou d'une autorisation préalable des sites pointés. L’Éditeur s'engage à faire cesser les liens hypertextes à la première demande écrite des entreprises à qui appartiennent ces sites. Les liens hypertextes en direction d'autres ressources présentes sur le réseau internet ne sauraient engager la responsabilité de l’Éditeur.  
+Hyperlinks, die im Rahmen dieser Website auf andere im Internet vorhandene Quellen verweisen, und insbesondere auf Partner, werden eindeutig als solche ausgewiesen. Verknüpfte Seiten werden vorab informiert und/oder erteilen ihre Erlaubnis. Der Herausgeber verpflichtet sich, Hyperlinks auf Anfrage der Unternehmen, denen diese Seiten gehören, sofort zu deaktivieren. Für Hyperlinks, die auf andere im Internet vorhandene Quellen verweisen, übernimmt der Herausgeber keine Haftung.  
 
-### Crédits  
+### Nachweis  
 
-Directeur de publication : SAS Rest In Peace  
-Webmaster : SAS Rest In Peace  
-Conception, réalisation et hébergement du site internet : SAS Rest In Peace (conception, réalisation)
+Leitende Redaktion: SAS Rest In Peace
+Webmaster: SAS Rest In Peace
+Gestaltung, Verwirklichung und Hosting der Internetseite: SAS Rest In Peace (Gestaltung, Verwirklichung)
 <br/>
 <br/>
