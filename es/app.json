@@ -209,7 +209,7 @@
       , "shipping-info": "Para garantizarle el mejor precio, agrupamos los pedidos realizados por las familias que utilizaron InMemori este mes. \nLos plazos de entrega pueden ser de hasta 30 días después de su pedido."
       , "cta-prev": "Regreso"
       , "cta-end": "Terminar"
-      , "text-inactive": "La commande de votre livre sera disponible d'ici quelques jours afin que tous les proches de {{fullname}} aient eu le temps de lui rendre hommage."
+      , "text-inactive": "El orden del libro estará disponible en pocos días para que todos los que conocen a {{fullname}} hayan tenido tiempo de rendirle tributo."
     }
 
 

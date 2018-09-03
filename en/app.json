@@ -207,7 +207,7 @@
       , "shipping-info": "To guarantee you the best price, we group and send all the book orders to print once a month. Therefore, the delivery time could take up to 30 days after purchase."
       , "cta-prev": "Back"
       , "cta-end": "Close"
-      , "text-inactive": "La commande de votre livre sera disponible d'ici quelques jours afin que tous les proches de {{fullname}} aient eu le temps de lui rendre hommage."
+      , "text-inactive": "You will be available to order the book in a few days so that all those who know {{fullname}} can pay him tribute first."
     }
 
   , "delete": {
