@@ -1,6 +1,4 @@
-<br/>  
-## Condiciones generales de uso  
-<br/>  
+ ## Condiciones generales de uso  
 
   
 Estas Condiciones Generales de Uso ("T y C" - Términos y Condiciones) están diseñadas para regular el uso por parte de cualquier persona (el "Usuario") de la página de internet (o sitio web) www.inmemori.com (el "Sitio") publicado por Rest In Peace (el "Editor").
@@ -10,8 +8,7 @@ Cualquier acceso o uso del Sitio implica la aceptación sin reservas de estos T�
 El acceso o uso del Sitio por parte del Usuario implica la aceptación sin reservas de los T y C.
 
 El Editor tendrá derecho a modificar estos términos y condiciones en cualquier momento. Los términos y condiciones aplicables serán aquellos que estén vigentes y accesibles en el Sitio en la fecha en que el Usuario acceda al Sitio.
-
-<br/>  
+ 
 ### 1) Presentación del sitio  
 
 El Sitio www.inmemori.com está destinado a personas que acaben de perder un pariente y les proporciona un espacio digital privado y personal que se puede usar para:
