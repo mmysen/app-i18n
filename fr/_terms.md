@@ -8,8 +8,7 @@ Les présentes Conditions Générales d’Utilisation (ci-après, les « CGU »)
 Tout accès ou toute utilisation du Site emporte acceptation expresse et sans réserve des présentes CGU par l’Utilisateur. Tout Utilisateur garantit l’Éditeur qu’il dispose de l’ensemble des droits, autorisations et pouvoirs nécessaires pour accepter les CGU au nom de la société, association ou toute autre entité (ci-après, l’ « Entité ») au nom de laquelle il/elle accède ou utilise le Site, l’accès ou l’utilisation du Site par l’Utilisateur emportant acceptation expresse et sans réserve des CGU par l’Entité.
 
 L’Éditeur se réserve le droit de pouvoir modifier les présentes CGU à tout moment. Les conditions applicables sont celles en vigueur et accessibles sur le Site à la date d’accès par l’Utilisateur.
-
-<br/>  
+ 
 ### 1) Présentation du Site  
 
 Le site www.inmemori.com s’adresse aux personnes qui viennent de perdre un proche et met à leur disposition un espace numérique, privé et personnalisé pour :
