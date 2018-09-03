@@ -1,211 +1,212 @@
 <br/>  
-## Conditions générales d'utilisation  
+## Allgemeine Nutzungsbedingungen   
 <br/>  
 
   
-Les présentes Conditions Générales d’Utilisation (ci-après, les « CGU »), soumises au droit français, ont vocation à régir l’utilisation par toute personne (ci-après, l’ « Utilisateur ») du site internet accessible à l’adresse web www.inmemori.com (ci-après, le « Site ») édité par Rest In Peace (ci-après, l’ « Éditeur »).
+Diese Allgemeinen Nutzungsbedingungen (im Folgenden die „ANB“) unterliegen dem französischen Recht und sollen die Nutzung jedweder Person (im Folgenden der „Nutzer“) der Internetseite regeln, die unter der Webadresse www.inmemori.com (im Folgenden die „Seite“) vorzufinden ist, die durch den Herausgeber Rest In Peace (im Folgenden der „Herausgeber“) herausgegeben wird.
 
-Tout accès ou toute utilisation du Site emporte acceptation expresse et sans réserve des présentes CGU par l’Utilisateur. Tout Utilisateur garantit l’Éditeur qu’il dispose de l’ensemble des droits, autorisations et pouvoirs nécessaires pour accepter les CGU au nom de la société, association ou toute autre entité (ci-après, l’ « Entité ») au nom de laquelle il/elle accède ou utilise le Site, l’accès ou l’utilisation du Site par l’Utilisateur emportant acceptation expresse et sans réserve des CGU par l’Entité.
+Durch den Zugriff auf und die Nutzung dieser Seite, stimmt der Nutzer ausdrücklich und vorbehaltslos diesen ANB zu. Jeder Nutzer garantiert dem Herausgeber, dass er über sämtliche erforderlichen Rechte, Vollmachten und Befugnisse zur Zustimmung zu den ANB im Namen der Gesellschaft, des Vereins oder jeder anderen Instanz (im Folgenden die „Instanz“) verfügt, in deren Namen er oder sie auf die Seite zugreift oder diese nutzt.
 
-L’Éditeur se réserve le droit de pouvoir modifier les présentes CGU à tout moment. Les conditions applicables sont celles en vigueur et accessibles sur le Site à la date d’accès par l’Utilisateur.
+Durch den Zugriff auf und die Nutzung dieser Seite durch den Nutzer stimmt die Instanz ausdrücklich und vorbehaltslos diesen ANB zu. Anwendbar sind jeweils die zum Datum des Zugriffs durch den Nutzer gültigen auf der Seite angegebenen Bedingungen.
 
 <br/>  
-### 1) Présentation du Site  
+### 1) Präsentation der Seite  
 
-Le site www.inmemori.com s’adresse aux personnes qui viennent de perdre un proche et met à leur disposition un espace numérique, privé et personnalisé pour :
+Die Seite www.inmemori.com wendet sich an Menschen, die gerade einen Angehörigen verloren haben, und bietet Ihnen einen digitalen, privaten, individuell gestalteten Raum, um:
 
-* Transmettre rapidement les informations sur les obsèques à toutes les personnes concernées
-* Recevoir les condoléances et les souvenirs de leur entourage
-* Organiser une collecte de dons en sa mémoire  
+* Betroffene rasch über die Bestattung zu informieren
+* Beileidsschreiben und Erinnerungen von Bekannten zu empfangen 
+* Eine Spendenaktion zu Gedenken des Verstorbenen zu organisieren  
 
-Comment ça marche ?
+Wie funktioniert es?
 
-* L’administrateur (un « Administrateur »), se rend sur inmemori.com et crée un espace privé, appelé page en hommage (une « page en hommage »), en renseignant dans l'interface d'administration toutes les informations qu’il est nécessaire ou qu'il juge utile de partager : prénom et nom de la personne décédée, date du décès, message d'introduction personnalisé, informations pratiques sur les obsèques (date, heure et lieu de chaque étape). Il pourra également organiser une collecte de dons en la mémoire de la personne défunte, en faveur de la famille ou d'une association.
-* Une fois la page en en hommage complétée, l’Administrateur récupère un lien privé de partage qu’il peut alors envoyer à toutes les personnes concernées par SMS ou par email.
-* Chaque personne ayant reçu le lien de partage peut, en cliquant simplement dessus, consulter la page en hommage. Elle y trouve alors toutes les informations pratiques sur les obsèques qui auront été renseignées, elle peut également laisser un message de condoléances, partager un souvenir et/ou une photo et participer à une collecte de dons.  
+* Der Administrator (ein « Administrator »), begibt ich auf inmemori.com und richtet eine private Seite ein, die als Gedenkseite bezeichnet wird (eine „Gedenkseite“), indem er in der Benutzerschnittstelle alle nötigen oder von ihm für nützlich erachteten Informationen angibt: Vorname und Name der oder des Verstorbenen, Todesdatum, persönlicher Einleitungstext, praktische Informationen zur Bestattung (Datum, Uhrzeit und Ort jeder Etappe). Er kann auch eine Spendenaktion zu Gedenken der oder des Verstorbenen zugunsten der Familie oder eines Vereins organisieren.
+* Nach Fertigstellung der Gedenkseite erhält der Administrator einen privaten Link, den er einfach mit allen Betroffenen teilen kann, indem er ihnen eine SMS oder E-Mail sendet.
+* Jeder, der den Freigabelink erhalten hat, kann die Gedenkseite einfach durch einen Klick darauf abrufen. Dort sind alle vorhandenen praktischen Informationen zur Bestattung vorzufinden; er kann ebenfalls kondolieren, eine Erinnerung und/oder ein Foto teilen und an einer Spendenaktion teilnehmen.  
 
-inmemori.com a donc été conçu pour permettre :
+inmemori.com wurde somit ins Leben gerufen, damit:
 
-* Aux familles de transmettre très rapidement les informations pratiques sur les obsèques à l’ensemble des personnes concernées.
-* Aux proches de la famille de retrouver en un clic ces informations, et de pouvoir rendre hommage sereinement et simplement.  
+* Familien rash allen Betroffenen praktische Informationen zur Bestattung zukommen lassen können.
+* Angehörigen der Familie per Mausklick an diese Informationen gelangen können und ganz einfach in Ruhe den Verstorbenen würdigen können.  
 
-La manière dont le service a été pensé, associée à la rapidité des usages numériques, en font un service pratique et très utile.
+Die Konzipierung dieses Dienstes ergibt kombiniert mit der Schnelligkeit digitaler Tools einen praktischen und sehr nützlichen Service.
 
-### 2) Création et activation d’une page en hommage  
+### 2) Erstellung und Aktivierung einer Gedenkseite  
 
-Les pages en hommage sont créées par les Administrateurs depuis www.inmemori.com ou sont complétés par les Administrateurs qui ont souscrit au service de création d’une page en hommage auprès d’un partenaire. A toutes fins utiles, il est précisé que pour le besoin des présentes CGU, l’Administrateur est un Utilisateur.
+Die Gedenkseiten werden durch die Administratoren auf www.inmemori.com eingerichtet oder werden durch die Administratoren vervollständigt, die den Service zur Erstellung einer Gedenkseite bei Partnern abonniert haben. Für alle Fälle sei hinzugefügt, dass der Administrator für die Anforderungen dieser ANB ein Nutzer ist.
 
-Tout Administrateur qui souhaite créer une page doit renseigner le formulaire présent sur la page d’accueil du Site. Il est alors dirigé vers l'interface d'administration de la page en hommage et suit les différentes étapes de création de la page.
+Jeder Administrator, der eine Seite einrichten möchte, muss das Formular auf der Homepage der Seite ausfüllen. Er wird daraufhin auf die Benutzerschnittstelle der Gedenkseite verwiesen und befolgt die unterschiedlichen Schritte zur Erstellung einer Seite.
 
-Une fois la page en hommage complétée par l’Administrateur, ce dernier est invité à la partager par sms et/ou par email.
+Nachdem der Administrator die Gedenkseite fertiggestellt hat, wird er dazu aufgefordert, diese per SMS und/oder E-Mail zu teilen.
 
-Dès que la page en hommage est créée, l’Administrateur reçoit un courrier électronique à l’adresse e-mail qu’il a indiquée contenant le lien vers l'interface d’administration ; il peut ainsi administrer la page en hommage qu’il a créée à tout moment (cf. paragraphe 3 des présentes).
+Sobald die Gedenkseite eingerichtet wurde, erhält der Administrator eine E-Mail an die angegebene E-Mail-Adresse, die den Link zur Benutzerschnittstelle beinhaltet; hier kann er die eingerichtete Gedenkseite jederzeit verwalten (siehe Absatz 3 dieser ANB).
 
-Dès que la page en hommage est complétée, l’Administrateur reçoit un courrier électronique à l’adresse e-mail qu’il a indiquée contenant le lien de partage à transmettre à toutes les personnes concernées.
+Sobald die Gedenkseite fertiggestellt ist, erhält der Administrator eine E-Mail an die angegebene E-Mail-Adresse, die den Freigabelink beinhaltet, den er mit allen Betroffenen teilen kann.
 
-### 3) Fonctionnalités de la page en hommage 
+### 3) Funktionen der Gedenkseite 
 
-L’Administrateur dispose sur l'interface d’administration accessible depuis le lien d’administration notamment les fonctionnalités suivantes :
+Der Administrator verfügt auf der Benutzerschnittstelle, die über einen Link verfügbar ist, beispielsweise über folgende Funktionalitäten:
 
-* Récupérer le lien de partage actif de la page en hommage afin de le transmettre facilement aux personnes concernées ;
-* Savoir combien de personnes ont consulté la page ;
-* Consulter et supprimer si nécessaire les messages laissés sur la page en hommage ;
-* Savoir combien de personnes ont laissé un message ;
-* Télécharger le recueil de tous les messages, souvenirs et/ou photos laissés sur la page en hommage ;
-* Organiser une collecte de dons ;
-* Savoir combien de personnes ont fait un don ;
-* Récupérer les contacts des personnes qui ont déposé un message, un souvenir, une photographie et/ou fait un don sur la page en hommage ;
-* Récupérer la liste des donateurs et des montants correspondants ;
-* Clôturer la collecte de dons ;
-* Modifier la page en hommage à tout moment ;
-* Ajouter toute personne en tant qu’Administrateur de la page ; chaque Administrateur ayant alors accès à l'interface d'administration et aux fonctions réservées aux Administrateurs ;
-* Clore la page en hommage à tout moment.  
+* Den aktiven Freigabelink der Gedenkseite erhalten, den man einfach den Betroffenen zusenden kann;
+* Erfahren, wie viele Personen die Seite abgerufen haben;
+* Veröffentlichte Nachrichten auf der Gedenkseite lesen und falls nötig löschen;
+* Erfahren, wie viele Personen eine Nachricht hinterlassen haben;
+* Den Band aller veröffentlichten Nachrichten, Erinnerungen und/oder Fotos auf der Gedenkseite herunterladen;
+* Eine Spendenaktion veranstalten;
+* Erfahren, wie viele Personen gespendet haben;
+* Die Kontaktdaten der Personen erfahren, die eine Nachricht, eine Erinnerung, ein Foto veröffentlicht und/oder auf der Gedenkseite gespendet haben;
+* Die Spenderliste und entsprechenden Beträge abrufen;
+* Die Spendenaktion abschließen;
+* Die Gedenkseite jederzeit ändern;
+* Beliebige Personen als Administrator der Seite hinzufügen; jeder Administrator erhält Zugriff auf die Benutzerschnittstelle und auf die Funktionen, die den Administratoren vorbehalten sind;
+* Die Gedenkseite jederzeit schließen.  
 
-### 4) Accès  
+### 4) Zugriff  
 
-Les Utilisateurs qui reçoivent un lien de partage pourront accéder à la page en hommage correspondante en cliquant simplement sur le lien.  
+Die Nutzer, die den Freigabelink erhalten, können die zugehörige Gedenkseite per Mausklick auf den Link abrufen.  
 
-L’Utilisateur peut recevoir le lien de partage de la page en hommage de la part d'un Administrateur et/ou de la part d'un autre Utilisateur ayant préalablement reçu ce lien.  
+Der Nutzer kann den Freigabelink der Gedenkseite von einem Administrator und/oder einem anderen Nutzer erhalten, der den Link zuvor erhalten hat.  
 
-### 5) Obligations de l’Administrateur  
+### 5) Pflichten des Administrators  
 
-La violation des dispositions des CGU par l’Administrateur peut entraîner la suspension de l'accès au Site et la suppression de la page en hommage sans préjudice de tous dommages et intérêts que pourrait solliciter l’Éditeur. En conséquence, l’Éditeur se réserve la possibilité de refuser toute activation qui contrevient ou a contrevenu aux dispositions des CGU.
+Ein Verstoß gegen die Bestimmungen der ANB durch den Administrator kann zur Aussetzung des Zugriffs auf die Seite und zur Löschung der Gedenkseite führen, unbeschadet aller Schadens- und Zinsforderungen, die der Herausgeber erheben könnte. Somit behält sich der Herausgeber die Möglichkeit vor, jede Aktivierung abzulehnen, die gegen die Bestimmungen der ANB verstößt oder verstoßen hat.
 
-L’Administrateur est responsable de toutes les données qu’il saisit directement sur le Site et sur une page en hommage (cf. paragraphe 8 des présentes).
+Der Administrator ist für alle Daten verantwortlich, die er direkt auf der Seite und auf einer Gedenkseite eingibt (siehe Absatz 8 dieser ANB).
 
-### 6) Contribution  
+### 6) Beitrag  
 
-L’Utilisateur qui consulte une page en hommage pourra y contribuer de la manière suivante :
+Jeder Nutzer, der eine Gedenkseite abruft, kann wie folgt zu ihr beitragen:
 
-* en laissant un message : l’Utilisateur renseigne son nom, son prénom, son adresse électronique et inscrit le message qu’il souhaite déposer sur la page en hommage, en y joignant éventuellement une photographie.
-* en partageant un souvenir : l’Utilisateur renseigne son nom, son prénom, son adresse électronique et inscrit le souvenir qu’il souhaite déposer sur la page en hommage, en y joignant éventuellement une photographie.
-* en partageant une photographie : l’Utilisateur renseigne son nom, son prénom, son adresse électronique et joint la photographie qu'il souhaite déposer sur la page en hommage.
-* en participant à une collecte de dons : l’Utilisateur renseigne son nom, son prénom, son adresse électronique, sa nationalité, son pays de résidence, sa date de naissance et le montant du don qu'il souhaite faire.  
+* eine Nachricht hinterlassen: Der Nutzer gibt seinen Namen, Vornamen und E-Mail-Adresse ein und verfasst die gewünschte Nachricht auf der Gedenkseite, wobei er gegebenenfalls ein Foto hinzufügen kann.
+* eine Erinnerung teilen: Der Nutzer gibt seinen Namen, Vornamen und E-Mail-Adresse ein und verfasst die gewünschte Erinnerung auf der Gedenkseite, wobei er gegebenenfalls ein Foto hinzufügen kann.
+* ein Foto teilen: Der Nutzer gibt seinen Namen, Vornamen und E-Mail-Adresse ein und veröffentlicht das gewünschte Foto auf der Gedenkseite.
+* an einer Spendenaktion teilnehmen: Der Nutzer gibt seinen Namen, Vornamen und seine E-Mail-Adresse ein und teilt seine Staatsbürgerschaft, das Land seines Wohnsitzes, sein Geburtsdatum sowie den gewünschten Spendenbetrag mit.  
 
-L’Utilisateur est informé que l’Administrateur dispose de la possibilité (i) de récupérer les adresses électroniques des Utilisateurs qui ont déposé un message, un souvenir, une photographie et/ou qui ont fait un don sur la page en hommage, de la possibilité (ii) de télécharger le contenu des messages, des souvenirs et des photographies déposés par les Utilisateurs sur la page en hommage, et de la possibilité (iii) de supprimer un message, un souvenir et/ou une photographie déposés par les Utilisateurs sans qu'ils ne soient prévenus.
+Dem Nutzer wird mitgeteilt, dass der Administrator über die Möglichkeiten verfügt, (i) die E-Mail-Adressen der Nutzer zu erfassen, die auf der Gedenkseite eine Nachricht, eine Erinnerung, ein Foto veröffentlicht und/oder eine Spende getätigt haben, (ii) den Inhalt der Nachrichten, Erinnerungen und Fotos herunterzuladen, die durch Nutzer auf der Gedenkseite veröffentlicht wurden, sowie (iii) eine Nachricht, eine Erinnerung und/oder ein Foto, die durch Nutzer auf der Gedenkseite veröffentlicht wurden, ohne Vorwarnung zu löschen.
 
-### 7) Propriété intellectuelle  
+### 7) Geistiges Eigentum  
 
-#### 7.1) Propriété intellectuelle des Utilisateurs  
+#### 7.1) Geistiges Eigentum des Nutzers 
 
 
-**a) Diffusion des contenus**  
+**a) Verbreitung von Inhalten**  
 
-Le contenu et les informations que les Utilisateurs publient sur une page en hommage leur appartiennent. L’Utilisateur accorde à l’Éditeur une licence de propriété intellectuelle non exclusive, transférable, sous-licenciable, sans redevance et mondiale pour l’utilisation des contenus qu’ils publient sur le Site. L’Utilisateur autorise notamment l’Éditeur à reproduire/représenter le contenu et, en tant que de besoin, en adapter le format afin que l’Administrateur puisse télécharger, et le cas échéant imprimer, l’ensemble des messages, des souvenirs et/ou des photographies laissés sur une page en hommage. Cette licence de propriété intellectuelle se termine lorsque le contenu d'un utilisateur est retiré du Site ou lorsque l'Administrateur supprime la page en hommage, sauf si les contenus ont été partagés avec d’autres personnes sur un autre support que le Site (notamment impression par un Administrateur de l’ensemble des messages, des souvenirs et/ou des photographies déposés sur une page en hommage – Cf. ci-avant).
+Die Inhalte und Informationen, die die Nutzer auf einer Gedenkseite veröffentlichen, gehören ihnen. Der Nutzer erteilt dem Herausgeber ein nicht-exklusives, übertragbares, unterlizenzierbares, gebührenfreies, weltweites Lizenzrecht am geistigen Eigentum für die Nutzung der Inhalte, die sie auf der Seite veröffentlichen. Der Nutzer berechtigt den Herausgeber dazu, die Inhalte zu repräsentieren und zu publizieren und je nach Bedarf das Format anzupassen, damit der Administrator sämtliche auf einer Gedenkseite veröffentlichte Nachrichten, Erinnerungen und/oder Fotos herunterladen und gegebenenfalls ausdrucken kann. Dieses Lizenzrecht am geistigen Eigentum verfällt, wenn die Inhalte eines Nutzer von der Seite entfernt werden oder wenn der Administrator die Gedenkseite löscht, es sei denn die Inhalte wurden mit anderen Personen auf einem anderem Medium als der Seite geteilt (insbesondere Ausdrucken durch einen Administrator sämtlicher auf einer Gedenkseite veröffentlichter Nachrichten, Erinnerungen und/oder Fotos – siehe obenstehend).
 
-L’Utilisateur peut envoyer un email à l’adresse contact@inmemori.com pour retirer un contenu. L’Administrateur peut supprimer tout contenu déposé par quelconque Utilisateur.
+Der Nutzer kann an die Adresse contact@inmemori.com eine E-Mail senden, um Inhalte entfernen zu lassen. Der Administrator kann beliebige Inhalte jedweder Nutzer löschen.
 
-L’Administrateur peut à tout moment, en utilisant la fonction dédiée, modifier et/ou supprimer tout contenu ou toute information qu’il a publiés sur une page en hommage.
+Der Administrator kann jederzeit anhand einer speziellen Funktion alle Inhalte und Informationen ändern oder löschen, die er auf einer Gedenkseite veröffentlicht hat.
 
-**b) Sécurité des contenus**  
+**b) Sicherheit der Inhalte**  
 
-L’Utilisateur est par ailleurs informé que, compte tenu des caractéristiques intrinsèques de l'internet, les contenus et informations transmis ne sont pas protégés contre les risques de détournement et/ou de piratage, ce dont l’Editeur ne saurait être tenu responsable.
+Der Nutzer wird ebenfalls darauf hingewiesen, dass aufgrund der spezifischen Eigenheiten des Internets übertragene Inhalte und Informationen nicht vor dem Risiko der Entwendung und/oder der Hacker-Angriffe geschützt sind, wofür der Herausgeber nicht haftet.
 
-Pour assurer la sécurité du Site, l’Utilisateur prend les engagements suivants :
+Um die Sicherheit der Seite zu gewähren, verpflichtet sich der Nutzer dazu:
 
-* Ne pas publier de communications commerciales sans autorisation sur le Site.
-* Ne pas accéder au Site à l’aide de méthodes automatisées.
-* Ne pas effectuer de marketing multiniveau illégal.
-* Ne pas télécharger de virus ou autre codes malveillants.
-* Ne pas intimider et ne pas harceler d’autres personnes.
-* Ne pas publier de contenu incitant à la haine ou à la violence, pornographique, ou contenant de la nudité ou de la violence gratuite.
-*  Ne pas développer ni exploiter une application tierce dont le contenu est lié aux boissons alcoolisées, à des sites de rencontres pour adultes ou à d’autres produits et services pour adultes (y compris les publicités) sans restriction d’accès liée à l’âge.
-* Ne pas utiliser le Site à des fins illégales, malveillantes ou discriminatoires.
-* Ne pas permettre ni encourager les infractions aux présents engagements.
-* Ne pas créer, s’il est Administrateur, une fausse page en hommage, à savoir l’annonce de la mort d’une personne qui n’est pas décédée.  
+* Keine kommerziellen Mitteilungen ohne Erlaubnis auf der Seite zu veröffentlichen.
+* Nicht mithilfe automatisierter Verfahren auf die Seite zuzugreifen.
+* Kein illegales Multi-Level-Marketing zu betreiben.
+* Keine Viren oder Schadsoftware herunterzuladen.
+* Andere Personen nicht einzuschüchtern oder zu belästigen.
+* Keine hetzerischen, gewaltverherrlichenden oder pornografischen Inhalte zu veröffentlichen, noch solche, die Nacktheit oder Gewalt enthalten.
+* Keine externe Anwendung zu entwickeln oder zu betreiben, deren Inhalte einen Bezug zu alkoholischen Getränken, Dating-Websites für Erwachsene oder anderen für Minderjährige ungeeignete Produkte und Dienstleistungen aufweisen (einschließlich Werbeanzeigen), ohne entsprechende Altersbeschränkungen einzuhalten.
+* Die Seite nicht zu illegalen, böswilligen oder diskriminierenden Zwecken zu nutzen.
+* Verstöße gegen diese Bestimmungen weder zu ermöglichen noch dazu zu ermutigen.
+* Wenn er Administrator ist, keine falsche Gedenkseite einzurichten, das heißt den Tod einer Person zu verkünden, die nicht verstorben ist.  
 
-#### 7.2) Propriété intellectuelle des autres Utilisateurs  
+#### 7.2) Geistiges Eigentum anderer Nutzer  
 
-D'autres Utilisateurs du Site (ci-après, les « Autres Utilisateurs ») peuvent mettre en ligne des contenus et informations conformément aux présentes CGU. L’Utilisateur s’engage à ne pas consulter les contenus des Autres Utilisateurs pour toute raison autre qu'une utilisation personnelle non commerciale, telle que prévue et autorisée par les fonctionnalités normales du Site.
+Andere Nutzer der Seite (im Folgenden „Andere Nutzer“) können gemäß dieser ANB Inhalte und Informationen online publizieren. Der Nutzer verpflichtet sich, Inhalte Anderer Nutzer ausschließlich zur persönlichen nicht kommerziellen Nutzung abzurufen, im Rahmen dessen, was die normalen Funktionalitäten der Seite vorsehen und gestatten.
 
-Par ailleurs, au regard de la possibilité d’export des contenus, l’Utilisateur s’engage à ne pas exporter les contenus des Autres Utilisateurs sur des sites constituant ou comprenant des éléments constituant (i) une violation des droits de propriété intellectuelle de tiers, (ii) une atteinte aux personnes (notamment diffamation, insultes, injures, etc.) et au respect de la vie privée, (iii) une incitation à la violence ou à la haine contre tout individu ou groupe, (iv) une incitation à la cruauté envers les animaux, (v) un contenu sexuellement explicite ou fortement suggestif, (vi) une incitation à la consommation de drogues ou à toute activité illicite, de manière générale, (vii) une atteinte à l'ordre public et aux bonnes mœurs et, plus généralement, une atteinte à la réglementation applicable en vigueur.
+Im Übrigen verpflichtet sich der Nutzer im Hinblick auf den Export von Inhalten Anderer Nutzer dazu, keine Inhalte auf Seiten zu exportieren, die (i) einen Verstoß gegen das Recht auf geistiges Eigentum Dritter, (ii) eine Beeinträchtigung der Integrität des Einzelnen (Verleumdung, Beleidigung, Beschimpfung usw.) und der Privatsphäre, (iii) eine Anstiftung zu Gewalt oder Hass gegen eine Gruppe von Personen oder gegen eine Person, (iv) eine Anstiftung zu Tierquälerei, (v) einen eindeutig sexuellen oder anstößigen Inhalt, (vi) eine Anstiftung zum Drogenkonsum oder allgemein zu rechtswidrigen Handlungen, (vii) einen Verstoß gegen die öffentliche Ordnung und die guten Sitten und, ganz allgemein, gegen einschlägige gültige Bestimmungen, darstellen oder in ihren Bestandteilen darstellen.
 
-#### 7.3) Propriété intellectuelle de l’Editeur  
+#### 7.3) Geistiges Eigentum des Herausgebers  
 
-Le Site est la propriété exclusive de l’Éditeur. D'une manière générale, l’Éditeur accorde aux Utilisateurs un droit gratuit, personnel, non-exclusif et non-transférable d'accès et d'utilisation du Site sous réserve de l’acceptation et du respect des CGU. Tout autre droit étant expressément exclu sans l’accord préalable écrit de l’Editeur. Le contenu, autre que les contenus et informations insérés par les Utilisateurs, inclus ou accessible sur et/ou à travers le Site, notamment tout texte, graphisme, logo, nom, marque, désignation, onglet, fonctionnalité, image, son, donnée, photographie, et tout autre matériel ou logiciel (ci-après, le « Contenu InMemori ») est la propriété exclusive de l’Editeur ou de ses licenciés, est protégé par le droit de la propriété intellectuelle et est soumis aux lois et réglementations applicables en la matière. Le Contenu Inmemori ne doit en aucun cas être téléchargé, copié, altéré, modifié, supprimé, distribué, transmis, diffusé, vendu, loué, concédé ou exploité (en tout ou en partie) de quelque manière que ce soit, sans l'accord expresse et écrit de l’Editeur ou de ses licenciés. Les Utilisateurs acceptent de ne pas utiliser ou exploiter le Contenu InMemori à des fins autres que ceux visés au sein des présentes CGU. En outre, les Utilisateurs ne sont pas autorisés à modifier, améliorer, éditer, traduire, décompiler, désassembler ou créer une ou plusieurs oeuvre(s) dérivée(s) à partir du Contenu InMemori (en tout ou en partie), sauf si cette possibilité leur a été expressément octroyée par l’Éditeur ou par les propriétaires de ce(s) contenu(s), dans le cadre d'un accord distinct.
+Die Seite befindet sich im Alleineigentum des Herausgebers. Allgemein gewährt der Herausgeber den Nutzern ein unentgeltliches, persönliches, nicht ausschließliches, nicht übertragbares Recht für den Zugriff und die Nutzung der Seite, vorbehaltlich der Zustimmung und der Einhaltung der ANB. Weitergehende Ansprüche sind ohne vorherige schriftliche Genehmigung des Herausgebers ausdrücklich ausgeschlossen. Abgesehen von Inhalten und Informationen, die der Nutzer eingefügt hat, sind Inhalte wie Text, Schriftzug, Logo, Name, Marke, Bezeichnung, Tab, Funktion, Bild, Ton, Datenträger, Fotos, und alle Hardware oder Software (Im Folgenden „Inmemori Inhalt“), die auf und/oder über die Seite verfügbar oder zugänglich sind, Alleineigentum des Herausgebers oder seiner Lizenznehmer, sind durch das Recht auf Geistiges Eigentum geschützt und unterliegen den jeweils anwendbaren Gesetzen und Vorschriften. Der Inmemori Inhalt darf keinesfalls auf irgendwelche Weise ganz oder teilweise ohne vorherige ausdrückliche schriftliche Genehmigung des Herausgebers oder seiner Lizenznehmer heruntergeladen, kopiert, verändert, umgewandelt, gelöscht, verteilt, übertragen, ausgestrahlt, verkauft, vermietet, lizenziert oder für gewerbliche Zwecke genutzt werden. Die Nutzer stimmen zu, den Inmemori Inhalt nicht zu anderen Zwecken zu nutzen oder zu verwenden, als jene, die diese ANB als Ziel anführen. Die Nutzer sind außerdem nicht dazu berechtigt, Inmemori Inhalt ganz oder teilweise abzuändern, zu verbessern, zu verlegen, zu übersetzen, zu dekompilieren, zu zerlegen oder ein oder mehrere abgeleitete Werk(e) zu erstellen, es sei denn, diese Möglichkeit wurde ihnen ausdrücklich durch den Herausgeber oder die Besitzer des Inhalts/der Inhalte im Rahmen einer gesonderten Vereinbarung eingeräumt.
 
-### 8) Responsabilité  
+### 8) Haftung  
 
-#### 8.1) Responsabilité de l’Éditeur  
+#### 8.1) Haftung des Herausgebers  
 
-L’Éditeur met à la disposition des Utilisateurs sur le Site un certain nombre de contenus et informations créés, publiés par d’autres Utilisateurs ou par des Administrateurs. Les Utilisateurs, en qualité d’auteurs, sont seuls responsables des contenus et informations qu’ils publient sur le Site. En conséquence, la responsabilité de l’Éditeur ne saurait être engagée dans le cas où les contenus ou informations publiés par les Autres Utilisateurs contreviendraient aux dispositions légales et/ou règlementaires en vigueur ou aurait causé quelconque dommage à un Utilisateur ou à toute personne.
+Der Herausgeber stellt dem Nutzer auf der Seite unterschiedliche Inhalte und Informationen zur Verfügung, die durch andere Nutzer oder Administratoren erschaffen oder veröffentlicht wurden. Die Nutzer sind als Urheber allein verantwortlich für die Inhalte und Informationen, die sie auf der Seite veröffentlichen. Folglich kann der Herausgeber nicht haftbar gemacht werden, falls durch Andere Nutzer veröffentlichte Inhalte oder Informationen gültigen Gesetzes- und/oder Rechtsvorschriften zuwiderlaufen oder einem Nutzer oder sonstigen Personen Schaden zugefügt haben.
 
-LES CONTENUS ET INFORMATIONS SONT FOURNIS PAR LES UTILISATEURS ET/OU LES ADMINISTRATEURS ET DIFFUSÉS PAR L’ÉDITEUR À TITRE INFORMATIF. L’ÉDITEUR NE CERTIFIE AUCUNEMENT LA FIABILITÉ DES INFORMATIONS COMMUNIQUÉES PAR LES UTILISATEURS ET/OU LES ADMINISTRATEURS ET NOTAMMENT DES TEXTES, NOMS OU PHOTOGRAPHIES QU’ILS INSÈRENT SUR LE SITE. L’ÉDITEUR RECOMMANDE VIVEMENT AUX UTILISATEURS ET AUX ADMINISTRATEURS DE VÉRIFIER LES INFORMATIONS QU’ILS DÉPOSENT EN AYANT PARTICULIÈREMENT À L’ESPRIT LE CONTEXTE FORTEMENT CHARGÉ EN ÉMOTIONS DANS LEQUEL CES INFORMATIONS SONT PARTAGÉES. L’ÉDITEUR ALERTE NOTAMMENT LES UTILISATEURS ET LES ADMINISTRATEURS CONTRE LES CONSÉQUENCES D’UNE FAUSSE PAGE EN HOMMAGE, À SAVOIR L’ANNONCE DE LA MORT D’UNE PERSONNE QUI N’EST PAS DÉCÉDÉE, DESQUELS IL NE SAURAIT ÊTRE TENU POUR RESPONSABLE.
+DIE INHALTE UND INFORMATIONEN WERDEN DURCH DIE NUTZER UND/ODER ADMINISTRATOREN ZUR VERFÜGUNG GESTELLT UND DURCH DEN HERAUSGEBER ZU INFORMATIONSZWECKEN VERBREITET. DER HERAUSGEBER LEISTET KEINE GEWÄHR FÜR DIE VERLÄSSLICHKEIT DER DURCH DIE NUTZER UND/ODER ADMINISTRATOREN ANGEGEBENEN INFORMATIONEN UND TEXTE, NAMEN ODER FOTOS, DIE SIE AUF DER SEITE VERÖFFENTLICHEN. DER HERAUSGEBER RÄT DEN NUTZERN UND ADMINISTRATOREN DRINGEND DAZU, DIE INFORMATIONEN, DIE SIE PREISGEBEN, ZU PRÜFEN, INSBESONDERE AUFGRUND DES EMOTIONSGELADENEN AUGENBLICKS, IN DEM DIESE INFORMATIONEN MITGETEILT WERDEN. DER HERAUSGEBER WARNT DIE NUTZER UND ADMINISTRATOREN VOR DEN SCHWERWIEGENDEN FOLGEN EINER FALSCHEN GEDENKSEITE, DAS HEISST DEN TOD EINER PERSON ZU VERKÜNDEN, DIE NICHT VERSTORBEN IST, FÜR DIE ER NICHT HAFTBAR GEMACHT WERDEN KANN.
 
-L’Utilisateur peut signaler tout abus (notamment, contenu qui enfreigne les droits de propriété intellectuelle d’autrui, contenu incitant à la haine ou à la violence, pornographique, ou contenant de la nudité ou de la violence gratuite) qu’il constate sur le Site en cliquant sur le lien « Signaler un abus ». Il est alors invité à envoyer un message électronique à l’adresse abus@inmemori.com. Il peut également directement envoyer un message électronique à cette adresse.
+Der Nutzer kann missbräuchliches Verhalten auf der Seite melden (z.B. Inhalte, die gegen das Recht auf geistiges Eigentum eines Dritten verstoßen, hetzerische und gewaltverherrlichende Inhalte, pornografische Inhalte, oder solche, die Nacktheit oder Gewalt enthalten), indem er auf den Link „Missbrauch melden“ klickt. Er wird in diesem Fall dazu aufgefordert, eine E-Mail an die Adresse contact@inmemori.com zu senden. Er kann auch direkt eine E-Mail an diese Adresse senden.
 
-#### 8.2) Responsabilité de l’Utilisateur  
+#### 8.2) Haftung des Nutzers  
 
-En fournissant un contenu ou une information sur le Site (qu'il s'agisse de textes, de photographies, de commentaires, de noms), l’Utilisateur est tenu au respect des dispositions légales et réglementaires en vigueur. Il appartient en conséquence à l’Utilisateur de s’assurer que le stockage et la diffusion de ce contenu ou de cette information via le Site ne constitue pas (i) une violation des droits de propriété intellectuelle de tiers, (ii) une atteinte aux personnes (notamment diffamation, insultes, injures, etc.) et au respect de la vie privée, (iii) une atteinte à l'ordre public et aux bonnes mœurs (notamment, apologie des crimes contre l'humanité, incitation à la haine raciale, pornographie enfantine, etc.). En mettant en ligne et en mettant à la disposition du public un contenu ou une information sur et/ou à travers le Site, l’Utilisateur garantit détenir tous les droits et autorisations nécessaires de la part des ayants droit concernés et s’être acquitté de tous les droits et paiements dus au titre des présentes aux sociétés de gestion collective.
+Indem er einen Inhalt oder eine Information auf der Seite zur Verfügung stellt (egal ob Texte, Fotos, Kommentare oder Namen), verpflichtet sich der Nutzer zur Einhaltung der geltenden Rechts- und Verwaltungsvorschriften. Folglich muss der Nutzer selbst sicherstellen, dass die Speicherung und Verbreitung dieses Inhalts oder dieser Information über die Seite (i) keinen Verstoß gegen das Recht auf geistiges Eigentum Dritter, (ii) keine Beeinträchtigung der Integrität des Einzelnen (Verleumdung, Beleidigung, Beschimpfung usw.) und der Privatsphäre, (iii) keinen Verstoß gegen die öffentliche Ordnung und die guten Sitten (Verherrlichung von Verbrechen gegen die Menschlichkeit, Aufwiegelung zum Rassenhass, Kinderpornographie usw.) darstellt. 
+Indem der Nutzer einen Inhalt oder eine Information online veröffentlicht und der Öffentlichkeit auf und/oder über die Seite zur Verfügung stellt, sichert er zu, über alle Rechte und Befugnisse des betroffenen Rechteinhabers zu verfügen und für alle gemäß dieser ANB gegenüber Verwertungsgesellschaften anfallenden Ansprüche und Zahlungen aufgekommen zu sein.
 
-À défaut, le contenu ou l’information pourra être retiré du Site sans formalité préalable. En outre, l’Utilisateur encourt, à titre personnel, les sanctions pénales spécifiques au contenu litigieux (peines d'emprisonnement et amendes), outre la condamnation éventuelle au paiement de dommages et intérêts. Compte tenu du caractère communautaire du Site et par respect pour les sensibilités de chacun, il appartient à l'Utilisateur de conserver une certaine éthique quant aux contenus, informations et/ou commentaires mis en ligne et, notamment, de s'abstenir de diffuser tout contenu à caractère violent ou pornographique.
+Anderenfalls kann der Inhalt oder die Information ohne vorangehende Formalitäten von der Seite entfernt werden. Der Nutzer setzt sich des Weiteren persönlich strafrechtlicher Verfolgung mit dem für den strittigen Inhalt gültigen Strafmaß (Haft- oder Geldstrafe) aus, zusätzlich zur möglichen Verurteilung zur Zahlung von Schadensersatz. Aufgrund der gemeinschaftlichen Merkmale der Seite und aus Achtung gegenüber Sensibilitäten jedes Einzelnen muss der Nutzer im Hinblick auf online veröffentlichte Inhalte, Informationen und/oder Kommentare gewisse ethische Normen einhalten und insbesondere davon absehen, gewalttätige oder pornografische Inhalte zu verbreiten.
 
-#### 8.3) Le Site est soumis aux contraintes liées à l’Internet  
+#### 8.3) Die Seite unterliegt den Einschränkungen des Internets  
 
-L’Utilisateur déclare avoir parfaitement connaissance des caractéristiques et limites du réseau Internet, par lequel l’Éditeur met à disposition le Site et les page en hommage. L’Utilisateur reconnaît donc que (i) les transmissions de données sur Internet ne bénéficient que d'une fiabilité technique relative, celles-ci circulant sur des réseaux hétérogènes aux caractéristiques et capacités techniques diverses, qui sont parfois saturés à certaines périodes de la journée ; (ii) les données circulant sur Internet ne sont pas protégées contre des détournements éventuels, et qu'elles peuvent faire l'objet d'une captation des informations diffusées et (iii) qu'il est impossible de contrôler l'utilisation qui pourrait en être faite par des tiers sur Internet.
+Der Nutzer erklärt, sich der Eigenheiten und Grenzen des Internetnetzes bewusst zu sein, das der Herausgeber nutzt, um die Seite und die Gedenkseiten zur Verfügung zu stellen. Der Nutzer erkennt somit an, dass (i) die Datenübertragung im Internet aufgrund der sehr verschiedenartigen Netzwerke mit unterschiedlichen technischen Eigenschaften und Kapazitäten, die manchmal zu bestimmten Tageszeiten überlastet sind, nur bedingt technisch verlässlich ist; (ii) im Internet übertragene Daten nicht gegen möglichen Missbrauch geschützt sind, und dass somit verbreitete Informationen erfasst werden können und (iii) dass ihre mögliche Nutzung durch Dritte im Internet nicht kontrolliert werden kann.
 
-En conséquence, l’Éditeur ne peut être responsable pour l'un quelconque des faits ou évènements mentionnés ci-dessus.
+Folglich kann der Herausgeber für die oben erwähnten Sachverhalte oder Vorfälle nicht haftbar gemacht werden.
 
-L’Éditeur est également dégagé de toute responsabilité en cas de force majeure, dont notamment le dysfonctionnement du réseau Internet, des lignes téléphoniques, du matériel de réception empêchant ou entravant l'utilisation du Site et l’administration ou la consultation de la page en hommage.
+Der Herausgeber ist ebenfalls im Falle höherer Gewalt von jeglicher Haftung befreit, insbesondere bei jedweder Störung des Internet-Netzwerks, der Telefonleitungen oder des Empfangs, die die Nutzung der Seite und die Verwaltung oder den Besuch der Gedenkseite verhindert oder beeinträchtigt.
 
-### 9) Données personnelles  
+### 9) Personenbezogene Daten  
 
-#### 9.1) Données à caractère personnel  
+#### 9.1) Personenbezogene Daten  
 
-Les données à caractère personnel que l’Éditeur collecte auprès des Utilisateurs comprennent notamment :
+Die personenbezogenen Daten, die der Herausgeber bei den Nutzern erhebt, betreffen insbesondere:
 
-ses noms et prénoms, son âge, son pays de résidence et sa nationalité ;
-son adresse de courrier électronique ;
-son adresse IP (adresse virtuelle attribuée à l’appareil connecté sur internet).  
+seine Namen und Vornamen, sein Alter, sein Wohnsitzland und seine Staatsbürgerschaft;
+seine E-Mail-Adresse;
+seine IP-Adresse (virtuelle Adresse des Endgerätes mit Internetverbindung).  
 
-#### 9.2) Finalité du traitement  
+#### 9.2) Verarbeitungszweck  
 
-Le responsable du traitement des données à caractère personnel de l’Utilisateur est l’Éditeur.
+Verantwortlich für die Verarbeitung der personenbezogenen Daten des Nutzers ist der Herausgeber.
 
-Les données à caractère personnel collectées auprès de l’Utilisateur et traitées par l’Editeur ont pour finalité de :
+Die personenbezogenen Daten, die beim Nutzer erhoben und durch den Herausgeber verarbeitet werden, haben den Zweck:
 
-permettre aux Utilisateurs d’accéder aux fonctionnalités et options du Site ;
-permettre aux Administrateurs d’accéder aux fonctionnalités qui lui sont réservées ;
-permettre aux Utilisateurs de contacter d’Autres Utilisateurs ;
-permettre à l’Éditeur d’envoyer par courrier électronique à l’Utilisateur les réponses à ses requêtes et des informations diverses ;
-établir des statistiques générales sur le trafic du Site et sur les différentes rubriques qui y sont contenues ;
-toute autre finalité liée à celles qui sont énumérées ci-dessus.  
+dem Nutzer den Zugriff auf Funktionalitäten und Optionen der Seite zu ermöglichen; 
+den Administratoren den Zugriff auf ihm vorbehaltene Funktionalitäten zu ermöglichen;
+dem Nutzer den Kontakt zu anderen Nutzern zu ermöglichen;
+dem Herausgeber das Senden von Antworten auf Anfragen sowie unterschiedlicher Informationen per E-Mail zu ermöglichen;
+allgemeine Statistiken zum Verkehr auf der Seite und zu den unterschiedlichen enthaltenen Rubriken aufzustellen; 
+andere mit den oben Aufgeführten verbundene Zwecke.  
 
-#### 9.3) Protection des données  
+#### 9.3) Datenschutz  
 
-L’Éditeur s’engage à protéger l’ensemble des données à caractère personnel de l’Utilisateur, lesquelles données sont recueillies et traitées par l’Éditeur avec la plus stricte confidentialité, conformément aux dispositions législatives et réglementaires applicables.
+Der Herausgeber verpflichtet sich, sämtliche personenbezogene Daten des Nutzers zu schützen, welche durch den Herausgeber bei der Erhebung und Verarbeitung streng vertraulich behandelt werden, gemäß den der Herausgeber.
 
-Le traitement des données à caractère personnel inclut notamment l'utilisation, la conservation, l'enregistrement, le transfert, l'adaptation, l'analyse, la récapitulation, la modification, la déclaration, le partage et la destruction des données à caractère personnel en fonction de ce qui est nécessaire au regard des circonstances ou des exigences légales.
+Die Verarbeitung der personenbezogenen Daten beinhaltet die Nutzung, Aufbewahrung, Speicherung, Übertragung, Anpassung, Analyse, Zusammenfassung, Änderung, Erklärung, Teilung und Zerstörung der personenbezogenen Daten, je nachdem, was die Umstände oder gesetzlichen Anforderungen gebieten.
 
-Toutes les données à caractère personnel collectées sont conservées pour une durée limitée en fonction de la finalité du traitement et de la durée de conservation prévue par la législation en vigueur.
+Alle erhobenen personenbezogenen Daten werden, je nach Zweck der Verarbeitung und nach gesetzlich vorgeschriebener Aufbewahrungsdauer, für eine festgelegte Dauer aufbewahrt.
 
-#### 9.4) Droit d’opposition, de rectification et de suppression de l’Utilisateur  
+#### 9.4) Recht des Nutzers auf Widerspruch, Berichtigung und Löschung  
 
-Conformément aux dispositions législatives et réglementaires applicables, l’Utilisateur peut à tout moment :
+Gemäß den gültigen Rechts- und Verwaltungsvorschriften kann der Nutzer jederzeit:
 
-s’opposer au traitement de ses données à caractère personnel par l’Éditeur ;
-s’opposer à la communication des données à caractère personnel le concernant à des tiers ;
-accéder à l’ensemble des données à caractère personnel le concernant traitées par l’Éditeur ;
-rectifier, mettre à jour et supprimer des données à caractère personnel le concernant traitées par l’Éditeur.
-Pour exercer ses droits, il suffit à l’Utilisateur d’adresser un message électronique à l’adresse contact@inmemori.com en prenant soin de justifier de son identité (mentionner ses noms, prénoms, adresse de courrier électronique et joindre une copie de sa pièce d’identité) à l’Éditeur, aux coordonnées visées en préambule des présentes CGU.
+der Verarbeitung seiner personenbezogenen Daten durch den Herausgeber widersprechen;
+der Weitergabe ihn betreffender personenbezogenen Daten an Dritte widersprechen;
+auf sämtliche ihn betreffende personenbezogene Daten, die durch den Herausgeber verarbeitet werden, zugreifen;
+ihn betreffende personenbezogene Daten, die durch den Herausgeber verarbeitet werden, berichtigen, aktualisieren und löschen.
+Zur Wahrnehmung dieser Rechte kann der Nutzer einfach unter der Adresse contact@inmemori.com eine E-Mail an den Herausgeber senden, wobei er sich ausweisen muss (Name, Vorname, E-Mail-Adresse angeben und eine Kopie des Ausweises beifügen), an die Kontaktdaten, die in der Präambel dieser ANB genannt werden.
 
-### 10) Disponibilité du Site  
+### 10) Verfügbarkeit der Seite 
 
-Le Site et les pages en hommage sont par principe accessibles 24 heures sur 24, 7 jours sur 7, sauf interruption, programmée ou non, pour les besoins de maintenance ou cas de force majeure. Etant de fait soumis à une obligation de moyens, l’Éditeur ne saurait être tenu responsable de tout dommage, quelle qu'en soit la nature, résultant d'une indisponibilité du Site ou d’une page en hommage.
+Die Seite und die Gedenkseiten sind grundsätzlich 24 Stunden am Tag und 7 Tage pro Woche verfügbar, außer im Falle einer programmierten oder nicht programmierten Unterbrechung zu Wartungszwecken oder höherer Gewalt. Der Herausgeber unterliegt der Sorgfaltspflicht und kann nicht für Schaden jedweder Art haftbar gemacht werden, die sich aus der Nichtverfügbarkeit der Seite oder einer Gedenkseite ergeben.
 
-L’Éditeur ne garantit pas que le Site, et le serveur qui le met à disposition, soient exempts de virus et autres composants dangereux. Il appartient à l'Utilisateur de prendre toutes les mesures appropriées pour protéger ses propres données et/ou logiciels de la contamination par d'éventuels virus circulant sur le réseau internet et de vérifier que sa configuration informatique ne contient aucun virus et qu’elle est en parfait état de fonctionnement.
+Der Herausgeber erteilt keine Gewähr dafür, dass die Seite und der Server, der sie zur Verfügung stellt, frei von Viren und anderen gefährlichen Komponenten sind. Die nötigen Maßnahmen zum Schutz der eigenen Daten und/oder Software vor einem möglichen Befall durch Viren im Internetnetz sowie die Prüfung der IT-Konfiguration auf Virenfreiheit und einwandfreie Funktionsfähigkeit obliegen dem Nutzer.
 
-L'Utilisateur accepte le fait que l’Éditeur et ses fournisseurs ne pourront en aucun cas être tenus responsables des dommages, matériels et/ou immatériels, directs et/ou indirects qui pourraient résulter de l’accès ou de l’utilisation du Site et/ou de son contenu, y compris l’inaccessibilité, les pertes de données, les détériorations, les destructions ou les virus qui pourraient affecter l’équipement informatique de l’Utilisateur, et/ou de la présence de virus sur son Site.
+Der Nutzer erklärt sich einverstanden, dass weder der Herausgeber noch seine Zulieferer für direkte und/oder indirekte Schäden materieller und/oder immaterieller Art haftbar gemacht werden können, die sich aus dem Zugriff oder der Nutzung der Seite und/oder ihres Inhalts ergeben könnten, auch die Nichtverfügbarkeit, Datenverluste, Beschädigungen, Zerstörungen oder Viren, die die EDV-Ausstattung des Nutzers beeinträchtigen könnten, und/oder der Virenbefall seiner Seite.
 
 ### 11) Cookies  
 
-Voir la Politique des cookies qui fait partie intégrante des présentes CGU.
+Hinweise zur Nutzung von Cookies lesen, die Bestandteile dieser ANB sind.
 
-### 12) Divers  
+### 12) Verschiedenes  
 
-Les registres informatisés conservés dans les systèmes de l’Editeur dans le respect des règles de l'art en matière de sécurité, seront considérés comme preuves des communications de courriers électroniques, envois de formulaire d'inscription, contenus. L'archivage des formulaires d'inscription est effectué sur un support de nature à assurer le caractère fidèle et durable requis par les dispositions légales en vigueur. Il est convenu qu'en cas de divergence entre les registres informatisés de l’Éditeur et les documents au format papier ou électronique dont l’Utilisateur dispose, les registres informatisés de l’Éditeur feront foi.
+Die elektronischen Verzeichnisse, die in den Informatiksystemen des Herausgebers gemäß höchster Sicherheitsstandards aufbewahrt werden, gelten als Beweis für den E-Mail-Verkehr, den Versand von Registrierungsformularen, Inhalte. Die Archivierung der Registrierungsformulare erfolgt auf einem Träger, der gemäß Gesetzesanforderungen Genauigkeit und Nachhaltigkeit gewährt. Es wird vereinbart, dass bei Abweichungen zwischen elektronischen Verzeichnissen des Herausgebers und Dokumenten im Papierformat, über die der Nutzer verfügt, die elektronischen Verzeichnisse des Herausgebers gelten.
 
-Conditions générales relatives à la fonction de collecte de dons : Consulter les conditions générales relatives à Stripe.  
+Allgemeine Bestimmungen zur Funktion Spendenaktion: Allgemeine Bestimmungen zu Stripe abrufen.
 
-Mis à jour : 18/12/2017
+Aktualisiert: 18/12/2017
 <br/>
