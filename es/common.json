@@ -7,7 +7,8 @@
   , "lang": {
       "fr": "Français",
       "en": "English",
-      "es": "Español"
+      "es": "Español",
+      "de": "Allemand"
     }
   , "fulldate": "LLLL"
   , "shortdate": "dddd D MMMM YYYY"

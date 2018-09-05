@@ -59,6 +59,7 @@
           , "dod": "Quelle est sa date de décès ?"
           , "email": "Quelle est votre adresse email ?"
           , "phone": "Quel est votre numéro de téléphone ?"
+          , "zone": "Quel est la zone ?"
         }
     }
     
