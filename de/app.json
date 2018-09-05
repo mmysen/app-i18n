@@ -209,7 +209,7 @@
         }
       , "item-info": "Die Druckqualität der Bilder hängt von der Größe der Fotos ab, die im im Würdigungsbuch veröffentlicht wurden. Danke für Ihr Verständnis."
       , "shipping-info": "Um ein qualitativ hochwertiges Buch zu einem attraktiven Preis anbieten zu können, werden mehrere Bestellungen zusammengefasst. Somit kann die Lieferfrist zwischen 15 und 30 Tagen ab Bestelltag betragen. Lieferung nur nach Frankreich."
-      , "cta-prev": "Retour"
+      , "cta-prev": "Zurück"
       , "cta-end": "Schließen"
       , "text-inactive": "La commande de votre livre sera disponible d'ici quelques jours afin que tous les proches de {{fullname}} aient eu le temps de lui rendre hommage."
     }
