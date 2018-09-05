@@ -1,6 +1,4 @@
-<br/>  
-## General Terms of Use  
-<br/>  
+ ## General Terms of Use    
 
   
 These General Terms of Use (the "T&Cs") are designed to regulate the use by any person (the "User")of the www.inmemori.com web site (the “Site”) published by Rest In Peace (the “Publisher”).
@@ -10,8 +8,7 @@ Any access to or use of the Site implies acceptance without reservations of thes
 User’s access or use of the Site implies acceptance without reservations of the T&Cs.
 
 The Publisher shall be entitled to modify these T&Cs at any time. The applicable terms and conditions shall be those that are in force and are accessible on the Site on the date on which the User accesses the Site.
-
-<br/>  
+ 
 ### 1) Presentation of the Site  
 
 The www.inmemori.com Site is intended for people who have just lost a relative, and provides them with a private and personal digital space that can be used:
