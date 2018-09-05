@@ -190,12 +190,12 @@
       , "step1": {
             "title": "Ihre Auswahl"
           , "subtitle": ""
-          , "cta": "Suivant"
+          , "cta": "Weiter"
         }
       , "step2": {
             "title": "Zustellung"
           , "subtitle": "Ausschließlich in Kontinentalfrankreich"
-          , "cta": "Suivant"
+          , "cta": "Weiter"
         }
       , "step3": {
             "title": "Bestellung bestätigen"
