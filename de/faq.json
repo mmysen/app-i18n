@@ -2,118 +2,118 @@
   "faq": [
 
     {
-      "section": "CRÉER UNE PAGE SUR INMEMORI",
+      "section": "EINE SEITE BEI INMEMORI ERSTELLEN",
       "qa": [
         {
-          "q": "InMemori ?",
-          "r": "Pour découvrir la mission d’InMemori et nos valeurs, consultez la rubrique <a href='/about'>À propos</a>."
+          "q": "InMemori?",
+          "r": "Um den Auftrag und die Werte von InMemori zu entdecken, begeben Sie sich in die Rubrik <a href='/about'>Über uns</a>."
         },
         {
-          "q": "À quoi sert une page d’hommage ?",
-          "r": "Grâce au service InMemori, vous disposez d'une page privée qui vous permet de : \n- transmettre rapidement les informations sur les obsèques à chacune des personnes concernées,\n- recevoir et conserver les condoléances et les souvenirs de vos proches,\n- organiser une collecte de dons en sa mémoire, si vous le souhaitez."
+          "q": "Wozu dient eine Gedenkseite?",
+          "r": "InMemori bietet Ihnen eine private Seite, wo Sie die Möglichkeit haben: \n- schnell alle Betroffenen über die Bestattung zu informieren,\n- die Beileidsschreiben und Erinnerungen Ihrer Angehörigen zu empfangen und aufzubewahren,\n- wenn Sie möchten, eine Spendenaktion zu Ehren des Verstorbenen zu organisieren."
         },
         {
-          "q": "Comment créer une page d’hommage ?",
-          "r": "Il vous suffit de renseigner les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/signup'>ici</a>.\nLa création de la page ne vous prendra que 5 minutes.\n\nUne fois la page créée, vous aurez accès à votre espace de gestion, sur lequel vous pourrez :\n- suivre l’activité de la page (nombre de vues, nombre d’hommages),\n- organiser une collecte de dons, si vous le souhaitez,\n- imprimer le recueil de tous les hommages partagés,\n- remercier vos proches et les donateurs grâce à la liste de contacts."
+          "q": "Wie wird eine Gedenkseite erstellt?",
+          "r": "Sie müssen nur Vorname, Name und Todesdatum Ihres Angehörigen sowie Ihre E-Mail-Adresse angeben, indem Sie <a href='/signup'>hier</a>.\nDie Erstellung der Seite dauert nur 5 Minuten.\n\nWenn die Seite erstellt ist, verfügen Sie über einen Account. Hier können Sie:\n- das Geschehen auf der Seite mitverfolgen (Anzahl der Abrufe, Anzahl der Würdigungen),\n- wenn Sie möchten, eine Spendenaktion zu Ehren des Verstorbenen organisieren,\n- alle geteilten Würdigungen als Band ausdrucken,\n- Ihren Angehörigen und den Spendern mithilfe der Kontaktliste danken."
         },
         {
-          "q": "Qui peut créer une page d’hommage ?",
-          "r": "Tout le monde peut créer une page : un membre de la famille, un ami, un collègue…\nIl vous suffit de renseigner les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/signup'>ici</a>."
+          "q": "Wer kann eine Gedenkseite einrichten?",
+          "r": "Jeder kann eine Seite einrichten: Familienmitglieder, Freunde, Kollegen…\nSie müssen nur Vorname, Name und Todesdatum Ihres Angehörigen sowie Ihre E-Mail-Adresse angeben, indem Sie <a href='/signup'>hier</a>."
         },
         {
-          "q": "Comment inviter mes proches à consulter cette page ?",
-          "r": "Très simplement. Il vous suffit de partager la page par sms et par email, depuis votre espace de gestion.\nVous pouvez aussi, si vous le souhaitez, copier le lien et le coller sur les canaux de communication de votre choix (réseaux sociaux, WhatsApp, faire-part papier…)."
+          "q": "Wie kann ich meine Angehörigen auf die Seite einladen?",
+          "r": "Ganz einfach. Sie können die Seite anhand Ihres Accounts leicht per SMS oder Mail teilen.\nWenn Sie möchten, können Sie auch den Link kopieren und über den Kommunikationskanal Ihrer Wahl teilen (soziale Netzwerke, WhatsApp, klassische Todesanzeigen als Karte…)."
         },
         {
-          "q": "Qui peut voir cette page ?",
-          "r": "Seules les personnes qui reçoivent le lien y ont accès.\nLa page étant privée, elle n’apparaîtra jamais dans les résultats des moteurs de recherche."
+          "q": "Wer kann die Seite sehen?",
+          "r": "Nur wer den Link erhalten hat kann sie abrufen.\nDa die Seite privat ist wird sie nie in Suchergebnissen auftauchen."
         },
         {
-          "q": "Puis-je créer une page si je n’ai pas encore toutes les informations ?",
-          "r": "Oui, seules quelques informations sont essentielles pour créer une page.\nVous devez renseigner les prénom et nom de votre proche, sa date de décès et votre adresse email afin de recevoir le lien qui vous permettra de créer la page d’hommage. Vous pourrez ensuite à tout moment vous rendre sur votre espace de gestion pour la modifier ou la compléter."
+          "q": "Kann ich die Seite bereits erstellen, bevor ich alle Informationen habe?",
+          "r": "Ja, nur wenige Informationen sind unerlässlich für die Erstellung einer Seite.\nSie müssen den Vor- und Nachnamen Ihres Angehörigen, sein Todesdatum und Ihre E-Mail-Adresse angeben, um den Link zu erhalten, der die Erstellung der Gedenkseite ermöglicht. Anschließend können Sie diese jederzeit anhand Ihres Accounts ändern oder vervollständigen."
         },
         {
-          "q": "Comment retrouver la page InMemori d’un proche décédé ?",
-          "r": "L’intimité des familles est au coeur de l’engagement d’InMemori, c’est pour cela que les pages sont privées. Seules les personnes qui reçoivent le lien y ont accès.\nSi vous apprenez qu’une page InMemori a été créée pour un proche, n’hésitez pas à contacter la famille ou des amis afin qu’ils vous communiquent le lien pour que vous puissiez y accéder."
+          "q": "Wie finde ich die InMemori-Seite eines verstorbenen Angehörigen?",
+          "r": "Da die Privatsphäre der Familien InMemori eine Herzensangelegenheit ist, sind die Seiten privat. Nur wer den Link erhalten hat kann sie abrufen.\nWenn Sie von der Einrichtung einer InMemori-Seite für einen Angehörigen erfahren, zögern Sie nicht, seine Familie und Freunde zu kontaktieren, um den Link zu erhalten, der Ihnen den Zugriff ermöglicht."
         },
         {
-          "q": "Combien coûte le service InMemori ?",
-          "r": "InMemori est un service gratuit pour permettre à tous d’y avoir accès.\nNotre ambition est que toutes les familles qui traversent un deuil puissent y trouver aide et réconfort."
+          "q": "Was kostet der InMemori-Dienst?",
+          "r": "InMemori ist eine kostenlose Dienstleistung, die somit jeder nutzen kann.\nInMemori verfolgt das Ziel, jeder trauernden Familie Unterstützung und Trost zu spenden."
         }
       ]
     },
     {
-      "section": "GÉRER UNE PAGE INMEMORI",
+      "section": "VERWALTUNG EINER INMEMORI-SEITE",
       "qa": [
         {
-          "q": "Comment gérer la page d’hommage ?",
-          "r": "Si vous êtes administrateur, vous avez reçu par email et par sms un lien qui vous redirige vers un espace de gestion.\nDepuis cet espace, vous pouvez personnaliser et compléter la page :\n- en ajoutant une photo,\n- en personnalisant le faire-part,\n- en renseignant ou en modifiant les informations sur les obsèques,\n- en activant une collecte de dons pour soutenir une association de votre choix.\nVous pouvez aussi ajouter d’autres administrateurs, vous leur donnerez ainsi accès à l’espace de gestion."
+          "q": "Wie verwalte ich die Gedenkseite?",
+          "r": "Wenn Sie Administrator sind haben Sie per Mail oder SMS einen Link erhalten, der Sie auf einen Account verweist.\nAnhand dieses Accounts können Sie die Seite individuell gestalten und vervollständigen:\n- indem Sie ein Foto hinzufügen,\n- indem Sie die Trauerkarte individuell gestalten,\n- indem Sie die Informationen zur Bestattung bekanntgeben oder ändern,\n- indem Sie eine Spendenaktion starten, um beliebige Organisationen zu unterstützen.\nSie können auch andere Administratoren hinzufügen und Ihnen somit Zugriff auf den Account erteilen."
         },
         {
-          "q": "Que faire si des messages ou des photos postés sur la page d’hommage ne sont pas appropriés ?",
-          "r": "Si vous êtes administrateur de la page, vous pouvez à tout moment supprimer un message ou une photo depuis votre espace de gestion."
+          "q": "Was kann ich tun, wenn auf der Gedenkseite unangebrachte Nachrichten oder Fotos veröffentlicht werden?",
+          "r": "Wenn Sie der Administrator der Seite sind, können Sie von Ihrem Account aus jederzeit eine Nachricht oder ein Foto löschen."
         },
         {
-          "q": "Puis-je supprimer la page d’hommage ?",
-          "r": "Si vous êtes administrateur de la page, il vous est possible de mettre en veille ou de supprimer la page au moment de votre choix.\nSachez que vous pouvez garder une trace de tous les hommages partagés par vos proches en imprimant le recueil InMemori."
+          "q": "Kann ich die Gedenkseite löschen?",
+          "r": "Wenn Sie der Administrator der Seite sind, haben Sie die Möglichkeit, die Seite wannimmer Sie wünschen vorübergehend zu deaktivieren oder zu löschen.\nVergessen Sie nicht, dass Sie alle durch Angehörige veröffentlichten Würdigungen aufbewahren können, indem sie den InMemori-Band ausdrucken."
         },
         {
-          "q": "Que devient cette page d’hommage avec le temps ?",
-          "r": "Il existe trois possibilités :\n- maintenir la page en ligne pour permettre à tous vos proches d’y retourner et de consulter les hommages,\n- mettre en veille la page pour conserver les hommages mais bloquer son accès,\n- supprimer la page.\nLe temps du deuil est personnel, c’est pour cela qu’InMemori a choisi de laisser ce choix aux administrateurs de la page."
+          "q": "Was wird langfristig aus dieser Gedenkseite?",
+          "r": "Es bieten sich drei Möglichkeiten:\n- die Seite online lassen, um Ihren Angehörigen die Möglichkeit zu geben, sie später abzurufen und die Würdigungen zu lesen,\n- die Seite vorübergehend deaktivieren, um die Würdigungen zu speichern, aber den Zugang sperren,\n- die Seite löschen.\nDa die Zeit der Trauer etwas sehr Persönliches ist, hat InMemori beschlossen, diese Entscheidung den Administratoren der Seite zu überlassen."
         }
       ]
     },
     {
-      "section": "PARTICIPER À UNE PAGE INMEMORI",
+      "section": "AN EINER INMEMORI-SEITE MITWIRKEN",
       "qa": [
         {
-          "q": "Puis-je poster plusieurs photos sur une page d’hommage ?",
-          "r": "Oui, très facilement.\nIl vous suffit de cliquer sur le bouton “Participer” et de choisir l’action “Photos”, vous pouvez alors ajouter autant de photos que vous le souhaitez.\nVous pouvez même joindre plusieurs photos à la fin d’un message de condoléances ou d’un souvenir afin d’enrichir votre hommage."
+          "q": "Kann ich mehrere Fotos auf einer Gedenkseite veröffentlichen?",
+          "r": "Ja, ganz einfach.\nSie müssen nur auf den Knopf „Teilnehmen” klicken und en Bereich „Fotos“ auswählen. Dann können Sie so viele Fotos wie erwünscht hinzufügen.\nSie können auch am Ende eines Beileidsschreibens oder einer Erinnerung mehrere Fotos einfügen, um Ihre Würdigung zu bereichern."
         },
         {
-          "q": "Quelle est la différence entre un message de condoléances et un souvenir ?",
-          "r": "Un message de condoléances est un témoignage de soutien et de participation à la douleur d’autrui.\nUn souvenir est un moment vécu avec la personne défunte ou qui illustre sa vie.\nCes deux types de message participent à l’hommage et les souvenirs apportent de la douceur et décrochent parfois même un sourire aux personnes les plus affectées."
+          "q": "Was ist der Unterschied zwischen Beileidsschreiben und Erinnerung?",
+          "r": "Ein Beileidsschreiben bekundet Unterstützung und Mitgefühl für Trauernde.\nEine Erinnerung ist ein Erlebnis mit dem oder der Verstorbenen, oder steht sinnbildlich für sein Leben.\nBeides sind Nachrichten, die zum Gedenken beitragen, und Erinnerungen bieten Wärme und zaubern manchmal auch auf die bekümmertsten Gesichter ein Lächeln."
         },
         {
-          "q": "À qui peuvent bénéficier les donations ?",
-          "r": "Toutes les associations déclarées peuvent, sans autorisation spéciale et quel que soit leur objet, recevoir des dons manuels (c’est à dire effectués “de la main à la main”, soit des dons effectués par des particuliers), et ce en application de l’article 6 de la loi du 1er juillet 1901.\n\n\nSource : <a target='_new' href='http://www.associations.gouv.fr/dons-manuels.html'>www.associations.gouv.fr</a>"
+          "q": "An wen können sich die Spenden wenden?",
+          "r": "Alle eingetragenen Vereine können ohne besondere Genehmigung und unabhängig vom Themenbereich direkt Spendengelder in Bargeldform empfangen (entweder direkt „in die Hand“, oder über Einzelne), unter Verweis auf Artikel 6 des Gesetzes loi du 1er juillet 1901.\n\n\nQuelle : <a target='_new' href='http://www.associations.gouv.fr/dons-manuels.html'>www.associations.gouv.fr</a>"
         },
         {
-          "q": "Sur quel compte est crédité l’argent des donations ?",
-          "r": "L’argent des donations est crédité sur le compte de l’administrateur qui clôture la collecte de dons. Il lui suffit pour cela de renseigner sa date de naissance et son IBAN.\nC’est alors à lui qu’il revient de reverser cette somme à l’association choisie ou à la famille."
+          "q": "Auf welches Konto fließen die Spendengelder?",
+          "r": "Die Spendengelder fließen auf das Konto des Verwalters, der die Spendenaktion abschließt. Dafür müssen nur dessen Geburtsdatum und IBAN angegeben werden.\nEr überweist dann die entsprechende Summe an den Verein, den die Familie ausgesucht hat."
         },
         {
-          "q": "Des frais sont-ils appliqués aux dons versés sur InMemori ?",
-          "r": "<u>Dons effectués via le service InMemori</u>\nLes dons sont soumis à des frais de 5% :\n- 2% servent à couvrir les frais bancaires liés à la sécurisation et au traitement des paiements,\n- 3% servent à couvrir les coûts liés aux opérations et à l’assistance relative aux paiements."
+          "q": "Fallen Gebühren auf die Spenden an, die über InMemori getätigt werden?",
+          "r": "<u>Spendenaktionen über den InMemori-Dienst</u>\nAuf Spenden fallen Gebühren in Höhe von 5% an:\n- 2% decken Bankgebühren für die Zahlungsabwicklung- und sicherung ab,\n- 3% decken Kosten für Zahlungsverkehr und Betreuung ab."
         },
         {
-          "q": "Comment l’association choisie reçoit-elle les dons effectués sur InMemori ?",
-          "r": "L’administrateur qui clôture la collecte reçoit le montant de l’ensemble des dons, déduit des frais de traitement, sur son compte bancaire.\nIl n’a plus qu’à transmettre cette somme à l’association mentionnée sur la page d’hommage depuis le site web de l’association, par virement ou par chèque."
+          "q": "Wie empfängt der ausgewählte Verein die auf InMemori getätigten Spenden?",
+          "r": "Der Administrator, der die Spendenaktion abschließt, erhält den Betrag der Gesamtspenden abzüglich der Bearbeitungskosten auf seinem Bankkonto.\nDiese Summe muss dann nur noch an den auf der Gedenkseite erwähnten Verein überwiesen werden – über dessen Website, per Überweisung oder Scheck."
         },
         {
-          "q": "Les dons effectués sur InMemori sont-ils éligibles à une déduction fiscale ?",
-          "r": "Oui, sous certaines conditions.\nLa loi prévoit effectivement la possibilité pour les particuliers de bénéficier d’une réduction d’impôt pour les dons qu’ils ont versés à une association. Les associations considérées d’intérêt général ou d'utilité publique peuvent notamment éditer des reçus fiscaux. \nPour être considérée d'intérêt général, l'association doit remplir 3 conditions : \n- ne pas être à but lucratif, \n- avoir un objet social et une gestion désintéressée, \n- ne pas fonctionner au profit d’un cercle restreint."
+          "q": "Können die Spenden, die über InMemori getätigt werden, von der Steuer abgesetzt werden?",
+          "r": "Ja, unter bestimmten Bedingungen.\nDas Gesetz räumt Einzelnen die Möglichkeit ein, Spendengelder an Vereine von der Steuer abzusetzen. Vereine, die als im Interesse der Allgemeinheit oder gemeinnützig anerkannt werden, können auch Spendenbescheinigungen ausstellen.\nFür eine Anerkennung als gemeinnütziger Verein, muss dieser drei Anforderungen genügen: \n- nicht gewinnorientiert sein, \n- einen Gesellschaftszweck erfüllen und eine uneigennützige Geschäftsform aufweisen,\n- nicht einem begrenzten Personenkreis dienen."
         },
         {
-          "q": "Quel est le montant de la réduction fiscale ?",
-          "r": "La réduction d’impôts porte sur 66% des sommes versées par le donateur, dans la limite de 20% de son revenu imposable. Cette réduction est portée à 75% lorsque l’association a pour objet la fourniture gratuite de repas, de soins ou d’hébergement aux personnes en difficulté, dans la limite de 531€ versés par le donateur.\nPour les dons aux associations provenant d'entreprise, la réduction fiscale est de 60% du montant des dons versés à l’association, dans la limite de 0,5% du chiffre d’affaires annuel.\nEnfin, lorsque le montant dépasse la limite des 20% du revenu imposable, l’excédent est reporté sur les 5 années suivantes, dans les mêmes conditions fiscales.\n\nSource : <a target='_new' href='http://www.service-public.fr/particuliers/vosdroits/F426'>www.service-public.fr</a>"
+          "q": "Wie hoch fällt die Steuervergünstigung aus?",
+          "r": "66% der Beträge, die der Spender gespendet hat, können von der Steuer abgesetzt werden, im Umfang von höchstens 20% des zu versteuernden Einkommens. Diese Vergünstigung beträgt 75%, wenn der Verein das Zielverfolgt, kostenlose Malzeiten, Pflege oder Unterkünfte für Bedürftige zur Verfügung zu stellen, im Umfang von maximal 531€ der Spendengelder.\nFür Spenden durch Unternehmen an Vereine beläuft sich die Steuervergünstigung auf 60% der Spendensummen zu Gunsten eines Vereins, im Umfang von höchstens 0,5% des Jahresumsatzes.\nWird der Höchstbetrag von 20% des zu versteuernden Einkommens überschritten, so kann der Spender den Restbetrag innerhalb der 5 folgenden Jahre in denselben Bedingungen absetzen.\n\nQuelle: <a target='_new' href='http://www.service-public.fr/particuliers/vosdroits/F426'>www.service-public.fr</a>"
         }
       ]
     },
     {
-      "section": "DIVERS",
+      "section": "VERSCHIEDENES",
       "qa": [
         {
-          "q": "Vous souhaitez créer une page InMemori ou participer à une page d’hommage mais vous avez des questions ?",
-          "r": "Il vous suffit de contacter Constance et notre équipe, qui assistent les familles et les proches au quotidien : \nPar email : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \nPar téléphone, tous les jours de la semaine et à tout moment, au numéro renseigné sur l’email et le sms envoyés par InMemori. \n <em>(Valable si vous avez déjà créé la page ou participé une première fois à la page d’hommage de votre proche)</em>.\n\nVotre sérénité est au coeur de notre engagement et nous sommes mobilisés pour vous répondre en moins de 24h."
+          "q": "Sie möchten eine InMemori-Seite einrichten oder an einer Gedenkseite mitwirken, haber aber Fragen?",
+          "r": "Dann können Sie ganz einfach Constance und den Rest unseres Teams kontaktieren, das den Familien und Freunden im Alltag beisteht: \nPer Mail: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \nPer Telefon, täglich und jederzeit, auf der Rufnummer, die Sie per Mail oder SMS von InMemori zugesendet bekommen haben. \n <em>(Sofern Sie bereits eine Seite erstellt oder einmal an der Gedenkseite Ihres Angehörigen mitgewirkt haben)</em>.\n\nIhre Sorglosigkeit ist uns wichtig, und wir bemühen uns, Ihnen binnen 24 Stunden zu antworten."
         },
         {
-          "q": "Comment nous aider ?",
-          "r": "Notre souhait pour InMemori est que chaque famille qui traverse un deuil puisse y trouver aide et réconfort. Nous avons besoin de vous pour mettre InMemori sur leur chemin et pour les accompagner avec justesse :\n- en parlant d’InMemori autour de vous, \n- en nous transmettant vos suggestions d’amélioration, \n- en nous envoyant le témoignage de votre expérience sur InMemori \n<em>(Ce que cela vous a apporté ? Comment cela vous a aidé ?)</em>,\n- en nous suivant sur nos réseaux sociaux : <a target='_new' href='https://www.facebook.com/inmemori.fr/'><i class='fa fa-facebook-square mr-1'></i>FR</a> <a target='_new' href='https://www.facebook.com/Inmemori-608021039394765/'><i class='fa fa-facebook-square mr-1'></i>US</a> <a target='_new' href='https://twitter.com/inmemori_fr?lang=en&lang=en'><i class='fa fa-twitter-square mr-1'></i></a> <a target='_new' href='https://www.linkedin.com/company/18116192/'><i class='fa fa-linkedin-square mr-1'></i></a>\n\nNous nous tenons à votre disposition, n’hésitez pas à nous écrire à l’adresse suivante : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
+          "q": "Wie können Sie uns helfen?",
+          "r": "Wir wünschen, dass jede trauernde Familie Unterstützung und Trost erfährt. Wir brauchen Sie, um sie mit InMemori vertraut zu machen und sie entsprechend ihrer Bedürfnisse zu begleiten:\n- indem Sie InMemori weiterempfehlen, \n- indem Sie Verbesserungsvorschläge unterbreiten, \n- indem Sie uns einen Erlebnisbericht zu InMemori schicken \n<em>(Was wussten Sie zu schätzen? Was war hilfreich?)</em>,\n- indem Sie uns auf den Sozialen Netzwerken abonnieren: <a target='_new' href='https://www.facebook.com/inmemori.fr/'><i class='fa fa-facebook-square mr-1'></i>FR</a> <a target='_new' href='https://www.facebook.com/Inmemori-608021039394765/'><i class='fa fa-facebook-square mr-1'></i>US</a> <a target='_new' href='https://twitter.com/inmemori_fr?lang=en&lang=en'><i class='fa fa-twitter-square mr-1'></i></a> <a target='_new' href='https://www.linkedin.com/company/18116192/'><i class='fa fa-linkedin-square mr-1'></i></a>\n\nWir sind für Sie da, zögern Sie nicht, uns unter folgender E-Mail-Adresse zu kontaktieren: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
         },
         {
-          "q": "Comment rejoindre InMemori ?",
-          "r": "Si vous souhaitez rejoindre l’aventure InMemori, n'hésitez pas à nous transmettre votre candidature à <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
+          "q": "Möchten Sie sich InMemori anschließen?",
+          "r": "Wenn Sie sich dem InMemori-Abenteuer anschließen möchten, zögern Sie nicht, Ihre Bewerbung an <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
         }
       ]
     }
