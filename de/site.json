@@ -3,166 +3,166 @@
 
   , "links": {
         "home": "Accueil"
-      , "about": "À propos"
-      , "team": "L'équipe"
+      , "about": "Über uns"
+      , "team": "Team"
       , "press": "Presse"
-      , "contact": "Contact"
-      , "example": "Voir un exemple"
-      , "signup": "Créer une page"
+      , "contact": "Kontakt"
+      , "example": "Beispiel ansehen"
+      , "signup": "Eine Seite einrichten"
     }
 
   , "welcome": {
         "step0": { 
-            "title": "Faire-Part"
-          , "info": "Informations sur votre proche disparu."
-          , "cta": "Suivant"
+            "title": "Trauerkarte"
+          , "info": "Informationen Ihres verstorbenen Nahestehenden."
+          , "cta": "Weiter"
         }
       , "step1": { 
-            "title": "Contact"
-          , "info": "Vos Informations"
-          , "cta": "Suivant"
+            "title": "Kontakt"
+          , "info": "Ihre Informationen"
+          , "cta": "Weiter"
         }
       , "step2": { 
-            "title": "Obsèques"
-          , "info": "Vous pourrez ajouter une étape supplémentaire ultérieurement."
-          , "cta": "Suivant"
+            "title": "Bestattung"
+          , "info": "Sie können den Ablauf später noch vervollständigen."
+          , "cta": "Weiter"
         }
       , "step3": { 
-            "title": "Page créée"
-          , "info": "Bravo, la page en hommage à {{fullname}} est activée et prête à être partagée !"
-          , "cta": "Voir la page"
+            "title": "Seite erstellt"
+          , "info": "Bravo, die Seite zu Gedenken von {{fullname}} wurde aktiviert und kann nun geteilt werden!"
+          , "cta": "Seite ansehen"
         }
-      , "cta-back": "Retour"
-      , "cta-image": "Choisir une photo"
-      , "cta-image-uploading": "Veuillez patienter..."
+      , "cta-back": "Zurück"
+      , "cta-image": "Foto auswählen"
+      , "cta-image-uploading": "Bitte warten Sie..."
       , "features": {
-            "info": "Depuis votre espace de gestion, vous pouvez :"
+            "info": "Anhand Ihres Accounts können Sie:"
           , "0": { 
-                "title": "Partager le lien de votre page"
-              , "text": "avec tous vos proches concernés"
+                "title": "Den Link Ihrer Seite teilen"
+              , "text": "mit allen Betroffenen teilen"
               , "icon": "/static/img/icons/devices.png"
             }
           , "1": { 
-                "title": "Ajouter un administrateur"
-              , "text": "Un membre de la famille ou un ami vous aidera à gérer la page"
+                "title": "Administrator hinzufügen"
+              , "text": "Ein Familienmitglied oder Freund wird Ihnen bei der Verwaltung der Seite behilflich sein"
               , "icon": "/static/img/icons/team.png"
             }
           , "2": { 
-                "title": "Soutenir une association"
-              , "text": "Organiser une collecte de dons"
+                "title": "Einen Verein unterstützen"
+              , "text": "Einen Spendenaufruf organisieren"
               , "icon": "/static/img/icons/donation.png"
             }
         }
       , "labels": {
-            "firstname": "Quel est son prénom ?"
-          , "lastname": "Quel est son nom de famille ?"
-          , "dod": "Quelle est sa date de décès ?"
-          , "email": "Quelle est votre adresse email ?"
-          , "phone": "Quel est votre numéro de téléphone ?"
+            "firstname": "Wie lautet der Vorname?"
+          , "lastname": "Wie lautet der Nachname?"
+          , "dod": "Was ist das Todesdatum?"
+          , "email": "Wie lautet  Ihre E-Mail-Adresse?"
+          , "phone": "Wie lautet Ihre Telefonnummer?"
         }
     }
     
   , "signup": {
-        "title-v0": "Rassembler. Rendre hommage. Se souvenir."
-      , "text-v0": "Vous venez de perdre un proche.\n Créez un espace privé afin de rassembler son entourage et lui rendre hommage."
-      , "title-v1": "Créer une page d'hommage"
-      , "text-v1": "Commencez par nous en dire plus sur votre proche :"
-      , "input-firstname-placeholder": "Prénom du défunt"
-      , "input-lastname-placeholder": "Nom du défunt"
-      , "input-dod-placeholder": "Date de décès"
-      , "input-email-placeholder": "Votre adresse email"
-      , "input-phone-placeholder": "Numéro de mobile"
-      , "input-firstname-placeholder-partner": "Prénom du défunt"
-      , "input-lastname-placeholder-partner": "Nom du défunt"
-      , "input-dod-placeholder-partner": "Date de décès du défunt"
-      , "input-email-placeholder-partner": "Email de la famille"
-      , "input-phone-placeholder-partner": "Numéro de mobile"
-      , "cta-v0": "Créer une page"
-      , "cta-v1": "Créer une page"
-      , "lookup-text": "Vous recherchez une page déjà existante ?"
-      , "lookup-tooltip": "Demandez le lien de la page à la famille ou à des proches."
+        "title-v0": "Vereinen. Gedenken. Erinnern."
+      , "text-v0": "Sie haben einen geliebten Menschen verloren.\nRichten Sie eine private Seite ein, um seinen Bekanntenkreis zu vereinen und sein Andenken zu ehren."
+      , "title-v1": "Eine Seite einrichten"
+      , "text-v1": "Gehen Sie zunächst näher auf den geliebten Menschen ein:"
+      , "input-firstname-placeholder": "Vorname"
+      , "input-lastname-placeholder": "Name"
+      , "input-dod-placeholder": "Todesdatum"
+      , "input-email-placeholder": "E-Mail Adresse"
+      , "input-phone-placeholder": "Handynummer"
+      , "input-firstname-placeholder-partner": "Vorname"
+      , "input-lastname-placeholder-partner": "Name"
+      , "input-dod-placeholder-partner": "Todesdatum"
+      , "input-email-placeholder-partner": "E-Mail Adresse"
+      , "input-phone-placeholder-partner": "Handynummer"
+      , "cta-v0": "Eine Seite einrichten"
+      , "cta-v1": "Eine Seite einrichten"
+      , "lookup-text": "Suchen Sie eine bereits existierende Seite?"
+      , "lookup-tooltip": "Bitten Sie Angehörige oder Freunde um den Link der Seite."
     }
 
   , "places": {
-      "label-privacy": "Aura lieu dans l'intimité familiale"
-    , "label-info": "Information complémentaire"
-    , "label-date": "Date"
-    , "placeholder-date": "jj/mm/aaaa"
-    , "label-time": "Heure"
+      "label-privacy": "Findet im engen Familienkreis statt"
+    , "label-info": "Zusatzinformationen"
+    , "label-date": "Datum"
+    , "placeholder-date": "tt/mm/jjjj"
+    , "label-time": "Uhrzeit"
     , "placeholder-time": "hh:mm "
-    , "label-name": "Nom du lieu"
-    , "placeholder-name": "Crématorium du Père Lachaise"
+    , "label-name": "Ort"
+    , "placeholder-name": "Waldfriedhof Zehlendorf"
     , "label-address": "Adresse"
-    , "placeholder-address": "71 Rue des Rondeaux, 75020 Paris"
-    , "cta-delete": "Supprimer"
-    , "cta-add": "Ajouter une étape"
-    , "select-type-placeholder": "Choisir un évènement"
-    , "select-type-custom-text": "Évènement de votre choix"
-    , "label-type": "Nom de l'évènement"
+    , "placeholder-address": "Wasgensteig 30, 14129 Berlin"
+    , "cta-delete": "Löschen"
+    , "cta-add": "Zusätzliche Angaben"
+    , "select-type-placeholder": "Veranstaltung auswählen"
+    , "select-type-custom-text": "Veranstaltung Ihrer Wahl"
+    , "label-type": "Name der Veranstaltung"
   }
 
   , "home": {
         "inform": {
-            "title": "Informer vos proches"
-          , "text": "InMemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre rapidement les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes et la partager avec toutes les personnes concernées est très facile : il vous suffit pour cela de transmettre par email ou par sms le lien sécurisé de la page."
+            "title": "Angehörige und Freunde benachrichtigen"
+          , "text": "InMemori ermöglicht es Ihnen, Angehörigen und Freunden den Tod eines nahestehenden Menschen mitzuteilen und sie rasch über die Bestattung zu informieren. \nDie Erstellung einer privaten Seite dauert nur 5 Minuten, und das Teilen mit allen Betroffenen ist sehr einfach: es genügt, den sicheren Link der Seite per Mail oder SMS zu versenden."
         }
       , "collect": {
-            "title": "Inviter vos proches à se souvenir et à rendre hommage"
-          , "text": "Famille et amis pourront facilement présenter leurs condoléances et aussi partager des souvenirs et des moments vécus avec votre proche. Cet hommage collectif apporte un grand réconfort. \n Vous pourrez aussi, si vous le souhaitez, organiser une collecte de dons en hommage à votre proche afin de soutenir une association ou une cause qui lui était chère."
+            "title": "Bitten sie Ihre Liebsten, sich zu erinnern und zu gedenken"
+          , "text": "Familienmitglieder und Freunde können leicht kondolieren sowie Erinnerungen und Erlebnisse mit Ihrem Angehörigen austauschen. Dieses gemeinsame Gedenken spendet viel Trost. \nWenn Sie wünschen, besteht die Möglichkeit eines Spendenaufrufs zu Gedenken Ihres Angehörigen und zu Gunsten eines Verbandes oder eines Anliegens, das ihm am Herzen lag."
         }
       , "how": {
-            "title": "Comment ça marche"
-          , "text": "InMemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu en rassemblant famille et amis. Créer une page est très facile et ne vous prendra que quelques minutes."
+            "title": "So funktioniert es"
+          , "text": "InMemori ist ein kostenloser Service, der Sie dabei unterstützt, Ihrem verstorbenen Angehörigen mit Familie und Freunden die letzte Ehre zu erweisen. Die Erstellung einer privaten Seite ist sehr einfach und dauert wenige Minuten."
           , "create": {
-                "title": "Créer une page"
-              , "text": "Personnaliser la page et ajouter une photo de votre proche. \n Préciser les informations sur les obsèques."
+                "title": "Eine Seite einrichten"
+              , "text": "Gestalten Sie eine persönliche Seite und fügen Sie ein Foto Ihres Angehörigen hinzu. \nGeben Sie Informationen zur Bestattung bekannt."
             }
           , "share": {
-                "title": "La partager"
-              , "text": "Partager la page avec votre famille et vos amis en transmettant simplement son lien sécurisé par email ou par sms. La page est privée et ne sera accessible que par ceux qui ont reçu le lien."
+                "title": "Sie teilen"
+              , "text": "Teilen Sie die Seite mit Familie und Freunden, indem Sie ihnen einfach den sicheren Link per Mail oder SMS zusenden. Die Seite ist privat und kann nur von jenen abgerufen werden, die den Link erhalten haben."
             }
           , "manage": {
-                "title": "La modifier"
-              , "text": "Suivre l'activité de la page (visites, messages, dons...). \n Télécharger et imprimer le recueil des hommages."
+                "title": "Sie weiterentwickeln"
+              , "text": "Verfolgen Sie das Geschehen auf der Seite mit (Abrufe, Nachrichten, Spenden…). \nLaden Sie die Würdigungen als Band herunter und drucken Sie ihn aus."
             }
         }
       , "values": {
-            "title": "Nos principes"
-          , "text": "Nous avons créé InMemori afin de révéler l'essentiel de la vie. \n Voici nos principes fondamentaux."
+            "title": "Unsere Grundsätze"
+          , "text": "Wir haben InMemori geschaffen, um uns auf das Wesentliche im Leben zu besinnen.\nDies sind unsere Grundsätze."
           , "collective": {
-                "title": "Partage"
-              , "text": "Les personnes que vous invitez à voir cette page peuvent à leur tour la partager avec leurs proches. Rassembler famille et amis apporte du réconfort à chacun dans ces moments de deuil."
+                "title": "Teilen"
+              , "text": "Die Menschen, die Sie auf diese Seite einladen, können diese ebenfalls mit Angehörigen teilen. Die Versammlung von Familie und Freunden spendet allen Trauernden Trost."
             }
           , "privacy": {
-                "title": "Intimité"
-              , "text": "Les pages sont privées et n'apparaîtront jamais dans les résultats de recherche internet. Seuls ceux qui reçoivent le lien y ont accès."
+                "title": "Privatsphäre"
+              , "text": "Die Seiten sind privat und werden nie in Suchergebnissen auftauchen. Sie können nur von jenen abgerufen werden, die den Link erhalten."
             }
           , "elegance": {
-                "title": "Élégance"
-              , "text": "La page d'hommage est un livre d'or sobre et élégant, destiné à révéler la beauté des messages et des photos partagés par votre entourage."
+                "title": "Eleganz"
+              , "text": "Die Gedenkseite ist ein schlicht und elegant gehaltenes Gästebuch, welches die bewegenden Nachrichten und Fotos zur Geltung bringt, die ihre Nahestehenden veröffentlichen."
             }
         }
       , "testimonial": {
-            "title": "Témoignages"
-          , "text": "Ce que les gens ont à dire d'InMemori."
+            "title": "Erfahrungsberichte"
+          , "text": ""
           , "one": {
-                "from": "Michel Tailland"
-              , "text": "Grâce à InMemori, nous avons pu transmettre les informations sur les obsèques à toutes les personnes concernées en seulement une heure."
+                "from": "Thomas Müller"
+              , "text": "Dank InMemori konnten wir alle Betroffenen innerhalb nur einer Stunde über die Bestattung informieren."
             }
           , "two": {
-                "from": "Yann Pesret"
-              , "text": "Le fait que tous ses proches puissent accéder aux autres messages est réconfortant car chacun peut se rendre compte que les hommages se distinguent. Chacun a son souvenir propre. De cette manière nous pouvons compiler ce qu'il faut retenir et transmettre de l'être cher.\nVotre service apaise la douleur de cette perte."
+                "from": "Anna Schmidt"
+              , "text": "InMemori hat uns in diesen schwierigen Zeiten mit den veröffentlichten Beileidsschreiben und Erinnerungen begleitet und uns Trost gespendet.\nDie Gedenkseite unserer Mutter ist von unschätzbarem Wert."
             }
           , "three": {
-                "from": "Agathe Blion"
-              , "text": "Votre service est remarquable. \n Il diminue considérablement le stress lié à l'organisation. Nos proches ont pu facilement faire un don à l'association chère à notre papa."
+                "from": "Luka Schneider"
+              , "text": "Ihr Service ist ausgezeichnet. \nEr mindert den Stress der Organisation immens. Unsere Angehörigen konnten leicht einem Verein spenden, der unserem Papa am Herzen lag."
             }
         }
       , "celebrate": {
-            "title": "Célébrer une vie"
-          , "text": "InMemori est un service gratuit qui vous aide à célébrer la mémoire de votre proche disparu et à rassembler votre famille et vos amis. \n Nous sommes là pour vous accompagner durant ce moment difficile."
-          , "cta-view": "Voir un exemple"
-          , "cta-create": "Créer une page"
+            "title": "Ein Andenken in Ehren halten"
+          , "text": "InMemori ist ein kostenloser Service, der Sie dabei unterstützt, Ihrem verstorbenen Angehörigen mit Familie und Freunden die letzte Ehre zu erweisen. \nWir sind für Sie da, um Sie in diesen schwierigen Zeiten zu begleiten."
+          , "cta-view": "Beispiel ansehen"
+          , "cta-create": "Eine Seite einrichten"
         }
     }
 }
