@@ -44,7 +44,7 @@
       , "book": {
             "title": "Buch bestellen"
           , "cta": "Buch bestellen"
-          , "text": "Afin de garder une trace de tous ces magnifiques mots et photos écrits en hommage à {{firstname}}, commandez le livre imprimé en son hommage."
+          , "text": "Um eine Spur aller wunderschönen Worte und Fotos, die in Erinnerung an {{firstname}} hinterlassen wurden, und seiner zu gedenken, können sie das ausgedruckte Buch bestellen."
         }
       , "contact": {
             "title": "Kontakt"
@@ -80,8 +80,8 @@
         "input-fullname-placeholder": "Ihr Vorname und Name"
       , "input-email-placeholder": "Ihre E-mail"
       , "input-email-info": "E-Mail-Adresse, damit die Familie Ihnen antworten kann."
-      , "input-message-placeholder-1": "Verfassen Sie eine Nachricht für {{firstname}}s Familie. Es wird sichtbar von alle, die {{firstname}} gekannt haben, sein."
-      , "input-message-placeholder-2": "Teilen Sie eine gemeinsame Erinnerung mit {{firstname}}. Es wird sichtbar von alle, die {{firstname}} gekannt haben, sein."
+      , "input-message-placeholder-1": "Verfassen Sie eine Nachricht für {{firstname}}s Familie. So wird es für alle ersichtlich sein, die {{firstname}} gekannt haben."
+      , "input-message-placeholder-2": "Teilen Sie eine gemeinsame Erinnerung mit {{firstname}}. So wird es für alle ersichtlich sein, die {{firstname}} gekannt haben."
       , "cta": "Teilen"
       , "cta-image": "Foto hinzufügen"
       , "cta-image-uploading": "Herunterladen..."
@@ -99,7 +99,7 @@
       , "label-qty": "Anzahl"
       , "label-price": "Preis"
       , "label-shipping": "Versandkosten:"
-      , "label-total": "Totale:"
+      , "label-total": "Total:"
     }
 
 
@@ -112,7 +112,7 @@
         "label-qty": "Anzahl"
     }
   , "shipping": {
-        "conditions": "Lieferung nur nach Frankreich ohne Überseegebiete."
+        "conditions": "Lieferung nur nach Frankreich."
       , "label-withInvoice": "Eine andere Rechnungsadresse verwenden?"
       , "input-name-placeholder": "Name"
       , "input-phone-placeholder": "Telefon"
@@ -194,7 +194,7 @@
         }
       , "step2": {
             "title": "Zustellung"
-          , "subtitle": "Ausschließlich in Kontinentalfrankreich"
+          , "subtitle": "Ausschließlich in Frankreich"
           , "cta": "Weiter"
         }
       , "step3": {
@@ -203,7 +203,7 @@
           , "cta": "Bestätigen"
         }
       , "step4": {
-            "title": "Commande terminée"
+            "title": "Bestellung beendet"
           , "subtitle": ""
           , "cta": ""
         }
@@ -211,7 +211,7 @@
       , "shipping-info": "Um ein qualitativ hochwertiges Buch zu einem attraktiven Preis anbieten zu können, werden mehrere Bestellungen zusammengefasst. Somit kann die Lieferfrist zwischen 15 und 30 Tagen ab Bestelltag betragen. Lieferung nur nach Frankreich."
       , "cta-prev": "Zurück"
       , "cta-end": "Schließen"
-      , "text-inactive": "La commande de votre livre sera disponible d'ici quelques jours afin que tous les proches de {{fullname}} aient eu le temps de lui rendre hommage."
+      , "text-inactive": "Die Bestellung Ihres Buches wird in einigen Tagen verfügbar sein, damit alle diejenigen, die um {{fullname}} trauern, Zeit haben um sein Andenken zu würdigen."
     }
 
   , "delete": {
