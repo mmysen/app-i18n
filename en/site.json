@@ -59,7 +59,7 @@
           , "dod": "What is the date of passing?"
           , "email": "What is your email?"
           , "phone": "What is your phone number?"
-          , "zone": "Quel est la zone ?"
+          , "zone": "What is your country of residence?"
         }
     }
 
