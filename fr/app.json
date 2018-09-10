@@ -173,7 +173,7 @@
       , "label-interflora": "Interflora vous garantit une livraison 15 minutes avant le début des obsèques."
       , "label-message": "Adressez quelques mots à la famille"
       , "input-message-placeholder": "Laisser un message"
-      , "shipping-info": "Informations de livraison :\n{{context.shipping.name}}\n{{context.shipping.date_f}}"
+      , "shipping-info": "Informations de livraison :\n{{shipping.name}}\n{{shipping.date_f}}"
       , "cta": "Valider"
       , "cta-end": "Terminer"
       , "cart-item": "Bouquet"

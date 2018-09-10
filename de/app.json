@@ -173,16 +173,12 @@
       , "label-interflora": "Interflora garantiert die Zustellung 15 Minuten vor Beginn der Bestattung."
       , "label-message": "Schreiben Sie der Familie ein paar Zeilen"
       , "input-message-placeholder": "Nachricht hinterlassen"
-      , "shipping-info": "Lieferinformationen:\n{{context.shipping.name}}\n{{context.shipping.date_f}}"
+      , "shipping-info": "Lieferinformationen:\n{{shipping.name}}\n{{shipping.date_f}}"
       , "cta": "Bestätigen"
       , "cta-end": "Schließen"
       , "cart-item": "Strauß"
       , "cart-shipping": "Lieferung"
-<<<<<<< HEAD
-      , "receipt": "Ihre Zahlung in Höhe von {{tx.amount_f}} wurde erfolgreich registriert!\nBezug: {{tx.chargeId}}"
-=======
-      , "receipt": "Ihre Zahlung in Höhe von {{context.tx.amount_f}} ist erfolgt!\nReferenz: {{context.tx.chargeId}}"
->>>>>>> 64655b63f8ec4ffeb1f6cd7ff0cf9731edbdbb8a
+      , "receipt": "Ihre Zahlung in Höhe von {{tx.amount_f}} ist erfolgt!\nReferenz: {{tx.chargeId}}"
     }
 
   , "book": {
