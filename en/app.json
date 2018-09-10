@@ -125,7 +125,7 @@
       , "input-info-placeholder": "Additional infos (floor...)"
     }
   , "tx": {
-        "receipt": "Your payment of {{context.tx.amount_f}} has been sent!\nOrder number : {{context.tx.chargeId}}"
+        "receipt": "Your payment of {{tx.amount_f}} has been sent!\nOrder number : {{tx.chargeId}}"
     }
 
 
@@ -147,7 +147,7 @@
       , "label-other-amount": "Other"
       , "cta": "Send"
       , "cta-end": "End"
-      , "receipt": "Payment received!\nReference number: {{context.tx.chargeId}}"
+      , "receipt": "Payment received!\nReference number: {{tx.chargeId}}"
     }
   , "flower": {
       "step0": {
@@ -175,7 +175,7 @@
       , "cta-end": "Close"
       , "cart-item": "Flowers"
       , "cart-shipping": "Shipping"
-      , "receipt": "Payment received!\nReference number: {{context.tx.chargeId}}"
+      , "receipt": "Payment received!\nReference number: {{tx.chargeId}}"
     }
   , "book": {
         "step0": {

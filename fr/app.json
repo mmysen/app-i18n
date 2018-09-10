@@ -123,7 +123,7 @@
       , "input-info-placeholder": "Informations complémentaires (digicode, étage...)"
     }
   , "tx": {
-        "receipt": "Votre paiement de {{context.tx.amount_f}} a bien été enregistré !\nRéférence : {{context.tx.chargeId}}"
+        "receipt": "Votre paiement de {{tx.amount_f}} a bien été enregistré !\nRéférence : {{tx.chargeId}}"
     }
 
 
@@ -144,7 +144,7 @@
       , "cta": "Payer"
       , "cta-end": "Terminer"
       , "other": "Autre"
-      , "receipt": "Votre paiement de {{context.tx.amount_f}} a bien été enregistré !\nRéférence : {{context.tx.chargeId}}"
+      , "receipt": "Votre paiement de {{tx.amount_f}} a bien été enregistré !\nRéférence : {{tx.chargeId}}"
 
     }
 
@@ -178,7 +178,7 @@
       , "cta-end": "Terminer"
       , "cart-item": "Bouquet"
       , "cart-shipping": "Livraison"
-      , "receipt": "Votre paiement de {{context.tx.amount_f}} a bien été enregistré !\nRéférence : {{context.tx.chargeId}}"
+      , "receipt": "Votre paiement de {{tx.amount_f}} a bien été enregistré !\nRéférence : {{tx.chargeId}}"
     }
 
   , "book": {

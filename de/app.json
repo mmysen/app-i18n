@@ -123,7 +123,7 @@
       , "input-info-placeholder": "Zusätzlische Informationen (Zugangscode, Stockwerk...)"
     }
   , "tx": {
-        "receipt": "Ihre Zahlung in Höhe von {{context.tx.amount_f}} wurde erfolgreich registrier!\nBezug: {{context.tx.chargeId}}"
+        "receipt": "Ihre Zahlung in Höhe von {{tx.amount_f}} wurde erfolgreich registrier!\nBezug: {{tx.chargeId}}"
     }
 
 
@@ -144,7 +144,7 @@
       , "cta": "Zahlen"
       , "cta-end": "Schließen"
       , "other": "Sonstige"
-      , "receipt": "Ihre Zahlung in Höhe von {{amount}} wurde erfolgreich registriert!\nBezug: {{id}}"
+      , "receipt": "Ihre Zahlung in Höhe von {{tx.amount_f}} wurde erfolgreich registriert!\nBezug: {{tx.chargeId}}"
 
     }
 
@@ -178,7 +178,7 @@
       , "cta-end": "Schließen"
       , "cart-item": "Strauß"
       , "cart-shipping": "Lieferung"
-      , "receipt": "Ihre Zahlung in Höhe von {{context.tx.amount_f}} wurde erfolgreich registriert!\nBezug: {{context.tx.chargeId}}"
+      , "receipt": "Ihre Zahlung in Höhe von {{tx.amount_f}} wurde erfolgreich registriert!\nBezug: {{tx.chargeId}}"
     }
 
   , "book": {

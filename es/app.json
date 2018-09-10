@@ -122,7 +122,7 @@
       , "input-info-placeholder": "Informaciones complementarias (código de puerta, planta...)"
     }
   , "tx": {
-        "receipt": "¡Su pago de {{context.tx.amount_f}} ha sido registrado!\nRéférence : {{context.tx.chargeId}}"
+        "receipt": "¡Su pago de {{tx.amount_f}} ha sido registrado!\nRéférence : {{tx.chargeId}}"
     }
 
 
@@ -144,7 +144,7 @@
       , "cta": "Pagar"
       , "cta-end": "Terminar"
       , "other": "Otro"
-      , "receipt": "¡Su pago de {{context.tx.amount_f}} ha sido registrado!\nRéférence : {{context.tx.chargeId}}"
+      , "receipt": "¡Su pago de {{tx.amount_f}} ha sido registrado!\nRéférence : {{tx.chargeId}}"
     }
   , "flower": {
         "step0": {
@@ -176,7 +176,7 @@
       , "cta-end": "Terminar"
       , "cart-item": "Bouquet"
       , "cart-shipping": "Envío"
-      , "receipt": "¡Su pago de {{context.tx.amount_f}} ha sido registrado!\nReferencia : {{context.tx.chargeId}}"
+      , "receipt": "¡Su pago de {{tx.amount_f}} ha sido registrado!\nReferencia : {{tx.chargeId}}"
     }
 
   , "book": {
