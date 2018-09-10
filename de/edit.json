@@ -88,7 +88,7 @@
                 }
               , "text-status-family": "Es ist eine Spendenaktion zur Finanzierung der Bestattung im Gange.\nDer aktuelle Spendenbetrag beläuft sich auf <strong>{{total}}</strong>.\nSie können die Entscheidung treffen, die Spendenaktion abzuschließen, damit die Auszahlung erfolgen kann."
               , "text-status-org": "Es ist eine Spendenaktion zu Gunsten von {{org}} im Gange.\nDer aktuelle Spendenbetrag beläuft sich auf <strong>{{total}}</strong>.\nSie können die Entscheidung treffen, die Spendenaktion abzuschließen, damit die Auszahlung erfolgen kann."
-              , "label-person": "Identité de l'organisateur"
+              , "label-person": "Identität des Organisators"
               , "label-firstname": "Vorname"
               , "input-firstname-placeholder": "Ihr Vorname"
               , "label-lastname": "Name"
