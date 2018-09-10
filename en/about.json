@@ -2,7 +2,7 @@
 
     "mission": {
         "title": "Our purpose"
-      , "text": "Our goal is to provide every family a place of comfort, support and sharing.\n\nEveryday, condolence messages, incredible memories and transcendent testimonials are shared using InMemori. They remind us that sharing our experiences with one another, seeing our loved one through someone else's eyes is life-giving, in a moment of what seems like vast emptiness.\n\nWe have dedicated ourselves to providing a free service that families can use to mourn, to heal, and to celebrate. \n\nJust in the past year, we have supported 60,000 people. With InMemori, we hope to reveal the essentials of life, celebrating the moments that mark us, those that make us human."
+      , "text": "Our goal is to provide every family a place of comfort, support and sharing.\n\nEveryday, condolence messages, incredible memories and transcendent testimonials are shared using InMemori. They remind us that sharing our experiences with one another, seeing our loved one through someone else's eyes is life-giving, in a moment of what seems like vast emptiness.\n\nWe have dedicated ourselves to providing a free service that families can use to mourn, to heal, and to celebrate. \n\nJust in the past year, we have supported 100,000 people. With InMemori, we hope to reveal the essentials of life, celebrating the moments that mark us, those that make us human."
     }
 
   , "story": {
@@ -32,7 +32,8 @@
       , "title2": "Latest releases"
       , "text": "We invite journalists to contact InMemori's PR team for all interview and information requests.\n\nMedia contact: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
       , "items": [
-           ["CHEF D'ENTREPRISE", "July 2018", "http://www.chefdentreprise.com/Thematique/actualites-1056/Breves/InMemori-remporte-finale-fran-aise-Startup-Tour-2018-332615.htm#pYUsfSle7MPIoV2e.97"]   
+        ["CHALLENGES", "September 2018", "https://www.challenges.fr/club-entrepreneurs/inmemori-la-start-up-qui-vous-aide-a-gerer-la-perte-d-un-proche_610803"]   
+          , ["CHEF D'ENTREPRISE", "July 2018", "http://www.chefdentreprise.com/Thematique/actualites-1056/Breves/InMemori-remporte-finale-fran-aise-Startup-Tour-2018-332615.htm#pYUsfSle7MPIoV2e.97"]   
           , ["FRENCHWEB", "May 2018", "https://www.frenchweb.fr/inmemori-veut-faire-entrer-le-deuil-dans-lere-du-digital/326428"]   
           , ["CHEF D'ENTREPRISE", "April 2018", "http://www.chefdentreprise.com/Thematique/digital-innovation-1074/Breves/Quand-entrepreneuses-battent-cliches-breche-329974.htm#77QJmtEjQquiABS2.97"]
           , ["MADAME FIGARO", "April 2018", "http://madame.lefigaro.fr/business/journee-de-la-femme-digitale-2018-jfd-portraits-entrepreneures-startuppeuses-180418-148280"]

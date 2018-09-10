@@ -8,12 +8,12 @@
   , "story": {
         "title": "Unsere Geschichte"
       , "text": [
-            ["Januar 2016\nParis", "x"]
-          , ["July 2016\nParis", "x"]
-          , ["Januar 2017\nParis", "x"]
-          , ["Februar 2017\nParis", "x"]
-          , ["März 2017\nSan Francisco", "x"]
-          , ["September 2017\nParis - New York", "x"] 
+            ["Januar 2016\nParis", "Clémentine beschliesst, Familien während der Trauerzeit und der Organisation der Bestattung zu begleiten. Während 6 Monaten, als sie noch als Marketing-Managerin eines grossen Betriebes in Frankreich arbeitete, verbrachte sie jede Woche Zeit mit Trauernden, die eine nahestehende Person verloren hatten. So versuchte sie zu verstehen, wie man während dieser schwierigen Zeit am besten helfen kann."]
+          , ["July 2016\nParis", "So entstand InMemori."]
+          , ["Januar 2017\nParis", "Constance schliesst sich diesem Vorhaben, Familienangehörigen beizustehen, an. So können die Beiden alle aufkommenden Fragen beantworten und es ist den Trauernden möglich, dieses neue Angebort mit Besonnenheit zu benutzen."]
+          , ["Februar 2017\nParis", "Die Familien und die Angehörigen sind dankbar und schätzen diese Möglichkeit. Sie werden Paten von InMemori. Dank der Mund-zu-Mund-Propaganda ist InMemori bereits mehr als 100'000 Personen beigestanden."]
+          , ["März 2017\nSan Francisco", "InMemori wurde von The Refiners (Start-up-Beschleuniger im Silicon Valley) ausgezeichnet. So weitet sich der Horizont von InMemori auf die ganze Welt aus."]
+          , ["September 2017\nParis - New York", "Die Büros von InMemori befinden sich in Paris und New York. Das Team beläuft sich mittlerweile auf 5 Mitarbeiter, allen liegt die Mission von InMemori am Herzen."] 
         ]
     }
 

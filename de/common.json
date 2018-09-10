@@ -1,8 +1,8 @@
 {
     "links": {
         "faq": "FAQ"
-      , "terms": "CGU"
-      , "legal": "Mentions légales"
+      , "terms": "ANB"
+      , "legal": "Impressum"
     }
   , "lang": {
       "fr": "Français",
@@ -12,24 +12,24 @@
     }
   , "fulldate": "dddd D MMMM YYYY à HH[h]mm"
   , "shortdate": "dddd D MMMM YYYY"
-  , "show-map": "Voir sur Google maps"
+  , "show-map": "Auf Google Maps ansehen"
   , "typesList": "ceremony,contemplation,inhumation,interment,cremation,gathering,reception"
   , "types": {
-        "ceremony": "Cérémonie"
-      , "contemplation": "Recueillement"
-      , "inhumation": "Inhumation"
-      , "interment": "Enterrement"
-      , "cremation": "Crémation"
-      , "gathering": "Collation"
-      , "reception": "Réception"
+        "ceremony": "Zeremonie"
+      , "contemplation": "Andacht"
+      , "inhumation": "Beisetzung"
+      , "interment": "Begräbnis"
+      , "cremation": "Einäscherung"
+      , "gathering": "Mahlzeit"
+      , "reception": "Empfang"
     }
-  , "unauthorized": "Pour des questions de sécurité, veuillez-vous reconnecter à votre espace de gestion depuis le premier email InMemori que vous avez reçu.\n\nSi vous ne retrouvez pas cet email ou si vous rencontrez le moindre problème, écrivez-nous à <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
-  , "template": "Suggestion"
-  , "toast-success": "Enregistrement terminé !"
-  , "toast-message-sent": "Message envoyé !"
-  , "confirm-areusure": "Êtes-vous sûr ?"
-  , "yes": "Oui"
-  , "no": "Non"
-  , "prev": "Retour"
-  , "next": "Suivant"
+  , "unauthorized": "Melden Sie sich aus Sicherheitsgründen bitte erneut an, anhand der ersten InMemori-E-Mail, die Sie erhalten haben.\n\nSollten Sie diese E-Mail nicht finden oder auf Probleme stoßen, können Sie und gerne unter <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
+  , "template": "Muster"
+  , "toast-success": "Die Erstellung wurde abgeschlossen!"
+  , "toast-message-sent": "Die Nachricht wurde abgeschickt!"
+  , "confirm-areusure": "Sind Sie sich sicher?"
+  , "yes": "Ja"
+  , "no": "Nein"
+  , "prev": "Zurück"
+  , "next": "Weiter"
 }
