@@ -5,8 +5,8 @@
       , "cta": ""
       , "cta-right": ""
       , "cta-share": "Partager la page"
-      , "cta-edit": "Modifier la page*"
-      , "cta-edit-tooltip": "*Vous seuls avez accès à cette fonctionnalité. \nElle ne sera pas visible de vos proches."
+      , "cta-edit": "Personnaliser la page"
+      , "cta-edit-tooltip": "Vous seuls avez accès à cette fonctionnalité. \nElle ne sera pas visible de vos proches."
       , "cta-view": "Voir la page"
     }
   , "menu": {
