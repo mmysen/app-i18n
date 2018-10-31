@@ -31,7 +31,7 @@
             }
           , "2": {
                 "title": "Contacts"
-              , "text": "Ajouter le nom des personnes à contacter pour toute demande d’informations"
+              , "text": "Ajouter le nom des personnes à contacter si besoin"
               , "cta-open": "Modifier"
               , "cta-close": "Fermer"
               , "cta": "Enregistrer"
@@ -45,7 +45,7 @@
             }
           , "4": {
                 "title": "Donation"
-              , "text": "Créer une collecte de dons au profit d’une cause chère à votre proche"
+              , "text": "Créer une collecte de dons au profit d’une association"
               , "description": "Vous pouvez organiser une collecte de dons au profit d’une association chère à votre proche ou pour vous aider à financer ses obsèques. Les dons permettent à votre entourage de manifester leur soutien, en contribuant à une cause porteuse de sens."
               , "description-info": "Afin de couvrir les frais liés à la gestion de votre cagnotte et au transfert de fonds, 5% de commission sont retenus sur les dons effectués."
               , "countries": [
