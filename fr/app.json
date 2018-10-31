@@ -23,7 +23,7 @@
   , "share-bar": "Partagez cette page"
   , "home": {
         "intro": {
-            "title": "Chère famille, chers amis, \n\n nous avons la grande tristesse de vous faire part du décès de {{firstname}}. \nCette page est destinée à lui rendre hommage à travers un message, un souvenir ou une photo. \n\n Merci pour votre présence à nos côtés."
+            "title": "Chère famille, chers amis, \n\n nous avons la grande tristesse de vous faire part du décès de {{firstname}}. \n\nCette page est destinée à lui rendre hommage à travers un message, un souvenir ou une photo.\nVous y trouverez également toutes les informations pratiques. \n\n Merci pour votre présence à nos côtés."
         }
       , "info": {
             "title": "Informations"
