@@ -23,7 +23,7 @@
   , "share-bar": "Partagez cette page"
   , "home": {
         "intro": {
-            "title": "Chère famille, chers amis, \n cette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec {{firstname}}, et qui nous aidera à traverser cette épreuve. \n Avec toute notre affection"
+            "title": "Chère famille, chers amis, \n nous avons la grande tristesse de vous faire part du décès de {{firstname}}. \nCette page est destinée à lui rendre hommage à travers un message, un souvenir ou une photo. \n\n Merci pour votre présence à nos côtés."
         }
       , "info": {
             "title": "Informations"
