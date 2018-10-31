@@ -4,7 +4,7 @@
       , "tabs": {
             "1": {
                 "title": "Faire part"
-              , "text": "Modifier les informations sur votre proche (nom, prénom, dates)"
+              , "text": "Modifier le faire-part et ajouter une photo"
               , "cta-open": "Modifier"
               , "cta-close": "Fermer"
               , "cta": "Enregistrer"
