@@ -31,14 +31,14 @@
             }
           , "2": {
                 "title": "Contactos"
-              , "text": "Puede agregar personas a ser contactadas por sus seres queridos en el caso que requieran más información al respecto"
+              , "text": "Puede agregar personas a ser contactadas"
               , "cta-open": "Editar"
               , "cta-close": "Cerrar"
               , "cta": "Guardar"
             }
           , "3": {
                 "title": "Ceremonia"
-              , "text": "Precisar la fecha y el lugar de cualquier ceremonia conmemorativa planificada"
+              , "text": "Precisar las informaciones de cualquier ceremonia planificada"
               , "cta-open": "Editar"
               , "cta-close": "Cerrar"
               , "cta": "Guardar"
