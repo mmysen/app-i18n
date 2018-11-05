@@ -61,7 +61,7 @@
               , "cta-upload": "Choisir un fichier"
               , "cta-uploading": "Téléchargement en cours..."
               , "label-documentid": "Document d'identité"
-              , "label-documentid-info": "JPEG ou PNG < 5Mo\nPassport ou CNI (recto/verso dans le même document)"
+              , "label-documentid-info": "JPEG ou PNG < 5Mo\nPassport ou CNI (recto et verso)"
               , "label-country": "Pays"
               , "input-country-placeholder": "Choisir un pays"
               , "label-beneficiary": "Bénéficiaire"
