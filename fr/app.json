@@ -48,14 +48,14 @@
         }
       , "contact": {
             "title": "Contact"
-          , "text": "Cette page a été créée par la famille de {{firstname}}. \n\nSi vous avez des questions, vous pouvez contacter les personnes mentionnées ci-dessous :"
+          , "text": "Si vous avez des questions, vous pouvez contacter les personnes mentionnées ci-dessous :"
         }
       , "support": {
             "title": ""
           , "text": ""
           , "guestbook": {
                 "title": "Écrire un message"
-              , "text": "Envoyez vos condoléances à la famille. Partagez un souvenir avec {{firstname}}. Postez une photo."
+              , "text": "Si le coeur vous en dit ,vous pouvez partager un message, un souvenir ou une photo en hommage à {{firstname}}."
             }
           , "donation": {
                 "title": "Faire un don"
@@ -64,7 +64,7 @@
             }
           , "share": {
                 "title": "Partager cette page"
-              , "text": "Vous connaissez un proche concerné ? Envoyez lui le lien de la page afin qu'il puisse participer."
+              , "text": "Si vous connaissez une personne qui a connu {{firstname}}, n'hésitez pas à lui envoyer le lien de la page."
             }
         }
     }
