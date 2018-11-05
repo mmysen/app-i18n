@@ -4,7 +4,7 @@
       , "titleOf": ""
       , "cta": ""
       , "cta-right": ""
-      , "cta-share": "Partager la page"
+      , "cta-share": "Envoyer la page"
       , "cta-edit": "Personnaliser la page"
       , "cta-edit-tooltip": "Vous seuls avez accès à cette fonctionnalité. \nElle ne sera pas visible de vos proches."
       , "cta-view": "Voir la page"
@@ -18,9 +18,9 @@
       , "donation": "Faire un don"
       , "flowers": "Embellir la cérémonie"
       , "book": "Commander le livre"
-      , "share": "Partager cette page"
+      , "share": "Envoyer la page"
     }
-  , "share-bar": "Partagez cette page"
+  , "share-bar": "Envoyez la page à votre carnet d'adresses"
   , "home": {
         "intro": {
             "title": "Chère famille, chers amis, \n\n nous avons la grande tristesse de vous faire part du décès de {{firstname}}. \n\nCette page est destinée à lui rendre hommage à travers un message, un souvenir ou une photo.\nVous y trouverez également toutes les informations pratiques. \n\n Merci pour votre présence à nos côtés."
@@ -63,7 +63,7 @@
               , "text-org": "Soutenez l’association {{org}}, selon les volontés de {{firstname}}."
             }
           , "share": {
-                "title": "Partager cette page"
+                "title": "Envoyer la page"
               , "text": "Si vous connaissez une personne qui a connu {{firstname}}, n'hésitez pas à lui envoyer le lien de la page."
             }
         }
@@ -222,8 +222,8 @@
 
   , "share": {
         "link": {
-            "title": "Partager cette page"
-          , "text": "Partagez cette page avec toutes les personnes qui ont croisé le chemin de {{firstname}} :"
+            "title": "Envoyer la page"
+          , "text": "Envoyez la page à toutes les personnes qui ont croisé le chemin de {{firstname}} :"
         }
       , "admin": {
             "title": "Ajouter un administrateur"
