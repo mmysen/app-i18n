@@ -211,7 +211,7 @@
       , "shipping-info": "Afin de vous garantir un livre de belle qualité au meilleur prix, nous regroupons les commandes. Les délais de livraison varient de 15 à 30 jours après la commande."
       , "cta-prev": "Retour"
       , "cta-end": "Terminer"
-      , "text-inactive": "La commande de votre livre sera disponible d'ici quelques jours afin que tous les proches de {{fullname}} aient eu le temps de lui rendre hommage."
+      , "text-inactive": "La commande de votre livre sera disponible d'ici quelques jours afin que tous les proches de {{firstname}} aient eu le temps de partager des messages et des photos."
     }
 
   , "delete": {
