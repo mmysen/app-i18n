@@ -16,12 +16,17 @@
   , "typesList": "ceremony,contemplation,interment,cremation,inhumation,gathering,reception"
   , "types": {
         "ceremony": "Ceremony"
+      , "dummy": "Cérémonie à préciser"
       , "contemplation": "Contemplation"
       , "interment": "Interment"
       , "cremation": "Cremation"
       , "inhumation": "Burial"
       , "gathering": "Gathering"
       , "reception": "Reception"
+    }
+  , "dummyPlace": {
+        "name": "Lieu à préciser"
+      , "address": "France"
     }
   , "unauthorized": "For security reasons, please access the administration space by opening the first InMemori e-mail you received and clicking on 'My admin space'.\n\nIf you can't find that e-mail or are having any issues, please contact us at <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
   , "template": "Template"

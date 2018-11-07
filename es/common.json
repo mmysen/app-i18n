@@ -16,12 +16,17 @@
   , "typesList": "ceremony,contemplation,inhumation,interment,cremation,gathering,reception"
   , "types": {
         "ceremony": "Ceremonia"
+      , "dummy": "Cérémonie à préciser"
       , "contemplation": "Velación"
       , "inhumation": "Misa"
       , "interment": "Inhumación"
       , "cremation": "Cremación"
       , "gathering": "Reunión"
       , "reception": "Recepción"
+    }
+  , "dummyPlace": {
+        "name": "Lieu à préciser"
+      , "address": "France"
     }
   , "unauthorized": "nope"
   , "template": "Modelo"
