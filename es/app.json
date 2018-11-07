@@ -5,6 +5,7 @@
       , "cta": ""
       , "cta-right": ""
       , "cta-share": "Compartir esta página"
+      , "cta-share-admin": "Agregar un administrador"
       , "cta-edit": "Editar página*"
       , "cta-edit-tooltip": "*Sólo los administradores pueden editar la página. \nLos demás sólo pueden verla, contribuir a ella o compartirla."
       , "cta-view": "Ver página"
