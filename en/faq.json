@@ -2,43 +2,39 @@
   "faq": [
 
     {
-      "section": "CREATE A PAGE ON INMEMORI",
+      "section": "CREATE AN INMEMORI PAGE",
       "qa": [
         {
-          "q": "What is InMemori?",
-          "r": "InMemori is a free digital service that helps you celebrate the memory of a loved one. To discover InMemori’s mission statement and our values, take a look at our <a href='/about'>About Us</a> page."
+          "q": "InMemori?",
+          "r": "See the <a href='/about'>About Us</a> section to discover InMemori's mission and values."
         },
         {
-          "q": "What’s an InMemori page for?",
-          "r": "With InMemori, you have access to a private page on which you can: \n- quickly inform your loved ones about the time and whereabouts of the funeral ceremony,\n- send and save condolence messages and memories shared with and by your close ones,\n- organize a fundraiser in your loved one's memory, if you’d like, and/or allow your close ones to send flowers."
+          "q": "What is an InMemori page for?",
+          "r": "With InMemori, you have access to a private page on which you can: \n- quickly inform your friends and family about the time and place of any planned funeral services,\n- receive support messages, memories and photos from your loved ones on a dedicated space,\n- organize a fundraiser in memory of your loved one, if you wish.\n\nYou can also order the book which gathers all the messages and pictures posted on your loved one’s InMemori page"
         },
         {
-          "q": "How can I make an InMemori page?",
-          "r": "With just the name, date of death and your e-mail address, you can create a page. Just click <a href='/signup'>here</a> and get started.\nCreating a page shouldn’t take more than 5 minutes\n\nOnce the page has been created, you will have access to your management dashboard, on which you can:\n- manage the page (see how many people have visited it, how many posts have been shared),\n- set up a fundraiser, either for a charity organization of your choice or for the family,\n- print the memory book, compiling all the memories and messages shared,\n- thank those who have contributed to the page, using the contact list available on the dashboard."
+          "q": "How can I create an InMemori page?",
+          "r": "Simply fill in the name, last name and date of death of your loved one as well as your email address, by clicking <a href='/signup'>here</a>.\nYou only need 5 minutes to personalize the page and share it with those around you.\n\nOnce the page is finalized, you will have access to your admin space, from which you can:\n- follow the activity of the page (number of views, number of tributes),\n- organize a fundraiser, if you wish,\n- order the book gathering all the shared tributes,\n- thank your loved ones."
         },
         {
           "q": "Who can create an InMemori page?",
-          "r": "Everyone and anyone with access to the internet can create a page, be that a family member, a friend, a colleague...\nJust provide the first and last name of the deceased, their date of death and your email address. Then click <a href='/signup'>here</a>."
+          "r": "Anyone can create a page.\nIf you are a parent or a friend: it relieves families when someone around them helps them set up the service.\nIf you are a colleague accompanying mourning in the workplace is an essential subject. By creating an InMemori page, you will allow everyone to find their place and express themselves.\nYou only need to fill in the name, lastname and date of death of your loved one as well as your email address, by clicking <a href='/signup'>here</a>."
         },
         {
-          "q": "How can I invite my friends to view and share on the page?",
-          "r": "It’s really simple. Just send them the link via text message or email. You can do so from your admin dashboard. \n You can also copy the link and paste it in any communications platform of your choice, such as WhatsApp. You can even include the link in an obituary or announcement you’ve mailed out."
+          "q": "How can I invite my closed ones to visit the page?",
+          "r": "Very simple. Just share the page by sms and/or email, using the “Share page” function in your admin space if you are the administrator and/or at the bottom of the page if you have received its link.\nYou can also copy the link and paste it in any communication channel of your choice (social networks, WhatsApp, paper announcement...)."
         },
         {
-          "q": "Who has access to the page?",
-          "r": "Only the people who have received the link have access to the page.\nThe page remains intimate and will never be referenced by any search engine. We are keeping it from prying eyes."
+          "q": "Who can see the InMemori page?",
+          "r": "Only people who received the page's link have access to it.\nEvery InMemori page is private: it will never appear in search engine results, like Google for example."
         },
         {
-          "q": "Can I create a page even if I don’t have all the details about the funeral service?",
-          "r": "Of course. You only need 3 pieces of information to create a page.\n With a first and last name of the deceased, their date of death and your email address (we will send you the page link to help you get started). You can access the admin dashboard at any moment, editing it and managing it."
-        },
-        {
-          "q": "How can I find a page of someone I know who has passed away?",
-          "r": "Families’ intimacy is at the heart of the work we do at InMemori. This is why our pages are kept intimate. Only those who have received a link to the page can access it.  If you know that a page has been created for someone you know, feel free to contact the family or their friends and they will happily send you the link so you can access the page."
+          "q": "Can I create an InMemori page if I do not have all the information yet?",
+          "r": "Yes, only some information is essential.\nTo create an InMemori page, you only need to fill in the name and last name of your loved one and your email address. Once you have more information, you can go to your admin space to complete and share the page."
         },
         {
           "q": "How much does InMemori cost?",
-          "r": "InMemori is free. We know how transactional, how lifeless planning & attending funeral services can be, with no time or space left to begin to heal. That's why we have dedicated ourselves to providing a free service that families can use to begin that life-giving process of mourning, healing, celebrating.\nWe hope that any and all families in mourning can use InMemori to find a semblance of comfort through this difficult period."
+          "r": "InMemori is a free service to allow everyone to have access.\nOur goal is that every bereaved family can find help and support through an InMemori page."
         }
       ]
     },
@@ -47,56 +43,36 @@
       "qa": [
         {
           "q": "How do I manage an InMemori page?",
-          "r": "If you are a page administrator, you have received a link via text message or email that redirects you to the admin dashboard.\nThe dashboard allows you to personalize and bring the page to life, such as:\n- adding a photo of the deceased,\n- writing in a note to those who will access the site, announcing the death and inviting them to share in your community,\n- informing users of the funeral ceremony, where and when it will take place,\n- activating the donation feature, if you would like to raise funds for a particular cause or organization.\nYou can always add other administrators, who will also be able to access the admin dashboard and manage the page."
+          "r": "If you are an administrator, you received a link by email and by SMS that redirects you to the admin space.\nFrom this space, you can customize and complete the page:\n- add a photo,\n- customize the annoucement,\n- inform or modify funeral information, \n- activate a fundraiser to support an association of your choice.\nOnce the page is finalized, you can invite your loved ones by sharing the page’s link through email or SMS.\nYou can also add other administrators and give them access to this admin space."
         },
         {
-          "q": "What do I do if an inappropriate message or photo has been posted?",
-          "r": "If you’re the page administrator, you can delete any message or photo, at any time, from the admin dashboard."
+          "q": "What do I do if an inappropriate message or photo was posted?",
+          "r": "If you are an administrator of the page, you can delete a message or a photo from your admin space at any time in the section “Give thanks”."
         },
         {
           "q": "Can I delete an InMemori page?",
-          "r": "If you’re the page administrator, you can archive a page or delete it whenever you deem appropriate.\nPlease know that you can keep a physical trace of an InMemori page, in addition to a digital one. You can download a memory book but also order one to be printed and delivered to you, as can your loved ones."
+          "r": "If you are an administrator of the page, you can delete it at any time.\nIf you wish to delete the online version of the page but want to keep track of all the tributes shared by your loved ones you can order the InMemori book."
         },
         {
           "q": "What happens to an InMemori page over time?",
-          "r": "Well, there are three possibilities:\n- you can keep it online, allowing your close ones to return to it at their leisure, to read through previous messages or leave new ones, continue to pay tribute to the memory of their loved one,\n- archive it, saving the photos and messages but blocking user access,\n- delete the page.\nGrieving is very personal, which is why we want you leave you the option of managing the page as you see fit."
+          "r": "There are two possibilities:\n- you can keep the page online for as long as you want to allow all your loved ones to return and read the tributes,\n- you can delete it at any time you choose.\nThe time of the mourning is personal, that is why this decision belongs to the administrators of the page."
         }
       ]
     },
     {
-      "section": "CONTRIBUTING TO AN INMEMORI PAGE",
+      "section": "PARTICIPATING IN AN INMEMORI PAGE",
       "qa": [
         {
+          "q": "How can I find the InMemori page of a close one?",
+          "r": "The intimacy of families is at the heart of InMemori's values, that's why all pages are private. Only people who receive the link of a page can access it. \nIf you learn that an InMemori page has been created for a loved one, please contact the family or friends and ask for the page’s link."
+        },
+        {
           "q": "Can I post multiple photos on an InMemori page?",
-          "r": "Yes! It’s very simple.\nJust click the “Sign the book” button, choose the “Photos” option and add as many photos as you’d like.\nYou can even attach multiple photos to the end of a condolence message or a memory to illustrate your thoughts."
+          "r": "Yes, it’s very simple.\n You just have to click on the “Write a message” button and choose the “Photos” action. You can add as many photos as you like.\nYou can also attach multiple photos to the end of a message or memory to enrich your tribute."
         },
         {
-          "q": "What’s the difference between a condolence message and a memory?",
-          "r": "We consider that a condolence message is meant to support the family while they traverse this tragedy.\nWhen sharing a memory, we want to invite you to share a moment you have experienced with the deceased, one that has marked you, one that you hold close to the heart, to share your beautiful memories with others.\nThese two different sorts of messages both pay homage to their memory, are tender and profound in their effects to other users. They can remind someone else of certain memories or character traits that would have otherwise been forgotten, bringing a momentary and eternal smile to their lips."
-        },
-        {
-          "q": "What sort of non-profit organizations can raise funds through the donation feature?",
-          "r": "All accredited organizations can, without any particular authorization, no matter their mission statement, receive individual funds.\n\n\nSource: <a href='https://www.irs.gov/charities-non-profits/charitable-organizations'>IRS</a>"
-        },
-        {
-          "q": "Who receives the money raised through the donation feature?",
-          "r": "The donated funds are wired to the page administrator who closes the donation intake’s bank account. The page admin simply needs to provide their birthdate and their bank account information (routing number and account information).\nIt is their responsibility to send the funds collected to the organization of their choice."
-        },
-        {
-          "q": "What fees, if any, are charged on money donated on InMemori?",
-          "r": "<u>Money donated via InMemori service:</u>\nDonations are subject to 5% fees:\n- 2% covers the banking fees that secure the payment,\n- 3% covers the fees charged by payment clearing houses."
-        },
-        {
-          "q": "How does the non-profit organization receive the donations collected on InMemori?",
-          "r": "The page administrator whose responsibility it is to close the fundraiser will receive the total amount of funds raised, minus any fees charged, on their bank account.\nThey simply have to transfer the funds to the non-profit they mentioned on the page, by check or wire transfer."
-        },
-        {
-          "q": "Are donations made on an InMemori page tax-deductible?",
-          "r": "Yes, if you donate money or property to a qualified organization, your donation can be deducted by filing Form 1040<a href='http://www.irs.gov/pub/irs-pdf/f1040sa.pdf</a> and itemizing the deduction on Schedule A. If you do not itemize your deduction using Schedule A, you cannot deduct your charitable contribution.\n Qualified organizations include nonprofit groups that are religious, charitable, educational, scientific or literary in purpose, and nonprofit groups that work to prevent cruelty to children or animals.\nTo qualify for Nonprofit status, your corporation must be formed to benefit:\nthe public,\na specific group of individuals,\nthe membership of the nonprofit."
-        },
-        {
-          "q": "What amount is tax deductible?",
-          "r": "You may deduct a maximum of up to 50% of your adjusted gross income (AGI) (Line 36 on IRS Form 1040) for the tax year the donation was given.\nThe amount of your donation might be reduced by contributions from which you may benefit. For example, if you pay $250 for the price of a $50 ticket to a charity ball, only $200 is tax-deductible, whether or not you attend the event.\nTo claim a deduction for cash, check, or monetary gifts, you must keep a bank record, payroll deduction record, or written communication from the charity organization that includes the date and amount of the contribution. For contributions totaling $250 or more, you must also include a description of any property contributed, and whether any goods or services were given in exchange for the gift.\nAdditional forms may be required to claim deduction for contributions over a certain amount (for example, Form 8283 for non-cash contributions over $500, and Section B of Form 8283 for contributions valued at over $5000).\n\nSource : <a href='https://www.legalzoom.com/articles/charitable-contributions-how-much-can-you-write-off"
+          "q": "What is the difference between a condolence message and a memory?",
+          "r": "A message of condolence is a testimony of support and participation in the pain of others.\nA memory is a moment lived with the deceased person or something that illustrates their life.\nThese two types of messages are part of the tribute. The memories are very appreciated by the families because they bring softness and sometimes even a smile to the most affected people."
         }
       ]
     },
@@ -104,16 +80,16 @@
       "section": "OTHER QUESTIONS",
       "qa": [
         {
-          "q": "You’d like to create an InMemori page or to contribute to a page but have some questions?",
-          "r": "Just contact Constance or our team. We are here to help families and their close ones whenever and wherever they are.: \nBy email : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \nBy phone, all days of the week, anytime, call the number found at the bottom of the email or text you’ve received from InMemori.\nYour serenity is at the heart of what we do. We are here for you, 24/7."
+          "q": "How can I contact the InMemori team?",
+          "r": "Simply contact Constance and our team, who are dedicated to helping families and loved ones on a daily basis: \n- by email: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \n- by phone, every day of the week and at any time, to the number indicated on the email sent by InMemori.\n<em>(Valid if you are an administrator of a page or if you have already participated in an InMemori page)</em>.\n\nYour serenity is at the heart of our commitment and we will be responding within 24 hours."
         },
         {
-          "q": "If you like what we do, here’s how you can help:",
-          "r": " We hope that InMemori can comfort any and all families that are mourning the loss of a loved ones. We need your help to make sure families know InMemori is a resource available to them. You can do this by:\n- Talking about InMemori to your friends and family, even coworkers, \n- Sending us an e-mail with your recommendations on how we can do better, \n- but thoughts and feedback on your experience are also welcome!\n<em>(How did this help you or your close ones? How did it make you feel?)</em>,\n- ...and, finally...following us on social media. We will be animating grief support workshops and posting great articles so tune in… <a href='https://www.facebook.com/InMemori-608021039394765/'><i class='fa fa-facebook-square mr-1'></i>US</a> <a href='https://twitter.com/inmemori_fr?lang=en&lang=en'><i class='fa fa-twitter-square mr-1'></i></a> <a href='https://www.linkedin.com/company/18116192/'><i class='fa fa-linkedin-square mr-1'></i></a>\n\nWe are always here for you, don’t hesitate to contact us here: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
+          "q": "How can you help us?",
+          "r": "Our wish for InMemori is that every bereaved family can find help and comfort. We need you to put InMemori on the way of bereaved families:\n- by talking about InMemori to those around you, \n- by sending us your suggestions from improvement, \n- by sending us the testimonial of your experience with InMemori\n<em>(What did it bring you? How did it help you?)</em>,\n- by following us on our social media: <a href='https://www.facebook.com/InMemori-608021039394765/'><i class='fa fa-facebook-square mr-1'></i></a> <a href='https://twitter.com/inmemori_fr?lang=en&lang=en'><i class='fa fa-twitter-square mr-1'></i></a> <a href='https://www.linkedin.com/company/18116192/'><i class='fa fa-linkedin-square mr-1'></i></a>\n\nWe are at your service, do not hesitate to write to us at the following address: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
         },
         {
-          "q": "Love the vision and our values? Join the team!",
-          "r": "If you want to join our beautiful adventure, send us your résumé and a note about what drives you: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
+          "q": "How can I join InMemori",
+          "r": "If you wish to join the InMemori adventure, send us your resume and cover letter to: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
         }
       ]
     }

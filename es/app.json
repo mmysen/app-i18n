@@ -10,17 +10,17 @@
       , "cta-view": "Ver página"
     }
   , "menu": {
-        "welcome": "Consultar"
+        "welcome": "Consulta"
       , "home": "Información"
       , "guestbook": "Mensajes"
-      , "support": "Demostrar su apoyo"
-      , "message": "Escribir un mensaje"
-      , "donation": "Donar"
-      , "flowers": "Enviar flores"
-      , "book": "Ordenar el libro"
-      , "share": "Compartir esta página"
+      , "support": "Demostra su apoyo"
+      , "message": "Escribe un mensaje"
+      , "donation": "Haz un donativo"
+      , "flowers": "Envia flores"
+      , "book": "Ordena el libro"
+      , "share": "Comparte esta página"
     }
-  , "share-bar": "Compartir esta página"
+  , "share-bar": "Comparte esta página"
   , "home": {
         "intro": {
             "title": "Querida familia, queridos amigos, \n esta página está destinada a recopilar sus memorias. Por favor compartan con nosotros mensajes, recuerdos o fotos de momentos que vivieron con {{firstname}}. Su apoyo nos ayudará a cruzar esta prueba. \n Con todo nuestro afecto."
@@ -54,8 +54,8 @@
             "title": ""
           , "text": ""
           , "guestbook": {
-                "title": "Escribir un mensaje"
-              , "text": "Envía tus condolencias a la familia. Comparte un recuerdo con {{firstname}}. Publica una foto."
+                "title": "Escribe un mensaje"
+              , "text": "Envía tus condolencias a la familia. Comparte un recuerdo de {{firstname}}. Publica una foto."
             }
           , "donation": {
                 "title": "Hacer una donación"
@@ -64,7 +64,7 @@
             }
           , "share": {
                 "title": "Comparte esta pagina"
-              , "text": "¿Conoce a un pariente preocupado? Envíele el link de la página para que el o ella pueda participar."
+              , "text": "¿Conoce a un pariente preocupado? Comparte el link con familiares y amigos para que puedan participar al homenaje."
             }
         }
     }

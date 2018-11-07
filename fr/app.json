@@ -6,8 +6,8 @@
       , "cta-right": ""
       , "cta-share": "Partager la page"
       , "cta-share-admin": "Modérateur"
-      , "cta-edit": "Modifier la page*"
-      , "cta-edit-tooltip": "*Vous seuls avez accès à cette fonctionnalité. \nElle ne sera pas visible de vos proches."
+      , "cta-edit": "Personnaliser la page"
+      , "cta-edit-tooltip": "Vous seuls avez accès à cette fonctionnalité. \nElle ne sera pas visible de vos proches."
       , "cta-view": "Voir la page"
     }
   , "menu": {
@@ -19,12 +19,12 @@
       , "donation": "Faire un don"
       , "flowers": "Embellir la cérémonie"
       , "book": "Commander le livre"
-      , "share": "Partager cette page"
+      , "share": "Envoyer la page"
     }
-  , "share-bar": "Partagez cette page"
+  , "share-bar": "Envoyez la page à votre carnet d'adresses"
   , "home": {
         "intro": {
-            "title": "Chère famille, chers amis, \n cette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec {{firstname}}, et qui nous aidera à traverser cette épreuve. \n Avec toute notre affection"
+            "title": "Chère famille, chers amis, \n\n nous avons la grande tristesse de vous faire part du décès de {{firstname}}. \n\nCette page est destinée à lui rendre hommage à travers un message, un souvenir ou une photo.\nVous y trouverez également toutes les informations pratiques. \n\n Merci pour votre présence à nos côtés."
         }
       , "info": {
             "title": "Informations"
@@ -49,14 +49,14 @@
         }
       , "contact": {
             "title": "Contact"
-          , "text": "Cette page a été créée par la famille de {{firstname}}. \n\nSi vous avez des questions, vous pouvez contacter les personnes mentionnées ci-dessous :"
+          , "text": "Si vous avez des questions, vous pouvez contacter les personnes mentionnées ci-dessous :"
         }
       , "support": {
             "title": ""
           , "text": ""
           , "guestbook": {
                 "title": "Écrire un message"
-              , "text": "Envoyez vos condoléances à la famille. Partagez un souvenir avec {{firstname}}. Postez une photo."
+              , "text": "Si le cœur vous en dit, vous pouvez partager un message, un souvenir ou une photo en hommage à {{firstname}}."
             }
           , "donation": {
                 "title": "Faire un don"
@@ -64,8 +64,8 @@
               , "text-org": "Soutenez l’association {{org}}, selon les volontés de {{firstname}}."
             }
           , "share": {
-                "title": "Partager cette page"
-              , "text": "Vous connaissez un proche concerné ? Envoyez lui le lien de la page afin qu'il puisse participer."
+                "title": "Envoyer la page"
+              , "text": "Si vous connaissez une personne qui a connu {{firstname}}, n'hésitez pas à lui envoyer le lien de la page."
             }
         }
     }
@@ -212,7 +212,7 @@
       , "shipping-info": "Afin de vous garantir un livre de belle qualité au meilleur prix, nous regroupons les commandes. Les délais de livraison varient de 15 à 30 jours après la commande."
       , "cta-prev": "Retour"
       , "cta-end": "Terminer"
-      , "text-inactive": "La commande de votre livre sera disponible d'ici quelques jours afin que tous les proches de {{fullname}} aient eu le temps de lui rendre hommage."
+      , "text-inactive": "La commande de votre livre sera disponible d'ici quelques jours afin que tous les proches de {{firstname}} aient eu le temps de partager des messages et des photos."
     }
 
   , "delete": {
@@ -223,8 +223,8 @@
 
   , "share": {
         "link": {
-            "title": "Partager cette page"
-          , "text": "Partagez cette page avec toutes les personnes qui ont croisé le chemin de {{firstname}} :"
+            "title": "Envoyer la page"
+          , "text": "Envoyez la page à toutes les personnes qui ont croisé le chemin de {{firstname}} :"
         }
       , "admin": {
             "title": "Ajouter un administrateur"
