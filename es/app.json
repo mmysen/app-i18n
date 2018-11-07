@@ -5,6 +5,7 @@
       , "cta": ""
       , "cta-right": ""
       , "cta-share": "Compartir esta página"
+      , "cta-share-admin": "Agregar un administrador"
       , "cta-edit": "Editar página*"
       , "cta-edit-tooltip": "*Sólo los administradores pueden editar la página. \nLos demás sólo pueden verla, contribuir a ella o compartirla."
       , "cta-view": "Ver página"
@@ -149,7 +150,7 @@
   , "flower": {
         "step0": {
             "title": "Elija su ramo de flores"
-          , "subtitle": "Todos los ramos de flores son de un tamaño mediano y vienen con una burbuja de agua para poder ser presentados en el lugar de la ceremonia."
+          , "subtitle": "Todos nuestros arreglos se elaboran de manera personal y dedicada por parte de floristas expertos, eligiendo las flores de la mejor calidad y frescura para su entera satisfacción."
         }
       , "step1": {
             "title": "Su selección"
