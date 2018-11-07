@@ -5,6 +5,7 @@
       , "cta": ""
       , "cta-right": ""
       , "cta-share": "Partager la page"
+      , "cta-share-admin": "Modérateur"
       , "cta-edit": "Modifier la page*"
       , "cta-edit-tooltip": "*Vous seuls avez accès à cette fonctionnalité. \nElle ne sera pas visible de vos proches."
       , "cta-view": "Voir la page"
