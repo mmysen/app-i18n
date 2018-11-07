@@ -25,11 +25,11 @@
       , "step2": { 
             "title": "Obsèques"
           , "info": "Vous pourrez ajouter une étape supplémentaire ultérieurement."
-          , "cta": "Suivant"
+          , "cta": "Terminer"
         }
       , "step3": { 
             "title": "Page créée"
-          , "info": "Bravo, la page en hommage à {{fullname}} est activée et prête à être partagée !"
+          , "info": "La page en hommage à {{firstname}} a bien été créée."
           , "cta": "Voir la page"
         }
       , "cta-back": "Retour"
