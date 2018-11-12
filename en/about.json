@@ -63,9 +63,9 @@
           , "country": "France"
         },
         { 
-            "name": "Eva Kerner"
-          , "role": "VP Business Development"
-          , "pic": "team.eva"
+            "name": "Quentin Chesnais"
+          , "role": "Head of Business Development"
+          , "pic": "team.quentin"
           , "country": "USA"
         }
       ]
@@ -80,7 +80,7 @@
         { 
             "name": "Clémentine Piazza"
           , "role": ""
-          , "bio": "Clémentine Piazza - CEO & Founder"
+          , "bio": "CEO & Founder"
           , "intro": "This is a profound mission that puts everything in its right place."
           , "pic": "team.clementine"
           , "linkedin": ""
@@ -90,7 +90,7 @@
         { 
             "name": "Constance de Vernejoul"
           , "role": ""
-          , "bio": "Constance de Vernejoul - Product Manager & CRM"
+          , "bio": "Product & Customer Relationship Manager"
           , "intro": "I wanted to be there for people during a period in their lives when they feel profoundly alone."
           , "pic": "team.constance"
           , "linkedin": ""
@@ -100,7 +100,7 @@
         { 
             "name": "Marly Diallo"
           , "role": ""
-          , "bio": "Marly Diallo - Head of Business Development & Operations, France"
+          , "bio": "Head of Business Development & Operations, France"
           , "intro": "The effort we put in everyday lets us contribute to creating strong, resilient communities."
           , "pic": "team.marly"
           , "linkedin": ""
@@ -108,11 +108,11 @@
           , "site": ""
         },
         { 
-            "name": "Eva Kerner"
+            "name": "Quentin Chesnais"
           , "role": ""
-          , "bio": "Eva Kerner - VP Business Development"
+          , "bio": "Head of Business Development"
           , "intro": "It's said that we die twice. Once when we take our last breath, and the second, when someone speaks our name out for the last time. With InMemori, I can help make sure people's names, memories and stories live on."
-          , "pic": "team.eva"
+          , "pic": "team.quentin"
           , "linkedin": ""
           , "twitter": ""
           , "site": ""
@@ -120,7 +120,7 @@
         { 
             "name": "Louis Grellet"
           , "role": ""
-          , "bio": "Louis Grellet - CTO"
+          , "bio": "CTO"
           , "intro": "Mourning is a moment in life where technology is absent. I'd like to change that."
           , "pic": "team.louis"
           , "linkedin": ""
