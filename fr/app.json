@@ -7,7 +7,7 @@
       , "cta-share": "Partager la page"
       , "cta-share-admin": "Ajouter un administrateur"
       , "cta-edit": "Personnaliser la page"
-      , "cta-edit-tooltip": "Vous seuls avez accès à cette fonctionnalité. \nElle ne sera pas visible de vos proches."
+      , "cta-edit-tooltip": "Seuls les administrateurs peuvent personnaliser la page."
       , "cta-view": "Voir la page"
     }
   , "menu": {
@@ -21,7 +21,7 @@
       , "book": "Commander le livre"
       , "share": "Envoyer la page"
     }
-  , "share-bar": "Envoyez la page à votre carnet d'adresses"
+  , "share-bar": "Envoyez le lien à vos contacts"
   , "home": {
         "intro": {
             "title": "Chère famille, chers amis, \nnous avons la grande tristesse de vous faire part du décès de {{firstname}}. \nCette page est destinée à lui rendre hommage à travers un message, un souvenir ou une photo.\nVous y trouverez également toutes les informations pratiques. \n\n Merci pour votre présence à nos côtés."
