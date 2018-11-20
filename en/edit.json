@@ -190,6 +190,7 @@
       , "links": {
             "info": "Information"
           , "moderation": "Give thanks"
+          , "donateProxy": "Organize a fundraising"
           , "admin": "Add new administrator"
           , "share": "Share page"
           , "delete": "Delete page"
