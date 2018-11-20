@@ -189,6 +189,7 @@
       , "links": {
             "info": "Información"
           , "moderation": "Agradecimientos"
+          , "donateProxy": "Sostener una asociación"
           , "admin": "Agregar nuevo administrador"
           , "share": "Compartir la página"
           , "delete": "Eliminar"
