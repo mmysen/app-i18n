@@ -56,7 +56,7 @@
           , "text": ""
           , "guestbook": {
                 "title": "Écrire un message"
-              , "text": "Si le cœur vous en dit, vous pouvez partager un message, un souvenir ou une photo en hommage à {{firstname}}."
+              , "text": "Si vous le souhaitez, vous pouvez partager un message, un souvenir ou une photo en hommage à {{firstname}}."
             }
           , "donation": {
                 "title": "Faire un don"
