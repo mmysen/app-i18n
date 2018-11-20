@@ -189,6 +189,7 @@
       , "links": {
             "info": "Informationen"
           , "moderation": "Danksagungen"
+          , "donateProxy": "Eine Spendenaktion veranstalten"
           , "admin": "Administrator hinzufügen"
           , "share": "Seite teilen"
           , "delete": "Seite löschen"
