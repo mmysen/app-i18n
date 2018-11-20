@@ -63,9 +63,9 @@
           , "country": "Frankreich"
         },
         { 
-            "name": "Richard Wenthen"
-          , "role": "Familienberater"
-          , "pic": "team.eva"
+            "name": "Quentin Chesnais"
+          , "role": "Leiter der Geschäftsentwicklung"
+          , "pic": "team.quentin"
           , "country": "Vereinigte Staaten"
         }
       ]
@@ -108,11 +108,11 @@
           , "site": ""
         },
         { 
-            "name": "Richard Wenthen"
-          , "role": "Familienberater"
+            "name": "Quentin Chesnais"
+          , "role": "Leiter der Geschäftsentwicklung"
           , "bio": ""
           , "intro": ""
-          , "pic": "team.eva"
+          , "pic": "team.quentin"
           , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
           , "twitter": ""
           , "site": ""

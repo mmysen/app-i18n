@@ -32,7 +32,7 @@
       , "title2": "Últimas notas de prensa"
       , "text": "Invitamos a los periodistas a que contacten al equipo de RR.PP. de InMemori para cualquier pedido de información o entrevistas.\n\nContacto de prensa: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
       , "items": [  
-       , ["FRENCHWEB", "Septiembre 2018", "https://www.frenchweb.fr/inmemori-leve-25-millions-deuros-pour-accompagner-les-familles-en-deuil/334789"]        
+            ["FRENCHWEB", "Septiembre 2018", "https://www.frenchweb.fr/inmemori-leve-25-millions-deuros-pour-accompagner-les-familles-en-deuil/334789"]        
           , ["CHALLENGES", "Septiembre 2018", "https://www.challenges.fr/club-entrepreneurs/inmemori-la-start-up-qui-vous-aide-a-gerer-la-perte-d-un-proche_610803"]        
           , ["CHEF D'ENTREPRISE", "Julio 2018", "http://www.chefdentreprise.com/Thematique/actualites-1056/Breves/InMemori-remporte-finale-fran-aise-Startup-Tour-2018-332615.htm#pYUsfSle7MPIoV2e.97"]   
           , ["FRENCHWEB", "Mayo 2018", "https://www.frenchweb.fr/inmemori-veut-faire-entrer-le-deuil-dans-lere-du-digital/326428"]   
@@ -63,10 +63,10 @@
           , "country": "Francia"
         },
         { 
-            "name": "Eva Kerner"
-          , "role": "Vicepresidente de desarrollo comercial"
-          , "pic": "team.eva"
-          , "country": "EÉ.UU."
+            "name": "Quentin Chesnais"
+          , "role": "Director del desarrollo comercial"
+          , "pic": "team.quentin"
+          , "country": "Estados Unidos"
         }
       ]
     }
@@ -108,11 +108,11 @@
           , "site": ""
         },
         { 
-            "name": "Eva Kerner"
-          , "role": "Vicepresidente de desarrollo comercial"
+            "name": "Quentin Chesnais"
+          , "role": "Director del desarrollo comercial"
           , "bio": "Se dice que morimos dos veces: La primera, cuando damos nuestro último suspiro y la segunda, cuando alguien dice nuestro nombre por última vez. A través de InMemori puedo ayudar a garantizar que los nombres, los recuerdos y las historias de las personas perduren."
           , "intro": "Se dice que morimos dos veces: La primera, cuando damos nuestro último suspiro y la segunda, cuando alguien dice nuestro nombre por última vez. A través de InMemori puedo ayudar a garantizar que los nombres, los recuerdos y las historias de las personas perduren."
-          , "pic": "team.eva"
+          , "pic": "team.quentin"
           , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
           , "twitter": ""
           , "site": ""

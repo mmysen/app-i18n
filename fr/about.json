@@ -63,9 +63,9 @@
           , "country": "France"
         },
         { 
-            "name": "Eva Kerner"
-          , "role": "Directrice Business Development US"
-          , "pic": "team.eva"
+            "name": "Quentin Chesnais"
+          , "role": "Directeur Business Development"
+          , "pic": "team.quentin"
           , "country": "Etats-Unis"
         }
       ]
@@ -108,11 +108,11 @@
           , "site": ""
         },
         { 
-            "name": "Eva Kerner"
-          , "role": "Directrice Business Development US"
+            "name": "Quentin Chesnais"
+          , "role": "Directeur Business Development"
           , "bio": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec InMemori, je peux m’assurer  que la mémoire des gens perdure."
           , "intro": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec InMemori, je peux m’assurer  que la mémoire des gens perdure."
-          , "pic": "team.eva"
+          , "pic": "team.quentin"
           , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
           , "twitter": ""
           , "site": ""

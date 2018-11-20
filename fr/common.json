@@ -25,7 +25,7 @@
       , "reception": "Réception"
     }
   , "dummyPlace": {
-        "name": "Lieu à préciser"
+        "name": "Adresse à préciser"
       , "address": "France"
     }
   , "unauthorized": "Pour des questions de sécurité, veuillez-vous reconnecter à votre espace de gestion depuis le premier email InMemori que vous avez reçu.\n\nSi vous ne retrouvez pas cet email ou si vous rencontrez le moindre problème, écrivez-nous à <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
