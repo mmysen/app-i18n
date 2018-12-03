@@ -65,7 +65,7 @@
             }
           , "share": {
                 "title": "Envoyer la page"
-              , "text": "Si vous connaissez une personne qui souhaiterait rendre hommage à {{firstname}}, n'hésitez pas à lui envoyer le lien de la page."
+              , "text": "Si vous connaissez une personne qui souhaiterait se manifester, n'hésitez pas à lui envoyer le lien de la page."
             }
         }
     }
