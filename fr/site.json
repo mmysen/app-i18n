@@ -124,7 +124,7 @@
             }
           , "manage": {
                 "title": "La modifier"
-              , "text": "Suivre l'activité de la page (visites, messages, dons...). \n Télécharger et imprimer le recueil des hommages."
+              , "text": "Suivre l'activité de la page (visites, messages, dons...). \n Commander le recueil des hommages."
             }
         }
       , "values": {
