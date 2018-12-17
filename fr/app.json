@@ -122,6 +122,9 @@
       , "input-city-placeholder": "Ville"
       , "input-zipcode-placeholder": "Code postal"
       , "input-info-placeholder": "Informations complémentaires (digicode, étage...)"
+      , "input-vat-placeholder": "N° Siret"
+      , "input-email-placeholder": "Email"
+
     }
   , "tx": {
         "receipt": "Votre paiement de {{tx.amount_f}} a bien été enregistré !\nRéférence : {{tx.chargeId}}"
