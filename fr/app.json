@@ -4,7 +4,7 @@
       , "titleOf": ""
       , "cta": ""
       , "cta-right": ""
-      , "cta-share": "Partager la page"
+      , "cta-share": "Envoyer le lien"
       , "cta-share-admin": "Ajouter un administrateur"
       , "cta-edit": "Personnaliser la page"
       , "cta-edit-tooltip": "Seuls les administrateurs peuvent personnaliser la page."
@@ -19,7 +19,7 @@
       , "donation": "Faire un don"
       , "flowers": "Embellir la cérémonie"
       , "book": "Commander le livre"
-      , "share": "Envoyer la page"
+      , "share": "Envoyer le lien"
     }
   , "share-bar": "Envoyez le lien à vos contacts"
   , "home": {
@@ -64,8 +64,8 @@
               , "text-org": "Soutenez l’association {{org}}, selon les volontés de {{firstname}}."
             }
           , "share": {
-                "title": "Envoyer la page"
-              , "text": "Si vous connaissez une personne qui a connu {{firstname}}, n'hésitez pas à lui envoyer le lien de la page."
+                "title": "Envoyer le lien"
+              , "text": "Si vous connaissez une personne qui souhaiterait se manifester, n'hésitez pas à lui envoyer le lien de la page."
             }
         }
     }
@@ -226,8 +226,8 @@
 
   , "share": {
         "link": {
-            "title": "Envoyer la page"
-          , "text": "Envoyez la page à toutes les personnes qui ont croisé le chemin de {{firstname}} :"
+            "title": "Envoyer le lien"
+          , "text": "Envoyez le lien de la page à toutes les personnes qui souhaiteraient se manifester :"
         }
       , "admin": {
             "title": "Ajouter un administrateur"
