@@ -121,6 +121,9 @@
       , "input-city-placeholder": "Ciudad"
       , "input-zipcode-placeholder": "Código Postal"
       , "input-info-placeholder": "Informaciones complementarias (código de puerta, planta...)"
+      , "input-vat-placeholder": "RFC"
+      , "input-email-placeholder": "Email"
+     
     }
   , "tx": {
         "receipt": "¡Su pago de {{tx.amount_f}} ha sido registrado!\nRéférence : {{tx.chargeId}}"
