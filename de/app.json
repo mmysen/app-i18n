@@ -122,6 +122,9 @@
       , "input-city-placeholder": "Stadt"
       , "input-zipcode-placeholder": "Postleitzahl"
       , "input-info-placeholder": "Zusatzinformationen (Zugangscode, Stockwerk...)"
+      , "input-vat-placeholder": "Umsatzsteuer-ID"
+      , "input-email-placeholder": "Email"
+      
     }
   , "tx": {
         "receipt": "Ihre Zahlung in Höhe von {{tx.amount_f}} ist eingegangen!\nReferenz: {{tx.chargeId}}"
