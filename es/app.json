@@ -113,7 +113,7 @@
     }
   , "shipping": {
         "conditions": "Entrega únicamente en Francia."
-      , "label-withInvoice": "Dirección de facturación idéntica"
+      , "label-withInvoice": "Otra dirección de facturación"
       , "input-name-placeholder": "Nombre"
       , "input-phone-placeholder": "Teléfono"
       , "input-recipient-placeholder": "Destinatario"
