@@ -52,6 +52,8 @@
               , "countries": [
                     ["fr", "France (EUR)"]
                   , ["us", "United States (USD)"]
+                  , ["be", "Belgique (EUR)"]
+                  , ["ch", "Suisse (CHF)"]
                 ]
               , "cta-open": "Setup"
               , "cta-close": "Close"

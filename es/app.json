@@ -76,6 +76,10 @@
       , "cta-add": "Compartir una foto"
       , "cta-message": "Escribir un mensaje"
       , "no-result": "Todos los mensajes de homenaje serán publicados aquí.\nSus recuerdos y sus palabras ayudarán a los seres queridos de {{firstname}} a navegar por este camino.\nSea el primero en compartir, ayudar e inspirar a otros a hacer lo mismo."
+      , "dummy": {
+            "name": "MESSAGE D'EXEMPLE"
+          , "message": "Chaque message déposé apparaîtra sous cette forme. Une photo peut également être jointe. Cet exemple ne sera plus visible lorsqu'un premier message sera partagé."
+        }
     }
   , "message": {
         "input-fullname-placeholder": "Su nombre y apellido"

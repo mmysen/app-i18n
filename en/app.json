@@ -77,6 +77,10 @@
       , "cta-add": "Add a picture"
       , "cta-message": "Write a message"
       , "no-result": "All the tribute messages will be published be here. Your memories and your words will help carry {{firstname}}'s dear ones through their journey. Be the first to share, to support, to inspire others to do the same."
+      , "dummy": {
+            "name": "MESSAGE D'EXEMPLE"
+          , "message": "Chaque message déposé apparaîtra sous cette forme. Une photo peut également être jointe. Cet exemple ne sera plus visible lorsqu'un premier message sera partagé."
+        }
     }
   , "message": {
         "input-fullname-placeholder": "Your first and last name(s)"

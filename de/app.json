@@ -76,6 +76,10 @@
       , "cta-add": "Foto hinzufügen"
       , "cta-message": "Nachricht schreiben"
       , "no-result": "Alle Würdigungen werden hier veröffentlicht.\nIhre Worte und Gedanken begleiten {{firstname}}s Familie.\nVeröffentlichen Sie die erste Würdigung."
+      , "dummy": {
+            "name": "MESSAGE D'EXEMPLE"
+          , "message": "Chaque message déposé apparaîtra sous cette forme. Une photo peut également être jointe. Cet exemple ne sera plus visible lorsqu'un premier message sera partagé."
+        }
     }
   , "message": {
         "input-fullname-placeholder": "Ihr Vorname und Name"
