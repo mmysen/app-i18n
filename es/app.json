@@ -117,7 +117,7 @@
     }
   , "shipping": {
         "conditions": "Entrega únicamente en Francia."
-      , "label-withInvoice": "Dirección de facturación idéntica"
+      , "label-withInvoice": "Otra dirección de facturación"
       , "input-name-placeholder": "Nombre"
       , "input-phone-placeholder": "Teléfono"
       , "input-recipient-placeholder": "Destinatario"
@@ -125,6 +125,9 @@
       , "input-city-placeholder": "Ciudad"
       , "input-zipcode-placeholder": "Código Postal"
       , "input-info-placeholder": "Informaciones complementarias (código de puerta, planta...)"
+      , "input-vat-placeholder": "RFC"
+      , "input-email-placeholder": "Email"
+     
     }
   , "tx": {
         "receipt": "¡Su pago de {{tx.amount_f}} ha sido registrado!\nRéférence : {{tx.chargeId}}"
