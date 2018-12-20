@@ -71,8 +71,8 @@
     }
   , "guestbook": {
         "title": "Nachrichten"
-      , "tab-entries": "{{count}} Nachricht(en)"
-      , "tab-pictures": "{{count}} Foto(s)"
+      , "tab-entries": "Nachrichten"
+      , "tab-pictures": "Fotos"
       , "cta-add": "Foto hinzufügen"
       , "cta-message": "Nachricht schreiben"
       , "no-result": "Alle Würdigungen werden hier veröffentlicht.\nIhre Worte und Gedanken begleiten {{firstname}}s Familie.\nVeröffentlichen Sie die erste Würdigung."
