@@ -72,8 +72,8 @@
     }
   , "guestbook": {
         "title": "Messages"
-      , "tab-entries": "{{count}} Post(s)"
-      , "tab-pictures": "{{count}} Picture(s)"
+      , "tab-entries": "All the posts"
+      , "tab-pictures": "Pictures"
       , "cta-add": "Add a picture"
       , "cta-message": "Write a message"
       , "no-result": "All the tribute messages will be published be here. Your memories and your words will help carry {{firstname}}'s dear ones through their journey. Be the first to share, to support, to inspire others to do the same."
