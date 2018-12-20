@@ -71,8 +71,8 @@
     }
   , "guestbook": {
         "title": "Mensajes"
-      , "tab-entries": "{{count}} Publicación(es)"
-      , "tab-pictures": "{{count}} Fotografía(s)"
+      , "tab-entries": "Todas las publicaciones"
+      , "tab-pictures": "Fotografías"
       , "cta-add": "Compartir una foto"
       , "cta-message": "Escribir un mensaje"
       , "no-result": "Todos los mensajes de homenaje serán publicados aquí.\nSus recuerdos y sus palabras ayudarán a los seres queridos de {{firstname}} a navegar por este camino.\nSea el primero en compartir, ayudar e inspirar a otros a hacer lo mismo."
