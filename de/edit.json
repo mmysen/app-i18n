@@ -61,7 +61,7 @@
               , "cta-pause": "Deaktivieren"
               , "cta": "Speichern"
               , "cta-upload": "Eine Datei wählen"
-              , "cta-uploading": "Téléchargement en cours..."
+              , "cta-uploading": "Download läuft..."
               , "label-documentid": "Ausweisdokument"
               , "label-documentid-info": "JPEG oder PNG < 5Mo\nReisepass oder Personalausweis (Rekto/Verso im selben Dokument)"
               , "label-country": "Land"
