@@ -24,7 +24,7 @@
   , "share-bar": "Teilen Sie die Seite"
   , "home": {
         "intro": {
-            "title": "Liebe Verwandte, Liebe Freunde, \nwir haben die traurige Pflicht, euch das Ableben von {{firstname}} am {{dod}} im Alter von {{age}} Jahren mitzuteilen. Diese Seite ist euren Würdigungen gewidmet: eine Nachricht, eine Erinnerung oder ein Foto von einem Augenblick, den ihr mit {{firstname}} geteilt habt. \nIn Dankbarkeit"
+            "title": "Liebe Verwandte, Liebe Freunde, \n \n wir haben die traurige Pflicht, euch das Ableben von {{firstname}} am {{dod}} im Alter von {{age}} Jahren mitzuteilen. \n Diese Seite ist euren Würdigungen gewidmet: eine Nachricht, eine Erinnerung oder ein Foto von einem Augenblick, den ihr mit {{firstname}} geteilt habt. \n\nIn Dankbarkeit"
         }
       , "info": {
             "title": "Informationen"
