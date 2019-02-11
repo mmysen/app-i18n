@@ -83,8 +83,8 @@
       , "input-phone-placeholder-partner": "Numéro de mobile"
       , "cta-v0": "Créer une page"
       , "cta-v1": "Créer un espace"
-      , "lookup-text": "Vous recherchez une page déjà existante ?"
-      , "lookup-tooltip": "Demandez le lien de la page à la famille ou à des proches."
+      , "lookup-text": "Vous recherchez un espace déjà existant ?"
+      , "lookup-tooltip": "Demandez le lien de l'espace à la famille ou à des proches."
     }
 
   , "places": {
