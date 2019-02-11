@@ -24,7 +24,7 @@
               , "cta-image-uploading": "Wird geladen..."
               , "label-templates": "Brauchen Sie eine Anregung?"
               , "templates": [
-                    "Liebe Verwandte, Liebe Freunde,\n\nwir haben die traurige Pflicht, euch das Ableben von {{firstname}} am {{dod}} im Alter von {{age}} Jahre mitzuteilen. Diese Seite ist euren Würdigungen gewidmet: eine Nachricht, eine Erinnerung oder ein Foto von einem Augenblick, den ihr mit {{firstname}} geteilt habt.\n\nDankbarkeit."
+                    "Liebe Verwandte, Liebe Freunde,\n\n wir haben die traurige Pflicht, euch das Ableben von {{firstname}} am {{dod}} im Alter von {{age}} Jahre mitzuteilen. Diese Seite ist euren Würdigungen gewidmet: eine Nachricht, eine Erinnerung oder ein Foto von einem Augenblick, den ihr mit {{firstname}} geteilt habt.\n\nDankbarkeit."
                   , "Die ganze Familie und alle Angehörigen müssen euch mit tiefer Trauer den Tod von {{fullname}} am {{dod}} mitteilen."
                   , "Diese Seite ist der Familie und all jenen gewidmet, die {{fullname}} kannten und liebten, der am {{dod}} verstorben ist.\n{{firstname}} wird immer in unserem Herzen sein.\nGerne können Sie auf dieser Seite eine Nachricht, eine Erinnerung oder ein Foto veröffentlichen.\nHerzlichst."
                 ]
@@ -61,7 +61,7 @@
               , "cta-pause": "Deaktivieren"
               , "cta": "Speichern"
               , "cta-upload": "Eine Datei wählen"
-              , "cta-uploading": "Téléchargement en cours..."
+              , "cta-uploading": "Download läuft..."
               , "label-documentid": "Ausweisdokument"
               , "label-documentid-info": "JPEG oder PNG < 5Mo\nReisepass oder Personalausweis (Rekto/Verso im selben Dokument)"
               , "label-country": "Land"
