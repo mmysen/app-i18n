@@ -129,6 +129,65 @@
         }
       ]
 
-  }
+    }
+
+  , "testimonials": {
+        "title": "Témoignages."
+      , "items": [
+            ["Sensibilité", "InMemori place la délicatesse et la compréhension des familles et des proches au coeur de son action."]
+          , ["Intimité", "InMemori offre un espace privé qui protège les mots, les hommages et les souvenirs de chacun."]
+          , ["Universalité", "InMemori s’adresse à tous les âges, cultures et croyances."]
+        ]
+    }
+
+  , "partners": {
+        "title": "Ambassadeurs"
+      , "a-text": "Ils offrent InMemori aux familles."
+      , "b-text": "Ils soutiennent InMemori."
+      , "a": [
+            {
+                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Allianz_tctwwz.png"
+              , "website": "https://www.allianz.fr/prevoyance-dependance/assurance-obseques/"
+            }
+          , {
+                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Malakoff_Me%CC%81de%CC%81ric_giprtw.png"
+              , "website": "http://www.malakoffmederic.com/particuliers/prevoyance/solutions-prevoyance/garantie-obseques/index.jsp#"
+            }
+          , {
+                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Aviva_ctn8q3.png"
+              , "website": "https://www.aviva.fr/particulier/assurance/assurance-obseques/beneficiaires/#hommage"
+            }
+          , {
+                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Cre%CC%81dit_Agricole_jxt21s.png"
+              , "website": "https://www.credit-agricole.fr/particulier/assurances/prevoyance/assurance-obseques.html"
+            }
+          , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Figaro_aysmru.png"
+             , "website": "http://www.lefigaro.fr/carnet-du-jour/2019/01/09/12001-20190109ARTFIG00137-inmemori-un-service-d-hommage-offert-par-le-carnet-du-jour.php?redirect_premium"
+            }
+          , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Autre_Rive_chgpkx.png"
+             , "website": "https://www.autrerive.fr/"
+            }
+          , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/SCF_jrpx8t.png"
+             , "website": "http://s-c-f.org/services/prestations/faire-part-numeriques"
+            }
+          , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/A_G_hd9pql.png"
+             , "website": "http://www.ag-group.be/content/fr/"
+            }
+        ]
+      , "b": [
+            {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/CNSPFV_jme6ot.png"
+             , "website": "https://www.parlons-fin-de-vie.fr/"
+            }
+          , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/FPSP_ipepdt.png"
+             , "website": "https://www.fondssoinspalliatifs.fr/inmemori/"
+            }
+        ]
+    }
 
 }

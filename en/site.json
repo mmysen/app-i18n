@@ -9,6 +9,9 @@
       , "contact": "Contact"
       , "example": "View sample page"
       , "signup": "Create a page"
+      , "partners": "Ambassadeurs"
+      , "testimonials": "Témoignages"
+      , "talk": "En parler"
     }
 
   , "welcome": {
@@ -103,7 +106,49 @@
     }
     
   , "home": {
-        "inform": {
+        "why": {
+            "title": "Pourquoi créer un espace InMemori."
+          , "text": "InMemori est un service gratuit qui vous aide à rassembler votre entourage et à recevoir leurs messages de condoléances, leurs sourvenirs et leurs photos."
+          , "points": {
+                "1": {
+                    "title": "Rassembler."
+                  , "text": "Depuis un espace en ligne privé et gratuit, vous pouvez faire part du décès de votre proche et transmettre rapidement par email ou par sms les informations sur les obsèques à tout votre entourage."
+                }
+              , "2": {
+                    "title": "Rendre hommage."
+                  , "text": "Chaque personne à qui vous envoyez le lien de l'espace peut y déposer un message de condoléances, un souvenir ou une photo."
+                }
+              , "3": {
+                    "title": "Se souvenir."
+                  , "text": "Recevez chez vous un beau-livre rassemblant l'ensemble des mots et des photos partagés sur l'espace en hommage à votre proche."
+                }
+          }
+        }
+
+      , "book": {
+            "title": "Gardez une trace."
+          , "text": "Grâce à InMemori, vous pouvez rassembler l'enssemble des messages et photos déposés sur votre espace dans un ”beau livre“ de souvenir. Façonné par un artisan imprimeur, situé dans le sud de la France, sa mise en page est réalisé par les équipes d'InMemori, vous soulageant ainsi durant cette épreuve."
+        }
+
+      , "farewell": {
+            "title": "Rendez hommage à chaque vie.."
+          , "points": {
+                "1": {
+                    "title": "Dignité."
+                  , "text": "InMemori offre aux famille un espace élégant et sobre, sans likes ni publicité."
+                }
+              , "2": {
+                    "title": "Intimité."
+                  , "text": "Les espaces d'hommages sont privés et n'apparaissent jamais dans les resultats des moteurs de recherche."
+                }
+              , "3": {
+                    "title": "Universalité."
+                  , "text": "InMemori est gratuit et s'adresse à tous les ages, cultures et croyances."
+                }
+          }
+        }
+
+      , "inform": {
             "title": "Gather and inform"
           , "text": "InMemori allows you to inform family and friends about the passing of your loved one, and share the date, location, and details of the ceremony.\nWe can also help you collect funds to help with the funeral, or to donate to an organization dear to the family."
         }
@@ -147,6 +192,7 @@
       , "testimonial": {
             "title": "Testimonials"
           , "text": "This is what people have to say about InMemori."
+          , "more": "Voir tous les témoignages"
           , "one": {
                 "from": "Barbara Pham"
               , "text": "Your service is remarkably well done. It eliminated additional stress from our lives and our close ones were able to easily make donations to a charity dear to our dad."

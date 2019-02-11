@@ -9,6 +9,9 @@
       , "contact": "Contact"
       , "example": "Voir un exemple"
       , "signup": "Créer une page"
+      , "partners": "Ambassadeurs"
+      , "testimonials": "Témoignages"
+      , "talk": "En parler"
     }
 
   , "welcome": {
@@ -64,7 +67,7 @@
     }
     
   , "signup": {
-        "title-v0": "Rassembler. Rendre hommage. Se souvenir."
+        "title-v0": "Rassembler. Rendre hommage. Se souvenir."
       , "text-v0": "Vous venez de perdre un proche.\n Créez un espace privé afin de rassembler son entourage et lui rendre hommage."
       , "title-v1": "Créer une page d'hommage"
       , "text-v1": "Commencez par nous en dire plus sur votre proche :"
@@ -79,7 +82,7 @@
       , "input-email-placeholder-partner": "Email de la famille"
       , "input-phone-placeholder-partner": "Numéro de mobile"
       , "cta-v0": "Créer une page"
-      , "cta-v1": "Créer une page"
+      , "cta-v1": "Créer un espace"
       , "lookup-text": "Vous recherchez une page déjà existante ?"
       , "lookup-tooltip": "Demandez le lien de la page à la famille ou à des proches."
     }
@@ -103,7 +106,49 @@
   }
 
   , "home": {
-        "inform": {
+        "why": {
+            "title": "Pourquoi créer un espace InMemori."
+          , "text": "InMemori est un service gratuit qui vous aide à rassembler votre entourage et à recevoir leurs messages de condoléances, leurs sourvenirs et leurs photos."
+          , "points": {
+                "1": {
+                    "title": "Rassembler."
+                  , "text": "Depuis un espace en ligne privé et gratuit, vous pouvez faire part du décès de votre proche et transmettre rapidement par email ou par sms les informations sur les obsèques à tout votre entourage."
+                }
+              , "2": {
+                    "title": "Rendre hommage."
+                  , "text": "Chaque personne à qui vous envoyez le lien de l'espace peut y déposer un message de condoléances, un souvenir ou une photo."
+                }
+              , "3": {
+                    "title": "Se souvenir."
+                  , "text": "Recevez chez vous un beau-livre rassemblant l'ensemble des mots et des photos partagés sur l'espace en hommage à votre proche."
+                }
+          }
+        }
+
+      , "book": {
+            "title": "Gardez une trace."
+          , "text": "Grâce à InMemori, vous pouvez rassembler l'enssemble des messages et photos déposés sur votre espace dans un ”beau livre“ de souvenir. Façonné par un artisan imprimeur, situé dans le sud de la France, sa mise en page est réalisé par les équipes d'InMemori, vous soulageant ainsi durant cette épreuve."
+        }
+
+      , "farewell": {
+            "title": "Rendez hommage à chaque vie.."
+          , "points": {
+                "1": {
+                    "title": "Dignité."
+                  , "text": "InMemori offre aux famille un espace élégant et sobre, sans likes ni publicité."
+                }
+              , "2": {
+                    "title": "Intimité."
+                  , "text": "Les espaces d'hommages sont privés et n'apparaissent jamais dans les resultats des moteurs de recherche."
+                }
+              , "3": {
+                    "title": "Universalité."
+                  , "text": "InMemori est gratuit et s'adresse à tous les ages, cultures et croyances."
+                }
+          }
+        }
+
+      , "inform": {
             "title": "Informer vos proches"
           , "text": "InMemori vous permet de faire part du décès de votre proche à votre famille et à vos amis et de leur transmettre rapidement les informations sur les obsèques. \n Créer une page privée ne vous prend que 5 minutes et la partager avec toutes les personnes concernées est très facile : il vous suffit pour cela de transmettre par email ou par sms le lien sécurisé de la page."
         }
@@ -146,6 +191,7 @@
       , "testimonial": {
             "title": "Témoignages"
           , "text": "Ce que les gens ont à dire d'InMemori."
+          , "more": "Voir tous les témoignages"
           , "one": {
                 "from": "Michel Tailland"
               , "text": "Grâce à InMemori, nous avons pu transmettre les informations sur les obsèques à toutes les personnes concernées en seulement une heure."
