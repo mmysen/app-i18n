@@ -28,7 +28,7 @@
     }
 
   , "press": {
-        "title": "Espace presse"
+        "title": "Presse."
       , "title2": "Dernières parutions"
       , "text": "L’équipe relations presse d’InMemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
       , "items": [
@@ -129,7 +129,7 @@
         , {
                "title": "InMemori, la start-up française qui facilite le deuil"
              , "text": "Se retrouver, rendre hommage, ça existe dans toutes les cultures sur terre."
-             , "logo": ""
+             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Fenchmorning_cqeif1.png"
              , "link": ["Lire l’article", "https://frenchmorning.com/in-memori-start-up-francaise-daide-deuil-souvenir/"]
              , "date": "2017-12-05"
            }
@@ -137,7 +137,7 @@
         , {
                "title": "Le pitch start-up. InMemori, la start-up qui aide à organiser des funérailles"
              , "text": "InMemori est une plateforme web qui met en relation les proches d’une personne décédée, au moment où celles-ci en ont le plus besoin."
-             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Fenchmorning_cqeif1.png"
+             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Franceinfo_sgjnyv.png"
              , "link": ["Écouter l’interview", "https://www.francetvinfo.fr/replay-radio/le-pitch-start-up/le-pitch-start-up-inmemori-la-start-up-qui-aide-a-organiser-des-funerailles_2462084.html"]
              , "date": "2017-11-25"
            }
@@ -188,8 +188,8 @@
 
   , "team": {
 
-        "title": "Qui sommes nous ?"
-      , "text": "Une équipe qui réunit belles énergies, force d'âme et enthousiasme au service d’InMemori."
+        "title": "Équipe."
+      , "text": "Qui sommes nous ?\n\n Une équipe responsable, engagée et portée par la mission."
 
       , "items": [
         { 
@@ -223,16 +223,6 @@
           , "site": ""
         },
         { 
-            "name": "Quentin Chesnais"
-          , "role": "Directeur Business Development"
-          , "bio": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec InMemori, je peux m’assurer  que la mémoire des gens perdure."
-          , "intro": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec InMemori, je peux m’assurer  que la mémoire des gens perdure."
-          , "pic": "team.quentin"
-          , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
-          , "twitter": ""
-          , "site": ""
-        },
-        { 
             "name": "Louis Grellet"
           , "role": "CTO"
           , "bio": "C’est un moment de la vie où le digital est absent et un challenge technique que j’ai envie de relever."
@@ -255,7 +245,7 @@
     }
 
   , "partners": {
-        "title": "Ambassadeurs"
+        "title": "Ambassadeurs."
       , "a-text": "Ils offrent InMemori aux familles."
       , "b-text": "Ils soutiennent InMemori."
       , "a": [
