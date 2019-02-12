@@ -1,17 +1,17 @@
 {
-    "sample-slug": "mdarricourt"
+    "sample-slug": "mdarricourt-e73qk"
 
   , "links": {
         "home": "Accueil"
       , "about": "À propos"
-      , "team": "L'équipe"
-      , "press": "Presse"
+      , "team": "L'ÉQUIPE"
+      , "press": "PRESSE"
       , "contact": "Contact"
       , "example": "Voir un exemple"
       , "signup": "Créer une page"
-      , "partners": "Ambassadeurs"
-      , "testimonials": "Témoignages"
-      , "talk": "En parler"
+      , "partners": "AMBASSADEURS"
+      , "testimonials": "TÉMOIGNAGES"
+      , "talk": "EN PARLER"
     }
 
   , "welcome": {
@@ -83,8 +83,8 @@
       , "input-phone-placeholder-partner": "Numéro de mobile"
       , "cta-v0": "Créer une page"
       , "cta-v1": "Créer un espace"
-      , "lookup-text": "Vous recherchez une page déjà existante ?"
-      , "lookup-tooltip": "Demandez le lien de la page à la famille ou à des proches."
+      , "lookup-text": "Vous recherchez un espace déjà existant ?"
+      , "lookup-tooltip": "Demandez le lien de l'espace à la famille ou à des proches."
     }
 
   , "places": {
@@ -108,11 +108,11 @@
   , "home": {
         "why": {
             "title": "Pourquoi créer un espace InMemori."
-          , "text": "InMemori est un service gratuit qui vous aide à rassembler votre entourage et à recevoir leurs messages de condoléances, leurs sourvenirs et leurs photos."
+          , "text": "InMemori est un service gratuit qui vous aide à rassembler votre entourage et à recevoir leurs messages de condoléances, leurs souvenirs et leurs photos."
           , "points": {
                 "1": {
                     "title": "Rassembler."
-                  , "text": "Depuis un espace en ligne privé et gratuit, vous pouvez faire part du décès de votre proche et transmettre rapidement par email ou par sms les informations sur les obsèques à tout votre entourage."
+                  , "text": "Depuis un espace en ligne privé et gratuit, vous pouvez faire part du décès de votre proche et transmettre rapidement par email ou par SMS les informations sur les obsèques à tout votre entourage."
                 }
               , "2": {
                     "title": "Rendre hommage."
@@ -120,7 +120,7 @@
                 }
               , "3": {
                     "title": "Se souvenir."
-                  , "text": "Recevez chez vous un beau-livre rassemblant l'ensemble des mots et des photos partagés sur l'espace en hommage à votre proche."
+                  , "text": "Recevez chez vous un beau livre rassemblant l'ensemble des mots et des photos partagés sur l'espace en hommage à votre proche."
                 }
           }
         }
@@ -131,23 +131,23 @@
 
       , "book": {
             "title": "Gardez une trace."
-          , "text": "Grâce à InMemori, vous pouvez rassembler l'enssemble des messages et photos déposés sur votre espace dans un ”beau livre“ de souvenir. Façonné par un artisan imprimeur, situé dans le sud de la France, sa mise en page est réalisé par les équipes d'InMemori, vous soulageant ainsi durant cette épreuve."
+          , "text": "Grâce à InMemori, vous pouvez rassembler l'ensemble des mots, des souvenirs et des photos déposés sur l'espace en hommage à votre proche dans un beau livre de souvenirs. \nFaçonné par un artisan imprimeur situé dans le sud de la France, sa mise en page est réalisée par les équipes d'InMemori, vous soulageant ainsi durant cette épreuve."
         }
 
       , "farewell": {
-            "title": "Rendez hommage à chaque vie.."
+            "title": "Rendez hommage à chaque vie."
           , "points": {
                 "1": {
                     "title": "Dignité."
-                  , "text": "InMemori offre aux famille un espace élégant et sobre, sans likes ni publicité."
+                  , "text": "InMemori offre aux familles un espace élégant et sobre, sans “likes” ni publicité."
                 }
               , "2": {
                     "title": "Intimité."
-                  , "text": "Les espaces d'hommages sont privés et n'apparaissent jamais dans les resultats des moteurs de recherche."
+                  , "text": "Les espaces d'hommage sont privés et n'apparaissent jamais dans les résultats des moteurs de recherche."
                 }
               , "3": {
                     "title": "Universalité."
-                  , "text": "InMemori est gratuit et s'adresse à tous les ages, cultures et croyances."
+                  , "text": "InMemori est gratuit et s'adresse à tous les âges, cultures et croyances."
                 }
           }
         }
