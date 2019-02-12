@@ -193,7 +193,7 @@
             }
         }
       , "testimonial": {
-            "title": "Témoignages"
+            "title": "Témoignages."
           , "text": "Ce que les gens ont à dire d'InMemori."
           , "more": "Voir tous les témoignages"
           , "one": {
