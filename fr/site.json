@@ -125,6 +125,10 @@
           }
         }
 
+      , "video": {
+            "title": "Comment çà marche ?"
+        }
+
       , "book": {
             "title": "Gardez une trace."
           , "text": "Grâce à InMemori, vous pouvez rassembler l'enssemble des messages et photos déposés sur votre espace dans un ”beau livre“ de souvenir. Façonné par un artisan imprimeur, situé dans le sud de la France, sa mise en page est réalisé par les équipes d'InMemori, vous soulageant ainsi durant cette épreuve."

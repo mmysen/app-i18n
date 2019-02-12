@@ -124,6 +124,10 @@
                 }
           }
         }
+        
+      , "video": {
+            "title": "Comment çà marche ?"
+        }
 
       , "book": {
             "title": "Gardez une trace."
