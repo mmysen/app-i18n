@@ -236,7 +236,7 @@
     }
 
   , "testimonials": {
-        "title": "Témoignages."
+        "title": "Les familles racontent."
       , "items": [
             ["Sensibilité", "InMemori place la délicatesse et la compréhension des familles et des proches au coeur de son action."]
           , ["Intimité", "InMemori offre un espace privé qui protège les mots, les hommages et les souvenirs de chacun."]
@@ -245,7 +245,7 @@
     }
 
   , "partners": {
-        "title": "Ambassadeurs."
+        "title": "Ils s'engagent à nos côtés."
       , "a-text": "Ils offrent InMemori aux familles."
       , "b-text": "Ils soutiennent InMemori."
       , "a": [
