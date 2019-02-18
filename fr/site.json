@@ -139,12 +139,12 @@
             "title": "Rendez hommage à chaque vie."
           , "points": {
                 "1": {
-                    "title": "Dignité."
-                  , "text": "InMemori offre aux familles un espace élégant et sobre, sans “likes” ni publicité."
-                }
-              , "2": {
                     "title": "Intimité."
                   , "text": "Les espaces d'hommage sont privés et n'apparaissent jamais dans les résultats des moteurs de recherche."
+                }
+              , "2": {
+                    "title": "Dignité."
+                  , "text": "InMemori offre aux familles un espace élégant et sobre, sans “likes” ni publicité." 
                 }
               , "3": {
                     "title": "Universalité."
