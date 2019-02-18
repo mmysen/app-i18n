@@ -328,9 +328,9 @@
                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Figaro_aysmru.png"
              , "website": "http://www.lefigaro.fr/carnet-du-jour/2019/01/09/12001-20190109ARTFIG00137-inmemori-un-service-d-hommage-offert-par-le-carnet-du-jour.php?redirect_premium"
             }
-          , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Autre_Rive_chgpkx.png"
-             , "website": "https://www.autrerive.fr/"
+           , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/SCF_jrpx8t.png"
+             , "website": "http://s-c-f.org/services/prestations/faire-part-numeriques"
             }
           , {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Aviva_ctn8q3.png"
@@ -345,8 +345,8 @@
              , "website": "http://www.ag-group.be/content/fr/"
             }
            , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/SCF_jrpx8t.png"
-             , "website": "http://s-c-f.org/services/prestations/faire-part-numeriques"
+               "image": ""
+             , "website": ""
             }
           , {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Cre%CC%81dit_Agricole_jxt21s.png"
@@ -355,6 +355,10 @@
           , {
                "image": "https://res.cloudinary.com/inmemori/image/upload/v1550501667/Pre%CC%81voir_c35cta.png"
              , "website": "https://www.prevoir.com/nos-solutions/assurance-deces-obseques/contrat-obseques"
+            }
+           , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Autre_Rive_chgpkx.png"
+             , "website": "https://www.autrerive.fr/"
             }
           
         ]
