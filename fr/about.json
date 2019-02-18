@@ -28,7 +28,7 @@
     }
 
   , "press": {
-        "title": "Espace presse"
+        "title": "Presse."
       , "title2": "Dernières parutions"
       , "text": "L’équipe relations presse d’InMemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
       , "items": [
@@ -129,7 +129,7 @@
         , {
                "title": "InMemori, la start-up française qui facilite le deuil"
              , "text": "Se retrouver, rendre hommage, ça existe dans toutes les cultures sur terre."
-             , "logo": "<"
+             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Fenchmorning_cqeif1.png"
              , "link": ["Lire l’article", "https://frenchmorning.com/in-memori-start-up-francaise-daide-deuil-souvenir/"]
              , "date": "2017-12-05"
            }
@@ -137,7 +137,7 @@
         , {
                "title": "Le pitch start-up. InMemori, la start-up qui aide à organiser des funérailles"
              , "text": "InMemori est une plateforme web qui met en relation les proches d’une personne décédée, au moment où celles-ci en ont le plus besoin."
-             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Fenchmorning_cqeif1.png"
+             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Franceinfo_sgjnyv.png"
              , "link": ["Écouter l’interview", "https://www.francetvinfo.fr/replay-radio/le-pitch-start-up/le-pitch-start-up-inmemori-la-start-up-qui-aide-a-organiser-des-funerailles_2462084.html"]
              , "date": "2017-11-25"
            }
@@ -154,11 +154,12 @@
     }
 
   , "talk": {
-        "title": "En parler autour de soi."
-      , "text": "La mission d’InMemori est d’apporter du réconfort à chaque famille qui traverse un deuil en l’aidant à rassembler son entourage et à rendre hommage au proche disparu. \n\nDans les quelques jours qui précèdent les obsèques, les familles sont dans l’urgence et n’ont ni le temps, ni la disponibilité de faire les recherches sur internet pour nous trouver. Aussi, si un ami, un parent ou un collègue fait face à la perte d’un proche, n’hésitez pas à lui parler d’InMemori."
-      , "title2": "Trouver les mots."
-      , "text2": "InMemori met à disposition des familles qui viennent de perdre un proche un espace en ligne privé et gratuit qui permet de faire part du décès à leur entourage et de leur transmettre les informations sur les obsèques. Invités sur l’espace grâce à un lien sécurisé, ces derniers peuvent y déposer un message de condoléances, un souvenir ou une photo. "
-      , "cta-video": "Lien de la vidéo"
+        "title": "Aider un proche avec InMemori."
+      , "subtitle": "Trouver les mots."
+      , "text": "Voici une suggestion de présentation d’InMemori afin que vous puissiez en parler facilement à votre proche : \n\n InMemori est un espace en ligne privé et gratuit. Il te permet de faire-part du décès à tout ton entourage et de transmettre rapidement les informations sur les obsèques.\nLa famille, les amis et les proches pourront aussi déposer sur l’espace un message de condoléances, un souvenir ou une photo. \nTu pourras ensuite, si tu le souhaites, recevoir un beau livre rassemblant tous ces messages et ainsi en garder une trace."
+      , "subtitle2": "Aller plus loin."
+      , "text2": "Pour aider au mieux, nous vous invitons à créer vous-même l’espace d’hommage. Cela permettra à la famille de bien comprendre le service et vous lui faites économiser un temps précieux.\n Chaque espace est privé et sécurisé. Ce sera donc bien la famille qui décidera d’utiliser InMemori et de partager l’espace in fine.\n\n Pour cela, vous pouvez envoyer le lien de l’espace et y joindre ce texte explicatif : \n\n“InMemori (<a href='www.inmemori.com'>www.inmemori.com</a>) est un espace en ligne privé et gratuit. Il te permet de faire-part du décès à tout ton entourage et de transmettre rapidement les informations sur les obsèques.\n\nSeuls les proches à qui tu enverras le lien sécurisé de l’espace pourront y avoir accès. Ils pourront aussi y déposer un message de condoléances, un souvenir ou une photo. \n\n Tu pourras ensuite, si tu le souhaites, recevoir un beau livre rassemblant tous ces messages et ainsi en garder une trace.\n\n L’espace est personnalisable, tu peux choisir la photo et écrire le faire-part avec tes mots. Les équipes d’InMemori sont très réactives, n’hésites pas à les appeler si tu as la moindre question.\n\n Les familles qui ont utilisé le service parlent du réconfort que cela leur a apporté, tu peux lire leurs témoignages sur le lien suivant : \n <a href='www.inmemori.com/testimonials'>www.inmemori.com/testimonials</a>"
+      , "cta-video": ""
     }
 
 
@@ -188,8 +189,8 @@
 
   , "team": {
 
-        "title": "Qui sommes nous ?"
-      , "text": "Une équipe qui réunit belles énergies, force d'âme et enthousiasme au service d’InMemori."
+        "title": "Équipe."
+      , "text": "Une équipe responsable, engagée et portée par la mission d'InMemori."
 
       , "items": [
         { 
@@ -223,16 +224,6 @@
           , "site": ""
         },
         { 
-            "name": "Quentin Chesnais"
-          , "role": "Directeur Business Development"
-          , "bio": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec InMemori, je peux m’assurer  que la mémoire des gens perdure."
-          , "intro": "On dit qu'on meurt deux fois. La première fois quand on cesse de respirer, et la seconde, un peu plus tard, quand quelqu'un dit votre nom pour la dernière fois.” Avec InMemori, je peux m’assurer  que la mémoire des gens perdure."
-          , "pic": "team.quentin"
-          , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
-          , "twitter": ""
-          , "site": ""
-        },
-        { 
             "name": "Louis Grellet"
           , "role": "CTO"
           , "bio": "C’est un moment de la vie où le digital est absent et un challenge technique que j’ai envie de relever."
@@ -246,7 +237,7 @@
     }
 
   , "testimonials": {
-        "title": "Témoignages."
+        "title": "Les familles racontent."
       , "items": [
             ["Sensibilité", "InMemori place la délicatesse et la compréhension des familles et des proches au coeur de son action."]
           , ["Intimité", "InMemori offre un espace privé qui protège les mots, les hommages et les souvenirs de chacun."]
@@ -255,7 +246,7 @@
     }
 
   , "partners": {
-        "title": "Ambassadeurs"
+        "title": "Ils s'engagent à nos côtés."
       , "a-text": "Ils offrent InMemori aux familles."
       , "b-text": "Ils soutiennent InMemori."
       , "a": [

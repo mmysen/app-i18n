@@ -28,125 +28,125 @@
     }
 
   , "press": {
-        "title": "Pressebereich"
-      , "title2": "Letzte Veröffentlichungen"
+        "title": "Presse."
+      , "title2": ""
       , "text": "Das InMemori Presse-Team steht Journalisten für Anfragen und Interviews zur Verfügung.\n\nPressekontakt: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
       , "items": [
            {
-               "title": "Aviva France et la startup InMemori s’associent pour soutenir les familles qui font face a la perte d’un proche"
-             , "text": "Depuis le 10 octobre 2018, Aviva France, acteur majeur de l’assurance, offre aux proches de ses clients Conventions Obsèques le service InMemori afin de les aider à rassembler facilement leur entourage."
+               "title": "Aviva France und das Start-up InMemori schließen sich zusammen, um Familien zu begleiten, die um einen liebgewonnenen Menschen trauern"
+             , "text": "Seit dem 10. Oktober 2018 bietet Aviva France, eines der wichtigsten Versicherungsnehmen, den Angehörigen seiner Bestattungsversicherungskunden den InMemori-Service, um ihnen bei der Versammlung ihres Bekanntenkreises Hilfestellung zu gewähren."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967420/Aviva_y4ooh0.jpg"
-             , "link": ["Lire le communiqué", "http://presse.aviva.fr/communique/179039/AVIVA-FRANCE-ET-LA-STARTUP-INMEMORI-S-ASSOCIENT-POUR-SOUTENIR-LES-FAMILLES-QUI-FONT-FACE-A-LA-PERTE-D-UN-PROCHE"]
+             , "link": ["Mitteilung lesen (in französischer Sprache)", "http://presse.aviva.fr/communique/179039/AVIVA-FRANCE-ET-LA-STARTUP-INMEMORI-S-ASSOCIENT-POUR-SOUTENIR-LES-FAMILLES-QUI-FONT-FACE-A-LA-PERTE-D-UN-PROCHE"]
              , "date": "2019-01-17"
            }
 
          , {
                "title": "[CONVERSATION] You’re already Immortal"
-             , "text": "Vidéo - Un projet universel qui parle à tout le monde, touche tout le monde. Finalement, ce sont souvent les idées les plus simples qui sont les plus belles, les plus porteuses, les plus fédératrices."
+             , "text": "Video – Ein universelles Projekt, das sich an alle wendet, alle berührt. Letztendlich sind häufig die einfachsten Ideen die schönsten, die uns mitreißen und vereinen."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967503/Day_One_d3zhiq.png"
-             , "link": ["Voir la vidéo", "https://www.youtube.com/watch?v=qej4n6sfguw&feature=youtu.be&list=PLdqq-Msbx89kRq554T31pGR2yS0zylxst"]
+             , "link": ["Video sehen", "https://www.youtube.com/watch?v=qej4n6sfguw&feature=youtu.be&list=PLdqq-Msbx89kRq554T31pGR2yS0zylxst"]
              , "date": "2018-12-10"
            }
 
          , {
-               "title": "Accompagner le deuil"
-             , "text": "Émission Changer d’ère par Laurent Kollen"
+               "title": "Trauernden beistehen"
+             , "text": "Sendung Changer d’ère von Laurent Kollen"
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Francebleu_l81oni.png"
-             , "link": ["Écouter le podcast", "https://www.francebleu.fr/emissions/changer-d-ere-laurent-kollen/mayenne/accompagner-le-deuil"]
+             , "link": ["Podcast hören (in französischer Sprache)", "https://www.francebleu.fr/emissions/changer-d-ere-laurent-kollen/mayenne/accompagner-le-deuil"]
              , "date": "2018-11-22"
            }
 
          , {
-               "title": "InMemori lève 2,5 millions d’euros pour accompagner les familles en deuil"
-             , "text": "À date, InMemori revendique plus de 100 000 utilisateurs. Ces derniers peuvent donc retrouver des informations sur les obsèques, partager leurs condoléances mais aussi des souvenirs, des photos ou encore embellir la cérémonie avec des fleurs. L’équipe de la start-up est aujourd’hui composée de cinq personnes et elle a des bureaux en France et aux États-Unis."
+               "title": "InMemori gewinnt 2,5Millionen Euro, um trauernden Familien beizustehen"
+             , "text": "Zum jetzigen Zeitpunkt beruft sich InMemori auf über 100 000 Nutzer. Diese können Informationen über die Bestattung abrufen, Beileidsbekundungen sowie Erinnerungen und Fotos teilen, oder die Bestattungsfeier mit Blumen schmücken. Das Start-up-Team besteht heute aus fünf Mitarbeitern und verfügt über Räumlichkeiten in Frankreich und den USA."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Frenchweb_jjtypc.png"
-             , "link": ["Lire l’article", "https://www.frenchweb.fr/inmemori-leve-25-millions-deuros-pour-accompagner-les-familles-en-deuil/334789"]
+             , "link": ["Artikel lesen (in französischer Sprache)", "https://www.frenchweb.fr/inmemori-leve-25-millions-deuros-pour-accompagner-les-familles-en-deuil/334789"]
              , "date": "2018-09-06"
            }
 
         , {
-               "title": "InMemori, la start-up qui vous aide à gérer la perte d’un proche"
-             , "text": "Clémentine Piazza, 33 ans, lauréate de la sélection Challenges des meilleures start-up 2018, a fondé en 2016 un site qui aide à gérer la perte d’un proche. Elle lève 2,5 millions pour étoffer son équipe. Elle est l’invitée du Club entrepreneurs Challenges-Grant Thornton."
+               "title": "InMemori, das Start-up, das ihnen beim Verlust eines nahestehenden Menschen beisteht"
+             , "text": "Die 33-jährige Preisträgerin des Challenges-Wettbewerbs der besten Start-ups des Jahres 2018, Clémentine Piazza, hat 2016 eine Webseite erstellt, die beim Verlust eines liebgewonnenen Menschen Unterstützung leistet. Das Preisgeld in Höhe von 2.5Millionen € kommt ihrem Team zugute. Sie ist beim Unternehmer-Club Challenges-Grant Thornton zu Gast."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Challenges_f8wtqr.png"
-             , "link": ["Lire l’article", "https://www.challenges.fr/club-entrepreneurs/inmemori-la-start-up-qui-vous-aide-a-gerer-la-perte-d-un-proche_610803"]
+             , "link": ["Artikel lesen (in französischer Sprache)", "https://www.challenges.fr/club-entrepreneurs/inmemori-la-start-up-qui-vous-aide-a-gerer-la-perte-d-un-proche_610803"]
              , "date": "2018-09-06"
            }
 
          , {
-               "title": "InMemori remporte la finale française du Startup Tour 2018"
-             , "text": "La start-up InMemori, créée par Clémentine Piazza, a gagné mardi 3 juillet 2018 à Paris sa place pour la dernière étape de ce concours transatlantique. La grande finale se tiendra en septembre 2018 à New-York."
+               "title": "InMemori trägt im Finale der Startup Tour 2018 den Sieg für Frankreich davon"
+             , "text": "Das Start-up InMemori, das von Clémentine Piazza gegründet wurde, hat am Dienstag den 3.Juli 2018 in Paris sein Ticket für die letzte Etappe des transatlantischen Wettbewerbs gewonnen. Das Finale findet im September 2018 in New York statt."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Chef_d_entreprise_iwbqie.png"
-             , "link": ["Lire l’article", "https://www.chefdentreprise.com/Thematique/actualites-1056/Breves/InMemori-remporte-finale-fran-aise-Startup-Tour-2018-332615.htm"]
+             , "link": ["Artikel lesen (in französischer Sprache)", "https://www.chefdentreprise.com/Thematique/actualites-1056/Breves/InMemori-remporte-finale-fran-aise-Startup-Tour-2018-332615.htm"]
              , "date": "2018-09-05"
            }
 
          , {
-               "title": "InMemori veut faire entrer le deuil dans l’ère du digital"
-             , "text": "« InMemori adresse l’un des moments les plus éprouvants de la vie qui est la perte d’un proche. La plateforme accompagne les familles en deuil en mettant à leur disposition un espace en ligne privé qui leur permet de rassembler toutes les personnes concernées et qui intègre des services pour rendre hommage », décrit Clémentine Piazza, la fondatrice, à l’occasion de la Journée de la Femme Digitale, qui s’est tenue à Paris en avril."
+               "title": "InMemori will das Trauern in die digitale Ära überführen"
+             , "text": "„InMemori widmet sich einem der schwierigsten Momente des Lebens: dem Verlust eines nahestehenden Menschens. Die Plattform begleitet trauernde Familien, indem sie ihnen eine private Webseite zur Verfügung stellt, wo sie alle Betroffenen zusammenbringen können, und die gleichzeitig Dienstleistungen zum Gedenken anbietet.“ erläutert die Gründerin Clémentine Piazza am Tag der digitalen Frau, der im April in Paris abgehalten wurde."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Frenchweb_jjtypc.png"
-             , "link": ["Lire l’article", "https://www.frenchweb.fr/inmemori-veut-faire-entrer-le-deuil-dans-lere-du-digital/326428"]
+             , "link": ["Artikel lesen (in französischer Sprache)", "https://www.frenchweb.fr/inmemori-veut-faire-entrer-le-deuil-dans-lere-du-digital/326428"]
              , "date": "2018-05-30"
            }
         , {
-               "title": "Quand les entrepreneuses battent en brèche les clichés"
-             , "text": "Quels sont les clichés sur l’entrepreneuriat féminin qui perdurent ? Comment cela se passe en pratique ? Quels sont les freins à passer et les conseils à suivre pour réussir ? Sept entrepreneuses du digital témoignent."
+               "title": "Wenn Unternehmerinnen mit Klischees aufräumen"
+             , "text": "Was sind die hartnäckigsten Klischees im Bezug auf weiblichen Unternehmergeist? Wie steht es mit der Realität? Welche Hindernisse gilt es zu überwinden, und was ist das Erfolgsgeheimnis? Sieben Gründerinnen digitaler Unternehmen berichten."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Chef_d_entreprise_iwbqie.png"
-             , "link": ["Lire l’article", "https://www.chefdentreprise.com/Thematique/digital-innovation-1074/Breves/Quand-entrepreneuses-battent-cliches-breche-329974.htm#K4B0mT7BKaLeD8mW.97"]
+             , "link": ["Artikel lesen (in französischer Sprache)", "https://www.chefdentreprise.com/Thematique/digital-innovation-1074/Breves/Quand-entrepreneuses-battent-cliches-breche-329974.htm#K4B0mT7BKaLeD8mW.97"]
              , "date": "2018-04-19"
            }
 
          , {
-               "title": "Dix entrepreneures et startuppeuses à suivre en 2018"
-             , "text": "La 6e édition de la Journée de la femme digitale s’est tenue mardi 17 avril à la Maison de la Radio, à Paris. Madame Figaro, partenaire de l’événement, est allé à la rencontre de dix entrepreneures de demain."
+               "title": "Zehn spannende Unternehmerinnen und Start-up-Gründerinnen des Jahres 2018"
+             , "text": "Am 17. April fand im Pariser Radiohaus (Maison de la Radio) die 6. Auflage des Tages der digitalen Frau statt. Madame Figaro hat als Sponsor dieser Veranstaltung zehn Unternehmerinnen getroffen, denen die Zukunft gehört."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/MadameFigaro_rwggyh.png"
-             , "link": ["Lire l’article", "http://madame.lefigaro.fr/business/journee-de-la-femme-digitale-2018-jfd-portraits-entrepreneures-startuppeuses-180418-148280"]
+             , "link": ["Artikel lesen (in französischer Sprache)", "http://madame.lefigaro.fr/business/journee-de-la-femme-digitale-2018-jfd-portraits-entrepreneures-startuppeuses-180418-148280"]
              , "date": "2018-04-18"
            }
 
          , {
-               "title": "InMemori: Se recueillir. Commémorer. Se souvenir."
-             , "text": "InMemori est un service gratuit et sécurisé qui vous aide à commémorer le décès d’un être cher. Cette start-up fait partie de la sélection 100 start-up où investir en 2018 de Challenges."
+               "title": "InMemori: Vereinen. Gedenken. Erinnern."
+             , "text": "InMemori ist ein kostenloser und sicherer Service, der Sie beim Gedenken an einen nahestehenden Verstorbenen unterstützt. Dieses Start-up gehört zur Challenge-Auswahl „100 Start-ups zum investieren des Jahres 2018“."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Challenges_f8wtqr.png"
-             , "link": ["Lire l’article", "https://www.challenges.fr/start-up/inmemori-se-recueillir-commemorer-se-souvenir_577766"]
+             , "link": ["Artikel lesen (in französischer Sprache)", "https://www.challenges.fr/start-up/inmemori-se-recueillir-commemorer-se-souvenir_577766"]
              , "date": "2018-04-11"
            }
 
         , {
-               "title": "Qui sont les cinq start-up lauréates des 100 où investir de Challenges?"
-             , "text": "Ils étaient 100 au départ, il n’en reste plus que cinq. Biotraq, InMemori, Dartagnans, eLamp, Neurallys sont les cinq start-up finalistes de notre dossier Les 100 start-up dans lesquelles investir. A l’issue de la journée, c’est la start-up  InMemori qui a remporté le concours."
+               "title": "Wer sind die fünf preisgekrönten Start-ups des Wettbewerbs „100 où investir“ des Magazins Challenges?"
+             , "text": "Von den ursprünglichen 100 sind bloß noch fünf übrig. Biotraq, InMemori, Dartagnans, eLamp, Neurallys sind die fünf Start-ups, die es ins Finale unserer Serie ‘100 Start-ups zum Investieren’ geschafft haben. Am Ende des Tages gewann das Start-up-Unternehmen InMemori."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Challenges_f8wtqr.png"
-             , "link": ["Lire l’article", "https://www.challenges.fr/sommet-start-up/qui-sont-les-cinq-start-up-laureates-des-100-ou-investir-de-challenges_580128"]
+             , "link": ["Artikel lesen (in französischer Sprache)", "https://www.challenges.fr/sommet-start-up/qui-sont-les-cinq-start-up-laureates-des-100-ou-investir-de-challenges_580128"]
              , "date": "2018-04-11"
            }
         , {
-               "title": "InMemori, la startup qui associe deuil et digital"
-             , "text": "Le sujet est à la fois l’un des plus tabous et des plus universels qui soit. Grâce au digital, la startup InMemori, créée par la Bordelaise Clémentine Piazza, facilite l’échange d’informations entre les familles et les proches au moment d’un décès."
+               "title": "InMemori, das Start-up-Unternehmen, das Trauern und Digitales zusammenbringt"
+             , "text": "Das Thema ist sowohl eines der heikelsten als auch universalsten überhaupt. Dank des digitalen Elements erleichtert das von Clémentine Piazza aus Bordeaux gegründete Start-up InMemori den Informationsaustausch zwischen Familien und Bekanntenkreis nach einem Todesfall."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Latribune_sjtbui.png"
-             , "link": ["Lire l’article", "https://objectifaquitaine.latribune.fr/business/2018-04-05/inmemori-la-mort-lui-va-si-bien-774288.html"]
+             , "link": ["Artikel lesen (in französischer Sprache)", "https://objectifaquitaine.latribune.fr/business/2018-04-05/inmemori-la-mort-lui-va-si-bien-774288.html"]
              , "date": "2018-04-05"
            }
 
         , {
-               "title": "InMemori, la start-up française qui facilite le deuil"
-             , "text": "Se retrouver, rendre hommage, ça existe dans toutes les cultures sur terre."
-             , "logo": ""
-             , "link": ["Lire l’article", "https://frenchmorning.com/in-memori-start-up-francaise-daide-deuil-souvenir/"]
+               "title": "InMemori, das französische Start-up, das den Kummer mindert"
+             , "text": "Sich vereinen, gedenken, das haben alle Kulturen dieser Erde gemein."
+             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Fenchmorning_cqeif1.png"
+             , "link": ["Artikel lesen (in französischer Sprache)", "https://frenchmorning.com/in-memori-start-up-francaise-daide-deuil-souvenir/"]
              , "date": "2017-12-05"
            }
 
         , {
-               "title": "Le pitch start-up. InMemori, la start-up qui aide à organiser des funérailles"
-             , "text": "InMemori est une plateforme web qui met en relation les proches d’une personne décédée, au moment où celles-ci en ont le plus besoin."
-             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Fenchmorning_cqeif1.png"
-             , "link": ["Écouter l’interview", "https://www.francetvinfo.fr/replay-radio/le-pitch-start-up/le-pitch-start-up-inmemori-la-start-up-qui-aide-a-organiser-des-funerailles_2462084.html"]
+               "title": "Start-up Pitch. InMemori, das Start-up, das bei der Organisierung der Bestattung hilft"
+             , "text": "InMemori ist eine Online-Plattform, die Menschen, die dem Verstorbenen nahestanden, miteinander verbindet, genau in dem Moment, wo sie es am dringendsten brauchten."
+             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Franceinfo_sgjnyv.png"
+             , "link": ["Interview anhören (in französischer Sprache)", "https://www.francetvinfo.fr/replay-radio/le-pitch-start-up/le-pitch-start-up-inmemori-la-start-up-qui-aide-a-organiser-des-funerailles_2462084.html"]
              , "date": "2017-11-25"
            }
 
         , {
-               "title": "InMemori fait le pari du numérique pour accompagner les familles dans le deuil"
-             , "text": "La start-up InMemori, créée par Clémentine Piazza, accompagne ses utilisateurs lors de la perte d’un être cher. Lancée en juillet 2016, la plate-forme facilite le partage des informations relatives aux obsèques et met à disposition un espace souvenirs, en hommage au défunt et en soutien aux proches."
+               "title": "InMemori setzt auf das Digitale, um trauernden Familien beiseite zu stehen"
+             , "text": "Das von Clémentine Piazza gegründete Start-up InMemori steht den Nutzer beim Verlust eines nahestehenden Menschen bei. Die Plattform, die im Juli 2016 eingeführt wurde, erleichtert die Übermittlung von Informationen zur Bestattung und stellt eine Erinnerungsseite zu Ehren des verstorbenen Menschen und zum Trost der Angehörigen zur Verfügung."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Forbes_fjssi0.png"
-             , "link": ["Lire l’article", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/?cn-reloaded=1"]
+             , "link": ["Artikel lesen (in französischer Sprache)", "https://www.forbes.fr/femmes-at-forbes/in-memori-accompagne-familles-deuil/?cn-reloaded=1"]
              , "date": "2017-10-31"
            }
 
@@ -188,8 +188,8 @@
 
   , "team": {
 
-        "title": "Wer wir sind"
-      , "text": "InMemori steht für ein Team aus Menschen mit positiver Energie, seelischer Stärke und Enthusiasmus."
+        "title": "Team."
+      , "text": "Über uns\n\nEin verantwortungsbewusstes, engagiertes und hingebungsvolles Team."
 
       , "items": [
         { 
@@ -223,16 +223,6 @@
           , "site": ""
         },
         { 
-            "name": "Quentin Chesnais"
-          , "role": "Leiter der Geschäftsentwicklung"
-          , "bio": ""
-          , "intro": ""
-          , "pic": "team.quentin"
-          , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
-          , "twitter": ""
-          , "site": ""
-        },
-        { 
             "name": "Louis Grellet"
           , "role": "CTO"
           , "bio": "Es ist ein Lebensabschnitt, wo die Digitalisierung noch nicht greift, und eine technische Herausforderung, die ich meistern möchte."
@@ -247,7 +237,7 @@
     }
 
   , "testimonials": {
-        "title": "Témoignages."
+        "title": "Erlebnisberichte."
       , "items": [
             ["Sensibilité", "InMemori place la délicatesse et la compréhension des familles et des proches au coeur de son action."]
           , ["Intimité", "InMemori offre un espace privé qui protège les mots, les hommages et les souvenirs de chacun."]
@@ -256,9 +246,9 @@
     }
 
   , "partners": {
-        "title": "Ambassadeurs"
-      , "a-text": "Ils offrent InMemori aux familles."
-      , "b-text": "Ils soutiennent InMemori."
+        "title": "Botschafter."
+      , "a-text": "Sie bieten den Familien InMemori an."
+      , "b-text": "Sie unterstützen InMemori."
       , "a": [
             {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Allianz_tctwwz.png"

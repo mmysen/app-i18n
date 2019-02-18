@@ -4,14 +4,14 @@
   , "links": {
         "home": "Accueil"
       , "about": "Über uns"
-      , "team": "Team"
-      , "press": "Presse"
+      , "team": "TEAM"
+      , "press": "PRESSE"
       , "contact": "Kontakt"
       , "example": "Beispiel ansehen"
-      , "signup": "Eine Seite einrichten"
-      , "partners": "Ambassadeurs"
-      , "testimonials": "Témoignages"
-      , "talk": "En parler"
+      , "signup": "Seite erstellen"
+      , "partners": "BOTSCHAFTER"
+      , "testimonials": "WÜRDIGUNGEN"
+      , "talk": "WEITERSAGEN"
     }
 
   , "welcome": {
@@ -84,7 +84,7 @@
       , "cta-v0": "Eine Seite einrichten"
       , "cta-v1": "Eine Seite einrichten"
       , "lookup-text": "Suchen Sie eine bereits existierende Seite?"
-      , "lookup-tooltip": "Bitten Sie Angehörige oder Freunde um den Link der Seite."
+      , "lookup-tooltip": "Bitten Sie Verwandte oder Bekannte um den Link der Seite."
     }
 
   , "places": {
@@ -107,47 +107,47 @@
 
   , "home": {
         "why": {
-            "title": "Pourquoi créer un espace InMemori."
-          , "text": "InMemori est un service gratuit qui vous aide à rassembler votre entourage et à recevoir leurs messages de condoléances, leurs sourvenirs et leurs photos."
+            "title": "Wozu eine InMemori-Gedenkseite einrichten."
+          , "text": "InMemori ist ein kostenloser Service, der Sie dabei unterstützt, Ihren Bekanntenkreis schnell zu vereinen und Beileidsbekundungen, Erinnerungen und Fotos zu empfangen."
           , "points": {
                 "1": {
-                    "title": "Rassembler."
-                  , "text": "Depuis un espace en ligne privé et gratuit, vous pouvez faire part du décès de votre proche et transmettre rapidement par email ou par sms les informations sur les obsèques à tout votre entourage."
+                    "title": "Vereinen."
+                  , "text": "Anhand einer privaten und kostenlosen Internetseite können Sie den Tod Ihres Angehörigen mitteilen und rasch per E-Mail oder SMS Ihrem gesamten Bekanntenkreis Informationen über die Bestattung zukommen lassen."
                 }
               , "2": {
-                    "title": "Rendre hommage."
-                  , "text": "Chaque personne à qui vous envoyez le lien de l'espace peut y déposer un message de condoléances, un souvenir ou une photo."
+                    "title": "Gedenken."
+                  , "text": "Jeder, der von Ihnen den Link der Gedenkseite erhält, kann dort eine Beileidsbekundung, eine Erinnerung oder ein Foto veröffentlichen."
                 }
               , "3": {
-                    "title": "Se souvenir."
-                  , "text": "Recevez chez vous un beau-livre rassemblant l'ensemble des mots et des photos partagés sur l'espace en hommage à votre proche."
+                    "title": "Erinnern."
+                  , "text": "Lassen Sie sich einen schönen Würdigungsband zusenden, der alle Nachrichten und Fotos der Gedenkseite zu Ehren Ihres Angehörigen enthält."
                 }
           }
         }
 
       , "video": {
-            "title": "Comment çà marche ?"
+            "title": "Und so funktioniert es."
         }
 
       , "book": {
-            "title": "Gardez une trace."
-          , "text": "Grâce à InMemori, vous pouvez rassembler l'enssemble des messages et photos déposés sur votre espace dans un ”beau livre“ de souvenir. Façonné par un artisan imprimeur, situé dans le sud de la France, sa mise en page est réalisé par les équipes d'InMemori, vous soulageant ainsi durant cette épreuve."
+            "title": "Eine Spur hinterlassen."
+          , "text": "Dank InMemori können Sie alle Nachrichten, Erinnerungen und Fotos der Gedenkseite zu Ehren Ihres Angehörigen in einem schönen Erinnerungsband vereinen.\n Dieser wird von einer handwerklichen Druckerei in Südfrankreich gestaltet, wobei InMemori das Layout übernimmt, um Sie in diesen schwierigen Zeiten zu entlasten."
         }
 
       , "farewell": {
-            "title": "Rendez hommage à chaque vie.."
+            "title": "Eine Hommage an das Leben."
           , "points": {
                 "1": {
-                    "title": "Dignité."
-                  , "text": "InMemori offre aux famille un espace élégant et sobre, sans likes ni publicité."
+                    "title": "Würde."
+                  , "text": "InMemori bietet den Familien eine elegante und schlichte Seite, ohne «Likes» oder Werbung."
                 }
               , "2": {
-                    "title": "Intimité."
-                  , "text": "Les espaces d'hommages sont privés et n'apparaissent jamais dans les resultats des moteurs de recherche."
+                    "title": "Privatsphäre."
+                  , "text": "Die Gedenkseiten sind privat und erscheinen nie in den Suchergebnissen der Suchmaschinen."
                 }
               , "3": {
-                    "title": "Universalité."
-                  , "text": "InMemori est gratuit et s'adresse à tous les ages, cultures et croyances."
+                    "title": "Universalität."
+                  , "text": "InMemori ist kostenfrei und wendet sich an alle Altersgruppen, Kulturen und Glaubensrichtungen."
                 }
           }
         }
@@ -193,9 +193,9 @@
             }
         }
       , "testimonial": {
-            "title": "Erfahrungsberichte"
+            "title": "Erlebnisberichte."
           , "text": ""
-          , "more": "Voir tous les témoignages"
+          , "more": "Alle Erlebnisberichte ansehen"
           , "one": {
                 "from": "Thomas Müller"
               , "text": "Dank InMemori konnten wir alle Betroffenen innerhalb nur einer Stunde über die Bestattung informieren."
