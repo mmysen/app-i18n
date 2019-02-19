@@ -28,8 +28,8 @@
     }
 
   , "press": {
-        "title": "Press"
-      , "title2": "Latest releases"
+        "title": "Press."
+      , "title2": ""
       , "text": "We invite journalists to contact InMemori's PR team for all interview and information requests.\n\nMedia contact: <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
       , "items": [
            {
@@ -129,7 +129,7 @@
         , {
                "title": "InMemori, la start-up française qui facilite le deuil"
              , "text": "Se retrouver, rendre hommage, ça existe dans toutes les cultures sur terre."
-             , "logo": ""
+             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Fenchmorning_cqeif1.png"
              , "link": ["Read article (in French)", "https://frenchmorning.com/in-memori-start-up-francaise-daide-deuil-souvenir/"]
              , "date": "2017-12-05"
            }
@@ -137,7 +137,7 @@
         , {
                "title": "Le pitch start-up. InMemori, la start-up qui aide à organiser des funérailles"
              , "text": "InMemori est une plateforme web qui met en relation les proches d’une personne décédée, au moment où celles-ci en ont le plus besoin."
-             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Fenchmorning_cqeif1.png"
+             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967282/Franceinfo_sgjnyv.png"
              , "link": ["Listen to interview (in French)", "https://www.francetvinfo.fr/replay-radio/le-pitch-start-up/le-pitch-start-up-inmemori-la-start-up-qui-aide-a-organiser-des-funerailles_2462084.html"]
              , "date": "2017-11-25"
            }
@@ -155,10 +155,10 @@
 
   , "talk": {
         "title": "Support a loved one."
-      , "text": "Find the right words.\n\n Here is a suggestion to introduce InMemori so that you can easily talk to your loved one:\n\n “InMemori is an intimate and free online service. It allows you to inform your close ones about the passing of your loved one and to easily share the details about funeral services. Family, friends and close ones can share on the space a message of condolences, a memory or a photo.\n You can then, if you wish, receive a beautiful book gathering all the words and photos and keep a trace of the tribute.”"
-      , "title2": "Go further."
-      , "text2": "To help best your loved one, we invite you to create the InMemori space yourself. This will help the family understand the service and save valuable time.\n Each space is safe and intimate. The family is the one who decides to use InMemori and share the space in fine.\n\n To do so, you can send the link of the space and attach this explanatory text:\n\n “InMemori (www.inmemori.com) is an intimate and free online service. It allows you to inform your close ones about the passing of your loved one and to easily share the details about funeral services. \n\n Only the close ones to whom you will send the secure link of the space will be able to have access to it. They can share on the space a message of condolences, a memory or a photo.\n\n You can then, if you wish, receive a beautiful book gathering all the words and photos and thus keep a trace of the tribute.\n\n The space is customizable, you can choose the photo and write the announcement with your own words. InMemori teams are very responsive, do not hesitate to call them if you have any questions.\n\n Families who have used the service speak of the comfort that it has brought them, you can read their testimonials on the following link:\n www.inmemori.com/testimonials”"
-      , "cta-video": ""
+      , "subtitle": "Find the right words."
+      , "text": "Here is a suggestion to introduce InMemori so that you can easily talk to your loved one:\n\n InMemori is an intimate and free online service. It allows you to inform your close ones about the passing of your loved one and to easily share the details about funeral services. Family, friends and close ones can share on the space a message of condolences, a memory or a photo.\n You can then, if you wish, receive a beautiful book gathering all the words and photos and keep a trace of the tribute."
+      , "subtitle2": "Go further."
+      , "text2": "To help best your loved one, we invite you to create the InMemori space yourself. This will help the family understand the service and save valuable time.\n Each space is safe and intimate. The family is the one who decides to use InMemori and share the space in fine.\n\n To do so, you can send the link of the space and attach this explanatory text:\n\n InMemori (<a href='www.inmemori.com'>www.inmemori.com</a>) is an intimate and free online service. It allows you to inform your close ones about the passing of your loved one and to easily share the details about funeral services. \n\n Only the close ones to whom you will send the secure link of the space will be able to have access to it. They can share on the space a message of condolences, a memory or a photo.\n\n You can then, if you wish, receive a beautiful book gathering all the words and photos and thus keep a trace of the tribute.\n\n The space is customizable, you can choose the photo and write the announcement with your own words. InMemori teams are very responsive, do not hesitate to call them if you have any questions.\n\n Families who have used the service speak of the comfort that it has brought them, you can read their testimonials on the following link:\n <a href='www.inmemori.com/testimonials'>www.inmemori.com/testimonials</a>"
     }
 
 
@@ -316,39 +316,52 @@
         "title": "They stand by us."
       , "a-text": "They offer InMemori to families."
       , "b-text": "They support InMemori."
-      , "a": [
+       , "a": [
             {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Allianz_tctwwz.png"
-              , "website": "https://www.allianz.fr/prevoyance-dependance/assurance-obseques/"
+              , "website": ""
             }
           , {
-                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Malakoff_Me%CC%81de%CC%81ric_giprtw.png"
-              , "website": "http://www.malakoffmederic.com/particuliers/prevoyance/solutions-prevoyance/garantie-obseques/index.jsp#"
+               "image": "https://res.cloudinary.com/inmemori/image/upload/v1550501667/Gan_Pre%CC%81voyance_ulczjf.png"
+             , "website": ""
+            }
+           , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Figaro_aysmru.png"
+             , "website": "http://www.lefigaro.fr/carnet-du-jour/2019/01/09/12001-20190109ARTFIG00137-inmemori-un-service-d-hommage-offert-par-le-carnet-du-jour.php?redirect_premium"
+            }
+           , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/SCF_jrpx8t.png"
+             , "website": "http://s-c-f.org/services/prestations/faire-part-numeriques"
             }
           , {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Aviva_ctn8q3.png"
               , "website": "https://www.aviva.fr/particulier/assurance/assurance-obseques/beneficiaires/#hommage"
             }
           , {
-                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Cre%CC%81dit_Agricole_jxt21s.png"
-              , "website": "https://www.credit-agricole.fr/particulier/assurances/prevoyance/assurance-obseques.html"
+                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Malakoff_Me%CC%81de%CC%81ric_giprtw.png"
+              , "website": ""
             }
-          , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Figaro_aysmru.png"
-             , "website": "http://www.lefigaro.fr/carnet-du-jour/2019/01/09/12001-20190109ARTFIG00137-inmemori-un-service-d-hommage-offert-par-le-carnet-du-jour.php?redirect_premium"
-            }
-          , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Autre_Rive_chgpkx.png"
-             , "website": "https://www.autrerive.fr/"
-            }
-          , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/SCF_jrpx8t.png"
-             , "website": "http://s-c-f.org/services/prestations/faire-part-numeriques"
-            }
-          , {
+           , {
                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/A_G_hd9pql.png"
-             , "website": "http://www.ag-group.be/content/fr/"
+             , "website": ""
             }
+           , {
+               "image": ""
+             , "website": ""
+            }
+          , {
+                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Cre%CC%81dit_Agricole_jxt21s.png"
+              , "website": ""
+            }
+          , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/v1550501667/Pre%CC%81voir_c35cta.png"
+             , "website": ""
+            }
+           , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Autre_Rive_chgpkx.png"
+             , "website": ""
+            }
+          
         ]
       , "b": [
             {
