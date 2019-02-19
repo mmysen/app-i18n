@@ -155,10 +155,10 @@
 
   , "talk": {
         "title": "Ayuda a un ser cercano."
-      , "text": "La mission d’InMemori est d’apporter du réconfort à chaque famille qui traverse un deuil en l’aidant à rassembler son entourage et à rendre hommage au proche disparu. \n\nDans les quelques jours qui précèdent les obsèques, les familles sont dans l’urgence et n’ont ni le temps, ni la disponibilité de faire les recherches sur internet pour nous trouver. Aussi, si un ami, un parent ou un collègue fait face à la perte d’un proche, n’hésitez pas à lui parler d’InMemori."
-      , "title2": "Trouver les mots."
-      , "text2": "InMemori met à disposition des familles qui viennent de perdre un proche un espace en ligne privé et gratuit qui permet de faire part du décès à leur entourage et de leur transmettre les informations sur les obsèques. Invités sur l’espace grâce à un lien sécurisé, ces derniers peuvent y déposer un message de condoléances, un souvenir ou une photo. "
-      , "cta-video": "Lien de la vidéo"
+      , "subtitle": "Encuentra las palabras."
+      , "text": "Aquí hay una sugerencia para presentar InMemori a sus conocidos: \n\n InMemori es un espacio en línea gratuito y privado. Le permite compartir la noticia del fallecimiento de su ser querido con todos los que lo rodean y transmitir rápidamente la información sobre el funeral. Los familiares, amigos y familiares también pueden compartir un mensaje de condolencia, un recuerdo o una foto en el espacio \nLuego, si lo desea, puede recibir un hermoso libro que reúne todos estos mensajes y le permitirá mantener un rastro en su casa."
+      , "subtitle2": "Ir más lejos."
+      , "text2": "Para ayudarte mejor, te invitamos a crear el espacio tú mismo. Esto ayudará a la familia a entender el servicio y ahorrar tiempo valioso.\n Cada espacio es privado y seguro. Así que será la familia la que decide usar InMemori y compartir el espacio.\n\n Para esto, puede enviar el enlace del espacio y adjuntar esta explicación: \n\n“InMemori (<a href='www.inmemori.com'>www.inmemori.com</a>) es un espacio en línea privado y gratuito. Le permite compartir el fallecimiento con todos los que lo rodean y transmitir rápidamente la información sobre el funeral.\n\nSolo los parientes a quienes les enviará el enlace seguro del espacio podrán tener acceso a él. También podrán publicar un mensaje de condolencia, un recuerdo o una foto. \n\n Luego, si lo desea, puede recibir un hermoso libro que reúne todos estos mensajes y le permitirá mantener un rastro en su casa.\n\n El espacio es personalizable, puede elegir la foto y escribir el anuncio con sus palabras. Los equipos de InMemori son muy receptivos, no dude en llamarlos si tiene alguna pregunta.\n\n Las familias que han utilizado el servicio hablan de la comodidad y apoyo que les ha brindado, puede leer sus testimonios en el siguiente enlace: \n <a href='www.inmemori.com/testimonials'>www.inmemori.com/testimonials</a>"
     }
 
 
@@ -188,8 +188,8 @@
 
   , "team": {
 
-        "title": "Quiénes somos?"
-      , "text": "Une equipo que reúne bellas energías, fuerza profunda y entusiasmo al servicio de InMemori."
+        "title": "Equipo"
+      , "text": "Un equipo responsable, comprometido y motivado por la misión de InMemori."
 
       , "items": [
         { 
@@ -223,16 +223,6 @@
           , "site": ""
         },
         { 
-            "name": "Quentin Chesnais"
-          , "role": "Director del desarrollo comercial"
-          , "bio": "Se dice que morimos dos veces: La primera, cuando damos nuestro último suspiro y la segunda, cuando alguien dice nuestro nombre por última vez. A través de InMemori puedo ayudar a garantizar que los nombres, los recuerdos y las historias de las personas perduren."
-          , "intro": "Se dice que morimos dos veces: La primera, cuando damos nuestro último suspiro y la segunda, cuando alguien dice nuestro nombre por última vez. A través de InMemori puedo ayudar a garantizar que los nombres, los recuerdos y las historias de las personas perduren."
-          , "pic": "team.quentin"
-          , "linkedin": "https://www.linkedin.com/in/eva-kerner/"
-          , "twitter": ""
-          , "site": ""
-        },
-        { 
             "name": "Louis Grellet"
           , "role": "Director de tecnología"
           , "bio": "El duelo es un momento en la vida en donde la tecnología está ausente. Me gustaría cambiarlo."
@@ -247,7 +237,7 @@
     }
 
   , "testimonials": {
-        "title": "Témoignages."
+        "title": "Testimonios."
       , "items": [
             ["Y. P.", "Tout le monde a apprécié cette manière de lui rendre hommage car dans des moments pareils l'une des clés pour adoucir les émotions est de faire “bloc”.  Ainsi, rassembler les messages et les photos souvenirs, à travers votre service, allège ce moment. Le fait que tous ses proches (famille, amis, collègues...) puissent accéder aux autres messages est réconfortant car chacun peut se rendre compte que les hommages se distinguent. Soit par le fond, soit par la forme. Chacun a son souvenir propre. De cette manière nous pouvons compiler ce qu'il faut retenir et transmettre de l'être cher.\nVotre service apaise la douleur de cette perte. Merci donc !"]
           , ["C. M.-T.", "Je tiens à apporter mon témoignage et mes très sincères remerciements et félicitations à l’équipe qui a fondé et gère le site InMemori. \n\n À l occasion du décès brutal de mon époux, le site InMemori m’a été d’une très grande aide : \n - Sur le format numérique par la diffusion par mail à tous d un simple lien et une gestion facile du site.  \n - Sur le plan logistique, des informations pratiques très bien structurées pour les obsèques. \n - Sur le plan affectif, la possibilité offerte à toutes les personnes touchées par ce deuil d’exprimer et partager leur témoignage par écrit ou photos. \n - Sur la possibilité de créer plusieurs pages pour dissocier la sphère familiale / amicale de celle professionnelle. \n - Sur la disponibilité et l’accompagnement de l équipe InMemori. \n\n Je lis et relis avec émotion la centaine de témoignages déposés sur le site pour S., qui sont autant de souvenirs de tranches de vie que des marques d’affections et de soutien, qui font du bien à tous, famille et amis et à conserver précieusement. \n\n Sincères salutations."]
@@ -323,9 +313,9 @@
     }
 
   , "partners": {
-        "title": "Ambassadeurs"
-      , "a-text": "Ils offrent InMemori aux familles."
-      , "b-text": "Ils soutiennent InMemori."
+        "title": "Se comprometen con nosotros."
+      , "a-text": "Ofrecen InMemori a las familias."
+      , "b-text": "Apoyan a InMemori."
       , "a": [
             {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Allianz_tctwwz.png"
