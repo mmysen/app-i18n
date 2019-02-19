@@ -139,12 +139,12 @@
             "title": "Honor each life."
           , "points": {
                 "1": {
-                    "title": "Dignity."
-                  , "text": "InMemori offers families an elegant and sober space, void of “likes” and advertising."
-                }
-              , "2": {
                     "title": "Intimacy."
                   , "text": "InMemori spaces are private and never appear in search engine results."
+                }
+              , "2": {
+                    "title": "Dignity."
+                  , "text": "InMemori offers families an elegant and sober space, void of “likes” and advertising."
                 }
               , "3": {
                     "title": "Universality."
