@@ -2,35 +2,35 @@
   "faq": [
 
     {
-      "section": "CRÉER UNE PAGE SUR INMEMORI",
+      "section": "CRÉER UN ESPACE SUR INMEMORI",
       "qa": [
         {
           "q": "InMemori ?",
-          "r": "Pour découvrir la mission d’InMemori et nos valeurs, consultez la rubrique <a href='/about'>À propos</a>."
+          "r": "Pour mieux comprendre InMemori, consultez notre <a href='https://www.youtube.com/watch?v=Q4H6PvFtNsk&t=4s'>film de présentation</a>."
         },
         {
-          "q": "À quoi sert une page InMemori ?",
-          "r": "Grâce au service InMemori, vous disposez d'une page privée qui vous permet de : \n- transmettre rapidement les informations sur les obsèques à chacune des personnes concernées,\n- recevoir les messages de soutien, les souvenirs et les photos de vos proches sur un espace dédié,\n- organiser une collecte de dons en sa mémoire, si vous le souhaitez.\n\n Vous pourrez également commander le livre rassemblant tous les hommages partagés sur la page InMemori."
+          "q": "À quoi sert un espace InMemori ?",
+          "r": "Grâce au service InMemori, vous disposez d'un espace privé qui vous permet de : \n- transmettre rapidement les informations sur les obsèques à chacune des personnes concernées,\n- recevoir les messages de condoléances, les souvenirs et les photos de vos proches sur un espace dédié,\n- organiser une collecte de dons en sa mémoire, si vous le souhaitez.\n\n Vous pourrez également commander le livre rassemblant tous les hommages partagés sur la page InMemori."
         },
         {
-          "q": "Comment créer une page InMemori ?",
+          "q": "Comment créer un espace InMemori ?",
           "r": "Renseignez simplement les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/signup'>ici</a>.\nIl vous suffit de 5 minutes pour personnaliser la page et la partager avec votre entourage.\n\nUne fois la page finalisée, vous aurez accès à votre espace de gestion, depuis lequel vous pourrez :\n- suivre l’activité de la page (nombre de vues, nombre d’hommages),\n- organiser une collecte de dons, si vous le souhaitez,\n- commander le livre rassemblant tous les hommages partagés,\n- remercier vos proches."
         },
         {
-          "q": "Qui peut créer une page InMemori ?",
-          "r": "Tout le monde peut créer une page.\nSi vous êtes un parent ou un ami ? Cela soulage les familles quand une personne de leur entourage les aide à mettre en place le service. Elles vous en seront très reconnaissantes.\nSi vous êtes un collègue ? Accompagner le deuil en entreprise est un sujet essentiel. En créant une page InMemori, vous permettrez à chacun de trouver sa place et de pouvoir s’exprimer.\nIl vous suffit de renseigner les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/signup'>ici</a>."
+          "q": "Qui peut créer un espace InMemori ?",
+          "r": "Tout le monde peut créer un espace.\nSi vous êtes un parent ou un ami ? Cela soulage les familles quand une personne de leur entourage les aide à mettre en place le service. Elles vous en seront très reconnaissantes.\nSi vous êtes un collègue ? Accompagner le deuil en entreprise est un sujet essentiel. En créant un espace InMemori, vous permettrez à chacun de trouver sa place et de pouvoir s’exprimer.\nIl vous suffit de renseigner les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/signup'>ici</a>."
         },
         {
-          "q": "Comment inviter mes proches à consulter cette page ?",
-          "r": "Très simplement. Il vous suffit de partager la page par sms et/ou par email, en utilisant la fonction « Partager la page » qui se trouve dans votre espace de gestion si vous êtes l’administrateur et/ou en bas de la page si vous avez reçu son lien.\nVous pouvez aussi copier le lien et le coller sur les canaux de communication de votre choix (réseaux sociaux, WhatsApp, faire-part papier…)."
+          "q": "Comment inviter mes proches à consulter cet espace ?",
+          "r": "Très simplement. Il vous suffit de partager l'espace par SMS et/ou par email, en utilisant la fonction « Envoyer le lien » qui se trouve dans votre espace de gestion si vous êtes l’administrateur et/ou en bas de l'espace si vous avez reçu son lien.\nVous pouvez aussi copier le lien et le coller sur les canaux de communication de votre choix (réseaux sociaux, WhatsApp, faire-part papier, livret de cérémonie…)."
         },
         {
-          "q": "Qui peut voir la page InMemori ?",
-          "r": "Seules les personnes qui reçoivent le lien y ont accès.\nChaque page InMemori est privée : elle n’apparaîtra jamais dans les résultats des moteurs de recherche, comme Google par exemple."
+          "q": "Qui peut voir l'espace InMemori ?",
+          "r": "Seules les personnes qui reçoivent le lien y ont accès.\nChaque espace InMemori est privé : il n’apparaîtra jamais dans les résultats des moteurs de recherche, comme Google par exemple."
         },
         {
-          "q": "Puis-je créer une page InMemori si je n’ai pas encore toutes les informations ?",
-          "r": "Oui, seules quelques informations sont essentielles.\nIl vous suffit ainsi de renseigner les prénom et nom de votre proche et votre adresse email pour créer la page InMemori. Vous pourrez ensuite à tout moment vous rendre sur votre espace de gestion pour la compléter et la partager."
+          "q": "Puis-je créer un espace InMemori si je n’ai pas encore toutes les informations ?",
+          "r": "Oui, seules quelques informations sont essentielles.\nIl vous suffit ainsi de renseigner les prénom et nom de votre proche et votre adresse email pour créer l'espace InMemori. Vous pourrez ensuite à tout moment vous rendre sur votre espace de gestion pour le compléter et le partager."
         },
         {
           "q": "Combien coûte le service InMemori ?",
@@ -39,40 +39,40 @@
       ]
     },
     {
-      "section": "GÉRER UNE PAGE INMEMORI",
+      "section": "GÉRER UN ESPACE INMEMORI",
       "qa": [
         {
-          "q": "Comment gérer la page InMemori ?",
-          "r": "Si vous êtes administrateur, vous avez reçu par email et par sms un lien qui vous redirige vers un espace de gestion.\nDepuis cet espace, vous pouvez personnaliser et compléter la page :\n- en ajoutant une photo,\n- en personnalisant le faire-part,\n- en renseignant ou en modifiant les informations sur les obsèques,\n- en activant une collecte de dons pour soutenir une association de votre choix.\nUne fois la page finalisée, vous n’aurez plus qu’à la partager facilement avec toutes les personnes concernées.\nVous pouvez aussi ajouter d’autres administrateurs, vous leur donnerez ainsi accès à cet espace de gestion."
+          "q": "Comment gérer l'espace InMemori ?",
+          "r": "Si vous êtes administrateur, vous avez reçu par email et par SMS un lien qui vous redirige vers un espace de gestion.\nDepuis cet espace, vous pouvez personnaliser et compléter l'espace d'hommage :\n- en ajoutant une photo,\n- en personnalisant le faire-part,\n- en renseignant ou en modifiant les informations sur les obsèques,\n- en activant une collecte de dons pour soutenir une association de votre choix.\nUne fois l'espace finalisé, vous n’aurez plus qu’à le partager facilement avec toutes les personnes concernées.\nVous pouvez aussi ajouter d’autres administrateurs, vous leur donnerez ainsi accès à cet espace de gestion."
         },
         {
-          "q": "Que faire si des messages ou des photos postés sur la page InMemori ne sont pas appropriés ?",
-          "r": "Si vous êtes administrateur de la page, vous pouvez à tout moment supprimer un message ou une photo depuis votre espace de gestion, dans la rubrique « Remerciements »."
+          "q": "Que faire si des messages ou des photos postés sur l'espace InMemori ne sont pas appropriés ?",
+          "r": "Si vous êtes administrateur de l'espace, vous pouvez à tout moment supprimer un message ou une photo depuis votre espace de gestion, dans la rubrique « Remerciements »."
         },
         {
-          "q": "Puis-je supprimer une page InMemori ?",
-          "r": "Si vous êtes administrateur de la page, il vous est possible de la supprimer au moment de votre choix.\nSachez que vous pouvez garder une trace de tous les hommages partagés par vos proches en commandant le livre InMemori."
+          "q": "Puis-je supprimer un espace InMemori ?",
+          "r": "Si vous êtes administrateur de l'espace, il vous est possible de le supprimer au moment de votre choix.\nSachez que vous pouvez garder une trace de tous les hommages partagés par vos proches en commandant le livre InMemori."
         },
         {
-          "q": "Que devient la page InMemori avec le temps ?",
-          "r": "Il existe deux possibilités :\n- vous pouvez maintenir la page en ligne aussi longtemps que vous le souhaitez pour permettre à tous vos proches d’y retourner et de relire les hommages,\n- vous pouvez la supprimer au moment de votre choix.\nLe temps du deuil est personnel, c’est pour cela que cette décision appartient aux administrateurs de la page."
+          "q": "Que devient l'espace InMemori avec le temps ?",
+          "r": "Il existe deux possibilités :\n- vous pouvez maintenir l'espace en ligne aussi longtemps que vous le souhaitez pour permettre à tous vos proches d’y retourner et de relire les hommages,\n- vous pouvez le supprimer au moment de votre choix.\nLe temps du deuil est personnel, c’est pour cela que cette décision appartient aux administrateurs de l'espace."
         },
         {
-          "q": "Est-il possible de garder une trace de tous les hommages si je décide de supprimer la page ?",
-          "r": "Vous pouvez commander un livre rassemblant l’ensemble des hommages partagés sur la page InMemori. Sa mise en page est réalisée par les équipes d’InMemori, vous évitant ainsi de nombreuses heures de travail et vous soulageant devant cette épreuve. \nInMemori a décidé de travailler avec un artisan imprimeur, convaincu par la mission d’InMemori, qui œuvre à vous offrir le plus beau des objets.\n Le coût de ce livre dépend du nombre de messages et de photos partagés."
+          "q": "Est-il possible de garder une trace de tous les hommages si je décide de supprimer l'espace ?",
+          "r": "Vous pouvez commander un livre rassemblant l’ensemble des hommages partagés sur l'espace InMemori. Sa mise en page est réalisée par les équipes d’InMemori, vous évitant ainsi de nombreuses heures de travail et vous soulageant devant cette épreuve. \nInMemori a décidé de travailler avec un artisan imprimeur, convaincu par la mission d’InMemori, qui œuvre à vous offrir le plus beau des objets.\n Le coût de ce livre dépend du nombre de messages et de photos partagés."
         }
       ]
     },
     {
-      "section": "PARTICIPER À UNE PAGE INMEMORI",
+      "section": "PARTICIPER À UN ESPACE INMEMORI",
       "qa": [
         {
-          "q": "Comment retrouver la page InMemori d’un proche décédé ?",
-          "r": "L’intimité des familles est au cœur de l’engagement d’InMemori, c’est pour cela que les pages sont privées. Seules les personnes qui reçoivent le lien y ont accès.\nSi vous apprenez qu’une page InMemori a été créée pour un proche, n’hésitez pas à contacter la famille ou des amis afin qu’ils vous communiquent son lien pour que vous puissiez y accéder."
+          "q": "Comment retrouver l'espace InMemori d’un proche décédé ?",
+          "r": "L’intimité des familles est au cœur de l’engagement d’InMemori, c’est pour cela que les espaces sont privés. Seules les personnes qui reçoivent le lien y ont accès.\nSi vous apprenez qu’un espace InMemori a été créé pour un proche, n’hésitez pas à contacter la famille ou des amis afin qu’ils vous communiquent son lien pour que vous puissiez y accéder."
         },
 
         {
-          "q": "Puis-je poster plusieurs photos sur une page InMemori ?",
+          "q": "Puis-je poster plusieurs photos sur un espace InMemori ?",
           "r": "Oui, très facilement.\nIl vous suffit de cliquer sur le bouton “Écrire un message” et de choisir l’action “Photos”. Vous pouvez alors ajouter autant de photos que vous le souhaitez.\nVous pouvez aussi joindre plusieurs photos à la fin d’un message de condoléances ou d’un souvenir afin d’enrichir votre hommage."
         },
         {
@@ -119,7 +119,7 @@
       "qa": [
         {
           "q": "Comment contacter l'équipe InMemori ?",
-          "r": "Il vous suffit de contacter Constance et notre équipe, qui assistent les familles et les proches au quotidien : \n- par email : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \n- par téléphone, tous les jours de la semaine et à tout moment, au numéro renseigné sur l’email envoyé par InMemori. \n <em>(Valable si vous êtes administrateur d’une page ou si vous avez déjà participé à une page InMemori)</em>.\n\nVotre sérénité est au cœur de notre engagement et nous sommes mobilisés pour vous répondre en moins de 24h."
+          "r": "Il vous suffit de contacter Constance et notre équipe, qui assistent les familles et les proches au quotidien : \n- par email : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a> \n- par téléphone, tous les jours de la semaine et à tout moment, au numéro renseigné sur l’email envoyé par InMemori. \n <em>(Valable si vous êtes administrateur d’un espace ou si vous avez déjà participé à un espace InMemori)</em>.\n\nVotre sérénité est au cœur de notre engagement et nous sommes mobilisés pour vous répondre en moins de 24h."
         },
         {
           "q": "Comment nous aider ?",
