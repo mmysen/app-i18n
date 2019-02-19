@@ -10,11 +10,11 @@
         },
         {
           "q": "À quoi sert un espace InMemori ?",
-          "r": "Grâce au service InMemori, vous disposez d'un espace privé qui vous permet de : \n- transmettre rapidement les informations sur les obsèques à chacune des personnes concernées,\n- recevoir les messages de condoléances, les souvenirs et les photos de vos proches sur un espace dédié,\n- organiser une collecte de dons en sa mémoire, si vous le souhaitez.\n\n Vous pourrez également commander le livre rassemblant tous les hommages partagés sur la page InMemori."
+          "r": "Grâce au service InMemori, vous disposez d'un espace privé qui vous permet de : \n- transmettre rapidement les informations sur les obsèques à chacune des personnes concernées,\n- recevoir les messages de condoléances, les souvenirs et les photos de vos proches sur un espace dédié,\n- organiser une collecte de dons en sa mémoire, si vous le souhaitez.\n\n Vous pourrez également commander le livre rassemblant tous les hommages partagés sur l'espace InMemori."
         },
         {
           "q": "Comment créer un espace InMemori ?",
-          "r": "Renseignez simplement les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/signup'>ici</a>.\nIl vous suffit de 5 minutes pour personnaliser la page et la partager avec votre entourage.\n\nUne fois la page finalisée, vous aurez accès à votre espace de gestion, depuis lequel vous pourrez :\n- suivre l’activité de la page (nombre de vues, nombre d’hommages),\n- organiser une collecte de dons, si vous le souhaitez,\n- commander le livre rassemblant tous les hommages partagés,\n- remercier vos proches."
+          "r": "Renseignez simplement les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/signup'>ici</a>.\nIl vous suffit de 5 minutes pour personnaliser l'espace et la partager avec votre entourage.\n\nUne fois l'espace d'hommage finalisé, vous aurez accès à votre espace de gestion, depuis lequel vous pourrez :\n- suivre l’activité de l'espace d'hommage (nombre de vues, nombre d’hommages),\n- organiser une collecte de dons, si vous le souhaitez,\n- commander le livre rassemblant tous les hommages partagés,\n- remercier vos proches."
         },
         {
           "q": "Qui peut créer un espace InMemori ?",
