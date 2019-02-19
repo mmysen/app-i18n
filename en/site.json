@@ -108,11 +108,11 @@
   , "home": {
         "why": {
             "title": "Why create an InMemori space."
-          , "text": "InMemori is a free service that helps you gather your relatives and receive their messages of condolences, memories and photos."
+          , "text": "InMemori is a free service that helps you gather your close ones and receive their messages of condolences, memories and photos."
           , "points": {
                 "1": {
                     "title": "Gather."
-                  , "text": "From an intimate and free online space, you can inform your close ones about the passing of your loved one and easily share the details about funeral services by e-mail or SMS."
+                  , "text": "From an intimate and free online space, you can inform your close ones about the passing of your loved one and easily share the details about funeral services by email or SMS."
                 }
               , "2": {
                     "title": "Celebrate."
@@ -140,7 +140,7 @@
           , "points": {
                 "1": {
                     "title": "Intimacy."
-                  , "text": "InMemori spaces are private and never appear in search engine results."
+                  , "text": "InMemori spaces are intimate and never appear in search engine results."
                 }
               , "2": {
                     "title": "Dignity."
