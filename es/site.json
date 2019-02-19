@@ -5,13 +5,13 @@
         "home": "Inicio"
       , "about": "Sobre nosotros"
       , "team": "Nuestro equipo"
-      , "press": "Prensa"
+      , "press": "PRENSA"
       , "contact": "Contacto"
       , "example": "Ver página de muestra"
       , "signup": "Crear una página"
-      , "partners": "Ambassadeurs"
-      , "testimonials": "Témoignages"
-      , "talk": "En parler"
+      , "partners": "AMBASADORES"
+      , "testimonials": "TESTIMONIOS"
+      , "talk": "HABLAR DE"
     }
 
   , "welcome": {
@@ -83,8 +83,8 @@
       , "input-phone-placeholder-partner": "Número de teléfono celular"
       , "cta-v0": "Crear una página de homenaje"
       , "cta-v1": "Crear una página de homenaje"
-      , "lookup-text": "¿Busca una página existente?"
-      , "lookup-tooltip": "Pida el link de la página a la familia del difunto."
+      , "lookup-text": "¿Esta buscando una página que ya existe?"
+      , "lookup-tooltip": "Pídale el enlace de la página a la familia o a sus seres cercanos."
     }
 
   , "places": {
@@ -107,48 +107,48 @@
     
   , "home": {
         "why": {
-            "title": "Pourquoi créer un espace InMemori."
-          , "text": "InMemori est un service gratuit qui vous aide à rassembler votre entourage et à recevoir leurs messages de condoléances, leurs sourvenirs et leurs photos."
+            "title": "Para qué crear un espacio InMemori."
+          , "text": "InMemori es un servicio gratuito que le ayuda a reunir a sus seres cercanos y recibir sus mensajes de condolencias, recuerdos y fotos."
           , "points": {
                 "1": {
-                    "title": "Rassembler."
-                  , "text": "Depuis un espace en ligne privé et gratuit, vous pouvez faire part du décès de votre proche et transmettre rapidement par email ou par sms les informations sur les obsèques à tout votre entourage."
+                    "title": "Reunir."
+                  , "text": "Desde un espacio en línea privado y gratuito, puede informar a sus seres cercanos sobre el fallecimiento de su ser querido y enviar rápidamente por correo electrónico o texto la información del funeral a todos."
                 }
               , "2": {
-                    "title": "Rendre hommage."
-                  , "text": "Chaque personne à qui vous envoyez le lien de l'espace peut y déposer un message de condoléances, un souvenir ou une photo."
+                    "title": "Conmemorar."
+                  , "text": "Cada persona a quien le envíe el enlace del espacio puede publicar un mensaje de condolencia, un recuerdo o una foto."
                 }
               , "3": {
-                    "title": "Se souvenir."
-                  , "text": "Recevez chez vous un beau-livre rassemblant l'ensemble des mots et des photos partagés sur l'espace en hommage à votre proche."
+                    "title": "Recordar."
+                  , "text": "Reciba en su casa un hermoso libro que reúne todas las palabras y fotos compartidas en el espacio de homenaje a su ser querido."
                 }
           }
         }
         
       , "video": {
-            "title": "Comment çà marche ?"
+            "title": "Como funciona."
           , "youtubeid": "Q4H6PvFtNsk"
         }
 
       , "book": {
-            "title": "Gardez une trace."
-          , "text": "Grâce à InMemori, vous pouvez rassembler l'enssemble des messages et photos déposés sur votre espace dans un ”beau livre“ de souvenir. Façonné par un artisan imprimeur, situé dans le sud de la France, sa mise en page est réalisé par les équipes d'InMemori, vous soulageant ainsi durant cette épreuve."
+            "title": "Guarde un rastro."
+          , "text": "Con InMemori, puede reunir todas las palabras, recuerdos y fotos del espacio en un hermoso libro de recuerdos. Diseñado por una impresora artesana ubicada en el sur de Francia, su diseño está hecho por los equipos de InMemori, lo que le ahorrara mucho tiempo valioso."
         }
 
       , "farewell": {
-            "title": "Rendez hommage à chaque vie.."
+            "title": "Rendir homenaje a cada vida."
           , "points": {
                 "1": {
-                    "title": "Dignité."
-                  , "text": "InMemori offre aux famille un espace élégant et sobre, sans likes ni publicité."
+                    "title": "Intimo."
+                  , "text": "Los espacios de tributo son privados y nunca aparecen en los resultados de los motores de búsqueda."
                 }
               , "2": {
-                    "title": "Intimité."
-                  , "text": "Les espaces d'hommages sont privés et n'apparaissent jamais dans les resultats des moteurs de recherche."
+                    "title": "Digno."
+                  , "text": "InMemori le ofrece a las familias un espacio elegante y sobrio sin “me gusta” ni publicidad."
                 }
               , "3": {
-                    "title": "Universalité."
-                  , "text": "InMemori est gratuit et s'adresse à tous les ages, cultures et croyances."
+                    "title": "Universal."
+                  , "text": "InMemori es gratuito y está dirigido a todas las edades, culturas y creencias."
                 }
           }
         }
@@ -194,9 +194,9 @@
             }
         }
       , "testimonial": {
-            "title": "Testimonios de nuestros usuarios"
+            "title": "Testimonios."
           , "text": "Lo que la gente dice sobre InMemori."
-          , "more": "Voir tous les témoignages"
+          , "more": "Ver todos los testimonios"
           , "one": {
                 "from": "Antonio Orozco"
               , "text": "Gracias a InMemori pudimos mandar información sobre el funeral a todos los interesados en una sola noche.  "
