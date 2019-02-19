@@ -14,7 +14,7 @@
         },
         {
           "q": "Comment créer un espace InMemori ?",
-          "r": "Renseignez simplement les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/signup'>ici</a>.\nIl vous suffit de 5 minutes pour personnaliser l'espace et la partager avec votre entourage.\n\nUne fois l'espace d'hommage finalisé, vous aurez accès à votre espace de gestion, depuis lequel vous pourrez :\n- suivre l’activité de l'espace d'hommage (nombre de vues, nombre d’hommages),\n- organiser une collecte de dons, si vous le souhaitez,\n- commander le livre rassemblant tous les hommages partagés,\n- remercier vos proches."
+          "r": "Renseignez simplement les prénom, nom et date de décès de votre proche ainsi que votre adresse email, en cliquant <a href='/signup'>ici</a>.\nIl vous suffit de 5 minutes pour personnaliser l'espace et le partager avec votre entourage.\n\nUne fois l'espace d'hommage finalisé, vous aurez accès à votre espace de gestion, depuis lequel vous pourrez :\n- suivre l’activité de l'espace d'hommage (nombre de vues, nombre d’hommages),\n- organiser une collecte de dons, si vous le souhaitez,\n- commander le livre rassemblant tous les hommages partagés,\n- remercier vos proches."
         },
         {
           "q": "Qui peut créer un espace InMemori ?",
@@ -22,7 +22,7 @@
         },
         {
           "q": "Comment inviter mes proches à consulter cet espace ?",
-          "r": "Très simplement. Il vous suffit de partager l'espace par SMS et/ou par email, en utilisant la fonction « Envoyer le lien » qui se trouve dans votre espace de gestion si vous êtes l’administrateur et/ou en bas de l'espace si vous avez reçu son lien.\nVous pouvez aussi copier le lien et le coller sur les canaux de communication de votre choix (réseaux sociaux, WhatsApp, faire-part papier, livret de cérémonie…)."
+          "r": "Très simplement. Il vous suffit de partager l'espace par SMS et/ou par email, en utilisant la fonction « Envoyer le lien » qui se trouve dans votre espace de gestion si vous êtes l’administrateur et/ou en bas de l'espace d'hommage si vous avez reçu son lien.\nVous pouvez aussi copier le lien et le coller sur les canaux de communication de votre choix (réseaux sociaux, WhatsApp, faire-part papier, livret de cérémonie…)."
         },
         {
           "q": "Qui peut voir l'espace InMemori ?",
@@ -77,7 +77,7 @@
         },
         {
           "q": "Quelle est la différence entre un message de condoléances et un souvenir ?",
-          "r": "Un message de condoléances est un témoignage de soutien et de participation à la douleur d’autrui.\nUn souvenir est un moment vécu avec la personne défunte ou qui illustre sa vie.\nCes deux types de message participent à l’hommage et les souvenirs apportent de la douceur et décrochent parfois même un sourire aux personnes les plus affectées."
+          "r": "Un message de condoléances est un témoignage de soutien et de participation à la douleur d’autrui.\nUn souvenir est un moment vécu avec la personne défunte ou qui illustre sa vie.\nCes deux types de messages participent à l’hommage et les souvenirs apportent de la douceur et décrochent parfois même un sourire aux personnes les plus affectées."
         }
        ]
       },
