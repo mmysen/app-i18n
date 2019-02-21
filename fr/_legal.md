@@ -3,7 +3,7 @@
 <br/>  
 ### Éditeur  
 
-Le site internet https://www.inmemori.com est la propriété de Rest In Peace, (ci-après, l’ « Éditeur »).  
+Le site internet https://www.inmemori.com est la propriété de InMemori, (ci-après, l’ « Éditeur »).  
 
 Conformément au Code de la Propriété Intellectuelle, toute exploitation, représentation ou reproduction de tout ou partie du site internet est strictement interdite sauf autorisation expresse et préalable de l’Éditeur.  
 
@@ -15,8 +15,8 @@ Les liens hypertextes mis en place dans le cadre du présent site web en directi
 
 ### Crédits  
 
-Directeur de publication : SAS Rest In Peace  
-Webmaster : SAS Rest In Peace  
-Conception, réalisation et hébergement du site internet : SAS Rest In Peace (conception, réalisation)
+Directeur de publication : SAS InMemori
+Webmaster : SAS InMemori
+Conception, réalisation et hébergement du site internet : SAS InMemori (conception, réalisation)
 <br/>
 <br/>
