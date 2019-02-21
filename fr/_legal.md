@@ -16,7 +16,9 @@ Les liens hypertextes mis en place dans le cadre du présent site web en directi
 ### Crédits  
 
 Directeur de publication : SAS InMemori
+
 Webmaster : SAS InMemori
+
 Conception, réalisation et hébergement du site internet : SAS InMemori (conception, réalisation)
 <br/>
 <br/>
