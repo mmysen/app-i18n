@@ -12,8 +12,6 @@ Les présentes Conditions Générales d’Utilisation (ci-après les « **CGU** 
 <br/>  
 ### **1. Définitions**
 
-<br/>  
-
 Les définitions suivantes sont applicables à l’intégralité des CGU :
 
 **« Administrateur »** : désigne toute personne ayant été désignée pour gérer l’Espace en Hommage.
@@ -54,8 +52,6 @@ Chaque terme débutant par une majuscule, qu’il soit employé au singulier ou 
 
 ### **2. Acceptation des CGU**
 
-<br/>  
-
 #### 2.1.  _Acceptation des CGU (Administrateur)_
 
 Lors de la création de l’Espace en Hommage, le Créateur de l’Espace en Hommage renseigne et/ou complète les informations demandées.
@@ -78,8 +74,6 @@ Tout Utilisateur agissant au nom et pour le compte d’une personne morale (par 
 
 ### **3. Modification des CGU**
 
-<br/>  
-
 InMemori fait évoluer les caractéristiques et les fonctionnalités du Site et des Services InMemori pour améliorer leur fonctionnement et leur qualité.
 
 InMemori peut modifier unilatéralement les dispositions des CGU relatives aux aspects techniques du Site et des Services InMemori dès lors qu’il n’en résulte ni augmentation de prix, ni altération de la qualité et que les caractéristiques auxquelles l’Utilisateur a subordonné son engagement ont pu figurer dans les CGU.
@@ -87,8 +81,6 @@ InMemori peut modifier unilatéralement les dispositions des CGU relatives aux a
 <br/>  
 
 ### **4. Objet du Site**
-
-<br/>  
 
 Le Site s’adresse aux personnes qui viennent de perdre un proche en leur permettant de créer un espace numérique, privé et personnalisé notamment pour :
 
@@ -106,8 +98,6 @@ Les Services InMemori sont accessibles sur le Site.
 
 ### **5. Création et accès à l’Espace en Hommage**
 
-<br/>  
-
 Pour créer un Espace en Hommage, toute personne peut se connecter au Site et renseigner les informations demandées (en particulier, les informations sur la Personne Décédée, les coordonnées du Créateur de l’Espace en Hommage et les informations sur les obsèques).
 
 Une fois que l’Espace en Hommage est créé, le Créateur de l’Espace en Hommage reçoit, par courrier électronique, la confirmation de sa création et le lien vers l'Interface d’Administration.
@@ -118,11 +108,7 @@ Les Utilisateurs accèdent à l’Espace en Hommage grâce au Lien de Partage, l
 
 ### **6. Fonctionnement des Services InMemori**
 
-<br/>  
-
 #### 6.1.  _Fonctionnement de l’Espace en Hommage_
-
-<br/>  
 
 *6.1.1. Fonctionnalités offertes par l'espace en hommage*
 
@@ -186,8 +172,6 @@ L’Organisateur de la Collecte s’engage à verser les fonds reçus au bénéf
 
 #### 6.3. _Fonctionnement des Services Annexes_  
 
-<br/>  
-
 *6.3.1. Fonctionnement du Service de Livraison de Fleurs*
 
 L’Utilisateur peut faire parvenir des fleurs sur les lieux des obsèques grâce à la fonctionnalité « Embellir la cérémonie » disponible sur l’Espace en Hommage. En cliquant sur le lien, l’Utilisateur peut avoir accès aux produits proposés par la société partenaire ainsi qu’à leurs prix.
@@ -210,11 +194,7 @@ La prestation de mise en Espace, d’impression et de façonnage du livre et de 
 
 ### **7. Engagements des Utilisateurs**
 
-<br/>  
-
 #### 7.1. _Engagements généraux de l'Utilisateur_ 
-
-<br/>  
 
 L’Utilisateur s’engage à respecter les obligations prévues dans les CGU, et notamment de :
 
@@ -260,8 +240,6 @@ L’Utilisateur s’engage à respecter les obligations prévues dans les CGU, e
 
 #### 7.2. _Responsabilité de l’Utilisateur_  
 
-<br/>  
-
 Lorsqu’il est Organisateur de la Collecte, en plus de ses engagements généraux, l’Administrateur s’engage à :
 
 - sélectionner un bénéficiaire ;
@@ -280,8 +258,6 @@ Lorsqu’il est Organisateur de la Collecte, en plus de ses engagements généra
 
 #### 7.3. _Engagements de l'Administrateur_  
 
-<br/>  
-
 Lorsqu’il est Administrateur, en plus de ses devoirs généraux, l’Utilisateur s’engage à :
 
 - se conformer aux règles applicables aux traitements de données personnelles dans le cadre de la gestion de l’Espace en Hommage ;
@@ -294,8 +270,6 @@ Lorsqu’il est Administrateur, en plus de ses devoirs généraux, l’Utilisate
 
 ### **8. Engagements de InMemori**
 
-<br/>  
-
 InMemori s'engage à assurer la permanence, la continuité et la qualité de l'accès et de l'exploitation du Site et des Services InMemori.
 
 Le Site et les Services InMemori sont accessibles 24/24h et 7/7j sauf cas de force majeure ou comportement imprévisible et insurmontable d’un tiers, et sous réserve des éventuelles pannes et interventions de maintenance et de mise à jour nécessaires au bon fonctionnement du Site et à la fourniture des Services InMemori.
@@ -306,11 +280,7 @@ L’Utilisateur est informé que InMemori peut limiter ou suspendre l’accès a
 
 ### **9. Responsabilités** 
 
-<br/>  
-
 #### 9.1. _Responsabilités s’agissant de l’Espace en Hommage et suppression des contenus illicites_
-
-<br/>  
 
 En tant qu’hébergeur, InMemori n’est tenue à aucune obligation générale de surveillance des activités, informations ou contenus stockés ou traités sur le Site, mais devra supprimer ou rendre inaccessible depuis le Site tout contenu illicite dès lors qu’InMemori aura été dûment notifiée de son existence.
 
@@ -336,8 +306,6 @@ Toute notification incomplète ne pourra être considérée comme valide. En out
 
 #### 9.2. _Responsabilités s’agissant des Services Annexes_
 
-<br/>  
-
 L’Utilisateur est informé et reconnaît que les Services Annexes sont exécutés par des sociétés tierces, indépendantes et partenaires de InMemori. À ce titre, InMemori ne peut pas garantir la parfaite exécution des Services Annexes dès lors que ceux-ci sont hors de son contrôle (par exemple, une défaillance dans la livraison de fleurs).
 
 En cas de dommage causé du fait de la mauvaise ou l’absence d’exécution d’un Service Annexe, InMemori ne pourra être tenu responsable lorsque :
@@ -354,8 +322,6 @@ En tout état de cause, la responsabilité de InMemori est limitée aux préjudi
 
 #### 9.3. _Responsabilités s’agissant de la Collecte de Dons_
 
-<br/>  
-
 L’Organisateur de la Collecte est seul responsable de la Collecte de Dons.
 
 Conformément au fonctionnement du Service de Collecte de Dons, les fonds perçus dans le cadre de la Collecte de Dons transitent par l’intermédiaire de Stripe et sont reversés à l’Organisateur de la Collecte une fois les vérifications nécessaires effectuées.
@@ -366,8 +332,6 @@ La responsabilité d’InMemori ne peut pas être engagée lorsque l’Organisat
 
 ### **10. Suspension des Services InMemori**  
 
-<br/>  
-
 En cas de manquement de l’Utilisateur à l’une de ses obligations, InMemori contactera l’Utilisateur, par tout moyen, afin de lui notifier les manquements allégués. À compter de cette notification, l’Utilisateur dispose d’un délai de 30 jours pour répondre aux griefs visés par InMemori.
 
 En l’absence de réponse ou de cessation du/des manquement(s) de l’Utilisateur, InMemori peut supprimer les Contenus Utilisateur de cet utilisateur et bloquer l’adresse email qu’il a utilisé pour publier son contenu ou utliser les Services InMemori.
@@ -375,8 +339,6 @@ En l’absence de réponse ou de cessation du/des manquement(s) de l’Utilisate
 <br/>  
 
 ### **11. Durée**  
-
-<br/>  
 
 Les CGU s’appliquent à tous les Utilisateurs, pour une durée indéterminée, à compter de l’acceptation des CGU ou de l’utilisation du Site ou des Services InMemori.
 
@@ -392,19 +354,13 @@ La résiliation des CGU prend effet immédiatement sous réserve de l’intégra
 
 ### **12. Renonciation au droit de rétractation**
 
-<br/>  
-
 Conformément aux dispositions du Code de la Consommation, l’Utilisateur renonce expressément à son droit de rétractation pour le Service de Livraison de Fleurs et pour le Service de Commande de Livres, en présence de services personnalisés et pleinement exécutés avant la fin du délai de rétractation.
 
 <br/>  
 
 ### **13. Propriété intellectuelle**
 
-<br/>  
-
 #### 13.1. _Contenus InMemori_
-
-<br/>  
 
 InMemori est titulaire exclusif de l’ensemble des droits de propriété intellectuelle afférents aux Contenus InMemori, en particulier le nom de domaine [www.inmemori.com](http://www.inmemori.com), le code source et le code objet, la marque InMemori enregistrée et la charte graphique.
 
@@ -415,8 +371,6 @@ Toute utilisation, en ce compris toute forme de copie totale ou partielle, d’a
 <br/>  
 
 #### 13.2. _Contenus Utilisateur_
-
-<br/>  
 
 *13.2.1. Licence d’utilisation*
 
@@ -466,8 +420,6 @@ L’Utilisateur garantit InMemori contre tous troubles, revendications, recours 
 
 ### **14. Données personnelles**
 
-<br/>  
-
 InMemori accorde une grande importance au respect du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données (RGPD) et de la loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 Pour en savoir plus sur le traitement et la sécurisation des données personnelles réalisés par InMemori, la Politique de Confidentialité est disponible à l’adresse suivante : [www.inmemori.com/legal](http://www.inmemori.com/legal).
@@ -476,29 +428,21 @@ Pour en savoir plus sur le traitement et la sécurisation des données personnel
 
 ### **15. Divers**
 
-<br/>  
-
 Les CGU constituent l’intégralité de l’accord liant l’Utilisateur et InMemori. Les CGU remplacent et annulent tout autre négociation, contrat, déclaration ou accord antérieur.
 
 Si l'une des stipulations des CGU s'avérait nulle au regard d'une règle de droit en vigueur ou d'une décision judiciaire devenue définitive, elle serait alors réputée non écrite, sans pour autant entrainer la nullité des CGU ou altérer la validité des autres stipulations.
 
 <br/>  
 
-### **16. Droit applicable et juridictions compétentes**
-
-<br/>  
+### **16. Droit applicable et juridictions compétentes** 
 
 #### 16.1. _Droit applicable_
-
-<br/>  
 
 Les CGU sont régies et interprétées par le droit français.
 
 <br/>  
 
 #### 16.2. _Juridictions compétentes_
-
-<br/>  
 
 Tout litige ou contestation relatif à la validité, à l'interprétation, à l'exécution et/ou à la rupture des CGU sera soumis aux juridictions du ressort de la Cour d’appel de Paris.
 
