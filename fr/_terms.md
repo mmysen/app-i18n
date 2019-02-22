@@ -4,8 +4,10 @@
 
 ## Conditions générales d'utilisation    
 
+
 _Version applicable depuis le 21 février 2019_
-  
+
+
 Les présentes Conditions Générales d’Utilisation (ci-après les « **CGU** ») constituent le contrat conclu entre tout Utilisateur et la société par actions simplifiée InMemori enregistrée au registre du commerce et des sociétés de Paris sous le numéro 821 346 970 (ci-après « **InMemori** ») pour le recours aux Services InMemori.
  
 ### 1. **Définitions**
