@@ -1,5 +1,6 @@
 
 <br/>  
+<br/>  
 
 ## Conditions générales d'utilisation    
 
@@ -391,3 +392,5 @@ Tout litige ou contestation relatif à la validité, à l'interprétation, à l'
 
 En application de l’article R. 631-3 du Code de la consommation, le consommateur peut saisir à son choix, outre l'une des juridictions territorialement compétentes en vertu du code de procédure civile, la juridiction du lieu où il demeurait au moment de la conclusion du contrat ou de la survenance du fait dommageable.
 <br/>
+<br/>
+
