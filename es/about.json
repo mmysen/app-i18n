@@ -318,31 +318,31 @@
       , "b-text": "Apoyan a InMemori."
       , "a": [
             {
-                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Allianz_tctwwz.png"
+                "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Allianz_tctwwz"
               , "website": "https://www.allianz.fr/prevoyance-dependance/assurance-obseques/"
             }
           , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/v1550501667/Gan_Pre%CC%81voyance_ulczjf.png"
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Gan_Pre%CC%81voyance_ulczjf"
              , "website": ""
             }
            , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Figaro_aysmru.png"
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Figaro_aysmru"
              , "website": "http://www.lefigaro.fr/carnet-du-jour/2019/01/09/12001-20190109ARTFIG00137-inmemori-un-service-d-hommage-offert-par-le-carnet-du-jour.php?redirect_premium"
             }
            , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/SCF_jrpx8t.png"
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/SCF_jrpx8t"
              , "website": "http://s-c-f.org/services/prestations/faire-part-numeriques"
             }
           , {
-                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Aviva_ctn8q3.png"
+                "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Aviva_ctn8q3"
               , "website": "https://www.aviva.fr/particulier/assurance/assurance-obseques/beneficiaires/#hommage"
             }
           , {
-                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Malakoff_Me%CC%81de%CC%81ric_giprtw.png"
+                "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Malakoff_Me%CC%81de%CC%81ric_giprtw"
               , "website": ""
             }
            , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/A_G_hd9pql.png"
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/A_G_hd9pql"
              , "website": ""
             }
            , {
@@ -350,26 +350,26 @@
              , "website": ""
             }
           , {
-                "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/Cre%CC%81dit_Agricole_jxt21s.png"
+                "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Cre%CC%81dit_Agricole_jxt21s"
               , "website": ""
             }
           , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/v1550501667/Pre%CC%81voir_c35cta.png"
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pre%CC%81voir_c35cta"
              , "website": ""
             }
            , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/Autre_Rive_chgpkx.png"
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Autre_Rive_chgpkx"
              , "website": ""
             }
           
         ]
       , "b": [
             {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470051/CNSPFV_jme6ot.png"
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/CNSPFV_jme6ot"
              , "website": "https://www.parlons-fin-de-vie.fr/"
             }
           , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/v1549470052/FPSP_ipepdt.png"
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/FPSP_ipepdt"
              , "website": "https://www.fondssoinspalliatifs.fr/inmemori/"
             }
         ]
