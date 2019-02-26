@@ -288,17 +288,17 @@ L’Utilisateur qui constate sur le Site la présence de contenus illicites ou q
 
 Les informations qui doivent être fournies par les Utilisateurs concernant les faits litigieux sont les suivantes :
 
-    (i) la date de la notification ;
+   (i) la date de la notification ;
+   
+   (ii) l’identité du notifiant ;
 
-    (ii) l’identité du notifiant ;
+   (iii) le nom et l’adresse du siège social de InMemori ;
 
-    (iii) le nom et l’adresse du siège social de InMemori ;
+   (iv) la description des faits litigieux et de leur localisation précise ;
 
-    (iv) la description des faits litigieux et de leur localisation précise ;
+   (v) les motifs pour lesquels le contenu doit être retiré (avec précision sur les règles et justification des faits) ; et
 
-    (v) les motifs pour lesquels le contenu doit être retiré (avec précision sur les règles et justification des faits) ; et
-
-    (vi) la copie de la correspondance adressée à l'auteur ou à l'éditeur des informations ou activités litigieuses demandant leur interruption, leur retrait ou leur modification, ou la justification de l’impossibilité de le contacter.
+   (vi) la copie de la correspondance adressée à l'auteur ou à l'éditeur des informations ou activités litigieuses demandant leur interruption, leur retrait ou leur modification, ou la justification de l’impossibilité de le contacter.
 
 Toute notification incomplète ne pourra être considérée comme valide. En outre, InMemori n’est pas responsable de l’exactitude et de la fiabilité des Contenus Utilisateur, et plus généralement de toute information publiée sur le Site.
 
