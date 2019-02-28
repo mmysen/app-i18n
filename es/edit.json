@@ -4,7 +4,7 @@
       , "tabs": {
             "1": {
                 "title": "Información"
-              , "text": "Favor de informarnos sobre la persona que Ud. perdió"
+              , "text": "Aquí puede agregar la información de su Ser Querido, personalizar la información como su nombre, fechas y una foto"
               , "cta-open": "Editar"
               , "cta-close": "Cerrar"
               , "cta": "Guardar"
@@ -31,14 +31,14 @@
             }
           , "2": {
                 "title": "Contactos"
-              , "text": "Puede agregar personas a ser contactadas"
+              , "text": "Aquí puede agregar a familiares a ser contactadas"
               , "cta-open": "Editar"
               , "cta-close": "Cerrar"
               , "cta": "Guardar"
             }
           , "3": {
                 "title": "Ceremonia"
-              , "text": "Precisar las informaciones de cualquier ceremonia planificada"
+              , "text": "Aquí puede agregar los eventos en honor a su Ser Querido, velación, misas, novenario"
               , "cta-open": "Editar"
               , "cta-close": "Cerrar"
               , "cta": "Guardar"
