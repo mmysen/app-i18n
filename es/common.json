@@ -31,7 +31,7 @@
       , "address": "France"
     }
   , "unauthorized": "nope"
-  , "template": "Modelo"
+  , "template": "Plantilla"
   , "toast-success": "¡Registro completado !"
   , "toast-message-sent": "¡Mensaje enviado!"
   , "confirm-areusure": "¿Está seguro?"
