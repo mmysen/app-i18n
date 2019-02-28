@@ -231,7 +231,7 @@
   , "share": {
         "link": {
             "title": "Compartir esta página"
-          , "text": "Comparta esta página con todas las personas que fueron tocadas por la vida de {{firstname}} :"
+          , "text": "Comparta esta página con todas las personas que tuvieron la fortuna de estar cerca de {{firstname}} :"
         }
       , "admin": {
             "title": "Agregar un administrador"
