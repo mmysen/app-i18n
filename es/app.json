@@ -71,7 +71,7 @@
     }
   , "guestbook": {
         "title": "Mensajes"
-      , "tab-entries": "Todas las publicaciones"
+      , "tab-entries": "Publicaciones"
       , "tab-pictures": "Fotografías"
       , "cta-add": "Compartir una foto"
       , "cta-message": "Escribir un mensaje"
