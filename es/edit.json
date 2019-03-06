@@ -4,7 +4,7 @@
       , "tabs": {
             "1": {
                 "title": "Información"
-              , "text": "Favor de informarnos sobre la persona que Ud. perdió"
+              , "text": "Aquí puede agregar la información de su Ser Querido, personalizar la información como su nombre, fechas y una foto"
               , "cta-open": "Editar"
               , "cta-close": "Cerrar"
               , "cta": "Guardar"
@@ -16,7 +16,7 @@
               , "input-dob-placeholder": "mm/dd/aaaa"
               , "label-dod": "Fecha de deceso de su ser querido"
               , "input-dod-placeholder": "mm/dd/aaaa"
-              , "label-intro": "Escribir un mensaje informando a los allegados del fallecimiento."
+              , "label-intro": "Escriba un mensaje para informar a sus familiares y amigos la pérdida de su Ser Querido."
               , "input-intro-placeholder": "Esta página es para la familia y para todos los que conocieron y amaron a {{fullname}}.\nDespués de una bella vida, rodeada de sus familiares y seres queridos, nos dejó el {{dod}}.\nEl/ella quedará para siempre en nuestros corazones.\nPor favor compartan, mensajes, recuerdos, fotos, o cualquier muestra de afecto para ayudarnos a pasar por este momento difícil.\nCon mucho cariño."
               , "label-image": "Subir una fotografía de {{fullname}}"
               , "text-image": "Si no tiene la fotografía adecuada en este momento puede completar este paso más tarde, pero le recomendamos encarecidamente que incluya una foto antes de compartir la página. Formatos aceptados: JPG, JPEG, PNG (tamaño máximo: 5 MB)."
@@ -24,21 +24,21 @@
               , "cta-image-uploading": "Descargando..."
               , "label-templates": "¿Necesita inspiración?"
               , "templates": [
-                    "Querida familia y amigos,\n\nNuestro amado {{firstname}} dejó este mundo el {{dod}} espués de haber vivido {{age}} hermosos años. Esta página está destinada a todos ustedes, para que compartan sus cálidas palabras de apoyo con nosotros y entre ustedes durante esta triste etapa. \nLos invitamos a compartir recuerdos y fotos de momentos vividos con {{firstname}}."
+                    "Nuestro amado {{firstname}} dejó este mundo el {{dod}} después de haber vivido {{age}} hermosos años. Esta página está destinada a todos ustedes, para que compartan con nosotros sus cálidas palabras de apoyo durante este duro momento. \nLos invitamos a compartir recuerdos y fotos de momentos vividos con {{firstname}}."
                   , "Con gran pesar les informamos del fallecimiento de {{fullname}}, el {{dod}}."
                   , "Estimada familia y amigos,\n\nCon infinita tristeza les informamos del fallecimiento de {{firstname}}, sucedido el {{dod}}.\nLos invitamos a esta página para que celebremos la vida de {{firstname}} por medio de mensajes, recuerdos y fotografías."
                 ]
             }
           , "2": {
                 "title": "Contactos"
-              , "text": "Puede agregar personas a ser contactadas"
+              , "text": "Aquí puede agregar a familiares a ser contactadas"
               , "cta-open": "Editar"
               , "cta-close": "Cerrar"
               , "cta": "Guardar"
             }
           , "3": {
                 "title": "Ceremonia"
-              , "text": "Precisar las informaciones de cualquier ceremonia planificada"
+              , "text": "Aquí puede agregar los eventos en honor a su Ser Querido, velación, misas, novenario"
               , "cta-open": "Editar"
               , "cta-close": "Cerrar"
               , "cta": "Guardar"

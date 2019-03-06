@@ -6,9 +6,9 @@
       , "cta-right": ""
       , "cta-share": "Envoyer le lien"
       , "cta-share-admin": "Ajouter un administrateur"
-      , "cta-edit": "Personnaliser la page"
-      , "cta-edit-tooltip": "Seuls les administrateurs peuvent personnaliser la page."
-      , "cta-view": "Voir la page"
+      , "cta-edit": "Personnaliser l'espace"
+      , "cta-edit-tooltip": "Seuls les administrateurs peuvent personnaliser l'espace."
+      , "cta-view": "Voir l'espace"
     }
   , "menu": {
         "welcome": "Consulter"
@@ -24,7 +24,7 @@
   , "share-bar": "Envoyez le lien à vos contacts"
   , "home": {
         "intro": {
-            "title": "Chère famille, chers amis, \nnous avons la grande tristesse de vous faire part du décès de {{firstname}}. \nCette page est destinée à lui rendre hommage à travers un message, un souvenir ou une photo.\nVous y trouverez également toutes les informations pratiques. \n\n Merci pour votre présence à nos côtés."
+            "title": "Chère famille, chers amis, \nnous avons la grande tristesse de vous faire part du décès de {{firstname}}. \nCet espace est destiné à lui rendre hommage à travers un message, un souvenir ou une photo.\nVous y trouverez également toutes les informations pratiques. \n\n Merci pour votre présence à nos côtés."
         }
       , "info": {
             "title": "Informations"
@@ -65,7 +65,7 @@
             }
           , "share": {
                 "title": "Envoyer le lien"
-              , "text": "Si vous connaissez une personne qui souhaiterait se manifester, n'hésitez pas à lui envoyer le lien de la page."
+              , "text": "Si vous connaissez une personne qui souhaiterait se manifester, n'hésitez pas à lui envoyer le lien de l'espace."
             }
         }
     }
@@ -94,7 +94,7 @@
             "0": { "title": "Que souhaitez-vous partager ?" }
           , "1": { "title": "Condoléances", "text": "Exprimez vos condoléances à la famille de {{firstname}}." }
           , "2": { "title": "Souvenir", "text": "Partagez un moment vécu avec {{firstname}}." }
-          , "3": { "title": "Photos", "text": "La page est tellement plus belle avec des photos." }
+          , "3": { "title": "Photos", "text": "L'espace est tellement plus belle avec des photos." }
         }
     }
 
@@ -215,7 +215,7 @@
           , "subtitle": ""
           , "cta": ""
         }
-      , "item-info": "La qualité d’impression des images dépend de la taille des photos postées par chacun sur le recueil d’hommages, merci de votre compréhension."
+      , "item-info": "La qualité d’impression des images dépend de la taille des photos partagées par chacun sur le recueil d’hommages, merci de votre compréhension."
       , "shipping-info": "Afin de vous garantir un livre de belle qualité au meilleur prix, nous regroupons les commandes. Les délais de livraison varient de 4 à 6 semaines après la commande."
       , "cta-prev": "Retour"
       , "cta-end": "Terminer"
@@ -223,15 +223,15 @@
     }
 
   , "delete": {
-        "title": "Confirmez-vous la suppression de la page ?"
-      , "text": "Vous êtes sur le point de supprimer la page en hommage à {{fullname}}."
+        "title": "Confirmez-vous la suppression de l'espace ?"
+      , "text": "Vous êtes sur le point de supprimer l'espace en hommage à {{fullname}}."
       , "cta": "Supprimer"
     }
 
   , "share": {
         "link": {
             "title": "Envoyer le lien"
-          , "text": "Envoyez le lien de la page à toutes les personnes qui souhaiteraient se manifester :"
+          , "text": "Envoyez le lien de l'espace à toutes les personnes qui souhaiteraient se manifester :"
         }
       , "admin": {
             "title": "Ajouter un administrateur"
@@ -247,7 +247,7 @@
           , "placeholder": "Votre numéro de téléphone"
           , "cta": "Envoyer"
           , "success": "SMS envoyé !"
-          , "info": "> Saisissez votre numéro afin de recevoir le lien de la page."
+          , "info": "> Saisissez votre numéro afin de recevoir le lien de l'espace."
         }
       , "tab-email": {
             "text": "Par email"
@@ -256,13 +256,13 @@
           , "success": "Email(s) envoyé(s) !"
           , "info": ""
         }
-      , "message": "Bonjour, \n\nC'est avec une immense tristesse que nous vous annonçons le décès de {{fullname}}.\n\nNous venons de créer une page InMemori, privée, sur internet afin de lui rendre hommage.\nEn vous rendant sur la page vous pourrez : \n- Consulter les informations sur les obsèques\n- Partager un message de condoléances, un souvenir, une photo\n\nNous apprécierons vos messages de soutien dans ces moments difficiles.\n\nAfin de ne pas oublier des personnes qui l'ont aimé(e), n'hésitez pas à partager cette page à toutes les personnes concernées.\n\nAmitiés,\n\nVoici le lien de la page : {{uri.page}}"
+      , "message": "Bonjour, \n\nC'est avec une immense tristesse que nous vous annonçons le décès de {{fullname}}.\n\nNous venons de créer un espace InMemori, privé, sur internet afin de lui rendre hommage.\nEn vous rendant sur l'espace vous pourrez : \n- Consulter les informations sur les obsèques\n- Partager un message de condoléances, un souvenir, une photo\n\nNous apprécierons vos messages de soutien dans ces moments difficiles.\n\nAfin de ne pas oublier des personnes qui l'ont aimé(e), n'hésitez pas à partager cet espace à toutes les personnes concernées.\n\nAmitiés,\n\nVoici le lien de l'espace : {{uri.page}}"
       , "error": "Oups !"
     }
 
   , "edit": {
         "header": {
-            "cta": "Voir la page"
+            "cta": "Voir l'espace"
         }
     }
 

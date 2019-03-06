@@ -3,6 +3,8 @@
         "faq": "FAQ"
       , "terms": "CGU"
       , "legal": "NOTAS LEGALES"
+      , "team": "EQUIPO"
+      , "press": " PRENSA"  
     }
   , "lang": {
       "fr": "Français",
@@ -29,7 +31,7 @@
       , "address": "France"
     }
   , "unauthorized": "nope"
-  , "template": "Modelo"
+  , "template": "Plantilla"
   , "toast-success": "¡Registro completado !"
   , "toast-message-sent": "¡Mensaje enviado!"
   , "confirm-areusure": "¿Está seguro?"

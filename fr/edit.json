@@ -1,6 +1,6 @@
 {
     "info": {
-        "title": "Personnaliser la page"
+        "title": "Personnaliser l'espace"
       , "tabs": {
             "1": {
                 "title": "Faire-part"
@@ -17,16 +17,16 @@
               , "label-dod": "Date de décès"
               , "input-dod-placeholder": "jj/mm/aaaa"
               , "label-intro": "Écrire un message afin de faire part à votre entourage du décès de votre proche."
-              , "input-intro-placeholder": "Cette page est destinée à la famille et à tous ceux qui ont connu et aimé {{fullname}}.\nAprès une belle vie, bien remplie, entouré(e) des siens, il/elle nous a quitté le {{dod}} dernier.\nIl/elle restera à jamais dans nos coeurs.\nN’hésitez pas exprimer le lien qui vous unissait à {{firstname}}, un message, un souvenir, une photo, toute marque d’affection nous portera et nous aidera à traverser cette épreuve.\nTrès sincèrement."
+              , "input-intro-placeholder": "Cet espace est destiné à la famille et à tous ceux qui ont connu et aimé {{fullname}}.\nAprès une belle vie, bien remplie, entouré(e) des siens, il/elle nous a quitté le {{dod}} dernier.\nIl/elle restera à jamais dans nos coeurs.\nN’hésitez pas exprimer le lien qui vous unissait à {{firstname}}, un message, un souvenir, une photo, toute marque d’affection nous portera et nous aidera à traverser cette épreuve.\nTrès sincèrement."
               , "label-image": "Ajouter une photo de votre proche"
-              , "text-image": "Vous pouvez vous occuper de cette étape plus tard, mais nous vous recommandons d’en ajouter une avant de partager la page avec vos proches. Formats acceptés : JPG, JPEG, PNG (taille maximale de 5 Mo)."
+              , "text-image": "Vous pouvez vous occuper de cette étape plus tard, mais nous vous recommandons d’en ajouter une avant de partager l'espace avec vos proches. Formats acceptés : JPG, JPEG, PNG (taille maximale de 5 Mo)."
               , "cta-image": "Choisir une photo"
               , "cta-image-uploading": "Téléchargement en cours..."
               , "label-templates": "Besoin d'inspiration ?"
               , "templates": [
-                    "Chère famille, chers amis,\n\nnous avons la grande tristesse de vous faire part du décès de {{firstname}} survenu le {{dod, lowercase}} dernier, à l’âge de {{age}} ans. Cette page est destinée à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec {{firstname}}.\n\nAvec toute notre affection."
+                    "Chère famille, chers amis,\n\nnous avons la grande tristesse de vous faire part du décès de {{firstname}} survenu le {{dod, lowercase}} dernier, à l’âge de {{age}} ans. Cet espace est destiné à recueillir vos témoignages : un message, un souvenir ou une photo, illustrant un moment de vie que vous avez partagé avec {{firstname}}.\n\nAvec toute notre affection."
                   , "L’ensemble de la famille et tous les proches ont la douleur de vous part du décès de {{fullname}}, survenu le {{dod, lowercase}}."
-                  , "Cette page est destinée à la famille et à tous ceux qui ont connu et aimé {{fullname}} décédé le {{dod, lowercase}} dernier.\n{{firstname}} restera à jamais dans nos coeurs.\nN’hésitez pas à laisser sur cette page un message, un souvenir ou une photo.\nTrès sincèrement."
+                  , "Cet espace est destiné à la famille et à tous ceux qui ont connu et aimé {{fullname}} décédé le {{dod, lowercase}} dernier.\n{{firstname}} restera à jamais dans nos coeurs.\nN’hésitez pas à laisser sur cet espace un message, un souvenir ou une photo.\nTrès sincèrement."
                 ]
             }
           , "2": {
@@ -187,14 +187,14 @@
       , "collected": "recueillis"
     }
   , "actions": {
-        "title": "Gérer la page"
+        "title": "Gérer l'espace"
       , "links": {
             "info": "Informations"
           , "moderation": "Remerciements"
           , "donateProxy": "Soutenir une association"
           , "admin": "Ajouter un administrateur"
-          , "share": "Partager la page"
-          , "delete": "Supprimer la page"
+          , "share": "Partager l'espace"
+          , "delete": "Supprimer l'espace"
         }
     }
 }
