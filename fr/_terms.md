@@ -22,6 +22,8 @@ Les définitions suivantes sont applicables à l’intégralité des CGU :
 
 **« Créateur de l’Espace en Hommage »** : désigne toute personne ayant créé un Espace en Hommage.
 
+**« Espace en Hommage »** :  désigne l’espace numérique, personnalisé et accessible grâce au Lien de Partage, permettant de transmettre des informations sur les obsèques de la Personne Décédée, d’accéder aux Contenus Utilisateur et d'accéder à des fonctionnalités.
+
 **« Interface d’Administration »** : désigne l’interface permettant à l’Administrateur de gérer l’Espace en Hommage.
 
 **« Lien de Partage »** :  désigne l’adresse URL unique permettant d’accéder à l’Espace en Hommage.
@@ -29,8 +31,6 @@ Les définitions suivantes sont applicables à l’intégralité des CGU :
 **« Organisateur de la Collecte »** : désigne l’Administrateur qui est à l’initiative de l’organisation d’une Collecte de Dons et qui a la responsabilité de sa gestion.
 
 **« Personne Décédée »** : désigne la personne objet de l’Espace en Hommage.
-
-**« Espace en Hommage »** :  désigne l’espace numérique, privé, personnalisé et accessible grâce au Lien de Partage, permettant de transmettre des informations sur les obsèques de la Personne Décédée, d’accéder aux Contenus Utilisateur et aux Services InMemori.
 
 **« Services Annexes »** : désigne le Service de Livraison de Fleurs et le Service de Commande de Livre.
 
@@ -120,7 +120,7 @@ L’Espace en Hommage permet notamment aux Utilisateurs de :
 
 - partager une photographie : l’Utilisateur doit renseigner son nom, son prénom, son adresse électronique et joindre la photographie qu'il souhaite publier ;
 
-- participer à une Collecte de Dons : l’Utilisateur doit renseigner son nom, son prénom, son adresse électronique et le montant du don qu'il souhaite faire et son adresse postale (facultatif) ;
+- participer à une Collecte de Dons : l’Utilisateur doit renseigner son nom, son prénom, son adresse électronique, le montant du don qu'il souhaite faire et son adresse postale - (facultatif) ;
 
 - souscrire à des Services Annexes : l’Utilisateur sélectionne la rubrique pertinente sur l’Espace en Hommage et doit suivre le parcours de commande.
 
@@ -188,7 +188,7 @@ L’Utilisateur peut commander un livre réunissant tout ou partie des Contenus 
 
 L’Utilisateur est libre de souscrire ou non au Service de Commande de Livre. Lors de la commande, l’Utilisateur précise la quantité de livre(s) souhaitée et le lieu de livraison.
 
-La prestation de mise en Espace, d’impression et de façonnage du livre et de livraison est réalisée par une société partenaire d’InMemori. À compter de la commande par l’Utilisateur sur le Site, InMemori se charge de transmettre les informations à la société partenaire.
+La prestation de mise en page, d’impression et de façonnage du livre et de livraison est réalisée par une société partenaire d’InMemori. À compter de la commande par l’Utilisateur sur le Site, InMemori se charge de transmettre les informations à la société partenaire.
 
 <br/>  
 
@@ -394,7 +394,7 @@ Au titre de cette licence, InMemori est autorisée, pour la durée légale de pr
 
 - de faire tous usages et toute exploitation, à titre personnel ou au bénéfice de tiers, à titre onéreux ou gratuit, des Contenus Utilisateurs et des éventuelles adaptations ou œuvres dérivées des Contenus Utilisateurs réalisées en application des présentes.
 
-- sont également cédés les droits d’exploitation, de commercialisation, de représentation, d’édition, de diffusion de tout ou partie d’un ou plusieurs Contenu Utilisateur, directement ou indirectement, sur tous supports et notamment les supports numériques ou papier, pouvant être utilisés en l’état ou intégrés avec ou sans modification.
+Sont également cédés les droits d’exploitation, de commercialisation, de représentation, d’édition, de diffusion de tout ou partie d’un ou plusieurs Contenu Utilisateur, directement ou indirectement, sur tous supports et notamment les supports numériques ou papier, pouvant être utilisés en l’état ou intégrés avec ou sans modification.
 
 L’Utilisateur est informé et accepte explicitement que cette licence inclut le droit pour InMemori de représenter, de reproduire et plus largement d’utiliser le Contenu Utilisateur, en tout ou partie, sous quelque forme que ce soit et sur tous support connus ou inconnus à ce jour, ainsi que toute adaptation du Contenu Utilisateur, afin de créer et d’éditer une œuvre dérivée (un livre) dédiée à la Personne Décédée, laquelle sera distribuée à titre gratuit ou onéreux dans le cadre de l’activité de InMemori.
 
