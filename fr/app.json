@@ -94,7 +94,7 @@
             "0": { "title": "Que souhaitez-vous partager ?" }
           , "1": { "title": "Condoléances", "text": "Exprimez vos condoléances à la famille de {{firstname}}." }
           , "2": { "title": "Souvenir", "text": "Partagez un moment vécu avec {{firstname}}." }
-          , "3": { "title": "Photos", "text": "L'espace est tellement plus belle avec des photos." }
+          , "3": { "title": "Photos", "text": "L'espace est tellement plus beau avec des photos." }
         }
     }
 
