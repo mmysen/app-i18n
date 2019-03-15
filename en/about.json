@@ -156,9 +156,9 @@
   , "talk": {
         "title": "Support a loved one."
       , "subtitle": "Find the right words."
-      , "text": "Here is a suggestion to introduce InMemori to your close one:\n\n InMemori is an intimate and free online service. It allows you to inform friends and family about the passing of your loved one and to easily share the details about funeral services. Family, friends and close ones can share on the space a message of condolences, a memory or a photo.\n You can then, if you wish, receive a beautiful book gathering all the words and photos and keep a trace of the tribute."
-      , "subtitle2": "Go further."
-      , "text2": "To help best your close one, we invite you to create the InMemori space yourself. This will help the family understand the service and save valuable time.\n Each space is safe and intimate. The family is the one who decides to use InMemori and share the space in fine.\n\n To do so, you can send the link of the space and attach this explanatory text:\n\n InMemori (<a href='www.inmemori.com'>www.inmemori.com</a>) is an intimate and free online service. It allows you to inform your family and friends about the passing of your loved one and to easily share the details about funeral services. \n\n Only those who receive the secure link of the space will be able to have access to it. They can share on the space a message of condolences, a memory or a photo.\n\n You can then, if you wish, receive a beautiful book gathering all the words and photos and thus keep a trace of the tribute.\n\n The space is customizable, you can choose the photo and write the announcement with your own words. InMemori teams are very responsive, do not hesitate to call them if you have any questions.\n\n Families who have used the service speak of the comfort that it has brought them, you can read their testimonials on the following link:\n <a href='www.inmemori.com/testimonials'>www.inmemori.com/testimonials</a>"
+      , "text": "Here is a suggested way to introduce InMemori to someone close to you:\n\n InMemori is a private, free online service. It lets you inform friends and family about the passing of a loved one and easily share the details about a funeral or memorial service. On the site family and friends can share condolences, memories and photos.\n Later, if you wish, you can receive a beautiful book containing all these words and photos as a record of the tributes."
+      , "subtitle2": "Take a step further."
+      , "text2": "The best way to help the bereaved person is to create the InMemori site yourself. This will help the family understand the service and save valuable time.\n Each site is safe and private. The family is the one who ultimately decides to use InMemori and share the site.\n\n To do this, you can send them a link of the site with this brief explanation:\n\n InMemori (<a href='www.inmemori.com'>www.inmemori.com</a>) is a private, free online service. It lets you inform friends and family about the passing of a loved one and easily share the details about a funeral or memorial service. \n\n Only those who receive the secure link of the site will be able to go on it. Once there hey can share condolences, memories and photos.\n\n Later, if you wish, you can receive a beautiful book containing all these words and photos as a record of the tributes.\n\n The site is customizable, you can choose the photo and write the announcement with your own words. InMemori teams are very responsive, do not hesitate to call them if you have any questions.\n\n Families who have used the service tell about the comfort that it brought them, you can read their testimonials here:\n <a href='www.inmemori.com/testimonials'>www.inmemori.com/testimonials</a>"
     }
 
 
@@ -189,14 +189,14 @@
   , "team": {
 
         "title": "Team."
-      , "text": "A committed and engaged team, driven by the mission."
+      , "text": "Committed, involved people driven by our mission."
 
       , "items": [
         { 
             "name": "Clémentine Piazza"
           , "role": ""
           , "bio": "CEO & Founder"
-          , "intro": "This is a profound mission that puts everything in its right place."
+          , "intro": "Our mission is profound and puts first things first."
           , "pic": "team.clementine"
           , "linkedin": ""
           , "twitter": ""
@@ -206,7 +206,7 @@
             "name": "Constance de Vernejoul"
           , "role": ""
           , "bio": "Product & Customer Relationship Manager"
-          , "intro": "I wanted to be there for people during a period in their lives when they feel profoundly alone."
+          , "intro": "I wanted to be there for people during a time in their lives when they feel deeply alone."
           , "pic": "team.constance"
           , "linkedin": ""
           , "twitter": ""
@@ -216,7 +216,7 @@
             "name": "Marly Diallo"
           , "role": ""
           , "bio": "Chief operating officer"
-          , "intro": "The effort we put in everyday lets us contribute to creating strong, resilient communities."
+          , "intro": "The effort we put in every day helps creates strong, resilient communities."
           , "pic": "team.marly"
           , "linkedin": ""
           , "twitter": ""
@@ -226,7 +226,7 @@
             "name": "Louis Grellet"
           , "role": ""
           , "bio": "CTO"
-          , "intro": "Mourning is a moment in life where technology is absent. I'd like to change that."
+          , "intro": "Mourning is a time in life when technology has not been able to help. I'd like to change that."
           , "pic": "team.louis"
           , "linkedin": ""
           , "twitter": ""
@@ -237,7 +237,7 @@
     }
 
   , "testimonials": {
-        "title": "Families words."
+        "title": "The families speak."
       , "items": [
             ["Y. P.", "Tout le monde a apprécié cette manière de lui rendre hommage car dans des moments pareils l'une des clés pour adoucir les émotions est de faire “bloc”.  Ainsi, rassembler les messages et les photos souvenirs, à travers votre service, allège ce moment. Le fait que tous ses proches (famille, amis, collègues...) puissent accéder aux autres messages est réconfortant car chacun peut se rendre compte que les hommages se distinguent. Soit par le fond, soit par la forme. Chacun a son souvenir propre. De cette manière nous pouvons compiler ce qu'il faut retenir et transmettre de l'être cher.\nVotre service apaise la douleur de cette perte. Merci donc !"]
           , ["C. M.-T.", "Je tiens à apporter mon témoignage et mes très sincères remerciements et félicitations à l’équipe qui a fondé et gère le site InMemori. \n\n À l occasion du décès brutal de mon époux, le site InMemori m’a été d’une très grande aide : \n - Sur le format numérique par la diffusion par mail à tous d un simple lien et une gestion facile du site.  \n - Sur le plan logistique, des informations pratiques très bien structurées pour les obsèques. \n - Sur le plan affectif, la possibilité offerte à toutes les personnes touchées par ce deuil d’exprimer et partager leur témoignage par écrit ou photos. \n - Sur la possibilité de créer plusieurs pages pour dissocier la sphère familiale / amicale de celle professionnelle. \n - Sur la disponibilité et l’accompagnement de l équipe InMemori. \n\n Je lis et relis avec émotion la centaine de témoignages déposés sur le site pour S., qui sont autant de souvenirs de tranches de vie que des marques d’affections et de soutien, qui font du bien à tous, famille et amis et à conserver précieusement. \n\n Sincères salutations."]
