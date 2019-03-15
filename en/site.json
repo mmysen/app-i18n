@@ -7,8 +7,8 @@
       , "team": "TEAM"
       , "press": "PRESS"
       , "contact": "Contact"
-      , "example": "View sample space"
-      , "signup": "Create a tribute space"
+      , "example": "View sample site"
+      , "signup": "Create a tribute site"
       , "partners": "AMBASSADORS"
       , "testimonials": "TESTIMONIALS"
       , "talk": "FIND THE WORDS"
@@ -31,23 +31,23 @@
           , "cta": "Next"
         }
       , "step3": { 
-            "title": "InMemori space created"
-          , "info": "Congratulations, the space in honor of {{fullname}} is created, you can now share it with your close ones!"
-          , "cta": "See the space"
+            "title": "InMemori site created"
+          , "info": "Congratulations, the site in honor of {{fullname}} is created, you can now share it with your friends and family!"
+          , "cta": "See the site"
         }
       , "cta-back": "Back"
       , "cta-image": "Chose a picture"
       , "cta-image-uploading": "Please wait"
       , "features": {
-            "info": "From your admin space, you will be able to :"
+            "info": "From your admin page, you will be able to :"
           , "0": { 
-                "title": "Share the link of the space"
+                "title": "Share the link of the site"
               , "text": "with all your close ones"
               , "icon": "/static/img/icons/devices.png"
             }
           , "1": { 
                 "title": "Add new administrator"
-              , "text": "A member of your family or a close friend can help you manage the space"
+              , "text": "A member of your family or a close friend can help you manage the site"
               , "icon": "/static/img/icons/team.png"
             }
           , "2": { 
@@ -68,8 +68,8 @@
 
   , "signup": {
         "title-v0": "Gather. Celebrate. Remember."
-      , "text-v0": "You have lost a loved one.\nCreate a safe space where you can gather your community and celebrate the memory of your loved one."
-      , "title-v1": "Create a space now"
+      , "text-v0": "You have lost a loved one.\nCreate a safe site where you can gather your community and celebrate the memory of your loved one."
+      , "title-v1": "Create a site now"
       , "text-v1": "Start by telling us about your loved one:"
       , "input-firstname-placeholder": "First name"
       , "input-lastname-placeholder": "Last name"
@@ -81,10 +81,10 @@
       , "input-dod-placeholder-partner": "Date of death"
       , "input-email-placeholder-partner": "Claimant's e-mail"
       , "input-phone-placeholder-partner": "Claimant's phone number"
-      , "cta-v0": "Create a tribute space"
-      , "cta-v1": "Create a tribute space"
-      , "lookup-text": "Looking for an existing space?"
-      , "lookup-tooltip": "Ask the family for the link to the space."
+      , "cta-v0": "Create a tribute site"
+      , "cta-v1": "Create a tribute site"
+      , "lookup-text": "Looking for an existing site?"
+      , "lookup-tooltip": "Ask the family for the link to the site."
     }
 
   , "places": {
@@ -107,8 +107,8 @@
     
   , "home": {
         "why": {
-            "title": "Why create an InMemori space."
-          , "text": "InMemori is a free service that helps you gather your close ones and receive their messages of condolences, memories and photos."
+            "title": "Why create an InMemori site."
+          , "text": "InMemori is a free service that helps you bring together friends and family to receive their messages of condolence, remembrances and photos."
           , "points": {
                 "1": {
                     "title": "Gather."
@@ -116,11 +116,11 @@
                 }
               , "2": {
                     "title": "Celebrate."
-                  , "text": "Each person that receives the link to the lnMemori space can post a message of condolences, a memory or a photo."
+                  , "text": "Each person that receives the link to the lnMemori site can post a message of condolence, a remembrance or a photo."
                 }
               , "3": {
                     "title": "Remember."
-                  , "text": "Receive a beautiful book gathering all the words and photos shared on the space in tribute to your loved one."
+                  , "text": "Receive a beautiful book containing all the words and photos shared on the site in tribute to your loved one."
                 }
           }
         }
@@ -131,24 +131,24 @@
         }
 
       , "book": {
-            "title": "Keep records."
-          , "text": "The InMemori book is a beautiful keepsake of all the messages and photos shared by your close ones.\n Shaped by a craftsman-printer based in the South of France, the layout is formatted by InMemori team, so you don’t have to spend hours doing it yourself."
+            "title": "Preservation."
+          , "text": "The InMemori book is a beautiful keepsake of all the messages and photos shared by your family and friends.\n Fabricated by a traditional printshop in the South of France, with the actual layout done by InMemori staff, so you don’t have to spend hours doing it yourself."
         }
 
       , "farewell": {
             "title": "Honor each life."
           , "points": {
                 "1": {
-                    "title": "Intimacy."
-                  , "text": "InMemori spaces are intimate and never appear in search engine results."
+                    "title": "Privacy."
+                  , "text": "InMemori sites are private and never appear in search engine results."
                 }
               , "2": {
                     "title": "Dignity."
-                  , "text": "InMemori offers families an elegant and sober space, void of “likes” and advertising."
+                  , "text": "InMemori offers families a handsome, understated site, void of “likes” and advertising."
                 }
               , "3": {
                     "title": "Universality."
-                  , "text": "InMemori is free and made for all ages, cultures and beliefs."
+                  , "text": "InMemori is free of charge and intended for all ages, cultures and beliefs."
                 }
           }
         }
@@ -162,7 +162,7 @@
           , "text": "Invite family members and friends to share their memories together.\nInMemori is a safe place to post your photos and stories and remember what was so special about your loved one.\nYou can also send the family flowers and donate to charity organizations of their choice to show your support, in just 5 minutes."
         }
       , "how": {
-            "title": "How it works"
+            "title": "How it works."
           , "text": "InMemori is a free service that helps you celebrate the memory of the person you lost. In a few easy steps, gather family and friends, celebrate your loved one's life and remember together."
           , "create": {
                 "title": "Create a page"
@@ -200,22 +200,22 @@
           , "more": "Read all the testimonials"
           , "one": {
                 "from": "C.L.R."
-              , "text": "Dear InMemori, Thanks to you, my brother remains in our memories and a place accessible to the greatest number is dedicated to him. When a loved one leaves us, it’s difficult to pay homage, to know what its place is, and that's why I find InMemori extraordinary: everyone from near and far can say few words, share a memory, a photo, a thought. Thank you very much."
+              , "text": "Dear InMemori, Thanks to you, my brother has remained in our memories and there is a site just for him that everyone can go on. When someone leaves us, it is hard to express just who he was and that is why I find InMemori so wonderful: anyone and everyone, near or far, can say something, share a memory, a picture or a thought. Thank you very much."
             }
           , "two": {
                 "from": "B.V."
-              , "text": "The InMemori website is outstanding. It helps relieve families of hard logistics at such painful times. The website is light and clear. The messages and photos left are a great tribute to the deceased and allow families to receive supportive thoughts or prayers. Congratulations for this very nice initiative."
+              , "text": "The InMemori website is outstanding. It relieves families of logistics that are hard to manage in such a painful time. The site is understated and clear. The messages and photos posted are a beautiful tribute to the departed and are a way for families to receive supportive thoughts and prayers. A wonderful endeavor. Well done!"
             }
           , "three": {
                 "from": "P.V."
-              , "text": "I would like to wholeheartedly thank you for your wonderful service. Thanks to you, I was able to easily inform our close ones around the world. In addition, the messages of condolences, the memories and photos of my dear husband were a source of comfort during this period of deep mourning."
+              , "text": "I would like to thank you with all my heart for your wonderful service. Because of you, it was quite easy to share our sad news with people we know all over the globe. In addition, the messages of condolences, remembrances and photos of my dear husband were a source of comfort during that period of deep mourning."
             }
         }
       , "celebrate": {
             "title": "Celebrate a life"
           , "text": "InMemori is a free service that helps you celebrate the memory of your loved one, and gather family and friends. We are here for you."
-          , "cta-view": "View sample page"
-          , "cta-create": "Create a space now"
+          , "cta-view": "View sample site"
+          , "cta-create": "Create a site now"
         }
     }
 }
