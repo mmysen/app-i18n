@@ -138,7 +138,7 @@
 
   , "donation": {
         "title": "New donation"
-      , "subtitle": "InMemori propose le taux de commission le plus faible possible (5%). \n Il sert à financer les frais liés aux transactions bancaires"
+      , "subtitle": "InMemori applies a 5% commission rate to support the costs related to banking transactions."
       , "amounts": "50,100,150,200,300"
       , "title-success": "Thank you for your support!"
       , "input-firstname-placeholder": "First name"
