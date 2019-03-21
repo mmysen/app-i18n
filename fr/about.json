@@ -311,9 +311,10 @@
       ]
     }
 
-  , "partners": {
+ , "partners": {
         "title": "Ils s'engagent à nos côtés."
       , "a-text": "Ils offrent InMemori aux familles."
+      , "b-text": ""
       , "a": [
             {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Allianz_tctwwz"
@@ -360,6 +361,16 @@
              , "website": ""
             }
           
+        ]
+      , "b": [
+            {
+               "image": ""
+             , "website": ""
+            }
+          , {
+               "image": ""
+             , "website": ""
+            }
         ]
     }
 
