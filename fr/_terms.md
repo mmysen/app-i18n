@@ -128,7 +128,7 @@ L’Utilisateur est informé et accepte que l’Administrateur dispose de la pos
 
 <br/>  
 
-*6.2.2. Fonctionnalités de l’Interface d’Administration*
+*6.1.2. Fonctionnalités de l’Interface d’Administration*
 
 L'Interface d’Administration permet notamment aux Administrateurs de :
 
