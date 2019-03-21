@@ -44,7 +44,7 @@ Les définitions suivantes sont applicables à l’intégralité des CGU :
 
 **« Site »** : désigne le site internet accessible à l’adresse [www.inmemori.com](http://www.inmemori.com), exploité par InMemori, qui héberge les Contenus Utilisateur sur les Espaces en Hommage et qui permet d’accéder aux Services InMemori.
 
-« **Utilisateur** » : désigne toute personne qui accède à l’Espace en Hommage.
+**« Utilisateur »** : désigne toute personne qui accède à l’Espace en Hommage.
 
 Chaque terme débutant par une majuscule, qu’il soit employé au singulier ou au pluriel, a le sens qui lui est donné ci-dessus.
 
