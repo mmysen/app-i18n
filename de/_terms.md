@@ -51,7 +51,7 @@ Jeder geschriebene Begriff hat die oben definierte Bedeutung, ob er im Singular 
 
 ### **2. Annahme der ANB**
 
-#### 2.1.  _ Annahme der ANB (Verwalter)_
+#### 2.1.  _Annahme der ANB (Verwalter)_
 
 Der Ersteller eines Gedenkbereichs muss bei der Einrichtung dieses Bereichs die geforderten Informationen eintragen und/oder ergänzen.
 
@@ -61,7 +61,7 @@ Klickt der Verwalter den Link an, nimmt er die ANB an. Die während der Nutzungs
 
 <br/>  
 
-#### 2.2.  _ Annahme der ANB (Nutzer)_
+#### 2.2.  _Annahme der ANB (Nutzer)_
 
 Mit jedem Zugriff auf die Website und jeder Nutzung der Website nimmt der Nutzer die ANB ausdrücklich vorbehaltlos an.
 
