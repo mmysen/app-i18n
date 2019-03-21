@@ -15,7 +15,7 @@ Unter den folgenden, für die gesamten ANB geltenden Begriffen ist jeweils Folge
 
 **„Verwalter"**: die Person, die zur Verwaltung des Gedenkbereichs benannt wurde.
 
-**„InMemori -Inhalt"**: alle im Eigentum von InMemori stehenden Inhalte, Informationen oder Elemente, insbesondere die Website, ihr Quellcode und Objektcode, ihre Architektur, ihr Design und überhaupt alle in der Website vorhandenen oder auf der Website und/oder über die Website zugänglichen Inhalte, bei denen es sich nicht um Nutzerinhalte handelt, sowie alle Texte, Schriftzüge, Logos, Namen, Marken, Domainnamen, Funktionen, Bilder, Tonaufnahmen, Daten, Fotos und alle mit InMemori im Zusammenhang stehenden Materialien oder Computerprogramme.
+**„InMemori-Inhalt"**: alle im Eigentum von InMemori stehenden Inhalte, Informationen oder Elemente, insbesondere die Website, ihr Quellcode und Objektcode, ihre Architektur, ihr Design und überhaupt alle in der Website vorhandenen oder auf der Website und/oder über die Website zugänglichen Inhalte, bei denen es sich nicht um Nutzerinhalte handelt, sowie alle Texte, Schriftzüge, Logos, Namen, Marken, Domainnamen, Funktionen, Bilder, Tonaufnahmen, Daten, Fotos und alle mit InMemori im Zusammenhang stehenden Materialien oder Computerprogramme.
 
 **„Nutzerinhalt”**: die Elemente, insbesondere Botschaften, Andenken und Fotos, die von einem Nutzer im Gedenkbereich oder überhaupt auf der Website veröffentlicht werden.
 
@@ -41,9 +41,9 @@ Unter den folgenden, für die gesamten ANB geltenden Begriffen ist jeweils Folge
 
 **„InMemori-Dienste"**: der Gedenkbereich, die Zusatzleistungen, der Spendensammeldienst und überhaupt alle auf der Website verfügbaren Funktionen.
 
-**„Website"** : die unter [www.inmemori.com](http://www.inmemori.com) aufrufbare, von InMemori betriebene Website, auf der die Nutzerinhalte in den Gedenkbereichen gehostet werden und über die auf die InMemori-Dienste zugegriffen werden kann.
+**„Website"**: die unter [www.inmemori.com](http://www.inmemori.com) aufrufbare, von InMemori betriebene Website, auf der die Nutzerinhalte in den Gedenkbereichen gehostet werden und über die auf die InMemori-Dienste zugegriffen werden kann.
 
-« **Utilisateur** » : désigne toute personne qui accède à l’Espace en Hommage.
+**„Nutzer"**: jede Person, die auf einen Gedenkbereich zugreift.
 
 Jeder geschriebene Begriff hat die oben definierte Bedeutung, ob er im Singular oder Plural verwendet wird.
 
