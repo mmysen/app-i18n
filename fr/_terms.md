@@ -344,7 +344,7 @@ Les CGU s’appliquent à tous les Utilisateurs, pour une durée indéterminée,
 
 Les CGU peuvent être résiliées selon les modalités suivantes :
 
-- Pour les Utilisateurs : les CGU peuvent être résiliées à tout moment et gratuitement par l’Utilisateur, en contactant InMemori à l’adresse suivante contact@inmemori.com. En résiliant les CGU, l’Utilisateur accepte et s’engage à ne plus utiliser le Site et les Services InMemori.
+- Pour les Utilisateurs : les CGU peuvent être résiliées à tout moment et gratuitement par l’Utilisateur, en contactant InMemori à l’adresse suivante [contact@inmemori.com](mailto:contact@inmemori.com). En résiliant les CGU, l’Utilisateur accepte et s’engage à ne plus utiliser le Site et les Services InMemori.
 
 - Pour InMemori : en cas de manquement, les CGU peuvent être résiliées, moyennant un préavis de 40 jours, en notifiant l’Utilisateur à l’adresse électronique qu’il a indiquée.
 
