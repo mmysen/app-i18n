@@ -340,7 +340,7 @@ Die ANB gelten für alle Nutzer ab ihrer Annahme oder Nutzung der Website oder d
 
 Die ANB können wie folgt gekündigt werden:
 
-- vom Nutzer: der Nutzer ist berechtigt, die ANB jederzeit kostenlos durch Mitteilung an contact@inmemori.com zu kündigen. Mit der Kündigung der ANB verpflichtet sich der Nutzer, die Website und die InMemori-Dienste nicht länger zu nutzen.
+- vom Nutzer: der Nutzer ist berechtigt, die ANB jederzeit kostenlos durch Mitteilung an [contact@inmemori.com](mailto:contact@inmemori.com) zu kündigen. Mit der Kündigung der ANB verpflichtet sich der Nutzer, die Website und die InMemori-Dienste nicht länger zu nutzen.
 
 - von InMemori: bei einem Verstoß ist InMemori berechtigt, die ANB unter Einhaltung einer Kündigungsfrist von 40 Tagen durch Mitteilung an die vom Nutzer angegebene E-Mail-Adresse zu kündigen.
 
