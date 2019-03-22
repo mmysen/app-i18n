@@ -1,247 +1,449 @@
- ## Condiciones generales de uso  
+<br/>  
+<br/>  
 
-  
-Estas Condiciones Generales de Uso ("T y C" - Términos y Condiciones) están diseñadas para regular el uso por parte de cualquier persona (el "Usuario") de la página de internet (o sitio web) www.inmemori.com (el "Sitio") publicado por Rest In Peace (el "Editor").
+## Condiciones Generales de Utilización
 
-Cualquier acceso o uso del Sitio implica la aceptación sin reservas de estos Términos y Condiciones por parte de los Usuarios. Los Usuarios garantizan al editor que tienen todos los derechos, autorizaciones y permisos necesarios para aceptar los T y C en nombre de ellos o de la compañía, asociación u otra entidad (la "Entidad") en cuyo nombre o bajo cuya cuenta accedan o usen el Sitio.
+<br/>  
+_Versión aplicable desde el 21 de febrero 2019_
 
-El acceso o uso del Sitio por parte del Usuario implica la aceptación sin reservas de los T y C.
+Las presentes Condiciones Generales de Utilización (a continuación las « **CGU** ») constituyen el contrato suscrito entre cualquier Usuario y la sociedad por acciones simplificada InMemori, inscrita en el Registro Mercantil y de Sociedades de París con el número 821 346 970 (a continuación « **InMemori** »), para recurrir a los Servicios InMemori.
 
-El Editor tendrá derecho a modificar estos términos y condiciones en cualquier momento. Los términos y condiciones aplicables serán aquellos que estén vigentes y accesibles en el Sitio en la fecha en que el Usuario acceda al Sitio.
- 
-### 1) Presentación del sitio  
+<br/>  
+### **1. Definiciones**
 
-El Sitio www.inmemori.com está destinado a personas que acaben de perder un pariente y les proporciona un espacio digital privado y personal que se puede usar para:
+Las siguientes definiciones son aplicables a la totalidad de las CGU: 
 
-* Transmitir rápidamente información sobre los arreglos funerarios a todas las personas interesadas
-* Recibir los pésames y homenajes de sus allegados
-* Organizar una colecta de donaciones en memoria al difunto  
+**« Administrador »**: designa a toda persona que haya sido designada para gestionar el Espace en Hommage (Espacio en Homenaje).
 
-¿Cómo funciona?
+**« Contenido InMemori »**: designa todo contenido, información o elemento que pertenezca a InMemori, en particular el Sitio, su código fuente y su código objeto, su arquitectura, su diseño y en general todo contenido excepto el Contenido Usuario, que esté incluido o sea accesible en y/o a través del Sitio, así como todo texto, grafismo, logotipo, nombre, marca, nombre de dominio, funcionalidad, imagen, sonido, dato, fotografía y cualquier otro material o software vinculado a InMemori. 
 
-* El administrador (el "Administrador") accede a inmemori.com y crea un espacio privado, conocido como página de homenaje (la "Página de homenaje"), completando en panel de administración toda la información necesaria o que se considere útil para compartir: el nombre y apellido del difunto, la fecha de defunción, un mensaje introductorio personalizado, información útil sobre el funeral (fecha, hora y lugar de cada etapa de la ceremonia). El Administrador también puede organizar una colecta de fondos en memoria del fallecido, y los ingresos pueden ser destinados a la familia o una organización benéfica.
-* Una vez que se haya llenado la Página de homenaje, el Administrador recibirá un enlace privado para compartir, que podrá luego enviarse a todas las personas interesadas por mensaje de texto o correo electrónico.
-* Cada persona que reciba el enlace compartido podrá ver la Página de homenaje cliqueando en él. Podrá luego acceder a toda información útil sobre los arreglos funerarios que se hayan ingresado, y también dejar un mensaje de pésame, compartir un recuerdo y/o una fotografía y/ o colaborar con una donación. 
+**« Contenido Usuario »**: designa los elementos, en particular los mensajes, recuerdos y fotografías publicadas por un Usuario en el Espace en Hommage o en general en el Sitio. 
 
-El sitio fue diseñado para:
+**« Creador del Espace en Hommage »**: designa a toda persona que ha creado un Espace en Hommage.
 
-* Permitir a las familias transmitir rápidamente cualquier información útil sobre arreglos funerarios a todas las personas interesadas.
-* Permitir fácilmente que los familiares encuentren y accedan a esta información y que sea una manera clara y simple de rendir tributo a los difuntos. 
+**« Espace en Hommage »**: designa el espacio digital, personalizado y accesible, gracias al Vínculo para Compartir, que permite transmitir informaciones sobre los funerales de la Persona Fallecida, acceder a los Contenidos Usuario y acceder a sus funcionalidades.
 
-La forma en que el Sitio ha sido diseñado, combinado con la velocidad de las comunicaciones digitales, lo convierten en un servicio muy práctico y útil.
+**« Interface de Administración »**: designa la interface que permite al Administrador gestionar el Espace en Hommage. 
 
-### 2) Creación y activación de una página de homenaje  
+**« Vínculo para Compartir »**: designa la dirección URL única que permite acceder al Espace en Hommage. 
 
-Los Administradores crean páginas de homenaje accediendo al Sitio www.inmemori.com oo a través de un socio afiliado del Editor.  A los efectos de estos T y C, cualquier Administrador es considerado un Usuario del Sitio.
+**« Organizador de la Colecta »**: designa al Administrador que tiene la iniciativa de organizar una Colecta de Donaciones y que tiene la responsabilidad de su gestión. 
 
-Cualquier Administrador que desee crear una página de homenaje deberá completar el formulario que aparece en la página de inicio del Sitio. Los administradores serán redirigidos al panel de control de la Página de homenaje y pasarán por las varias etapas de creación de la Página de homenaje.
+**« Persona Fallecida »**: designa a la persona objeto del Espace en Hommage. 
 
-Una vez que un Administrador haya completado una página de homenaje, se le pedirá que la comparta a través de un mensaje de texto y/o correo electrónico.
+**« Servicios Anexos »**: designa el Servicio de Entrega de Flores y el Servicio de Pedido de Libro.
 
-Tan pronto como se haya creado la Página de homenaje, el Administrador recibirá un correo electrónico que contendrá el enlace al panel de administración; de esta manera podrá administrar la Página de homenaje que haya creado (ver sección 3 de estos T y C).
+**« Servicio de Entrega de Flores »**: designa el servicio de entrega de flores que permite a un Usuario hacer llegar flores gracias a una funcionalidad disponible en el Espace en Hommage.
 
-Tan pronto se haya completado la Página de homenaje, el Administrador también recibirá un correo electrónico que contendrá el enlace a ser compartido con todos los posibles interesados en la página  de homenaje.
+**« Servicio de Pedido de Libro »**: designa el servicio que permite encargar un libro que reúne los Contenidos Usuario gracias a una funcionalidad disponible en el Espace en Hommage.
 
-### 3) Funciones de una página de homenaje 
+**« Servicio de Colecta de Donaciones » o « Colecta de Donaciones »**: designa el servicio que permite a un Administrador organizar una colecta para apoyar una causa, gracias a una funcionalidad disponible en este Espace.
 
-El Administrador tendrá acceso a las siguientes funciones desde el panel de administración disponible a través del enlace provisto:
+**« Servicios InMemori »**: designa el Espace en Hommage, los Servicios Anexos, el Servicio de Colecta de Donaciones y en general todas las funcionalidades del Sitio. 
 
-* Obtener el enlace para compartir la Página de homenaje que podrá ser enviado fácilmente las personas interesadas ;
-* Ver un contador mostrando la cantidad de personas que accedan a la Página de homenaje ;
-* Ver y eliminar cualquier mensaje publicado en la Página de homenaje ;
-* Ver un contador de mensajes ;
-* Ver un resumen de todos los mensajes, recuerdos y/o fotografías subidos o publicados en la página de homenaje ;
-* Organizar una colecta o donación ;
-* Ver cuántas personas han colaborado con la donación ;
-* Obtener la información para contactar a las personas que hayan dejado un mensaje, un recuerdo, una fotografía y/o hayan hecho una donación en la Página de homenaje ;
-* Obtener la lista de donantes y los importes correspondientes de sus donaciones ;
-* Cerrar una colecta ;
-* Modificar la Página de homenaje en cualquier momento ;
-* Agregar cualquier persona como Administrador de la Página de homenaje; cada Administrador tendrá acceso al panel de administración y a sus funciones ;
-* Eliminar la Página en cualquier momento que lo desee.  
+**« Sitio »**: designa el sitio internet accesible en la dirección [www.inmemori.com](http://www.inmemori.com), explotado por  InMemori, que aloja los Contenidos Usuario de los Espaces en Hommage y que permite acceder a los Servicios InMemori.
 
-### 4) Acceso  
+**« Usuario »**: designa a toda persona que accede al Espace en Hommage. 
 
-Los Usuarios que reciban el enlace a ser compartido podrán acceder a la Página de homenaje con sólo cliquear en él.  
+Cada término con una mayúscula inicial, empleado en singular o en plural, tiene el sentido que se le ha asignado arriba.
 
-Los Usuarios podrán recibir el enlace para compartir la página de homenaje de un Administrador y/o cualquier otro usuario que haya recibido este enlace de antemano.   
+<br/>  
 
-### 5) Obligaciones del Administrador
+### **2. Aceptatión de las CGU**
 
-Cualquier violación de estos T y C por parte del Administrador puede dar lugar a la suspensión de su acceso al Sitio y a la eliminación de la Página de homenaje, sin perjuicio de cualquier retribución que el Editor pudiera tener derecho a reclamar.
+#### 2.1.  _Aceptatión de las CGU (Administrador)_
 
-De esta manera el Editor tendrá derecho a rechazar cualquier activación de una Página de homenaje que viole o haya violado las disposiciones de los presentes T y C.
+Durante la creación del Espace en Hommage, el Creador del Espace en Hommage informa y/o completa las informaciones solicitadas. 
 
-Los Administradores serán responsables de todos los datos que hayan ingresado directamente en el Sitio y en una Página de homenaje (consultar la sección 8 de estos T y C).
+El Administrador recibe entonces un email que le notifica la creación del Espace en Hommage. Este email contiene un vínculo que le permite acceder a la Interface de Administración, y personalizar y después difundir el Espace en Hommage. 
 
-### 6) Contribuciones  
+Al hacer clic en este vínculo, el Administrador acepta las CGU. Las CGU vigentes durante el período de utilización del Sitio se encuentran disponibles en todo momento en el Sitio.
 
-Los Usuarios que vean una Página de homenaje podrán contribuir de las siguientes maneras:
+<br/>  
 
-* Dejando un mensaje: Para hacerlo, los Usuarios deberán ingresar su nombre y apellido y correo electrónico, y escribir el mensaje a ser publicado en la Página de homenaje, agregándole una fotografía si lo desean.
-* Compartiendo un recuerdo: Para hacerlo, los Usuarios deberán ingresar su nombre y apellido y correo electrónico, y dejar el recuerdo  a ser publicado en la Página de homenaje, agregándole una fotografía si lo desean.
-* Compartiendo una fotografía: Para hacerlo, los Usuarios deberán ingresar su nombre y apellido y correo electrónico, y subir la fotografía que deseen que sea publicada en la Página de homenaje. 
-* Siendo parte de una colecta: Para hacerlo, los Usuarios deberán ingresar su nombre y apellido, correo electrónico y nacionalidad,  su país de residencia, su fecha de nacimiento y la cantidad de dinero que deseen donar.   
+#### 2.2.  _Aceptatión de las CGU (Usario)_
 
-De esta manera se informa a los Usuarios que el Administrador puede: (i) acceder a las direcciones de correo electrónico de los Usuarios que hayan dejado un mensaje, un recuerdo, una fotografía y/o que hayan hecho una donación en la Página de homenaje, (ii) descargar el contenido de los mensajes, recuerdos y fotografías ingresados o subidos por los Usuarios en la página de homenaje, (iii) eliminar los mensajes, los recuerdos  y / o las fotografías ingresados o subidos  por los Usuarios, sin que se notifique a los mismos.
+Todo acceso o utilización del Sitio implica la aceptación expresa y sin reservas de las CGU por el Usuario.
 
-### 7) Propriedad intelectual
+Durante la publicación de un Contenido Usuario, el Usuario acepta las CGU y recibe un correo electrónico que confirma la publicación de su Contenido Usuario. Este email contiene un vínculo para acceder a las CGU vigentes, disponibles en todo momento en el Sitio.
 
-#### 7.1) Propiedad intelectual de los Usuarios
+Todo Usuario que actúa en nombre y por cuenta de una persona jurídica (por ejemplo, una asociación) garantiza a InMemori que dispone del conjunto de los derechos, autorizaciones y poderes necesarios para la aceptación de las CGU.
 
+<br/>  
 
-**a) Publicación de contenidos**  
+### **3. Modificación de las CGU**
 
-El contenido y la información que los Usuarios publiquen en una Página de homenaje les pertenece.  Los Usuarios otorgan al Editor una licencia de propiedad intelectual gratuita, mundial, no exclusiva y transferible que podrá ser sub-licenciada, del contenido que publiquen en el Sitio durante el período completo que duren esos derechos (junto con cualquier extensión y/o renovación). Los Usuarios autorizan al Editor a reproducir y mostrar el contenido, y a adaptar su formato para que el Administrador pueda descargar y, cuando corresponda, imprimir, todos los mensajes, recuerdos y / o fotografías subidos o publicadas en una página de homenaje.
+InMemori permite la evolución de las funcionalidades del Sitio y de los Servicios InMemori para mejorar su funcionamiento y calidad.
 
-Los Usuarios podrán enviar un correo electrónico a contact@inmemori.com para quitar cualquier contenido. Los Administradores podrán eliminar cualquier contenido subido o publicado por un Usuario en las páginas que administren.
+InMemori puede modificar de manera unilateral las disposiciones de las CGU relacionadas con los aspectos técnicos del Sitio y de los Servicios InMemori, siempre que no se traduzca en un aumento de precios ni en una alteración de la calidad, y que las características a las cuales el Usuario ha subordinado su compromiso figuren en las CGU.
 
-Al usar una función específica, los Administradores podrán en cualquier momento, modificar y / o eliminar cualquier contenido o información que publicado en una Página de homenaje.
+<br/>  
 
-**b) Seguridad del contenido**  
+### **4. Objeto del Sitio**
 
-Se notifica a los Usuarios que, en vista de las características intrínsecas de Internet, el contenido y la información que se transmita por la red no estarán protegidos frente a los riesgos de apropiación indebida y/o piratería, por lo que el Editor no aceptará ninguna responsabilidad.
+El Sitio se dirige a personas que acaban de perder a una persona cercana y les permite crear un espacio digital, privado y personalizado para, en particular:
 
-Para garantizar la seguridad del Sitio, los Usuarios se comprometen a:
+ - transmitir y acceder a las informaciones sobre los funerales;
 
-* No publicar mensajes comerciales en el Sitio sin permiso.
-* No acceder al Sitio usando métodos automatizados.
-* No participar en prácticas de comercialización ilícitas.
-* No descargar ni cargar virus u otro código malicioso.
-* No intimidar ni acosar a otras personas.
-* No publicar ningún contenido que incite al odio o a la violencia, o contenido de naturaleza pornográfica o que contenga desnudos o violencia gratuita.
-*  No elaborar u operar aplicaciones de terceros cuyo contenido esté vinculado a bebidas alcohólicas, sitios de citas para adultos u otros productos y servicios para adultos (incluyendo anuncios publicitarios) sin restricción de acceso basada en la edad.
-* No utilizar el Sitio con fines ilícitos,  malintencionados o discriminatorios.
-* No permitir o alentar infracciones a los compromisos aquí citados.
-* No crear, si son Administradores, una falsa Página de homenaje, como, por ejemplo, un aviso de fallecimiento de una persona que no haya fallecido.  
+- recibir condolencias y recuerdos de sus allegados en el Espace en Hommage;
 
-#### 7.2) Derechos de propiedad intelectual de los Usuarios  
+- organizar una Colecta de Donaciones en memoria de la Persona Fallecida;
 
-Otros Usuarios del sitio (los "Otros Usuarios") podrán publicar contenido e información en línea en conformidad con estos T y C. Los Usuarios se comprometen a no ver el contenido de Otros Usuarios para ningún fin que no sea de uso personal y no comercial, según lo previsto y permitido por las funciones normales del Sitio.
+- acceder a los servicios y a las funcionalidades.
 
-Además, a la luz de la posibilidad de exportar contenido, los Usuarios se comprometen a no exportar el contenido de Otros Usuarios a sitios que constituyan o incluyan aspectos que constituyan (i) una infracción a los derechos de propiedad intelectual de terceros, (ii) un insulto a la dignidad de una persona (por ejemplo, difamación, insultos, blasfemias, etc.) o una violación del derecho a la intimidad, (iii) incitación a la violencia o el odio hacia cualquier individuo o grupo, (iv) incitación a la crueldad hacia los animales, (v) contenido sexualmente explícito o altamente sugestivo, (vi) una incitación a consumir drogas o participar en cualquier actividad ilegal, (vii) una amenaza al orden público y la moral pública, y en general, cualquier atropello a las normas vigentes y pertinentes.
+Los Servicios InMemori son accesibles en el Sitio.
 
-Para notificar de cualquier tipo de material reproducido, publicado o distribuido a través del Sitio que constituya una infracción a la propiedad intelectual, se deberá contactar al agente de derechos de autor designado por Editor enviando un mensaje por escrito o a través de un correo electrónico a contact@inmemori.com.  Cualquier aviso de infracción deberá incluir la siguiente información: (1) una descripción detallada de la obra protegida por derechos de autor que supuestamente se hayan infringido; (2) una descripción de la ubicación del material supuestamente infractor en el Sitio; (3) información de contacto, incluida la dirección, el número de teléfono y, si está disponible, la dirección de correo electrónico del notificador; (4) una declaración que indique de buena fe que el uso del material supuestamente en infracción no está autorizado por el propietario de la propiedad intelectual, su agente, o la ley; (5) una declaración bajo pena de perjurio, afirmando que la información en el aviso es precisa y que la persona que la  notifica está autorizada para actuar en nombre del propietario de los derechos de autor; y (6) una firma electrónica o física del propietario de los derechos intelectuales, o alguien autorizado en nombre del propietario de tales derechos para validar la infracción a los derechos intelectuales  y enviar la declaración. Téngase en cuenta que la información de contacto proporcionada en este párrafo es sólo para uso en casos de una supuesta infracción de derechos de autor.
+<br/> 
 
-#### 7.3) La propiedad intelectual des Editor
+### **5. Creación y acceso al Espace en Hommage**
 
-El sitio es propiedad exclusiva del Editor. Por norma general, el Editor otorga a los Usuarios el derecho libre, personal, no exclusivo e intransferible de acceder a, y utilizar el Sitio sujeto a la aceptación y cumplimiento de los T y C por los Usuarios, quedando expresamente excluido cualquier otro derecho en ausencia del consentimiento escrito del Editor.
+Para crear un Espace en Hommage, cualquier persona puede conectarse al Sitio e ingresar las informaciones solicitadas (en particular, la información sobre la Persona Fallecida, las coordenadas del Creador del Espace en Hommage y las informaciones sobre los funerales). 
 
-El contenido del Sitio, que no sea el contenido y la información subida o publicada por los Usuarios, que se incluye o se pueda acceder a través del Sitio, sea  texto, gráficos, logotipo, nombre, marca comercial, denominación, pestaña, funcionalidad, imagen, sonido, datos, fotografías y cualquier otro hardware -soporte físico-  o software -soporte lógico- (el "Contenido del Editor") es propiedad exclusiva del Editor o de sus licenciatarios, y está protegido por la ley de propiedad intelectual, estando sujeto a todas las leyes  y reglamentos vigentes y aplicables al respecto..
+Una vez que el Espace en Hommage ha sido creado, el Creador del Espace en Hommage recibe por correo electrónico la confirmación de su creación y el vínculo hacia la Interface de Administración.
 
-El Contenido del Editor no puede ser, bajo ninguna circunstancia, descargado, copiado, modificado, eliminado, distribuido, enviado o reenviado, transmitido, vendido, alquilado, concedido o aprovechado, total o parcialmente, de manera alguna, sin el consentimiento expreso por escrito del Editor. o de sus licenciatarios. Los Usuarios se comprometen a no utilizar ni aprovechar el Contenido del Editor para ningún otro fin que no sea el mencionado en estos T y C. Además, los Usuarios tienen prohibido modificar, mejorar, imprimir, traducir, descompilar, desmontar o crear una o más obras derivadas basadas total o parcialmente en el Contenido del Editor, a menos que el Editor, o los propietarios de este Contenido, les otorgue expresamente esta posibilidad a los Usuarios a través de un acuerdo por separado.
+Los Usuarios acceden al Espace en Hommage gracias al Vínculo para Compartir, el que está disponible en la Interface de Administración y puede ser compartido por el Administrador.
 
-### 8) Responsabilidades
+<br/>  
 
-#### 8.1) Responsabilidades des Editor
+### **6. Funcionamiento de los Servicios InMemori**
 
-El Editor proporciona a los Usuarios del Sitio una cantidad determinada de contenido e información creada y publicada por Otros Usuarios o por los Administradores. Los Usuarios, como autores, serán los únicos responsables del contenido y la información que publiquen en el Sitio. De esta manera y por la presente, el Editor renuncia a toda responsabilidad legal en los casos en que el contenido o la información publicada por Otros Usuarios viole las leyes y normativas vigentes o cause algún daño a algún Usuario en general o en particular o a cualquier otra persona.
+#### 6.1.  _Funcionamiento del Espace en Hommage_
 
-EL CONTENIDO Y LA INFORMACIÓN SON PROPORCIONADOS POR LOS USUARIOS Y/O ADMINISTRADORES Y DIFUNDIDOS POR EL EDITOR, TAL COMO ESTÁN, Y SÓLO CON FINES INFORMATIVOS. EL EDITOR NO GARANTIZA DE NINGUNA MANERA LA VERACIDAD DE LA INFORMACIÓN DIVULGADA POR LOS USUARIOS Y / O ADMINISTRADORES, Y, EN ESPECIAL, DE CUALQUIER TEXTO, NOMBRE O FOTOGRAFÍA QUE ÉSTOS SUBAN AL SITIO. EL EDITOR RECOMIENDA ENCARECIDAMENTE A LOS USUARIOS Y ADMINISTRADORES QUE VERIFIQUEN, CON SUMO CUIDADO, LA INFORMACIÓN QUE SUBAN AL SITIO, TENIENDO EN CUENTA LAS CIRCUNSTANCIAS DE GRAN TENSIÓN EMOCIONAL BAJO LAS QUE ESTA INFORMACIÓN ES COMPARTIDA. EL EDITOR ADEMÁS ADVIERTE A LOS USUARIOS Y ADMINISTRADORES SOBRE LAS CONSECUENCIAS DE PUBLICAR UNA FALSA PÁGINA DE HOMENAJE PARA INVENTAR EL ANUNCIO DEL FALLECIMIENTO DE UNA PERSONA QUE NO HAYA FALLECIDO, DE LA CUAL EL EDITOR RENUNCIA A TODA RESPONSABILIDAD POR MEDIO DE LA PRESENTE.1h
+*6.1.1. Funcionalidades ofrecidas por el Espace en Hommage*
 
-EN LA MEDIDA EN QUE ASÍ LO PERMITAN LAS NORMAS LEGALES, EL EDITOR  EXCLUYE TODAS LAS CONDICIONES, GARANTÍAS, DECLARACIONES U OTROS TÉRMINOS QUE PUEDAN APLICARSE AL SERVICIO O A CUALQUIER CONTENIDO DEL MISMO, YA SEAN EXPLÍCITOS  O IMPLÍCITOS.
+El Espace en Hommage permite en particular a los Usuarios:
 
-EL EDITOR NO ASUMIRÁ RESPONSABILIDAD ANTE NINGUNA PÉRDIDA O DAÑO SUFRIDOS POR EL USUARIO O TERCEROS, SEA POR CONTRATO, CULPA (INCLUYENDO NEGLIGENCIA), INCUMPLIMIENTO DE OBLIGACIONES AMPARADAS POR LA LEY, O CUALQUIER OTRO MODO, INCLUSO SI DICHOS DAÑOS FUERAN PREVISIBLES, QUE SURJAN O ESTÉN RELACIONADOS CON:
+- consultar los Contenidos Usuario;
 
-* EL USO, O LA IMPOSIBILIDAD DE USO, DEL SITIO ; 
-* EL USO O LA CONFIANZA O SEGURIDAD DEPOSITADA POR EL USUARIO EN CUALQUIER PRODUCTO O CONTENIDO PUBLICADO EN EL SITIO, DEL CUAL, CONCRETAMENTE,  EL EDITOR NO SEA RESPONSABLE POR:
-* LA PÉRDIDA DE BENEFICIOS, DE VENTAS, COMERCIAL O DE INGRESOS ;
-* INTERRUPCIÓN COMERCIAL ;
-* PÉRDIDA DE DATOS U OTROS PROGRAMAS ;
-* PÉRDIDA DE AHORROS PREVISTOS ;
-* PÉRDIDA DE OPORTUNIDAD COMERCIAL, FONDO DE COMERCIO O REPUTACIÓN ; 
-* CUALQUIER PÉRDIDA O DAÑO INDIRECTO O CONSECUENTE.
+- Compartir un mensaje o un recuerdo: el Usuario debe ingresar su apellido, nombre y dirección electrónica e inscribir el mensaje o el recuerdo que quiere publicar, adjuntando eventualmente una fotografía;
 
-EL EDITOR NO SERÁ RESPONSABLE DE NINGUNA PÉRDIDA O DAÑO CAUSADO POR UN VIRUS, UN ATAQUE DE DENEGACIÓN DE SERVICIO DISTRIBUIDO (DDoS) O CUALQUIER OTRO MATERIAL TECNOLÓGICO DESTRUCTIVO QUE PUEDA INFECTAR EL EQUIPO INFORMÁTICO, PROGRAMAS INFORMÁTICOS, DATOS Y DEMÁS MATERIAL PRIVADO DEL USUARIO DEBIDO AL USO DEL SITIO O A LA DESCARGA DE CUALQUIER CONTENIDO DEL SITIO O AL USO DE CUALQUIER OTRO SITIO WEB CON VÍNCULOS A ÉL.
+- compartir una fotografía: el Usuario debe ingresar su apellido, nombre y dirección electrónica, y adjuntar la fotografía que quiere publicar;
 
-NO HAY NADA EN ESTOS TÉRMINOS QUE PUEDA SER INTERPRETADO DE FORMA QUE EXCLUYA O LIMITE LA RESPONSABILIDAD DEL EDITOR EN CASO DE FALLECIMIENTO O DAÑOS FÍSICOS PRODUCTO DE NUESTRA NEGLIGENCIA, O FRAUDE O TERGIVERSACIÓN FRAUDULENTA, O CUALQUIER OTRA RESPONSABILIDAD QUE NO PUEDA SER EXCLUIDA O LIMITADA DE ACUERDO A LA LEGISLACIÓN VIGENTE.
+- participar en una Colecta de Donaciones: el Usuario debe ingresar su apellido, nombre y dirección electrónica, el importe de la donación que quiere hacer y su dirección postal (facultativo);
 
-Los Usuarios pueden denunciar cualquier abuso (tal como cualquier contenido que viole los derechos de propiedad intelectual de terceros, que incite al odio o la violencia, que sea pornográfico o contenga desnudos o violencia gratuita) que noten en el Sitio cliqueando en el enlace "denunciar abuso".  Luego se les pedirá que envíen un mensaje electrónico a la dirección abus@inmemori.com. También pueden enviar un mensaje electrónico a esta dirección directamente.
+- suscribirse a los Servicios Anexos: el Usuario selecciona la rúbrica pertinente en el Espace en Hommage y debe seguir el recorrido del pedido.
 
-#### 8.2) Responsabilidades del Usuario
+El Usuario es informado y acepta que el Administrador disponga de la posibilidad de (i)  recuperar las direcciones electrónicas de los Usuarios que han publicado un Contenido Usuario y/o que han hecho una donación en el Espace en Hommage, (ii) descargar los Contenidos Usuario publicados por los Usuarios en el Espace en Hommage, y (iii) suprimir un Contenido Usuario sin que éste sea prevenido.
 
-Al proporcionar contenido o información al Sitio (texto, fotografías, comentarios o nombres), los Usuarios deberán cumplir con los estatutos y regulaciones vigentes. Los Usuarios deberán asegurarse de que el almacenamiento y la publicación de estos contenidos o de esta información a través del Sitio no constituya (i) una violación a los derechos de propiedad intelectual de terceros, (ii) un insulto a la dignidad de una persona (por ejemplo, difamación, insultos, blasfemias, etc.) o una violación del derecho a la intimidad (iii) una amenaza al orden público y a la moral pública (como la apología de crímenes contra la humanidad, la incitación al odio racial, la pornografía infantil, etc.).  Al cargar contenido o información y ponerla a disposición del público en o a través del Sitio, los Usuarios garantizan que poseen todos los derechos y permisos requeridos por los titulares de los derechos afectados y que han pagado todos los derechos y pagos debidos bajo estos T y C a las compañías administradoras de derechos apropiadas.
+<br/>  
 
-En su defecto, el contenido o la información podrán ser retirados del Sitio sin ninguna formalidad previa. Además, los Usuarios podrán sufrir sanciones penales específicas a los casos de contenidos controversiales (sentencias de prisión y multas), además de la posibilidad de que se les ordene pagar daños y perjuicios. Dada la naturaleza de la comunidad del Sitio, y por respeto a la sensibilidad de todos, se espera que los Usuarios actúen con cierto sentido de respeto y ética en cuanto al tipo de contenido, información y/o comentarios que suban o carguen, y que se abstengan, en especial, de difundir cualquier contenido de naturaleza violenta o pornográfica.
+*6.1.2. Funcionalidades de la Interface de Administración*
 
-Los Usuarios se comprometen a indemnizar y eximir de culpa y cargo al Editor y a cada uno de sus respectivos directores, funcionarios, gerentes, empleados, accionistas, agentes, representantes y licenciatarios, de toda pérdida, gasto, daño y costo, incluidos los honorarios de los abogados y costos legales razonables que surjan  del uso del Sitio por los Usuarios, la violación de estos T & C o la violación de cualquier derecho de un tercero o una entidad. El Editor se reserva el derecho de tomar el control y defensa exclusivas ante cualquier reclamo al que tenga derecho a indemnización según lo dispuesto esta sección. En tal caso, los Usuarios aceptan cooperar con el Editor cuando sea solicitado razonablemente.
+La Interface de Administración permite en particular a los Administradores:
 
-#### 8.3) El Sitio está sujeto a las limitaciones propias de Internet
+- recuperar el Vínculo para Compartir;
 
-Los Usuarios declaran que son plenamente conscientes de las características y limitaciones de la red de Internet a través de la cual el Editor provee el Sitio y la Página de homenaje. De esta manera,  los Usuarios reconocen que (i) la transmisión de datos a través de Internet es solo relativamente confiable en términos técnicos, dado que los datos circulan a través de redes heterogéneas con diferentes características y capacidades técnicas que a veces se saturan en determinados momentos del día; (ii) los datos que transitan por Internet no están protegidos contra los riesgos de piratería o  de apropiación indebida, y  que cualquier información que se publique puede ser interceptada, (iii) es imposible controlar el uso que puedan hacer terceros,  de los datos que sean transmitidos a través de Internet.
+- saber cuántos Usuarios han consultado el Espace en Hommage;
 
-Por lo tanto, el Editor se exime de responsabilidad por cualquiera de los hechos o eventos mencionados anteriormente.
+- conocer el número de Contenidos Usuario;
 
-El Editor también se exime de responsabilidad en cualquier caso de fuerza mayor, incluidos el mal funcionamiento de la red de Internet, de las líneas telefónicas, de la terminal receptora del Usuario, etc., que evite o impida el uso del Sitio y la administración o visualización de la Página de homenaje.
+- consultar y suprimir los Contenidos Usuario;
 
-### 9) Protección de datos
+- descargar los Contenidos Usuario;
 
-#### 9.1) Datos personales
+- organizar y administrar una Colecta de Donaciones;
 
-Los datos personales de los Usuarios que recopile el Editor comprenderán específicamente:
+- recuperar las coordenadas de los Usuarios que han publicado un Contenido Usuario o participado en una Colecta de Donaciones;
 
-nombre y apellido, edad, país de residencia y nacionalidad ;
-dirección de correo electrónico ;
-dirección de IP (dirección virtual asignada a una terminal conectada a Internet).
+- recuperar la lista de los Usuarios que han participado en una Colecta de Donaciones y los importes correspondientes;
 
-#### 9.2) Finalidades de la recopilación y el procesamiento de datos
+- modificar el Espace en Hommage en cualquier momento;
 
-El responsable a cargo del procesamiento de los datos personales de los Usuarios es el Editor.
+- designar nuevos Administradores.
 
-Los datos personales de los Usuarios que sean recopilados y procesados por el editor tienen por finalidad:
+Unicamente el Creador del Espace en Hommage dispone de la facultad de cerrar el Espace en Hommage, funcionalidad disponible en la Interface de Administración.
 
-permitir a los Usuarios acceder a las funciones y opciones en el Sitio ;
-permitir a los Administradores acceder a las funciones que les sean asignadas ;
-permitir a los Usuarios contactarse entre ellos ;
-permitir que el  Editor envíe a los Usuarios respuestas a solicitudes y demás información necesaria  por correo electrónico ;
-compilar estadísticas generales sobre el tráfico del Sitio y sobre las diferentes secciones contenidas en él ;
-cualquier otro propósito relacionado con lo mencionado anteriormente.
+<br/>  
 
-#### 9.3) Protección de datos
+#### 6.2.  _Funcionamiento del Servicio de Colecta de Donaciones_
 
-El Editor se compromete a proteger, con la más estricta confidencialidad, todos los datos personales de los Usuarios que sean recopilados y procesados por éste, conforme a las disposiciones legales y reglamentarias aplicables.
+En la Interface de Administración, el Administrador puede organizar una Colecta de Donaciones en provecho de una causa o de sus allegados. Los flujos financieros de la Colecta de Donaciones son gestionados por la sociedad Stripe, que es un prestatario de servicios de pago, lo que permite simplificar la transferencia de fondos gracias a una infraestructura digital especialmente dedicada. 
 
-El procesamiento de los datos personales de los Usuarios puede llegar a implicar el uso, preservación, registro, transferencia, adaptación, análisis, resumen, modificación, información, intercambio y destrucción de los datos personales, dependiendo de lo que sea necesario a la luz de las circunstancias o de los derechos legales requeridos en el momento.
+El Organizador de la Colecta ingresa en la Interface de Administración las informaciones necesarias para crear una Colecta de Donaciones, y en particular informas sobre el beneficiario de la misma (por ejemplo, una asociación). Una vez que la Colecta de Donaciones ha sido creada y está activa, aparece un botón « Hacer una donación » en el Espace en Hommage, lo que permite a los Usuarios contribuir. 
 
-Todos los datos personales que se recopilen serán conservados por un período limitado, en función de la finalidad del tratamiento y al período de retención de datos permitido por la legislación vigente. 
+Una vez los fondos recolectados, el Organizador de la Colecta se compromete a cerrar la Colecta de Donaciones y a aportar determinadas informaciones requeridas por Stripe en el marco de las reglas relativas al combate contra el blanqueo de dinero. 
 
-#### 9.4) El derecho de los Usuarios a objetar el uso de sus datos o corregirlo y eliminarlos 
+Una vez que Stripe ha realizado las verificaciones, los fondos son desbloqueados y enviados a la cuenta bancaria del Organizador de la Colecta, sin que esos fondos transiten por la cuenta de InMemori. Una comisión de 5% sobre el importe total de la Colecta de Donaciones es cobrado en este momento a título de los gastos de servicio de InMemori.
 
-De conformidad con las disposiciones legales y reglamentarias aplicables, los Usuarios pueden en cualquier momento:
+El Organizador de la Colecta se compromete a pagar los fondos recibidos al beneficiario inicialmente escogido y presentado a los Usuarios.
 
-objetar el procesamiento de sus datos personales por parte del Editor ;
-oponerse a que sus datos personales sean transmitidos a terceros ;
-acceder a todos los datos personales que les pertenezcan que el Editor posea ;
-corregir, actualizar y/o eliminar cualquiera de lo datos personales que les pertenezcan que estén en poder del Editor.
+<br/>  
 
-Para poder ejercer sus derechos, los Usuarios solo necesitan enviar un correo electrónico al Editor a contact@inmemori.com, suministrando pruebas de su identidad (nombre y apellido, dirección de correo electrónico y copia adjunta de un documento de identidad válido).
+#### 6.3. _Funcionamiento de los Servicios Anexos_  
 
-### 10) Disponibilidad del Sitio
+*6.3.1. Funcionamiento del Servicio de Entrega de Flores*
 
-El Sitio y las Páginas de homenaje estarán, en principio, accesibles durante todo el día, los 7 días de la semana, excepto en el caso de una interrupción programada o no programada para fines de mantenimiento, falla de Internet o cualquier caso de fuerza mayor. El Editor renuncia a la responsabilidad por cualquier daño que pueda resultar de la falta de disponibilidad del sitio o de cualquier Página de homenaje en particular.
+El Usuario puede hacer llegar flores al lugar de los funerales gracias a la funcionalidad « Envia flores » disponible en el Espace en Hommage. Al hacer clic en el vínculo, el Usuario puede tener acceso a los productos propuestos por la sociedad asociada y a sus precios. 
 
-El Editor no garantiza que el sitio y su servidor estén libres de virus y/u otros elementos peligrosos. Es responsabilidad de los Usuarios tomar todas las precauciones adecuadas para proteger sus propios datos y/o aplicaciones de software de ser contaminados por cualquier virus que circule por Internet y para verificar que su configuración de servicios tecnológicos (TI) no contenga ningún virus y se encuentre en buenas condiciones de funcionamiento. 
+El Usuario tiene la libertad de suscribir o no el Servicio de Entrega de Flores. En el momento del pedido, el Usuario precisa el lugar de entrega y puede adjuntar un texto de acompañamiento.
 
-### 11) Enlaces a sitios externos
+La prestación de preparación de ramos y de entrega es realizada por una sociedad asociada con InMemori. A contar del pedido por el Usuario en el Sitio, InMemori se encarga de transmitir las informaciones a la sociedad asociada.
 
-El Sitio podrá tener enlaces a otros sitios en Internet. Estos sitios pueden llegar a contener información o material que algunas personas consideren inapropiado u ofensivo. Estos otros sitios no están bajo el control del Editor y el Editor no se responsabiliza por la exactitud de la información proporcionada, el cumplimiento de los derechos de autor, legalidad, decencia, ni ningún otro aspecto del contenido de dichos sitios. La inclusión de dichos enlaces no implica la aprobación de ningún sitio por parte del Editor ni de cualquier forma de asociación alguna con sus gestores.
+<br/>  
 
-Cualquier área del Sitio que sea accedida a través de un servicio en línea registrado a un tercero está sujeta a las reglas, políticas y directrices de dicho servicio en línea registrado a un tercero.
+*6.3.2. Funcionamiento del Servicio de Pedido de libro*
 
-### 12) Cookies  
+El Usuario puede pedir un libro que contiene todo o parte de los Contenidos Usuario publicados en el Espace en Hommage, gracias a la funcionalidad « Ordena el libro » disponible en el Espace en Hommage. Al hacer clic en el vínculo, el Usuario puede tener acceso a los productos propuestos por la sociedad asociada y a sus precios. 
 
-Consulte la política de cookies que forma parte integral de estos T y C.
+El Usuario es libre de suscribir o no el Servicio de Pedido de libro. En el momento del pedido, el Usuario precisa la cantidad de libros deseada y el lugar de entrega.
 
-### 13) Divers  
+La prestación de puesta en Espace, impresión y confección del libro y entrega se realiza por una sociedad asociada con InMemori. A contar del pedido por el Usuario en el Sitio, InMemori se encarga de transmitir la información a la sociedad asociada.
 
-Los registros conservados en las instalaciones del Editor, de acuerdo a los más altos estándares de seguridad, serán considerados pruebas del intercambio de mensajes electrónicos, el envío de formularios de inscripción y la subida de contenido al Sitio. Los formularios de inscripción se archivarán en un medio que garantice su almacenamiento preciso y duradero según lo exijan las disposiciones legales vigentes. En caso de divergencia entre los registros del Editor y cualquier otro documento guardado por los Usuarios en papel o formato electrónico, los registros del Editor prevalecerán y tendrán valor de prueba.
+<br/>  
 
-Para ver los Términos y Condiciones generales sobre las funciones de la recopilación de datos consulte los términos y condiciones de MangoPay.
+### **7. Compromisos de los Usuarios**
 
-### 14) Normativas aplicables y resolución de litigios
+#### 7.1. _Compromisos generales del Usuario_ 
 
-Estos Términos y Condiciones de uso se regirán e interpretarán de acuerdo con la legislación francesa. 
-Cualquier litigio relacionado en alguna manera con el uso del Sitio deberá ser enviado a los tribunales de París, en el caso en el que no se pueda encontrar una solución amistosa entre el Usuario y el Editor.
+El Usuario se compromete a respetar las obligaciones previstas en las CGU, y en particular a:
 
-Actualizado : 18/12/2017
+- no publicar comunicaciones comerciales en el Sitio ni utilizarlo con fines comerciales;
+
+- no acceder al Sitio utilizando métodos automatizados;
+
+- no desarrollar ni explotar una aplicación diferente cuyo contenido esté vinculado con bebidas alcohólicas, sitios de encuentros de adultos y otros productos y servicios para adultos (incluida la publicidad), sin restricción de acceso vinculado a la edad;
+
+- no utilizar el Sitio con fines ilegales, malintencionados o discriminatorios;
+
+- no permitir ni estimular las infracciones a las CGU;
+
+- no crear un Espace en Hommage cuando la Persona Fallecida se encuentre viva, sea ficticia o desconocida para el Usuario;
+
+- no descargar el Contenido InMemori o hacer otro uso que el previsto por las CGU;
+
+- publicar el Contenido Usuario bajo su verdadera identidad; es decir, aportar su estado civil y una dirección email personal activa;
+
+- no hacer un uso personal del Contenido Usuario que pudiera haber sido descargado del Espace en Hommage, ni reutilizarlo con fines comerciales o difundirlo en Internet, y en particular en sitios que afecten el honor o la dignidad de la Persona Fallecida y de su entorno;
+
+- conservar una ética y moderación en cuanto a contenidos, informaciones y/o comentarios puestos en línea;
+
+- no publicar contenidos ilícitos, en particular contenidos:
+
+  - que hacen apología a crímenes contra la humanidad;
+
+  - que incitan a la comisión de actos de terrorismo y a su apología;
+
+  - que incitan al odio racial, al odio a personas en razón de su sexo, orientación o identidad sexual o a su minusvalía;
+
+  - de pornografía infantil, incitación a la violencia sexual o sexista, y relacionados con atentados contra la dignidad humana;
+
+  - que tengan carácter violento o pornográfico;
+
+  - que apunten a afectar a una persona, y en particular los contenidos difamatorios, insultos, injurias, etc.;
+
+  - contrarios al orden público y a las buenas costumbres;
+
+  - que constituyan una violación a los derechos de propiedad intelectual de terceros.
+
+<br/>  
+
+#### 7.2. _Compromisos del Organizador de la Colecta_  
+
+Cuando el Organizador de la Colecta, además de sus compromisos generales, es el Administrador, se compromete a:
+
+- seleccionar un beneficiario;
+
+- aportar las informaciones solicitadas por la sociedad Stripe;
+
+- asegurarse que el conjunto de los Usuarios haya tenido la oportunidad de contribuir a la Colecta de Donaciones cerrando la misma después de un plazo razonable y después de haber verificado que advirtió a todas las personas susceptibles de contribuir;
+
+- traspasar el conjunto de los fondos recibidos al beneficiario de la Colecta de Donaciones inicialmente elegido en el momento de creación de la misma;
+
+- asegurar el seguimiento de la Colecta de Donaciones e informar a los Usuarios que tengan preguntas sobre la Colecta de Donaciones y su pago al beneficiario;
+
+- efectuar las diligencias necesarias ante el beneficiario de la Colecta de Donaciones y los Usuarios con el fin de que éstos dispongan de los documentos fiscales que puedan serles solicitados en razón de su contribución.
+
+<br/>  
+
+#### 7.3. _Compromisos del Administrador_  
+
+Cuando es Administrador, además de sus deberes generales, el Usuario se compromete a:
+
+- respetar las reglas aplicables al tratamiento de los datos personales en el marco de la gestión del Espace en Hommage;
+
+- restringir la utilización de los datos personales de los Usuarios a la finalidad de administrar el Espace en Hommage, en particular no publicando los datos personales de los Usuarios fuera del Sitio o haciendo una utilización comercial de los mismos;
+
+- transmitir a InMemori cualquier petición de los Usuarios del Espace en Hommage que administra en relación con los datos personales.
+
+<br/>  
+
+### **8. Compromisos de InMemori**
+
+InMemori se compromete a asegurar la permanencia, continuidad y calidad del acceso y de la explotación del Sitio y de los Servicios InMemori.
+
+El Sitio y los Servicios InMemori son accesibles 24/24 horas y 7/7 días, excepto en caso de fuerza mayor o de comportamiento imprevisible e insuperable de terceros, y bajo reserva de eventuales averías e intervenciones de mantenimiento y de actualización necesarias para el buen funcionamiento del Sitio y el suministro de los Servicios InMemori.
+
+El Usuario está informado que InMemori puede limitar o suspender el acceso al Sitio o a los Servicios InMemori para proceder a operaciones de mantenimiento, actualización y mejoramiento.
+
+<br/>  
+
+### **9. Responsabilidades** 
+
+#### 9.1. _Responsabilidades en cuanto al Espace en Hommage y supresión de contenidos ilícitos_
+
+En su calidad de encargado de alojamiento, InMemori no tiene a su cargo una obligación de vigilancia de las actividades, informaciones o contenidos almacenados o tratados en el Sitio, pero deberá suprimir o hacer inaccesible desde el Sitio cualquier contenido ilícito desde el momento en que InMemori haya sido debidamente notificado de su existencia.
+
+El Usuario que constata la presencia en el Sitio de contenidos ilícitos o que contravienen a las CGU, está invitado a utilizar el dispositivo de denuncia, haciendo clic en el vínculo « Denunciar un abuso », que permite notificarlos a InMemori. El Usuario puede también enviar un correo electrónico a la dirección [abus@inmemori.com](mailto:abus@inmemori.com).
+
+Las informaciones que deben ser suministradas por los Usuarios en relación con hechos litigiosos son las siguientes:
+
+   (i) la fecha de la denuncia;
+   
+   (ii) la identidad del denunciante;
+
+   (iii) el nombre y la dirección de la sede social de InMemori;
+
+   (iv) la descripción de los hechos litigiosos y su localización precisa;
+
+   (v) los motivos por los cuales el contenido debe ser retirado (precisando las reglas y justificación de los hechos); y
+
+   (vi) la copia de la correspondencia enviada al autor o al editor de las informaciones o actividades litigiosas, pidiéndole interrumpirlas, retirarlas o modificarlas, o la justificación de la imposibilidad de contactarlo.
+
+Ninguna denuncia incompleta podrá ser considerada válida. Además, InMemori no es responsable de la exactitud y confiabilidad de los Contenidos Usuario, y más en general de cualquier información publicada en el Sitio.
+
+<br/>  
+
+#### 9.2. _Responsabilidades en relación con los Servicios Anexos_
+
+El Usuario está informado y reconoce que los Servicios Anexos son ejecutados por terceras sociedades, independientes y asociadas con InMemori. En este sentido, InMemori no puede garantizar la perfecta ejecución de los Servicios Anexos por cuanto se encuentran fuera de su control (por ejemplo, una falla en la entrega de flores). 
+
+En caso de daño causado por la mala ejecución o por la ausencia de ejecución de un Servicio Anexo, InMemori no podrá ser considerado responsable cuando:
+
+- el daño ha sido causado por el Usuario;
+
+- el daño ha sido causado por un hecho imprevisible e insuperable de terceros;
+
+- el daño tiene como causa directa o indirecta un caso de fuerza mayor.
+
+En cualquier caso, la responsabilidad de InMemori está limitada a daños ciertos, directos y previsibles y no podrá exceder las sumas pagadas por el Usuario para utilizar los Servicios Anexos. El Usuario renuncia a invocar la responsabilidad de InMemori por los daños indirectos que haya podido sufrir al utilizar los Servicios Anexos.
+
+<br/>  
+
+#### 9.3. _Responsabilidades en cuanto a la Colecta de Donaciones_
+
+El Organizador de la Colecta es el único responsable de la Colecta de Donaciones.
+
+De acuerdo con el funcionamiento del Servicio de Colecta de Donaciones, los fondos recibidos en el marco de la Colecta de Donaciones transitan a través de Stripe y son pagados al Organizador de la Colecta una vez efectuadas las verificaciones necesarias. 
+
+No puede reclamarse la responsabilidad de InMemori cuando el Organizador de la Colecta hace un uso indebido de los fondos percibidos. Corresponde a cada Usuario que haya contribuido verificar la buena fe del Organizador de la Colecta y el hecho que los fondos hayan sido entregados de acuerdo con el objetivo inicial de la Colecta de Donaciones.
+
+<br/>  
+
+### **10. Suspensión de los Servicios InMemori**  
+
+En caso de falta del Usuario a una de sus obligaciones, InMemori tomará contacto con el Usuario, por cualquier medio, con el fin de notificarle las faltas denunciadas. A contar de esta notificación, el Usuario dispone de un plazo de 30 días para responder a las quejas presentadas por InMemori.
+
+Si no hay respuesta o si no cesan la o las faltas del Usuario, InMemori puede suprimir los Contenidos Usuario de este usuario y bloquear la dirección email que ha utilizado para publicar su contenido o utilizar los Servicios InMemori.
+
+<br/>  
+
+### **11. Duración**  
+
+Las CGU se aplican a todos los Usuarios, por una duración indeterminada a contar de la aceptación de las CGU o de la utilización del Sitio o de los Servicios InMemori. 
+
+Las CGU pueden ser rescindidas de acuerdo a las modalidades siguientes:
+
+- Por los Usuarios: las CGU pueden ser rescindidas en cualquier momento y gratuitamente por el Usuario, tomando contacto con InMemori en la siguiente dirección: [contact@inmemori.com](mailto:contact@inmemori.com). Al rescindir las CGU, el Usuario acepta y se compromete a no utilizar más el Sitio ni los Servicios InMemori.
+
+- Por InMemori: en caso de falta, las CGU pueden ser rescindidas mediando un aviso previo de 40 días, notificando al Usuario en la dirección electrónica que éste ha indicado.
+
+La rescisión de las CGU entra en efecto de inmediato, bajo reserva de la completa y perfecta ejecución de los compromisos suscritos (a título de ejemplo, las obligaciones de pago en concepto de Servicios Anexos o las obligaciones relacionadas con el Servicio de Colecta de Donaciones).
+
+<br/>  
+
+### **12. Renuncia al derecho a retractación**
+
+De acuerdo con las disposiciones del Código del Consumo, el Usuario renuncia expresamente a su derecho a retractación en cuanto al Servicio de Entrega de Flores y al Servicio de Pedido de libros, en presencia de servicios personalizados y plenamente ejecutados antes del fin del plazo de retractación.
+
+<br/>  
+
+### **13. Propriedad intelectual**
+
+#### 13.1. _Contenidos InMemori_
+
+InMemori es titular del conjunto de los derechos de propiedad intelectual relacionados con los Contenidos InMemori, en particular el nombre de dominio [www.inmemori.com](http://www.inmemori.com), el código fuente y el código objeto, la marca InMemori registrada y la carta gráfica.
+
+Además, InMemori es productor de las bases de datos del Sitio. En consecuencia, está prohibida toda extracción y/o reutilización de la o las bases de datos en el sentido de los artículos L 342-1 y L 342-2 del Código de Propiedad Intelectual.
+
+Toda utilización, incluida cualquier forma de copia total o parcial, adaptación, distribución, aspiración y reproducción de los Contenidos InMemori (incluido el código fuente, el código objeto y las bases de datos) está formalmente prohibida sin el acuerdo previo y escrito de InMemori.
+
+<br/>  
+
+#### 13.2. _Contenidos Usuario_
+
+*13.2.1. Licencia de utilización*
+
+El Usuario es y continúa siendo titular del conjunto de los derechos de propiedad intelectual relacionados con los Contenidos Usuario. 
+
+Cada vez que publica un Contenido Usuario en el Sitio o en un Espace en Hommage, el Usuario concede a InMemori una licencia mundial, no exclusiva y sin canon (que incluye también el derecho a sub-licenciar) sobre dicho Contenido Usuario.
+
+A título de esa licencia, InMemori está autorizada por la duración legal de protección de los derechos de propiedad intelectual vinculados al Contenido Usuario, a:
+
+- utilizar los Contenidos Usuarios, integrarlos en su totalidad o parcialmente, con o sin modificación, sobre cualquier soporte, en particular digital, analógico o de papel,
+
+- reproducir o hacer reproducir todo o parte de los Contenidos Usuarios, de manera permanente o provisoria, así como cualesquier adaptaciones, sobre cualquier soporte, en particular papel o digital o sobre cualquier otro soporte conocido o desconocido, actual o futuro, y ello sin limitación de número; y para cualquier fin útil a su actividad actual y tal como ella evolucione en el tiempo,
+
+- adaptar o hacer adaptar todo o parte de los Contenidos Usuarios, modificarlos, transcribirlos total o parcialmente bajo cualquier forma, integrarlos total o parcialmente hacia o en obras existentes o futuras, y ello sobre cualquier soporte, en particular papel o digital, o sobre cualquier otro soporte conocido o desconocidos, actual o futuro;
+
+- traducir o hacer traducir los Contenidos Usuarios realizados a cualquier idioma o lenguaje de programación, total o parcialmente, y la reproducción resultante de esos Contenidos Usuarios sobre cualquier soporte, particularmente en papel o digital o cualquier otro soporte conocido o desconocido, actual o futuro;
+
+- difundir o hacer difundir total o parcialmente los Contenidos Usuarios y cualesquier adaptaciones tal como las antes mencionadas, de cualquier manera, por cualesquier procedimientos, conocidos o desconocidos actualmente y ello sobre todos los soportes y en todos los formatos;
+
+- poner en el mercado o suscribir cualquier contrato con vistas a poner los Contenidos Usuarios en el mercado, a título oneroso o gratuito, incluidas todas las adaptaciones tales como las antes mencionadas, total o parcialmente, por cualquier procedimiento o en cualquier soporte, en particular papel o digital, o sobre cualquier otro soporte conocido o desconocido, actual o futuro, y ello a destinación de cualquier público, sin limitación, y sin limitación de la cantidad;
+
+- hacer cualquier uso y cualquier explotación, a título personal o en beneficio de terceros, a título oneroso o gratuito, de los Contenidos Usuarios y de las eventuales adaptaciones u obras derivadas de los Contenidos Usuarios realizadas en aplicación de las presentes.
+
+Son cedidos también los derechos de explotación, comercialización, representación, edición y difusión de todo o parte de uno o varios Contenidos Usuario, directa o indirectamente, pudiendo ser utilizados en el estado que se encuentran o integrados con o sin modificación.
+
+El Usuario es informado, y acepta explícitamente, que esta licencia incluye el derecho de InMemori para representar, reproducir y más ampliamente utilizar el Contenido Usuario, todo o parte, bajo cualquier forma que sea y sobre cualquier soporte conocido o desconocido actualmente, así como cualquier adaptación del Contenido Usuario, con el fin de crear y editar una obra derivada (un libro) dedicado o la Persona Fallecida, obra que será distribuida a título gratuito u oneroso en el marco de la actividad de InMemori.
+
+**El Usuario acepta expresamente que la licencia es concedida a InMemori a título gratuito.**
+
+Esta licencia se concede por la duración legal de protección del derecho de propiedad intelectual vinculado al Contenido Usuario licenciado, y para una explotación en el mundo entero.
+
+<br/>  
+
+*13.2.2. Garantias*
+
+El Usuario garantiza a InMemori que dispone del goce pleno y total del Contenido Usuario. En este sentido, el Usuario garantiza en particular:
+
+- que publica el Contenido Usuario bajo su verdadera identidad y que ha suministrado a InMemori su estado civil y una dirección email personal activa;
+
+- que es titular del conjunto de los derechos de propiedad intelectual sobre el Contenido Usuario y que dispone de la capacidad de asignar la licencia mencionada más arriba; y
+
+- que el Contenido Usuario no afecta derechos de propiedad intelectual de terceros.
+
+El Usuario garantiza a InMemori frente a todas las alteraciones, reivindicaciones, recursos o acciones de parte de terceros sobre el fundamento de la violación de los derechos de cualesquier terceros, y en particular de los derechos de propiedad intelectual o industrial, contra la imitación fraudulenta, la competencia desleal, el parasitismo y más ampliamente la responsabilidad civil, todo ello referido a todo o parte de uno o varios Contenido(s) Usuario. El Usuario reembolsará a InMemori por cualquier suma que ésta haya gastado (y en particular gastos de abogados expuestos para su defensa) o cualesquier sumas a las cuales pudiera InMemori ser condenada a título de la presente cláusula, y ello sin perjuicio de los eventuales daños y perjuicios que pudiera reclamar InMemori.
+
+<br/>  
+
+### **14. Datos personales**
+
+InMemori concede gran importancia al respeto del reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo del 27 de abril de 2016 relativo a la protección de las personas físicas en cuanto al tratamiento de datos de carácter personal y a la libre circulación de tales datos (RGPD), así como a la ley n°78-17 del 6 de enero de 1978 relativa a informática, ficheros y libertades.
+Para saber más sobre el tratamiento y la seguridad de los datos personales realizados por InMemori, la Política de Confidencialidad se encuentra disponible en la siguiente dirección: [www.inmemori.com/legal](http://www.inmemori.com/legal).
+
+<br/>  
+
+### **15. Varios**
+
+Las CGU constituyen la totalidad del acuerdo que vincula al Usuario con InMemori. Las CGU reemplazan y anulan cualquier otra negociación, contrato, declaración o acuerdo anterior.
+
+Si una de las estipulaciones de las CGU resultara nula con respecto a una regla de derecho vigente o a una decisión judicial definitiva, será considerada no escrita, sin que eso implique la nulidad de las CGU ni alterar la validez de las otras estipulaciones.
+
+<br/>  
+
+### **16. Derecho aplicable y jurisdicciones competentes** 
+
+#### 16.1. _Derecho aplicable_
+
+Las CGU se rigen e interpretan de acuerdo con el derecho francés.
+
+<br/>  
+
+#### 16.2. _Jurisdicciones competentes_
+
+Todo litigio o impugnación relativa a la validez, interpretación, ejecución y/o término de las CGU quedará sometido a las jurisdicciones dependientes a la Audiencia Territorial de París.
+
+Por aplicación del artículo R. 631-3 del Código de Consumo, el consumidor puede recurrir, a su elección, además de una de las jurisdicciones territorialmente competentes en función del Código de Enjuiciamiento Civil, a la jurisdicción del lugar donde resida en el momento de suscribir el contrato o donde se produzca el hecho dañoso.
+<br/>
 <br/>
