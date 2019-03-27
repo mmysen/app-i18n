@@ -27,8 +27,8 @@
       , "reception": "Recepción"
     }
   , "dummyPlace": {
-        "name": "Lieu à préciser"
-      , "address": "France"
+        "name": "Lugar a especificar"
+      , "address": "México"
     }
   , "unauthorized": "nope"
   , "template": "Plantilla"
@@ -42,8 +42,8 @@
   , "showmore": "See More"
   , "memory-consent": "En cliquant sur « Partager », vous consentez au traitement de vos données personnelles nécessaire au bon fonctionnement du service."
   , "cookie": {
-        "text": "En naviguant sur notre site, vous acceptez l’utilisation de cookies afin de nous permettre d’améliorer votre expérience utilisateur. "
-      , "info": "En savoir plus"
-      , "cta": "Accepter"
+        "text": "Utilizamos cookies para mejorar nuestros servicios. Si continua navegando, consideramos que acepta su uso."
+      , "info": "Obtener más información"
+      , "cta": "Aceptar"
     }
 }
