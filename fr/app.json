@@ -233,10 +233,12 @@
         "link": {
             "title": "Envoyer le lien"
           , "text": "Envoyez le lien de l'espace à toutes les personnes qui souhaiteraient se manifester :"
+          , "message": "Bonjour, \n\nC'est avec une immense tristesse que nous vous annonçons le décès de {{fullname}}.\n\nNous venons de créer un espace InMemori, privé, sur internet afin de lui rendre hommage.\nEn vous rendant sur l'espace vous pourrez : \n- Consulter les informations sur les obsèques\n- Partager un message de condoléances, un souvenir, une photo\n\nNous apprécierons vos messages de soutien dans ces moments difficiles.\n\nAfin de ne pas oublier des personnes qui l'ont aimé(e), n'hésitez pas à partager cet espace à toutes les personnes concernées.\n\nAmitiés,\n\nVoici le lien de l'espace : {{automaticURLreplacement}}"
         }
       , "admin": {
             "title": "Ajouter un administrateur"
           , "text": "Saisissez l'adresse email de votre contact dans l’espace ci-dessous afin de lui donner accès à l'espace de gestion :"
+          , "message": "Texte admin {{automaticURLreplacement}}"
         }
       , "tab-link": {
             "text": "Copier le lien"
@@ -257,7 +259,7 @@
           , "success": "Email(s) envoyé(s) !"
           , "info": ""
         }
-      , "message": "Bonjour, \n\nC'est avec une immense tristesse que nous vous annonçons le décès de {{fullname}}.\n\nNous venons de créer un espace InMemori, privé, sur internet afin de lui rendre hommage.\nEn vous rendant sur l'espace vous pourrez : \n- Consulter les informations sur les obsèques\n- Partager un message de condoléances, un souvenir, une photo\n\nNous apprécierons vos messages de soutien dans ces moments difficiles.\n\nAfin de ne pas oublier des personnes qui l'ont aimé(e), n'hésitez pas à partager cet espace à toutes les personnes concernées.\n\nAmitiés,\n\nVoici le lien de l'espace : {{uri.page}}"
+      , "sender": "Nom de l'envoyeur"
       , "error": "Oups !"
     }
 
