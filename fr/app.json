@@ -231,7 +231,7 @@
 
   , "share": {
         "link": {
-            "title": "Envoyer le lien"
+            "title": "Envoyer le faire-part"
           , "text": "Envoyez le lien de l'espace à toutes les personnes qui souhaiteraient se manifester :"
         }
       , "admin": {
