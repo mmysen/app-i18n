@@ -28,7 +28,7 @@
     }
   , "dummyPlace": {
         "name": "Lieu à préciser"
-      , "address": "France"
+      , "address": "Deutschland"
     }
   , "unauthorized": "Melden Sie sich aus Sicherheitsgründen bitte erneut an, anhand der ersten InMemori-E-Mail, die Sie erhalten haben.\n\nSollten Sie diese E-Mail nicht finden oder auf Probleme stoßen, können Sie und gerne unter <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>."
   , "template": "Muster"
