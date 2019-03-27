@@ -18,10 +18,10 @@
       , "message": "Écrire un message"
       , "donation": "Faire un don"
       , "flowers": "Embellir la cérémonie"
-      , "book": "Commander le livre"
-      , "share": "Envoyer le lien"
+      , "book": "Recevoir le livre"
+      , "share": "Envoyer le faire-part"
     }
-  , "share-bar": "Envoyez le lien à vos contacts"
+  , "share-bar": "Envoyez le faire-part"
   , "home": {
         "intro": {
             "title": "Chère famille, chers amis, \nnous avons la grande tristesse de vous faire part du décès de {{firstname}}. \nCet espace est destiné à lui rendre hommage à travers un message, un souvenir ou une photo.\nVous y trouverez également toutes les informations pratiques. \n\n Merci pour votre présence à nos côtés."
@@ -43,8 +43,8 @@
           , "text": "Vous pouvez offrir des fleurs, simplement. \nCelles-ci seront livrées à l'heure sur un des lieux d'hommage."
         }
       , "book": {
-            "title": "Commander le livre"
-          , "cta": "Commander le livre"
+            "title": "Recevoir le livre"
+          , "cta": "Recevoir le livre"
           , "text": "Afin de garder une trace de tous ces magnifiques mots et photos écrits en hommage à {{firstname}}, commandez le livre imprimé en son hommage."
         }
       , "contact": {
@@ -64,7 +64,7 @@
               , "text-org": "Soutenez l’association {{org}}, selon les volontés de {{firstname}}."
             }
           , "share": {
-                "title": "Envoyer le lien"
+                "title": "Envoyer le faire-part"
               , "text": "Si vous connaissez une personne qui souhaiterait se manifester, n'hésitez pas à lui envoyer le lien de l'espace."
             }
         }
@@ -192,7 +192,7 @@
 
   , "book": {
         "step0": {
-            "title": "Mon livre InMemori"
+            "title": "Livre InMemori"
           , "subtitle": ""
           , "cta": "Commander"
         }
