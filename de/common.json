@@ -39,11 +39,11 @@
   , "no": "Nein"
   , "prev": "Zurück"
   , "next": "Weiter"
-  , "showmore": "See More"
-  , "memory-consent": "Durch Klicken auf « Teilen » stimmen Sie der Verarbeitung Ihrer persönlichen Daten zu, die für das ordnungsgemäße Funktionieren des Dienstes erforderlich sind."
+  , "showmore": "Mehr Infos"
+  , "memory-consent": "Indem Sie auf “Teilen” klicken, erteilen Sie die Zustimmung zur Verarbeitung Ihrer personenbezogenen Daten, die zur angemessenen Unterstützung des Dienstes erforderlich ist."
   , "cookie": {
-        "text": "Durch das Durchsuchen unserer Website akzeptieren Sie die Verwendung von Cookies, um Ihre Benutzererfahrung zu verbessern."
-      , "info": "Erfahren Sie mehr"
+        "text": "Durch Benutzung dieser Website erklären Sie sich mit der Verwendung von Cookies, um Ihre Benutzererfahrung zu verbessern."
+      , "info": "Mehr Infos"
       , "cta": "Akzeptieren"
     }
 }
