@@ -40,10 +40,10 @@
   , "prev": "Zurück"
   , "next": "Weiter"
   , "showmore": "See More"
-  , "memory-consent": "En cliquant sur « Partager », vous consentez au traitement de vos données personnelles nécessaire au bon fonctionnement du service."
+  , "memory-consent": "Durch Klicken auf « Teilen » stimmen Sie der Verarbeitung Ihrer persönlichen Daten zu, die für das ordnungsgemäße Funktionieren des Dienstes erforderlich sind."
   , "cookie": {
-        "text": "En naviguant sur notre site, vous acceptez l’utilisation de cookies afin de nous permettre d’améliorer votre expérience utilisateur. "
-      , "info": "En savoir plus"
-      , "cta": "Accepter"
+        "text": "Durch das Durchsuchen unserer Website akzeptieren Sie die Verwendung von Cookies, um Ihre Benutzererfahrung zu verbessern."
+      , "info": "Erfahren Sie mehr"
+      , "cta": "Akzeptieren"
     }
 }
