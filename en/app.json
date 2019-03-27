@@ -88,7 +88,7 @@
       , "input-email-info": "This way, the family can be in touch with you."
       , "input-message-placeholder-1": "Write a message for the family or share a memory of {{firstname}}..."
       , "input-message-placeholder-2": "Write a memory for the family or share a memory of {{firstname}}..."
-      , "cta": "Share on the InMemori book"
+      , "cta": "Share"
       , "cta-image": "Add picture"
       , "cta-image-uploading": "Uploading..."
       , "steps": {
