@@ -259,7 +259,7 @@
           , "success": "E-Mail verschickt!"
           , "info": ""
         }
-      , "sender": "Nom de l'envoyeur"
+      , "sender": "Ihr Vorname und Name"
       , "error": "Hoppla!"
     }
 
