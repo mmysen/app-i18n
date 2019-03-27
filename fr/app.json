@@ -100,7 +100,7 @@
 
 
   , "cart": {
-        "label-item": "ivre InMemori"
+        "label-item": "Livre InMemori"
       , "label-qty": "Quantité"
       , "label-price": "Prix"
       , "label-shipping": "Frais de livraison :"
