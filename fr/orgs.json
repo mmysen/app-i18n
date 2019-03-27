@@ -10,6 +10,7 @@
   , { "name": "Emmaüs" }
   , { "name": "Fondation Abbé Pierre" }
   , { "name": "Fondation pour la recherche médicale" }
+  , { "name": "Fonds pour les Soins Palliatifs" }   
   , { "name": "France Alzheimer" }
   , { "name": "Handicap International" }
   , { "name": "Les petits frères des Pauvres" }
@@ -24,7 +25,7 @@
   , { "name": "Sidaction" }
   , { "name": "Sourire à la vie" }
   , { "name": "Unicef" }
-  , { "name": "Vaincre la mucoviscidose" }
+  , { "name": "Vaincre la mucoviscidose" } 
 
 
 ]
