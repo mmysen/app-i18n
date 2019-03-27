@@ -253,7 +253,7 @@
           , "success": "Email(s) sent!"
           , "info": ""
         }
-      , "sender": "Nom de l'envoyeur"
+      , "sender": "Enter your first and last name(s) "
       , "error": "Oops!"
     }
 
