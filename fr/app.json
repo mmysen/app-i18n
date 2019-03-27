@@ -18,7 +18,7 @@
       , "message": "Écrire un message"
       , "donation": "Faire un don"
       , "flowers": "Embellir la cérémonie"
-      , "book": "Recevoir le livre"
+      , "book": "Commander le livre"
       , "share": "Envoyer le lien"
     }
   , "share-bar": "Envoyez le lien"
@@ -43,8 +43,8 @@
           , "text": "Vous pouvez offrir des fleurs, simplement. \nCelles-ci seront livrées à l'heure sur un des lieux d'hommage."
         }
       , "book": {
-            "title": "Recevoir le livre"
-          , "cta": "Recevoir le livre"
+            "title": "Commander le livre"
+          , "cta": "Commander le livre"
           , "text": "Afin de garder une trace de tous ces magnifiques mots et photos écrits en hommage à {{firstname}}, commandez le livre imprimé en son hommage."
         }
       , "contact": {
