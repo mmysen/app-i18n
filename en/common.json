@@ -18,7 +18,7 @@
   , "typesList": "ceremony,contemplation,interment,cremation,inhumation,gathering,reception"
   , "types": {
         "ceremony": "Ceremony"
-      , "dummy": "Cérémonie à préciser"
+      , "dummy": "Ceremony to be confirmed"
       , "contemplation": "Contemplation"
       , "interment": "Interment"
       , "cremation": "Cremation"
