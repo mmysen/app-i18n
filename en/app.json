@@ -227,10 +227,12 @@
         "link": {
             "title": "Send this page"
           , "text": "Send this page to everyone who's lives were touched by {{firstname}} by sharing this link:"
+          , "message": "Hello,\n\nIt is with a heavy heart that we must share the news of {{fullname}}'s death.\n\nWe have created an intimate page where we can support each other and pay homage to {{fullname}}'s memory.\n\nYour words of support and your memories will light our path as we traverse through darkness.\n\nBy going on the page, you can: \n\n- View information regarding planned memorial services\n- Share your condolences, a memory or photos with us \n\nWe've thought of you but have certainly forgotten others who have loved and now lost. Please share this page with anyone that comes to mind.\n\nThank you, infinitely.\n\nFeel free to access the page here: {{uri.page}}"
         }
       , "admin": {
             "title": "Add new administrator"
           , "text": "Enter your contact’s e-mail address to allow them access to the administration space:"
+          , "message": "Texte admin {{automaticURLreplacement}}"
         }
       , "tab-link": {
             "text": "Copy link"
@@ -251,7 +253,7 @@
           , "success": "Email(s) sent!"
           , "info": ""
         }
-      , "message": "Hello,\n\nIt is with a heavy heart that we must share the news of {{fullname}}'s death.\n\nWe have created an intimate page where we can support each other and pay homage to {{fullname}}'s memory.\n\nYour words of support and your memories will light our path as we traverse through darkness.\n\nBy going on the page, you can: \n\n- View information regarding planned memorial services\n- Share your condolences, a memory or photos with us \n\nWe've thought of you but have certainly forgotten others who have loved and now lost. Please share this page with anyone that comes to mind.\n\nThank you, infinitely.\n\nFeel free to access the page here: {{uri.page}}"
+      , "sender": "Nom de l'envoyeur"
       , "error": "Oops!"
     }
 

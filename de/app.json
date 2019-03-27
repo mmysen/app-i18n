@@ -233,10 +233,12 @@
         "link": {
             "title": "Seite teilen"
           , "text": "Teilen Sie diese Seite mit Allen, die in {{firstname}}s Leben eine Rolle spielten:"
+          , "message": "Liebe Freunde und Verwandte, \n\nWir haben die traurige Pflicht, Euch den Tod von {{fullname}} mitzuteilen.\n\nWir haben gerade im Internet eine private InMemori Seite eingerichtet, um ihm die letzte Ehre zu erweisen.\nAuf dieser Seite könnt Ihr: \n- Informationen zur Bestattung abrufen\n- Ein Beileidschreiben, eine Erinnerung oder ein Foto teilen\n\nIn diesen schwierigen Zeiten wissen wir Eure Unterstützung zu schätzen.\n\nDamit geliebte Menschen nicht in Vergessenheit geraten, könnt Ihr diese Seite gerne mit allen Betroffenen teilen.\n\nHerzlichst,\n\nDer Link der Seite lautet: {{uri.page}}"
         }
       , "admin": {
             "title": "Administrator hinzufügen"
           , "text": "Geben Sie die E-Mail-Adresse der Kontaktperson hier ein, um ihr Zugriff auf das Administrator-Konto zu erteilen:"
+          , "message": "Texte admin {{automaticURLreplacement}}"
         }
       , "tab-link": {
             "text": "Link kopieren"
@@ -257,7 +259,7 @@
           , "success": "E-Mail verschickt!"
           , "info": ""
         }
-      , "message": "Liebe Freunde und Verwandte, \n\nWir haben die traurige Pflicht, Euch den Tod von {{fullname}} mitzuteilen.\n\nWir haben gerade im Internet eine private InMemori Seite eingerichtet, um ihm die letzte Ehre zu erweisen.\nAuf dieser Seite könnt Ihr: \n- Informationen zur Bestattung abrufen\n- Ein Beileidschreiben, eine Erinnerung oder ein Foto teilen\n\nIn diesen schwierigen Zeiten wissen wir Eure Unterstützung zu schätzen.\n\nDamit geliebte Menschen nicht in Vergessenheit geraten, könnt Ihr diese Seite gerne mit allen Betroffenen teilen.\n\nHerzlichst,\n\nDer Link der Seite lautet: {{uri.page}}"
+      , "sender": "Nom de l'envoyeur"
       , "error": "Hoppla!"
     }
 

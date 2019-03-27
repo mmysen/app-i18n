@@ -233,10 +233,12 @@
         "link": {
             "title": "Compartir esta página"
           , "text": "Comparta esta página con todas las personas que tuvieron la fortuna de estar cerca de {{firstname}} :"
+          , "message": "Hola, \n\nCon gran pesar debemos informar del fallecimiento de {{fullname}}.\n\nHemos creado una página privada para conmemorar a {{firstname}}.\n\nSus palabras de apoyo y sus recuerdos son una luz en nuestro camino por la oscuridad.\n\nAl ir a la página, Ud. podrá: \n- Ver información acerca de la ceremonia conmemorativa que se haya planeado.\n- Compartir su pésame, sus recuerdos, o una fotografía con nosotros.\n\nHemos pensado en Ud. pero, con seguridad, hemos olvidado a otras personas que también amaron a su ser querido.\n\nFavor de compartir esta página con cualquiera que tenga en mente. \n\nLe estamos infinitamente agradecidos.\n\nNo dude en acceder a la página aquí:  {{uri.page}}"
         }
       , "admin": {
             "title": "Agregar un administrador"
           , "text": "Ingrese la dirección de correo electrónico de su contacto en el espacio a continuación para darle acceso al área de administración:"
+          , "message": "Texte admin {{automaticURLreplacement}}"
         }
       , "tab-link": {
             "text": "Copiar enlace"
@@ -257,7 +259,7 @@
           , "success": "¡Email(s) enviado(s)!"
           , "info": ""
         }
-      , "message": "Hola, \n\nCon gran pesar debemos informar del fallecimiento de {{fullname}}.\n\nHemos creado una página privada para conmemorar a {{firstname}}.\n\nSus palabras de apoyo y sus recuerdos son una luz en nuestro camino por la oscuridad.\n\nAl ir a la página, Ud. podrá: \n- Ver información acerca de la ceremonia conmemorativa que se haya planeado.\n- Compartir su pésame, sus recuerdos, o una fotografía con nosotros.\n\nHemos pensado en Ud. pero, con seguridad, hemos olvidado a otras personas que también amaron a su ser querido.\n\nFavor de compartir esta página con cualquiera que tenga en mente. \n\nLe estamos infinitamente agradecidos.\n\nNo dude en acceder a la página aquí:  {{uri.page}}"
+      , "sender": "Nom de l'envoyeur"
       , "error": "¡Uy!"
     }
 

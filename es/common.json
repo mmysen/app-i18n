@@ -40,4 +40,10 @@
   , "prev": "Regreso"
   , "next": "Siguiente"
   , "showmore": "See More"
+  , "memory-consent": "En cliquant sur « Partager », vous consentez au traitement de vos données personnelles nécessaire au bon fonctionnement du service."
+    , "cookie": {
+        "text": "En naviguant sur notre site, vous acceptez l’utilisation de cookies afin de nous permettre d’améliorer votre expérience utilisateur. "
+      , "info": "En savoir plus"
+      , "cta": "Accepter"
+    }
 }
