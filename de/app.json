@@ -238,7 +238,7 @@
       , "admin": {
             "title": "Administrator hinzufügen"
           , "text": "Geben Sie die E-Mail-Adresse der Kontaktperson hier ein, um ihr Zugriff auf das Administrator-Konto zu erteilen:"
-          , "message": "Texte admin {{automaticURLreplacement}}"
+          , "message": "Bonjour,\n\n J’ai créé un espace InMemori en hommage à {{fullname}} afin de transmettre les informations sur les obsèques à tous nos proches. Chacun peut, s’il le souhaite, y déposer un message de soutien, un souvenir ou une photo.\n Je t’ai ajouté comme administrateur de l’espace pour que tu m’aides à le personnaliser et à le gérer.\n\n Cet espace est privé. Seules les personnes à qui nous enverrons son lien sécurisé pourront y avoir accès.\n Tu peux aller consulter un espace d’exemple afin de bien comprendre le service InMemori en cliquant ici.\n Constance d’InMemori est à notre disposition pour toute question et est joignable au 06 01 98 52 36 ou par email à l’adresse contact@inmemori.com."
         }
       , "tab-link": {
             "text": "Link kopieren"
