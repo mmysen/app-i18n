@@ -238,7 +238,7 @@
       , "admin": {
             "title": "Ajouter un administrateur"
           , "text": "Saisissez l'adresse email de votre contact dans l’espace ci-dessous afin de lui donner accès à l'espace de gestion :"
-          , "message": "Bonjour,\n\nJ’ai créé un espace InMemori en hommage à {{fullname}} afin de transmettre les informations sur les obsèques à tous nos proches. Chacun peut, s’il le souhaite, y déposer un message de soutien, un souvenir ou une photo.\nJe t’ai ajouté comme administrateur de l’espace pour que tu m’aides à le personnaliser et à le gérer.\n\nCet espace est privé. Seules les personnes à qui nous enverrons son lien sécurisé pourront y avoir accès.\nTu peux aller consulter un espace d’exemple afin de bien comprendre le service InMemori en cliquant ici.\n\nConstance d’InMemori est à notre disposition pour toute question et est joignable au 06 01 98 52 36 ou par email à l’adresse contact@inmemori.com."
+          , "message": "Bonjour,\n\nJ’ai créé un espace InMemori en hommage à {{fullname}} afin de transmettre les informations sur les obsèques à tous nos proches. Chacun peut, s’il le souhaite, y déposer un message de soutien, un souvenir ou une photo.\nJe t’ai ajouté comme administrateur de l’espace pour que tu m’aides à le personnaliser et à le gérer.\n\nCet espace est privé. Seules les personnes à qui nous enverrons son lien sécurisé pourront y avoir accès.\nTu peux aller consulter un espace d’exemple afin de bien comprendre le service InMemori : www.inmemori.com/mdarricourt-e73qk.\n\nConstance d’InMemori est à notre disposition pour toute question et est joignable au 06 01 98 52 36 ou par email à l’adresse contact@inmemori.com."
         }
       , "tab-link": {
             "text": "Copier le lien"
