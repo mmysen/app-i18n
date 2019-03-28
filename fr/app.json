@@ -259,7 +259,7 @@
           , "success": "Email(s) envoyé(s) !"
           , "info": ""
         }
-      , "sender": "Saisissez vos prénom et nom"
+      , "sender": "De la part de"
       , "error": "Oups !"
     }
 
