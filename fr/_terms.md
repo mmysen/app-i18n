@@ -44,7 +44,7 @@ Les définitions suivantes sont applicables à l’intégralité des CGU :
 
 **« Site »** : désigne le site internet accessible à l’adresse [www.inmemori.com](http://www.inmemori.com), exploité par InMemori, qui héberge les Contenus Utilisateur sur les Espaces en Hommage et qui permet d’accéder aux Services InMemori.
 
-« **Utilisateur** » : désigne toute personne qui accède à l’Espace en Hommage.
+**« Utilisateur »** : désigne toute personne qui accède à l’Espace en Hommage.
 
 Chaque terme débutant par une majuscule, qu’il soit employé au singulier ou au pluriel, a le sens qui lui est donné ci-dessus.
 
@@ -128,7 +128,7 @@ L’Utilisateur est informé et accepte que l’Administrateur dispose de la pos
 
 <br/>  
 
-*6.2.2. Fonctionnalités de l’Interface d’Administration*
+*6.1.2. Fonctionnalités de l’Interface d’Administration*
 
 L'Interface d’Administration permet notamment aux Administrateurs de :
 
@@ -344,7 +344,7 @@ Les CGU s’appliquent à tous les Utilisateurs, pour une durée indéterminée,
 
 Les CGU peuvent être résiliées selon les modalités suivantes :
 
-- Pour les Utilisateurs : les CGU peuvent être résiliées à tout moment et gratuitement par l’Utilisateur, en contactant InMemori à l’adresse suivante contact@inmemori.com. En résiliant les CGU, l’Utilisateur accepte et s’engage à ne plus utiliser le Site et les Services InMemori.
+- Pour les Utilisateurs : les CGU peuvent être résiliées à tout moment et gratuitement par l’Utilisateur, en contactant InMemori à l’adresse suivante [contact@inmemori.com](mailto:contact@inmemori.com). En résiliant les CGU, l’Utilisateur accepte et s’engage à ne plus utiliser le Site et les Services InMemori.
 
 - Pour InMemori : en cas de manquement, les CGU peuvent être résiliées, moyennant un préavis de 40 jours, en notifiant l’Utilisateur à l’adresse électronique qu’il a indiquée.
 

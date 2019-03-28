@@ -315,7 +315,7 @@
   , "partners": {
         "title": "Se comprometen con nosotros."
       , "a-text": "Ofrecen InMemori a las familias."
-      , "b-text": "Apoyan a InMemori."
+      , "b-text": ""
       , "a": [
             {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Allianz_tctwwz"
@@ -361,12 +361,12 @@
         ]
       , "b": [
             {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/CNSPFV_jme6ot"
-             , "website": "https://www.parlons-fin-de-vie.fr/"
+               "image": ""
+             , "website": ""
             }
           , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/FPSP_ipepdt"
-             , "website": "https://www.fondssoinspalliatifs.fr/inmemori/"
+               "image": ""
+             , "website": ""
             }
         ]
     }

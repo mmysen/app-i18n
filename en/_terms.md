@@ -1,249 +1,450 @@
- ## General Terms of Use    
+ <br/>  
+<br/>  
 
-  
-These General Terms of Use (the "T&Cs") are designed to regulate the use by any person (the "User")of the www.inmemori.com web site (the “Site”) published by Rest In Peace (the “Publisher”).
+## Terms of Service
 
-Any access to or use of the Site implies acceptance without reservations of these T&Cs by Users. Users guarantee the Publisher that they have all the rights, authorisations and permissions needed to accept the T&Cs on behalf of them or the company, association or other entity (the “Entity”) in whose name or on whose behalf they access or use the Site.
+<br/>  
+_As in force since 21st February 2019_
 
-User’s access or use of the Site implies acceptance without reservations of the T&Cs.
+The present Terms of Service (hereafter, “**TOS**”) constitute the binding Contract between any User and InMemori SAS, registered on the commercial registry of Paris under the number 821 346 970 (hereafter “**InMemori**”), for the use of InMemori Services.
 
-The Publisher shall be entitled to modify these T&Cs at any time. The applicable terms and conditions shall be those that are in force and are accessible on the Site on the date on which the User accesses the Site.
- 
-### 1) Presentation of the Site  
+<br/>  
+### **1. Definitions**
 
-The www.inmemori.com Site is intended for people who have just lost a relative, and provides them with a private and personal digital space that can be used:
+The following definitions are applicable to the TOS in their entirety.
 
-* to promptly transmit information about the funeral arrangements to all persons concerned,
-* to receive the condolences and testimonials of their entourage,
-* to organise a collection of donations in their memory.  
+**“Administration Interface”**: refers to the interface that allows the Administrator to manage the Tribute Space.
 
-How does it work ?
+**“Administrator”**: refers to any person designated to manage the Tribute Space.
 
-* The administrator (the “Administrator”) accesses inmemori.com and creates a private space, known as a tribute page (the “Tribute Page”), by filling into the administration interface all the necessary information or all information considered to be useful to share: the first name and family name of the deceased, the date on which they passed away, a personalised introductory message, useful information about the funeral (date, time and place of each stage). The Administrator may also organise a collection of funds in memory of the deceased, with the proceeds being earmarked to the family or a charity.
-* Once the Tribute Page has been filled in, the Administrator will receive a private sharing link which may then be sent to all the persons concerned via SMS or e-mail.
-* Each person who receives the sharing link may view the Tribute Page by clicking on the link. They will then be able to access all the useful information on the funeral arrangements that shall have been entered, and they may also leave a condolence message, share a memory and/or a photograph, and/or take part in the collection.
+**“Ancillary Services”**: refers to the Flower Delivery Service and the Book Order Service.
 
-The Site was designed :
+**“Book Order Service”**:  refers to the service that allows the order of a book gathering User Contents via a functionality available on the Tribute Space.
 
-* to enable families to quickly transmit all useful information about funeral arrangements to all the persons concerned;
-* to easily enable the relatives of a family to find and access this information, and to make it straight-forward and simple for them to pay tribute to the departed.  
+**“Deceased Person”**: refers to the person who is the subject of the Tribute Space.
 
-The way in which the Site has been designed, combined with the speed of digital communications, make it a very practical and useful service.
+**“InMemori Content”**:  refers to any content, information our element that belongs to InMemori, including the Website, its source code and object code, its architecture, design and, more generally, any content, other than User Content, included or accessible on and/or through the Website, as well as any text, graphical design, logo, name, brand, domain name, functionality, image, sound, data, photograph or any other material or software linked to InMemori.
 
-### 2) Creation and activation of a Tribute Page  
+**“Flower Delivery Service”**: refers to the flower delivery service that allows a User to send flowers via a functionality available on the Tribute Space.
 
-Administrators create Tribute Pages by accessing the Site or through an affiliated partner of the Publisher. For the purposes of these T&Cs, any Administrator is deemed to be an User of the Site.
+**“Fundraising Organizer”**: refers to the Administrator at the initiative of the organization of a fundraising and who is responsible for its management.
 
-Any Administrator wishing to create a Tribute Page must fill in the form featuring on the home page of the Site. Administrators will then be redirected to the administration interface of the Tribute Page and go through the various stages of creating the Tribute Page.
+**“Fundraising Service” or “Fundraising”**: refers to the service that allows for the organization of a fundraising by an Administrator to support a cause, via a functionality available on this Space.
 
-Once an Administrator has completed a Tribute Page, they will be asked to share it via SMS and/or e-mail.
+**“InMemori Services”**: refers to the Tribute Space, Ancillary Services, Fundraising Service and more generally any functionality of the Website.
 
-As soon as the Tribute Page has been created, the Administrator will receive an e-mail containing the link to the administration interface; they may thus administer the Tribute Page that they shall have created (see section 3 of these T&Cs).
+**“Share Link”**: refers to the unique URL address that gives access to the Tribute Space.
 
-As soon as the Tribute Page has been completed, the Administrator will also receive an e-mail containing the sharing link to be transmitted to all the persons potentially concerned by the Tribute Page.
+**“Tribute Space”**:  refers to the personalized digital space accessible via the Share Link, that allows information sharing regarding the Deceased Person’s funerals and gives access to User Contents and other functionalities.
 
-### 3) Functionalities of the Tribute Page 
+**“Tribute Space Creator”**: refers to any person who created a Tribute space.
 
-The Administrator has access to the following functionality via the administration interface accessible from the administration link:
+**“User”**: refers to any person accessing the Tribute Space.
 
-* Retrieve the active sharing link of the Tribute Page in order to transmit it easily to the persons involved;
-* View a hit counter showing the number of people who access the Tribute Page;
-* View and delete any messages posted on the Tribute Page;
-* View the message counter;
-* View an outline summary of all the messages, memories and/or photographs uploaded or posted to the Tribute Page;
-* Organise a collection;
-* Find out how many people have made a donation;
-* Retrieve the contact details of people who have left a message, a memory, a photograph and/or made a donation on the Tribute Page;
-* Retrieve the list of the donors and the corresponding sums pledged;
-* Bring the collection to a close;
-* Modify the Tribute Page at any time;
-* Add any person as an Administrator of the Tribute Page; each Administrator will then have access to the administration interface and the Administrators functionalities;
-* Close the Tribute Page at any time.  
+**“User Content”**: refers to the elements, including messages, memories and photographs, published by any User on the Tribute Space, or more generally on the Website. 
 
-### 4) Access  
+**“Website”**: refers to the website accessible at [www.inmemori.com](http://www.inmemori.com),  exploited by InMemori, that hosts User Contents on Tribute Spaces and enables access to InMemori Services.
 
-Users who receive a sharing link can access the corresponding Tribute Page by simply clicking on the link.  
+Each term written with a capital letter, whether it be used in the singular or plural form, has the meaning given above.
 
-Users may receive the sharing link to the Tribute Page from an Administrator and/or from another User who received this link beforehand.  
+<br/>  
 
-### 5) The Administrator's obligations  
+### **2. Acceptance of the TOS**
 
-Any violation of these T&Cs by the Administrator may lead to the suspension of his access to the Site and the erasure of the Tribute Page, notwithstanding any compensation that the Publisher may also be entitled to claim.
+#### 2.1.  _Acceptance of the TOS (Administrator)_
 
-The Publisher shall therefore be entitled to refuse any activation of a Tribute Page that violates or has violated the provisions of the present T&Cs.
+At the creation of the Tribute Space, the Tribute Space Creator specifies and/or completes the requested information.
 
-Administrators shall be responsible for all the data that they fill directly into the Site and into a Tribute Page (see section 8 of these T&Cs).
+The Administrator then receives an email notifying her/him of the creation of the Tribute Space. This email contains a link that allows her/him to access the Administration Interface as well as to personalize and share the Tribute Space.
 
-### 6) Contribution  
+By clicking on the link, the Administrator accepts the TOS. The version of the TOS in force during the period of use of the Website are available at any time on the Website.
 
-Users who view a Tribute Page may contribute to it as follows:
+<br/>  
 
-* By leaving a message: to do so, Users must input their family name, first name and e-mail address, and type the message that they want to leave on the Tribute Page, enclosing a photograph if they wish.
-* By sharing a memory: to do so, Users must input their family name, first name and e-mail address, and record the memory that they wish to leave on the Tribute Page, enclosing a photograph if they wish.
-* By sharing a photograph: to do so, Users must input their family name, first name and e-mail address, and upload the photograph that they wish to feature on the Tribute Page.
-* By taking part in a collection: to do so, Users must input their family name, first name, e-mail address and nationality, their country of residence, their date of birth and the sum that they wish to pledge.  
+#### 2.2.  _Acceptance of the TOS (User)_
 
-Users are hereby informed that the Administrator can (i) retrieve the e-mail addresses of the Users who have left a message, a memory, a photograph and/or who have made a donation on the Tribute Page, (ii) download the content of the messages, memories and photographs input or uploaded by the Users on the Tribute Page, (iii) remove a message, a memory and/or a photograph input or uploaded by the Users, without the Users being notified.
+Any access to or use of the Website constitutes an express acceptance, without limitations, of the TOS by the User.
 
-### 7) Intellectual property  
+At the publication of a User Content, Users accept the TOS and receive an email confirming their Content’s publication. This email contains an access link to the TOS in force, available at any time on the Website.
 
-#### 7.1) The Users' intellectual property  
+Users acting in the name and on behalf of a legal person (an association for instance) guarantee InMemori that they are in possession of all rights, authorizations and powers necessary to accept the TOS.
 
+<br/>  
 
-**a) Publication of the content**  
+### **3. Modification of the TOS**
 
-The content and the information that Users publish on a Tribute Page belong to them. Users grant the Publisher a free, worldwide, non-exclusive and transferable intellectual property license that may be sublicensed, over the content that they publish on the Site for the full period of all such rights (together with any extensions and renewals). Users authorise the Publisher to reproduce and show the content, and to adapt its format in order for the Administrator to be able to download, and where applicable print out, all of the messages, memories and/or photographs uploaded or posted on a Tribute Page.
+InMemori makes changes to the Website’s characteristics and functionalities to improve its functioning and quality.
 
-Users can send an e-mail to contact@inmemori.com to withdraw any content. Administrators may delete any content uploaded or posted by a User on the pages that they administer.
+InMemori may unilaterally modify the provisions contained in the TOS pertaining to the technical aspects of the Website and InMemori Services, provided that no price increase or quality alteration results from such modifications, and that the characteristics upon which Users subjected their acceptance have been included in the TOS.
 
-Using a dedicated function, Administrators may, at any point in time, modify and/or delete any content or any information that they publish on a Tribute Page.
+<br/>  
 
-**b) Security of the content**  
+### **4. Purpose of the Website**
 
-Users are hereby notified that, in view of the intrinsic characteristics of the Internet, content and information that is transmitted over the web is not protected against the risks of misappropriation and/or piracy, for which the Publisher will not accept any liability.
+The Website is intended for people who recently lost a relative or friend, by allowing them to create a private and personalized digital space for the purpose of:
 
-To ensure the security of the Site, the Users hereby undertake:
+ - sharing and accessing information regarding the funerals;
 
-* not to publish commercial messages on the Site without permission;
-* not to access the Site using automated methods;
-* not to engage in illicit marketing practices;
-* not to download or upload viruses or other malicious code;
-* not to intimidate or to harass other people;
-* not to publish any content that incites hatred or violence, or content of a pornographic nature or containing nudity or gratuitous violence;
-* not to develop or operate third party applications whose content is linked to alcoholic drinks, dating sites for adults or other products and services for adults (including advertisements) without age-based access restriction;
-* not to use the Site for illegal, malicious or discriminatory purposes;
-* not to enable or encourage violations of these undertakings;
-* not to create, if they are Administrators, a false Tribute Page, such as an announcement of the passing of a person who is not deceased.  
+- receiving condolences and memories on the Tribute Space;
 
-#### 7.2) Intellectual property rights of the Users  
+- organizing a Fundraising in tribute to the Deceased Person;
 
-Other Users of the Site (the “Other Users”) may publish content and information online in compliance with these T&Cs. Users undertake not to view the content of other Users for any purpose other than personal, non-commercial use, as provided for and enabled by the normal functionality of the Site.
+- accessing services and functionalities.
 
-Moreover, in light of the possibility to export content, Users undertake not to export the content of other Users to sites that constitute or comprise elements constituting (i) an infringement of the intellectual property rights of third parties, (ii) an affront to personal dignity (e.g. defamation, insults, curses, etc.), or a violation of the right to privacy, (iii) an incitement to violence or hatred against any individual or group, (iv) an incitement to cruelty against animals, (v) sexually explicit or strongly suggestive content, (vi) an incitement to consume drugs or engage in any unlawful activity, (vii) a threat to public order and public morals, and in general, any violation of the prevailing and applicable regulations.
+InMemori Services are accessible on the Website.
 
-For any notification of material reproduced, posted or distributed via the Site in a manner that constitutes copyright infringement, the designated copyright agent of the Publisher shall be contacted by sending written notice or by e-mail to contact@inmemori.com. Any infringement notice shall include the following information: (1) a detailed description of the copyrighted work that is allegedly infringed upon; (2) a description of the location of the allegedly infringing material on the Site; (3) contact information, including address, telephone number, and, if available, e-mail address; (4) a statement indicating in a good-faith belief that the allegedly infringing use is not authorized by the copyright owner, its agent, or the law; (5) a statement, made under penalty of perjury, affirming that the information in the notice is accurate and that the person notifying is authorized to act on the copyright owner's behalf; and (6) an electronic or physical signature of the copyright owner or someone authorized on the owner's behalf to assert infringement of copyright and to submit the statement. Please note that the contact information provided in this paragraph is for suspected copyright infringement only.
+<br/> 
 
-#### 7.3) The Publisher's intellectual property  
+### **5. Creation and access to the Tribute Space**
 
-The Site is the exclusive property of the Publisher. In general, the Publisher grants the Users a free, personal, non-exclusive and non-transferable right to access and use the Site subject to their acceptance of and compliance with the T&Cs, any other right being expressly excluded in the absence of the written consent of the Publisher.
+To create a Tribute Space, any person may go to the Website and specify the requested information (in particular, the information regarding the Deceased Person, the Tribute Space Creator’s contact details and information regarding the funerals).
 
-The content of the Site, other than the content and information uploaded or posted by the Users, that is included or accessible on and/or through the Site, such as any text, graphics, logo, name, trademark, designation, tab, functionality, image, sound, data, photograph, and any other hardware or software (the “Publisher Content”) is the exclusive property of the Publisher or of its licensees, and is protected by intellectual property law, being subject to all the applicable laws and regulations in this respect.
+Once the Tribute Space is created, the Tribute Space Creator receives, by email, the confirmation of its creation and a link towards the Administration Interface.
 
-The Publisher Content must not under any circumstance be downloaded, copied, altered, modified, deleted, distributed, forwarded, broadcast, sold, rented, conceded or exploited, wholly or partly, in any way whatsoever, without the express written consent of the Publisher or of its licensees. The Users agree not to use or exploit the Publisher Content for any purposes other than those mentioned in these T&Cs. Moreover, the Users shall be barred from modifying, improving, printing, translating, decompiling, disassembling or creating one or more derivative work(s) based wholly or partly on the Publisher Content, unless this possibility is expressly granted to them by the Publisher or by the owners of this content under a separate agreement.
+Users access to the Tribute Space via the Share Link, which is available in the Administration Interface and may be shared by the Administrator.
 
-### 8) Liability  
+<br/>  
 
-#### 8.1) The Publisher's liability  
+### **6. Functioning of the InMemori Services**
 
-The Publisher provides to the Users on the Site a certain amount of content and information created and published by other Users or by Administrators. The Users, as authors, shall alone be responsible for the content and information that they publish on the Site. Therefore, the Publisher hereby disclaims liability should the content or information published by Other Users violate any prevailing laws and regulations or cause any harm to a User or to any person.
+#### 6.1.  _Functioning of the Tribute Space_
 
-THE CONTENT AND INFORMATION IS PROVIDED BY THE USERS AND/OR THE ADMINISTRATORS AND DISSEMINATED BY THE PUBLISHER AS IS AND FOR INFORMATION PURPOSES ONLY. THE PUBLISHER DOES NOT IN ANY WAY CERTIFY THE RELIABILITY OF THE INFORMATION DISCLOSED BY THE USERS AND/OR THE ADMINISTRATORS, AND IN PARTICULAR ANY TEXTS, NAMES OR PHOTOGRAPHS THAT THEY UPLOAD TO THE SITE. THE PUBLISHER STRONGLY RECOMMENDS THAT USERS AND ADMINISTRATORS CHECK THE INFORMATION THAT THEY UPLOAD TO THE SITE WITH PARTICULAR CARE IN LIGHT OF THE HIGHLY EMOTIONAL CIRCUMSTANCES UNDER WHICH THIS INFORMATION IS SHARED. THE PUBLISHER HEREBY WARNS THE USERS AND ADMINISTRATORS AGAINST THE CONSEQUENCES OF A FALSE TRIBUTE PAGE, TO WIT AN ANNOUNCEMENT OF THE DEATH OF A PERSON WHO IS NOT IN FACT DECEASED, FOR WHICH THE PUBLISHER HEREBY DISCLAIMS LIABILITY.
+*6.1.1. Functionalities of the Tribute Space*
 
-TO THE EXTENT PERMITTED BY LAW, THE PUBLISHER EXCLUDE ALL CONDITIONS, WARRANTIES, REPRESENTATIONS OR OTHER TERMS WHICH MAY APPLY TO THE SERVICE OR ANY CONTENT ON IT, WHETHER EXPRESS OR IMPLIED.
+The Tribute Space allows Users to:
 
-THE PUBLISHER WILL NOT BE LIABLE TO ANY USER FOR ANY LOSS OR DAMAGE, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF STATUTORY DUTY, OR OTHERWISE, EVEN IF FORESEEABLE, ARISING UNDER OR IN CONNECTION WITH:
+- consult User Contents;
 
-* USE OF, OR INABILITY TO USE, THE SITE; OR
-* USE OF OR RELIANCE ON ANY PRODUCT OR CONTENT DISPLAYED ON THE SITE
-THAT IN PARTICULAR, THE PUBLISHER WILL NOT BE LIABLE FOR:
-* LOSS OF PROFITS, SALES, BUSINESS, OR REVENUE;
-* BUSINESS INTERRUPTION;
-* LOSS OF DATA OR OTHER PROGRAMS;
-* LOSS OF ANTICIPATED SAVINGS;
-* LOSS OF BUSINESS OPPORTUNITY, GOODWILL OR REPUTATION; OR
-* ANY INDIRECT OR CONSEQUENTIAL LOSS OR DAMAGE.
+- share a message or a memory: Users must specify their surname, forename, email address and type the message or memory they wish to publish, along with an eventual photograph;
 
-THE PUBLISHER WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A VIRUS, DISTRIBUTED DENIAL-OF-SERVICE ATTACK, OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA OR OTHER PROPRIETARY MATERIAL DUE TO THE USE OF THE SITE OR THE DOWNLOADING OF ANY CONTENT ON IT, OR ON ANY WEBSITE LINKED TO IT.
+- share a photograph: Users must specify their surname, forename, email address and attach the photograph they wish to publish;
 
-NOTHING IN THESE TERMS EXCLUDES OR LIMITS THE LIABILITY OF THE PUBLISHER FOR DEATH OR PERSONAL INJURY ARISING FROM OUR NEGLIGENCE, OR OUR FRAUD OR FRAUDULENT MISREPRESENTATION, OR ANY OTHER LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED BY LAW.
+- participate in the fundraising: Users must specify their surname, forename, email address, the amount of money they want to donate and their postal address (optional);
 
-Users may report any abuse (such as content that infringes the intellectual property rights of others, content that incites hatred or violence, that is pornographic or contains nudity or gratuitous violence) that they notice on the Site by clicking on the “report abuse” link. They will then be asked to send an electronic message to the address abus@inmemori.com. They may also send an electronic message to this address directly.
+- subscribe to Ancillary Services: Users select the relevant section on the Tribute Space and follow the ordering process’ instructions.
 
-#### 8.2) The Users' liability 
+Users are informed and accept that the Administrator disposes of the faculty to (i) collect email addresses of the Users who published a User Content and/or donated on the Tribute Space, download User Contents published by Users on the Tribute Space, and (iii) delete any User Content without notice.
 
-By providing content or information on the Site (text, photographs, comments or names), Users must comply with the prevailing statutes and regulations. Users must ensure that the storage and the publication of this content or of this information via the Site does not constitute (i) an infringement of the intellectual property rights of third parties, (ii) an affront to personal dignity (e.g. defamation, insults, curses, etc.) or of the right to privacy, (iii) a threat to public order and public morals (such as apologia for crimes against humanity, incitement to racial hatred, child pornography, etc.). By uploading content or information and making it publicly available on and/or through the Site, Users guarantee that they hold all the rights and authorisations required from the rights holders involved and that they have paid for all the rights and payments due under these T&Cs to the appropriate performing rights management companies.
+<br/>  
 
-Failing this, the content or the information may be withdrawn from the Site without any prior formality. Moreover, Users may personally face criminal punishments specific to the contentious content (prison sentences and fines), in addition to the prospect of being ordered to pay damages. Given the community nature of the Site, and out of respect for the sensibilities of all, Users are expected to act with a certain sense of respect and ethics when it comes the nature of the content, information and/or comments that they upload, and should refrain in particular from disseminating any content of a violent or pornographic nature.
+*6.1.2. Functionalities of the Administration Interface*
 
-Users agree to indemnify and hold harmless the Publisher and each of its and their respective directors, officers, managers, employees, shareholders, agents, representatives and licensors, from and against any and all losses, expenses, damages and costs, including reasonable attorneys' fees, that arise out of the Users use of the Site, violation of these T&C’s or violation of any rights of another. The Publisher reserves the right to take over the exclusive defense of any claim he is entitled to indemnification under this section. In such event, Users agree to provide the Publisher cooperation as reasonably requested.
+The Administration Interface allows Administrators to:
 
-#### 8.3) The Site is subject to the constraints linked to the Internet  
+- retrieve the Share Link;
 
-The Users declare that they are fully aware of the characteristics and limitations of the Internet network, through which the Publisher provides the Site and the Tribute Page. The Users therefore acknowledge that (i) the transmission of data over the Internet is only relatively reliable in technical terms, given that the data circulates over heterogeneous networks with differing characteristics and technical capacities, that are sometimes saturated at certain times of the day; (ii) data transiting over Internet is not protected against the possibility of misappropriation, and any information that is published may be intercepted, (iii) it is impossible to control the use that third parties may make of data transmitted over the Internet.
+- know how many Users have consulted the Tribute Space;
 
-Therefore, the Publisher disclaims liability for any of the above mentioned facts or events.
+- know the number of User Contents;
 
-The Publisher also disclaims liability for any force majeure, including a malfunction of the Internet network, of the telephone lines, of a User’s receiving terminal, which prevents or impedes the use of the Site and the administration or viewing of the Tribute Page.
+- consult and remove User Contents;
 
-### 9) Data protection  
+- download User Contents;
 
-#### 9.1) Personal data  
+- organize and manage a Fundraising;
 
-The personal data that the Publisher gathers from the Users shall comprise specifically:
+- retrieve the contact details of Users who published a User Content or participated in a Fundraising;
 
-* their family name and first names, age, country of residence and nationality;
-* their e-mail address;
-* their IP address (virtual address allocated to a terminal connected to the Internet). 
+- retrieve the list of Users who participated in a Fundraising with the corresponding amounts donated;
 
-#### 9.2) Purpose of the collection and processing of the data  
+- modify the Tribute Space at any time;
 
-The data controller in charge of processing the Users’ personal data is the Publisher.
+- designate new Administrators.
 
-The personal data that is gathered from the Users and processed by the Publisher is designed:
+The Tribute Space Creator is the only person who disposes of the faculty to close the Tribute Space. This functionality is available on the Administration Interface.
 
-* to enable the Users to access the functionalities and options of the Site;
-* to enable the Administrators to access the functionalities that are earmarked to them;
-* to enable the Users to contact other Users;
-* to enable the Publisher to send to the Users the responses to their requests and various information by electronic mail;
-* to compile general statistics on the traffic of the Site and on the different sections that are contained therein;
-* any other purpose linked to those that are listed above.  
+<br/>  
 
-#### 9.3) Data protection  
+#### 6.2.  _Functioning of the Fundraising Service_
 
-The Publisher undertakes to protect all of the Users’ personal data that is gathered and processed by the Publisher in the strictest confidentiality, in accordance with the applicable statutory and regulatory provisions.
+On the Administration Interface, the Administrator may organize a Fundraising for a cause or his close relatives or friends. The fundraising’s financial flows are managed by Stripe, a payment service provider that facilitates money transfer thanks to a dedicated digital infrastructure.
 
-The processing of the Users’ personal data may involve the use, preservation, recording, transfer, adaptation, analysis, summarising, modification, declaration, sharing and destruction of the personal data, depending on what is necessary in light of the circumstances or the legal requirements at hand.
+The Fundraising Organizer specifies, in the Administration Interface, the information necessary to the creation of the Fundraising, including its beneficiary (an association for instance). Once the Fundraising is created and activated, a “make a donation” button appears on the Tribute Space, which allows Users to participate.
 
-All the personal data that is gathered shall be kept for a limited period of time depending on the purpose of the processing and the period of retention permitted by the prevailing legislation.
+Once donations are retrieved, the Fundraising Organizer commits himself or herself to close the Fundraising and specify the information required by Stripe as part of anti-money laundering regulations.
 
-#### 9.4) The Users' right to challenge the use of their data or rectify and delete it  
+Once Stripe’s verifications are accomplished, money is unlocked and transferred to the Fundraising Organizer’s bank account, without passing through InMemori’s account. A 5% commission fee for InMemori’s services will be charged on the total amount raised.
 
-In accordance with the applicable statutory and regulatory provisions, the Users may at any point in time:
+The Fundraising Organizer commits himself or herself to distribute the money received to the beneficiary initially chosen and presented to Users.
 
-* challenge the processing of their personal data by the Publisher;
-* oppose the disclosure of their personal data to third parties;
-* access all of their personal data that is held by the Publisher;
-* correct, update and delete any of their personal data held by the Publisher.
+<br/>  
 
-In order to exercise their rights, Users need only send an e-mail to the Publisher at contact@inmemori.com, providing evidence of their identity (mentioning their name, first names, e-mail address and enclosing a copy of their identity document).
+#### 6.3. _Functioning of the Ancillary Services_  
 
-### 10) Availability of the Site  
+*6.3.1. Functioning of the Flower Delivery Service*
 
-The Site and the Tribute Pages shall in principle be accessible around the clock, 7 days a week, except in case of a scheduled or unscheduled interruption for purposes of maintenance, internet failure, or in case of force majeure. The Publisher hereby disclaims liability for any damage that might result from the unavailability of the Site or of any particular Tribute Page.
+Users may send flowers to the funerals’ venue thanks to the “Send flowers” functionality available on the Tribute Space. By clicking on the link, Users have access to the products offered by the partner, as well as their prices.
 
-The Publisher does not guarantee that the Site and its server are free of viruses and other dangerous elements. It is up to the Users to take all appropriate precautions in order to protect their own data and/or software applications from contamination by any viruses circulating over the Internet and to check that their IT configuration does not contain any viruses and is in good operating condition.
+Users are free to subscribe, or not, to the Flower Delivery Service. During the order, Users specify the delivery location and may attach a note to it.
 
-### 11) Third party links
+The preparation of the bouquet and the delivery are performed by one of InMemori’s partners. Once the order is placed by Users, InMemori is in charge of forwarding the information to its partner.
 
-The Site may link to other sites on the "Internet". These sites may contain information or material that some people may find inappropriate or offensive. These other sites are not under the control of the Publisher and the Publisher is not responsible for the accuracy, copyright compliance, legality, decency, or any other aspect of the content of such sites. The inclusion of such a link does not imply endorsement of any site by the Publisher or any association with its operators.
+<br/>  
 
-Any area of the Site that is accessed through any third party proprietary online service is subject to the rules, policies and guidelines of such third party proprietary online service.
+*6.3.2. Functioning of the Book Order Service*
 
-### 12) Cookies  
+Users may order a book gathering all or parts of User Contents published on the Tribute Space, via the “Order a book” functionality available on the Tribute Space. By clicking on the link, Users have access to the products offered by the partner, as well as their prices.
 
-See the cookies policy which forms an integral part of these T&Cs.
+Users are free to subscribe, or not, to the Book Order Service. During the order, Users specify the quantity of books they want to purchase and the delivery location.
 
-### 13) Miscellaneous provisions
+The layout, printing, binding and delivery of books is performed by one of InMemori’s partners. Once the order is placed by Users, InMemori is in charge of forwarding the information to its partner.
 
-The logs kept in the Publisher’s systems in keeping with the highest standards of security shall be considered as evidence of the exchanges of electronic messages, sending of registration forms, and uploading of content. The registration forms shall be archived on a medium that ensures their accurate and lasting storage as required by the prevailing legal provisions. In case of divergence between the Publisher’s logs and any documents kept by the Users in paper or electronic format, the Publisher’s logs shall prevail and shall have evidential value.
+<br/>  
 
-For General Terms and Conditions concerning the collection functionality: Please see the terms and conditions of MangoPay.
+### **7. Commitments of Users**
 
-### 14) Applicable law and dispute Resolution
+#### 7.1. _General commitments of Users_ 
 
-These Terms of Use will be governed by and construed in accordance with the laws of France.
+Users commit themselves to respect the obligations provided in the TOS, including to:
 
-Any dispute relating in any way to your use of the Site shall be submitted to courts of Paris if no amicable settlement can be found between the User and the Publisher.
+- not publish any commercial communication on the Website or use the latter for commercial purposes;
 
-Last updated on 10/01/2017
+- not access the Website by means of automated methods;
+
+- not develop or exploit any third-party application, whose content is linked to alcoholic beverages, dating websites for adults or other products and services for adults (including advertisements) whose access is not restricted by age;
+
+- not use the Website for illegal, malevolent or discriminatory purposes;
+
+- not enable or encourage violations of the TOS;
+
+- not create a Tribute Space for a person who is alive, fictive, or unknown by Users;
+
+- not download InMemori Content or use it for a purpose other than specified in the TOS;
+
+- publish User Content under their true identity, which means specifying their civil status and a valid personal email address;
+
+- make personal use of User Content downloaded from the Tribute Space, and not reuse it for commercial purposes or share it on the Internet, including websites that would violate the Deceased Person’s honor or dignity or that of their entourage;
+
+- keep an ethical conduct and exercise restraint regarding contents, information and/or comments online;
+
+- not publish any illegal content, including contents:
+
+  - making an apology of crimes against humanity;
+
+  - inciting to commit acts of terrorism and their apology;
+
+  - inciting racial hatred, or hatred towards any person on the basis of their gender, sexual orientation or identity, or handicap;
+
+  - child pornography, incitement to violence, including incitement to sexual and sexist violence, as well as relating to human dignity violations;
+
+  - of violent or pornographic nature;
+
+  - aiming at harming a person, including defamatory content, insults, slurs, and so on;
+
+  - violating public order and morals; or
+
+  - constituting a violation of any third party’s intellectual property rights.
+
+<br/>  
+
+#### 7.2. _Commitment of Fundraising Organizer_  
+
+In addition to his or her general commitments, the Fundraising Organizer commits himself or herself to:
+
+- select a beneficiary;
+
+- provide the information requested by Stripe;
+
+- ensure that all Users had the opportunity to participate in the Fundraising by closing it after a reasonable period of time and ensuring having informed any potential participant;
+
+- distribute the totality of the money received to the Fundraising’s beneficiary initially chosen at the creation of the Fundraising;
+
+- ensure the monitoring of the Fundraising and provide information to Users’ questions regarding the Fundraising and its distribution to the beneficiary;
+
+- take the necessary action with the Fundraising’s beneficiary so that the Users can have access to the tax documents to which they are entitled thanks to their contribution.
+
+<br/>  
+
+#### 7.3. _Commitment of the Administrator_  
+
+In addition to their general commitments, when they are Administrators, Users commit themselves to:
+
+- comply with the rules applicable to processing of personal data as part of the Tribute Space’s management;
+
+- restrict the use of Users’ personal data to the purpose of monitoring the Tribute Space, especially by refraining from publishing Users’ personal data outside of the Website or by using them for commercial purposes;
+
+- send InMemori any inquiry relating to personal data made by Users of the Tribute Space that they manage.
+
+<br/>  
+
+### **8. Commitment of InMemori**
+
+InMemori commits itself to ensure the continuity and quality of the access to and exploitation of the Website and InMemori Services.
+
+The Website and InMemori Services are accessible 24/7, except in case of force majeure or unforeseeable and insurmountable conduct by a third party, and subject to any technical failure and maintenance interventions and updates necessary to the functioning of the Website and the provision of InMemori Services. 
+
+Users are informed that InMemori may limit or suspend the access to the Website or to InMemori Services to proceed to maintenance, update and improvement operations.
+
+<br/>  
+
+### **9. Responsabilities** 
+
+#### 9.1. _Responsabilities regarding the Tribute Space and removal of illegal contents_
+
+As website host, InMemori is under no general legal obligation to monitor activities, information and contents stored or processed on the Website, but must remove or remove access from the Website any illegal content as soon as InMemori has been duly notified of its existence.
+
+Users who notices the presence of illegal contents on the Website or contents in violation of the TOS should use the reporting mechanism by clicking on the “Report an abuse” link, which notifies them to InMemori. Users may also send an email to [abus@inmemori.com](mailto:abus@inmemori.com).
+
+The information on the litigious facts that must be provided by Users are the following:
+
+   (i) the notification date;
+   
+   (ii) the notifier’s identity;
+
+   (iii) InMemori’s name and head office address;
+
+   (iv) the description of the litigious facts and their precise location;
+
+   (v) the reasons why the content should be removed (with details on the rules and justifications of the facts); and
+
+   (vi) the copy of the correspondence sent to the author or the editor of the litigious information or activities, asking for their interruption, removal or modification, or the justification of the impossibility to contact them.
+
+Any incomplete notification shall be considered as not valid. In addition, InMemori shall not be held liable for the accuracy and reliability of User Contents, and more generally for any information published on the Website.
+
+<br/>  
+
+#### 9.2. _Responsabilities regarding the Ancillary Services_
+
+Users are informed and acknowledge that Ancillary Services are performed by independent third-party companies, acting as InMemori’s partners. As a result, InMemori cannot guarantee the perfect execution of Ancillary Services as they are out of its control (a failure in the flower delivery for instance).
+
+In case of damages due to a wrongful or the absence of execution of an Ancillary Service, InMemori shall not be held liable when:
+
+- the damage has been caused by Users;
+
+- the damage has been caused by an unforeseeable and insurmountable fact due to a third party;
+
+- the damage directly or indirectly results from _force majeure_.
+
+In any case, InMemori’s responsibility is limited to actual, direct and foreseeable damages and cannot exceed the amounts paid by Users to use Ancillary Services. Users waive their right to seek for InMemori’s liability for any indirect damages resulting from the use of the Ancillary Services.
+
+<br/>  
+
+#### 9.3. _Responsabilities regarding the Fundraising_
+
+The Fundraising Organizer is solely responsible for the Fundraising.
+
+In conformity with the functioning of the Fundraising Service, the money received in the course of the Fundraising transit via Stripe and are distributed to the Fundraising Organizer once the necessary verifications are accomplished.
+
+InMemori shall not be held liable in case of misuse of funds by the Fundraising Organizer. Each User who participated to the Fundraising is responsible for ensuring the Fundraising Organizer’s good faith and the conformity of the distribution of funds with the initial objective of the Fundraising.
+
+<br/>  
+
+### **10. Suspension of InMemori Services**  
+
+In case of violation by Users of one of their obligations, InMemori will contact Users, by all means, to notify them of the alleged violations. As of the date of the notification, Users have 30 days to provide an answer to the violations alleged by InMemori.
+
+In the absence of a response or cessation of violation(s) by Users, InMemori may delete their User Contents and block the email address, which they used to publish the Content or use InMemori Services.
+
+<br/>  
+
+### **11. Duration**  
+
+The TOS apply to all Users, for an indefinite period, as of the acceptance of the TOS or the use of the Website or InMemori Services.
+
+The TOS may be terminated under the following conditions:
+
+- For Users: the TOS may be terminated at any time and free of charge by Users, by contacting InMemori at the following address: [contact@inmemori.com](mailto:contact@inmemori.com). By terminating the TOS, Users accept and commit themselves to refrain from using the Website and InMemori Services.
+
+- For InMemori: in case of a violation of the TOS by the User, the TOS may be terminated with a 40-day prior notice by email to the email address indicated by Users.
+
+The termination of the TOS enters into force immediately, subject to the entire and perfect execution of the TOS (payment obligations regarding the Ancillary Services or obligations regarding the Fundraising for instance).
+
+<br/>  
+
+### **12. Waiver of right withdrawal**
+
+In conformity with the French Consumer Code (_“Code de la consommation”_), Users hereby expressly waive their right of withdrawal for the Flower Delivery Service and the Book Order Service, in case of personalized and fully executed services before the end of the withdrawal period.
+
+<br/>  
+
+### **13. Intellectual property**
+
+#### 13.1. _InMemori Contents _
+
+InMemori is the exclusive owner of all intellectual property rights relating to InMemori Contents, including the domain name [www.inmemori.com](http://www.inmemori.com), the source code and object code, InMemori’s registered brand and the graphic charter.
+
+In addition, InMemori produces the Website’s data bases. As a result, any extraction and/or reuse of the data bases as mentioned in article L. 342-1 and L. 342-2 of the French Intellectual Property Code (_“Code de la propriété intellectuelle”_) is forbidden.
+
+Any use, including any form of copy, in whole or in part, adaptation, distribution, aspiration and reproduction of InMemori Contents (including the source code, object code and databases), is strictly forbidden without InMemori’s prior written consent.
+
+<br/>  
+
+#### 13.2. _User Contents_
+
+*13.2.1. License of use*
+
+Users are and remain the owner of all intellectual property rights relating to User Contents.
+
+Each time Users publish a User Content on the Website or Tribute Space, Users assign InMemori a non-exclusive and royalty free worldwide license (which also includes the right to sub-license) on such User Content.
+
+Under this license, InMemori is authorized, during the protection of intellectual property rights attached to User Content’s entire legal period, to:
+
+- use Users Contents, integrate them in whole or parts with or without modification, on any support, including digital, analogic or paper;
+
+- reproduce or have User Contents reproduced, in whole or parts, permanently or temporarily, as well as any adaptation, on any support, including paper or digital, or any other known or unknown support, actual or future, without number limitations; and for any useful purposes for its actual and future activity;
+
+- adapt or have User Contents adapted in whole or in part, modify them, transcribe them in whole or in part, in any form, integrate them in whole or in part into existing or future works, on any support, including paper or digital, or any other known or unknown, actual or future, support;
+
+- translate or have User Contents made in any coding language translated, in whole or in part, and the reproduction of the resulting User Contents on any support, including paper or digital or any other known or unknown, actual or future, support;
+
+- share or have User Contents shared, in whole or in part, as well as any adaptation such as aforementioned, by any manner and process, known or unknown, on any support, in any form;
+
+- put on the market or conclude any contract aiming at the release on the market, against payment or free of charge, including any adaptation such as aforementioned, in whole or in part, by any process, on any known or unknown, actual or future, support, to any public without restriction or number limitation;
+
+- use and exploit, for personal purposes or for a third party, against payment or free of charge, User Content and eventual adaptations or works derived from User Contents made in application of the present provisions.
+
+Are also assigned, the rights of exploitation, commercialization, representation, edition, diffusion of parts or all of one or several User Contents, directly or indirectly, on any support, including digital or paper ones, that can be used as such or integrated with or without modification.
+
+Users are informed and explicitly accept that this license includes InMemori’s right to represent, reproduce and more generally use User Content, in whole or in part, in any form and on any known or unknown support, as well as any adaptation of User Content, in order to create and edit a derived work (a book) dedicated to the Deceased Person, which will be distributed free of charge or against payment in the course of InMemori’s activity.
+
+**Users expressly agree to the assignment, free of charge, of the abovementioned license to InMemori.**
+
+This license is assigned for the protection of intellectual property rights attached to User Content’s entire legal period and for a worldwide exploitation.
+
+<br/>  
+
+*13.2.2. Guarantees*
+
+Users guarantee InMemori that they dispose of the full and complete enjoyment of User Content. In particular, Users guarantee:
+
+- that they publish User Content under their true identity and provide InMemori with their civil status and a valid personal email address;
+
+- that they own all the intellectual rights regarding Users Content and is entitled to assign the aforementioned license; and
+
+- that User Contentsdo not violate any third party’s intellectual property rights.
+
+Users guarantee InMemori against any trouble, claim or action that may be initiated by third parties on the ground of a violation of any third party’s right, including intellectual property rights, counterfeiting, unfair competition, parasitism or more generally civil responsibility, regarding all or parts of one or several User Contents. Users will reimburse InMemori for any amount paid by the latter (including attorney's fees for its defense) or any other amount InMemori may be condemned to pay under the present article; and such, without prejudice to any damages InMemori may claim for.
+
+<br/>  
+
+### **14. Personal data**
+
+InMemori attaches great importance to the compliance with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (GDPR) and the French Law n°78-17 of 6 January 1978 relating to computer systems, files and liberties.
+
+To learn more about the process and securing of personal data put in place by InMemori, you can read InMemori’s Privacy Policy at the following address: [www.inmemori.com/legal](http://www.inmemori.com/legal).
+
+<br/>  
+
+### **15. Miscellaneous**
+
+These TOS constitute the entire agreement between Users and InMemori. The TOS replace any other previous negotiation, contract, declaration or agreement.
+
+Should one provision of the TOS be found null and void with regard to a legal disposition or definitive judiciary decision, it shall be deemed never to have existed, without prejudice to the other provisions which will continue to be in effect.
+
+<br/>  
+
+### **16. Applicable law and competent jurisdictions** 
+
+#### 16.1. _Applicable law_
+
+The present TOS are governed and interpreted by French law.
+
+<br/>  
+
+#### 16.2. _Competent jurisdictions_
+
+Any dispute or disagreement relating to the validity, interpretation, execution and/or termination of the TOS will be submitted to courts within the jurisdiction of the Court of Appeal of Paris.
+
+Under Article. R. 631-3 of the French consumption Code, consumers may, at their discretion, initiate proceedings before (i) one of the territorially competent jurisdictions according to the French Code of Civil Procedure (_“Code de procédure civile”_), (ii) the jurisdiction for the place where they were domiciled at the conclusion of the contract, or where the harmful event occurred.
+<br/>
 <br/>

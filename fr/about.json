@@ -311,10 +311,10 @@
       ]
     }
 
-  , "partners": {
+ , "partners": {
         "title": "Ils s'engagent à nos côtés."
       , "a-text": "Ils offrent InMemori aux familles."
-      , "b-text": "Ils soutiennent InMemori."
+      , "b-text": ""
       , "a": [
             {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Allianz_tctwwz"
@@ -324,7 +324,7 @@
                "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Gan_Pre%CC%81voyance_ulczjf"
              , "website": ""
             }
-           , {
+          , {
                "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/SCF_jrpx8t"
              , "website": "http://s-c-f.org/services/prestations/faire-part-numeriques"
             }
@@ -360,12 +360,12 @@
         ]
       , "b": [
             {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/CNSPFV_jme6ot"
-             , "website": "https://www.parlons-fin-de-vie.fr/"
+               "image": ""
+             , "website": ""
             }
           , {
-               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/FPSP_ipepdt"
-             , "website": "https://www.fondssoinspalliatifs.fr/inmemori/"
+               "image": ""
+             , "website": ""
             }
         ]
     }

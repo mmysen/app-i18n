@@ -1,209 +1,446 @@
- ## Allgemeine Nutzungsbedingungen    
+ <br/>  
+<br/>  
 
-  
-Diese Allgemeinen Nutzungsbedingungen (im Folgenden die „ANB“) unterliegen dem französischen Recht und sollen die Nutzung jedweder Person (im Folgenden der „Nutzer“) der Internetseite regeln, die unter der Webadresse www.inmemori.com (im Folgenden die „Seite“) vorzufinden ist, die durch den Herausgeber Rest In Peace (im Folgenden der „Herausgeber“) herausgegeben wird.
+## Allgemeine Nutzungsbedingungen
 
-Durch den Zugriff auf und die Nutzung dieser Seite, stimmt der Nutzer ausdrücklich und vorbehaltslos diesen ANB zu. Jeder Nutzer garantiert dem Herausgeber, dass er über sämtliche erforderlichen Rechte, Vollmachten und Befugnisse zur Zustimmung zu den ANB im Namen der Gesellschaft, des Vereins oder jeder anderen Instanz (im Folgenden die „Instanz“) verfügt, in deren Namen er oder sie auf die Seite zugreift oder diese nutzt.
+<br/>  
+_Ab 21. Februar 2019 gültige Version_
 
-Durch den Zugriff auf und die Nutzung dieser Seite durch den Nutzer stimmt die Instanz ausdrücklich und vorbehaltslos diesen ANB zu. Anwendbar sind jeweils die zum Datum des Zugriffs durch den Nutzer gültigen auf der Seite angegebenen Bedingungen.
-  
-### 1) Präsentation der Seite  
+Diese Nutzungsbedingungen (nachfolgend „**CGU**”) bilden den Vertrag, der zwischen dem Nutzer und der InMemori SAS, vereinfachte Aktiengesellschaft, eingetragen im Handels- und Gesellschaftsregister Paris unter Nummer 821.346.970 (nachfolgend „**InMemori**”), zur Inanspruchnahme von InMemori-Diensten abgeschlossen wird.
 
-Die Seite www.inmemori.com wendet sich an Menschen, die gerade einen Angehörigen verloren haben, und bietet Ihnen einen digitalen, privaten, individuell gestalteten Raum, um:
+<br/>  
+### **1. Begriffsbestimmungen**
 
-* Betroffene rasch über die Bestattung zu informieren
-* Beileidsschreiben und Erinnerungen von Bekannten zu empfangen 
-* Eine Spendenaktion zu Gedenken des Verstorbenen zu organisieren  
+Unter den folgenden, für die gesamten ANB geltenden Begriffen ist jeweils Folgendes zu verstehen:
 
-Wie funktioniert es?
+**„Verwalter"**: die Person, die zur Verwaltung des Gedenkbereichs benannt wurde.
 
-* Der Administrator (ein « Administrator »), begibt ich auf inmemori.com und richtet eine private Seite ein, die als Gedenkseite bezeichnet wird (eine „Gedenkseite“), indem er in der Benutzerschnittstelle alle nötigen oder von ihm für nützlich erachteten Informationen angibt: Vorname und Name der oder des Verstorbenen, Todesdatum, persönlicher Einleitungstext, praktische Informationen zur Bestattung (Datum, Uhrzeit und Ort jeder Etappe). Er kann auch eine Spendenaktion zu Gedenken der oder des Verstorbenen zugunsten der Familie oder eines Vereins organisieren.
-* Nach Fertigstellung der Gedenkseite erhält der Administrator einen privaten Link, den er einfach mit allen Betroffenen teilen kann, indem er ihnen eine SMS oder E-Mail sendet.
-* Jeder, der den Freigabelink erhalten hat, kann die Gedenkseite einfach durch einen Klick darauf abrufen. Dort sind alle vorhandenen praktischen Informationen zur Bestattung vorzufinden; er kann ebenfalls kondolieren, eine Erinnerung und/oder ein Foto teilen und an einer Spendenaktion teilnehmen.  
+**„InMemori-Inhalt"**: alle im Eigentum von InMemori stehenden Inhalte, Informationen oder Elemente, insbesondere die Website, ihr Quellcode und Objektcode, ihre Architektur, ihr Design und überhaupt alle in der Website vorhandenen oder auf der Website und/oder über die Website zugänglichen Inhalte, bei denen es sich nicht um Nutzerinhalte handelt, sowie alle Texte, Schriftzüge, Logos, Namen, Marken, Domainnamen, Funktionen, Bilder, Tonaufnahmen, Daten, Fotos und alle mit InMemori im Zusammenhang stehenden Materialien oder Computerprogramme.
 
-inmemori.com wurde somit ins Leben gerufen, damit:
+**„Nutzerinhalt”**: die Elemente, insbesondere Botschaften, Andenken und Fotos, die von einem Nutzer im Gedenkbereich oder überhaupt auf der Website veröffentlicht werden.
 
-* Familien rash allen Betroffenen praktische Informationen zur Bestattung zukommen lassen können.
-* Angehörigen der Familie per Mausklick an diese Informationen gelangen können und ganz einfach in Ruhe den Verstorbenen würdigen können.  
+**„Ersteller eines Gedenkbereichs"**: jede Person, die einen Gedenkbereich eingerichtet hat.
 
-Die Konzipierung dieses Dienstes ergibt kombiniert mit der Schnelligkeit digitaler Tools einen praktischen und sehr nützlichen Service.
+**„Gedenkbereich"**:  der digitale, individuelle, über einen Freigabelink zugängliche Bereich, in dem die Möglichkeit besteht, Informationen zur Trauerfeier für die verstorbene Person zu übermitteln und auf die Nutzerinhalte und die angebotenen Funktionen zuzugreifen.
 
-### 2) Erstellung und Aktivierung einer Gedenkseite  
+**„Verwaltungsschnittstelle"**: die Schnittstelle, die es dem Verwalter ermöglicht, den Gedenkbereich zu verwalten.
 
-Die Gedenkseiten werden durch die Administratoren auf www.inmemori.com eingerichtet oder werden durch die Administratoren vervollständigt, die den Service zur Erstellung einer Gedenkseite bei Partnern abonniert haben. Für alle Fälle sei hinzugefügt, dass der Administrator für die Anforderungen dieser ANB ein Nutzer ist.
+**„Freigabelink"**:  die eindeutige URL-Adresse, die einen Zugang zum Gedenkbereich ermöglicht.
 
-Jeder Administrator, der eine Seite einrichten möchte, muss das Formular auf der Homepage der Seite ausfüllen. Er wird daraufhin auf die Benutzerschnittstelle der Gedenkseite verwiesen und befolgt die unterschiedlichen Schritte zur Erstellung einer Seite.
+**„Organisator der Sammlung"**: der Verwalter, der eine Spendensammlung initiiert und dafür die Verantwortung trägt.
 
-Nachdem der Administrator die Gedenkseite fertiggestellt hat, wird er dazu aufgefordert, diese per SMS und/oder E-Mail zu teilen.
+**„Verstorbene Person"**: die Person, der der Gedenkbereich gewidmet ist.
 
-Sobald die Gedenkseite eingerichtet wurde, erhält der Administrator eine E-Mail an die angegebene E-Mail-Adresse, die den Link zur Benutzerschnittstelle beinhaltet; hier kann er die eingerichtete Gedenkseite jederzeit verwalten (siehe Absatz 3 dieser ANB).
+**„Zusatzleistungen"**: der Blumenzustelldienst und der Buchbestelldienst.
 
-Sobald die Gedenkseite fertiggestellt ist, erhält der Administrator eine E-Mail an die angegebene E-Mail-Adresse, die den Freigabelink beinhaltet, den er mit allen Betroffenen teilen kann.
+**„Blumenzustelldienst"**: der Dienst, über den ein Nutzer mithilfe einer im Gedenkbereich verfügbaren Funktion Blumen schicken kann.
 
-### 3) Funktionen der Gedenkseite 
+**„Buchbestelldienst"**: der Dienst, über den ein Nutzer mithilfe einer im Gedenkbereich verfügbaren Funktion ein aus den Nutzerinhalten zusammengestelltes Buch bestellen kann.
 
-Der Administrator verfügt auf der Benutzerschnittstelle, die über einen Link verfügbar ist, beispielsweise über folgende Funktionalitäten:
+**„Spendensammeldienst” oder „Spendensammlung"**:  der Dienst, über den ein Verwalter mithilfe einer im Gedenkbereich verfügbaren Funktion eine Spendensammlung für einen bestimmten Zweck organisieren kann.
 
-* Den aktiven Freigabelink der Gedenkseite erhalten, den man einfach den Betroffenen zusenden kann;
-* Erfahren, wie viele Personen die Seite abgerufen haben;
-* Veröffentlichte Nachrichten auf der Gedenkseite lesen und falls nötig löschen;
-* Erfahren, wie viele Personen eine Nachricht hinterlassen haben;
-* Den Band aller veröffentlichten Nachrichten, Erinnerungen und/oder Fotos auf der Gedenkseite herunterladen;
-* Eine Spendenaktion veranstalten;
-* Erfahren, wie viele Personen gespendet haben;
-* Die Kontaktdaten der Personen erfahren, die eine Nachricht, eine Erinnerung, ein Foto veröffentlicht und/oder auf der Gedenkseite gespendet haben;
-* Die Spenderliste und entsprechenden Beträge abrufen;
-* Die Spendenaktion abschließen;
-* Die Gedenkseite jederzeit ändern;
-* Beliebige Personen als Administrator der Seite hinzufügen; jeder Administrator erhält Zugriff auf die Benutzerschnittstelle und auf die Funktionen, die den Administratoren vorbehalten sind;
-* Die Gedenkseite jederzeit schließen.  
+**„InMemori-Dienste"**: der Gedenkbereich, die Zusatzleistungen, der Spendensammeldienst und überhaupt alle auf der Website verfügbaren Funktionen.
 
-### 4) Zugriff  
+**„Website"**: die unter [www.inmemori.com](http://www.inmemori.com) aufrufbare, von InMemori betriebene Website, auf der die Nutzerinhalte in den Gedenkbereichen gehostet werden und über die auf die InMemori-Dienste zugegriffen werden kann.
 
-Die Nutzer, die den Freigabelink erhalten, können die zugehörige Gedenkseite per Mausklick auf den Link abrufen.  
+**„Nutzer"**: jede Person, die auf einen Gedenkbereich zugreift.
 
-Der Nutzer kann den Freigabelink der Gedenkseite von einem Administrator und/oder einem anderen Nutzer erhalten, der den Link zuvor erhalten hat.  
+Jeder geschriebene Begriff hat die oben definierte Bedeutung, ob er im Singular oder Plural verwendet wird.
 
-### 5) Pflichten des Administrators  
+<br/>  
 
-Ein Verstoß gegen die Bestimmungen der ANB durch den Administrator kann zur Aussetzung des Zugriffs auf die Seite und zur Löschung der Gedenkseite führen, unbeschadet aller Schadens- und Zinsforderungen, die der Herausgeber erheben könnte. Somit behält sich der Herausgeber die Möglichkeit vor, jede Aktivierung abzulehnen, die gegen die Bestimmungen der ANB verstößt oder verstoßen hat.
+### **2. Annahme der ANB**
 
-Der Administrator ist für alle Daten verantwortlich, die er direkt auf der Seite und auf einer Gedenkseite eingibt (siehe Absatz 8 dieser ANB).
+#### 2.1.  _Annahme der ANB (Verwalter)_
 
-### 6) Beitrag  
+Der Ersteller eines Gedenkbereichs muss bei der Einrichtung dieses Bereichs die geforderten Informationen eintragen und/oder ergänzen.
 
-Jeder Nutzer, der eine Gedenkseite abruft, kann wie folgt zu ihr beitragen:
+Der Verwalter erhält sodann eine E-Mail, in der ihm die Einrichtung des Gedenkbereichs mitgeteilt wird. Diese E-Mail enthält einen Link zur Verwaltungsschnittstelle, so dass er den Gedenkbereich persönlich gestalten und bekannt machen kann.
 
-* eine Nachricht hinterlassen: Der Nutzer gibt seinen Namen, Vornamen und E-Mail-Adresse ein und verfasst die gewünschte Nachricht auf der Gedenkseite, wobei er gegebenenfalls ein Foto hinzufügen kann.
-* eine Erinnerung teilen: Der Nutzer gibt seinen Namen, Vornamen und E-Mail-Adresse ein und verfasst die gewünschte Erinnerung auf der Gedenkseite, wobei er gegebenenfalls ein Foto hinzufügen kann.
-* ein Foto teilen: Der Nutzer gibt seinen Namen, Vornamen und E-Mail-Adresse ein und veröffentlicht das gewünschte Foto auf der Gedenkseite.
-* an einer Spendenaktion teilnehmen: Der Nutzer gibt seinen Namen, Vornamen und seine E-Mail-Adresse ein und teilt seine Staatsbürgerschaft, das Land seines Wohnsitzes, sein Geburtsdatum sowie den gewünschten Spendenbetrag mit.  
+Klickt der Verwalter den Link an, nimmt er die ANB an. Die während der Nutzungszeit der Website geltenden ANB sind auf der Website jederzeit abrufbar.
 
-Dem Nutzer wird mitgeteilt, dass der Administrator über die Möglichkeiten verfügt, (i) die E-Mail-Adressen der Nutzer zu erfassen, die auf der Gedenkseite eine Nachricht, eine Erinnerung, ein Foto veröffentlicht und/oder eine Spende getätigt haben, (ii) den Inhalt der Nachrichten, Erinnerungen und Fotos herunterzuladen, die durch Nutzer auf der Gedenkseite veröffentlicht wurden, sowie (iii) eine Nachricht, eine Erinnerung und/oder ein Foto, die durch Nutzer auf der Gedenkseite veröffentlicht wurden, ohne Vorwarnung zu löschen.
+<br/>  
 
-### 7) Geistiges Eigentum  
+#### 2.2.  _Annahme der ANB (Nutzer)_
 
-#### 7.1) Geistiges Eigentum des Nutzers 
+Mit jedem Zugriff auf die Website und jeder Nutzung der Website nimmt der Nutzer die ANB ausdrücklich vorbehaltlos an.
 
+Veröffentlicht ein Nutzer einen Nutzerinhalt, nimmt er damit die ANB an. Er erhält eine E-Mail, in der die Veröffentlichung seines Nutzerinhalts bestätigt wird. Diese E-Mail enthält einen Link zu den geltenden ANB, die auf der Website jederzeit abgerufen werden können.
 
-**a) Verbreitung von Inhalten**  
+Nutzer, die im Namen und für Rechnung von juristischen Personen (z.B. Vereinen) handeln, versichern InMemori, dass sie über alle Rechte, Genehmigungen und Befugnisse zur Annahme der ANB verfügen.
 
-Die Inhalte und Informationen, die die Nutzer auf einer Gedenkseite veröffentlichen, gehören ihnen. Der Nutzer erteilt dem Herausgeber ein nicht-exklusives, übertragbares, unterlizenzierbares, gebührenfreies, weltweites Lizenzrecht am geistigen Eigentum für die Nutzung der Inhalte, die sie auf der Seite veröffentlichen. Der Nutzer berechtigt den Herausgeber dazu, die Inhalte zu repräsentieren und zu publizieren und je nach Bedarf das Format anzupassen, damit der Administrator sämtliche auf einer Gedenkseite veröffentlichte Nachrichten, Erinnerungen und/oder Fotos herunterladen und gegebenenfalls ausdrucken kann. Dieses Lizenzrecht am geistigen Eigentum verfällt, wenn die Inhalte eines Nutzer von der Seite entfernt werden oder wenn der Administrator die Gedenkseite löscht, es sei denn die Inhalte wurden mit anderen Personen auf einem anderem Medium als der Seite geteilt (insbesondere Ausdrucken durch einen Administrator sämtlicher auf einer Gedenkseite veröffentlichter Nachrichten, Erinnerungen und/oder Fotos – siehe obenstehend).
+<br/>  
 
-Der Nutzer kann an die Adresse contact@inmemori.com eine E-Mail senden, um Inhalte entfernen zu lassen. Der Administrator kann beliebige Inhalte jedweder Nutzer löschen.
+### **3. Änderung der ANB**
 
-Der Administrator kann jederzeit anhand einer speziellen Funktion alle Inhalte und Informationen ändern oder löschen, die er auf einer Gedenkseite veröffentlicht hat.
+Die Eigenschaften und Funktionen der Website und der InMemori-Dienste werden zur Verbesserung der Funktionsweise und der Qualität von InMemori weiterentwickelt.
 
-**b) Sicherheit der Inhalte**  
+InMemori ist berechtigt, die Bestimmungen der ANB, die die technischen Aspekte der Website und der InMemori-Dienste betreffen, einseitig abzuändern, soweit damit weder eine Preiserhöhung noch eine Qualitätsverschlechterung verbunden ist und die Eigenschaften, die für die Übernahme der Verpflichtungen durch den Nutzer ausschlaggebend waren, in den ANB mitgeteilt wurden.
 
-Der Nutzer wird ebenfalls darauf hingewiesen, dass aufgrund der spezifischen Eigenheiten des Internets übertragene Inhalte und Informationen nicht vor dem Risiko der Entwendung und/oder der Hacker-Angriffe geschützt sind, wofür der Herausgeber nicht haftet.
+<br/>  
 
-Um die Sicherheit der Seite zu gewähren, verpflichtet sich der Nutzer dazu:
+### **4. Zweck der Website**
 
-* Keine kommerziellen Mitteilungen ohne Erlaubnis auf der Seite zu veröffentlichen.
-* Nicht mithilfe automatisierter Verfahren auf die Seite zuzugreifen.
-* Kein illegales Multi-Level-Marketing zu betreiben.
-* Keine Viren oder Schadsoftware herunterzuladen.
-* Andere Personen nicht einzuschüchtern oder zu belästigen.
-* Keine hetzerischen, gewaltverherrlichenden oder pornografischen Inhalte zu veröffentlichen, noch solche, die Nacktheit oder Gewalt enthalten.
-* Keine externe Anwendung zu entwickeln oder zu betreiben, deren Inhalte einen Bezug zu alkoholischen Getränken, Dating-Websites für Erwachsene oder anderen für Minderjährige ungeeignete Produkte und Dienstleistungen aufweisen (einschließlich Werbeanzeigen), ohne entsprechende Altersbeschränkungen einzuhalten.
-* Die Seite nicht zu illegalen, böswilligen oder diskriminierenden Zwecken zu nutzen.
-* Verstöße gegen diese Bestimmungen weder zu ermöglichen noch dazu zu ermutigen.
-* Wenn er Administrator ist, keine falsche Gedenkseite einzurichten, das heißt den Tod einer Person zu verkünden, die nicht verstorben ist.  
+Die Website richtet sich an Personen, die um eine ihnen nahestehende Person trauern. Sie ermöglicht es ihnen, einen privaten, persönlich gestalteten, digitalen Bereich einzurichten, um insbesondere:
 
-#### 7.2) Geistiges Eigentum anderer Nutzer  
+ - Informationen zur Trauerfeier zu übermitteln und auf sie zuzugreifen;
 
-Andere Nutzer der Seite (im Folgenden „Andere Nutzer“) können gemäß dieser ANB Inhalte und Informationen online publizieren. Der Nutzer verpflichtet sich, Inhalte Anderer Nutzer ausschließlich zur persönlichen nicht kommerziellen Nutzung abzurufen, im Rahmen dessen, was die normalen Funktionalitäten der Seite vorsehen und gestatten.
+- Beileidsbezeugungen und Erinnerungen von Bekannten und Verwandten im Gedenkbereich entgegenzunehmen;
 
-Im Übrigen verpflichtet sich der Nutzer im Hinblick auf den Export von Inhalten Anderer Nutzer dazu, keine Inhalte auf Seiten zu exportieren, die (i) einen Verstoß gegen das Recht auf geistiges Eigentum Dritter, (ii) eine Beeinträchtigung der Integrität des Einzelnen (Verleumdung, Beleidigung, Beschimpfung usw.) und der Privatsphäre, (iii) eine Anstiftung zu Gewalt oder Hass gegen eine Gruppe von Personen oder gegen eine Person, (iv) eine Anstiftung zu Tierquälerei, (v) einen eindeutig sexuellen oder anstößigen Inhalt, (vi) eine Anstiftung zum Drogenkonsum oder allgemein zu rechtswidrigen Handlungen, (vii) einen Verstoß gegen die öffentliche Ordnung und die guten Sitten und, ganz allgemein, gegen einschlägige gültige Bestimmungen, darstellen oder in ihren Bestandteilen darstellen.
+- eine Spendensammlung zum Gedenken an die verstorbene Person zu organisieren;
 
-#### 7.3) Geistiges Eigentum des Herausgebers  
+- auf Dienste und Funktionen zuzugreifen.
 
-Die Seite befindet sich im Alleineigentum des Herausgebers. Allgemein gewährt der Herausgeber den Nutzern ein unentgeltliches, persönliches, nicht ausschließliches, nicht übertragbares Recht für den Zugriff und die Nutzung der Seite, vorbehaltlich der Zustimmung und der Einhaltung der ANB. Weitergehende Ansprüche sind ohne vorherige schriftliche Genehmigung des Herausgebers ausdrücklich ausgeschlossen. Abgesehen von Inhalten und Informationen, die der Nutzer eingefügt hat, sind Inhalte wie Text, Schriftzug, Logo, Name, Marke, Bezeichnung, Tab, Funktion, Bild, Ton, Datenträger, Fotos, und alle Hardware oder Software (Im Folgenden „Inmemori Inhalt“), die auf und/oder über die Seite verfügbar oder zugänglich sind, Alleineigentum des Herausgebers oder seiner Lizenznehmer, sind durch das Recht auf Geistiges Eigentum geschützt und unterliegen den jeweils anwendbaren Gesetzen und Vorschriften. Der Inmemori Inhalt darf keinesfalls auf irgendwelche Weise ganz oder teilweise ohne vorherige ausdrückliche schriftliche Genehmigung des Herausgebers oder seiner Lizenznehmer heruntergeladen, kopiert, verändert, umgewandelt, gelöscht, verteilt, übertragen, ausgestrahlt, verkauft, vermietet, lizenziert oder für gewerbliche Zwecke genutzt werden. Die Nutzer stimmen zu, den Inmemori Inhalt nicht zu anderen Zwecken zu nutzen oder zu verwenden, als jene, die diese ANB als Ziel anführen. Die Nutzer sind außerdem nicht dazu berechtigt, Inmemori Inhalt ganz oder teilweise abzuändern, zu verbessern, zu verlegen, zu übersetzen, zu dekompilieren, zu zerlegen oder ein oder mehrere abgeleitete Werk(e) zu erstellen, es sei denn, diese Möglichkeit wurde ihnen ausdrücklich durch den Herausgeber oder die Besitzer des Inhalts/der Inhalte im Rahmen einer gesonderten Vereinbarung eingeräumt.
+Auf die InMemori-Dienste kann auf der Website zugegriffen werden.
 
-### 8) Haftung  
+<br/> 
 
-#### 8.1) Haftung des Herausgebers  
+### **5. Gedenkbereich: Einrichtung und Zugang**
 
-Der Herausgeber stellt dem Nutzer auf der Seite unterschiedliche Inhalte und Informationen zur Verfügung, die durch andere Nutzer oder Administratoren erschaffen oder veröffentlicht wurden. Die Nutzer sind als Urheber allein verantwortlich für die Inhalte und Informationen, die sie auf der Seite veröffentlichen. Folglich kann der Herausgeber nicht haftbar gemacht werden, falls durch Andere Nutzer veröffentlichte Inhalte oder Informationen gültigen Gesetzes- und/oder Rechtsvorschriften zuwiderlaufen oder einem Nutzer oder sonstigen Personen Schaden zugefügt haben.
+Zur Einrichtung eines Gedenkbereichs müssen auf der Website die geforderten Informationen (insbesondere Informationen zur verstorbenen Person und zur Trauerfeier und die Kontaktdaten des Erstellers des Gedenkbereichs) eingegeben werden.
 
-DIE INHALTE UND INFORMATIONEN WERDEN DURCH DIE NUTZER UND/ODER ADMINISTRATOREN ZUR VERFÜGUNG GESTELLT UND DURCH DEN HERAUSGEBER ZU INFORMATIONSZWECKEN VERBREITET. DER HERAUSGEBER LEISTET KEINE GEWÄHR FÜR DIE VERLÄSSLICHKEIT DER DURCH DIE NUTZER UND/ODER ADMINISTRATOREN ANGEGEBENEN INFORMATIONEN UND TEXTE, NAMEN ODER FOTOS, DIE SIE AUF DER SEITE VERÖFFENTLICHEN. DER HERAUSGEBER RÄT DEN NUTZERN UND ADMINISTRATOREN DRINGEND DAZU, DIE INFORMATIONEN, DIE SIE PREISGEBEN, ZU PRÜFEN, INSBESONDERE AUFGRUND DES EMOTIONSGELADENEN AUGENBLICKS, IN DEM DIESE INFORMATIONEN MITGETEILT WERDEN. DER HERAUSGEBER WARNT DIE NUTZER UND ADMINISTRATOREN VOR DEN SCHWERWIEGENDEN FOLGEN EINER FALSCHEN GEDENKSEITE, DAS HEISST DEN TOD EINER PERSON ZU VERKÜNDEN, DIE NICHT VERSTORBEN IST, FÜR DIE ER NICHT HAFTBAR GEMACHT WERDEN KANN.
+Sobald der Gedenkbereich eingerichtet wurde, erhält der Ersteller per E-Mail eine Bestätigung zusammen mit dem Link zur Verwaltungsschnittstelle.
 
-Der Nutzer kann missbräuchliches Verhalten auf der Seite melden (z.B. Inhalte, die gegen das Recht auf geistiges Eigentum eines Dritten verstoßen, hetzerische und gewaltverherrlichende Inhalte, pornografische Inhalte, oder solche, die Nacktheit oder Gewalt enthalten), indem er auf den Link „Missbrauch melden“ klickt. Er wird in diesem Fall dazu aufgefordert, eine E-Mail an die Adresse contact@inmemori.com zu senden. Er kann auch direkt eine E-Mail an diese Adresse senden.
+Die Nutzer gelangen zum Gedenkbereich über den Freigabelink, der auf der Verwaltungsschnittstelle verfügbar ist und vom Verwalter geteilt werden kann.
 
-#### 8.2) Haftung des Nutzers  
+<br/>  
 
-Indem er einen Inhalt oder eine Information auf der Seite zur Verfügung stellt (egal ob Texte, Fotos, Kommentare oder Namen), verpflichtet sich der Nutzer zur Einhaltung der geltenden Rechts- und Verwaltungsvorschriften. Folglich muss der Nutzer selbst sicherstellen, dass die Speicherung und Verbreitung dieses Inhalts oder dieser Information über die Seite (i) keinen Verstoß gegen das Recht auf geistiges Eigentum Dritter, (ii) keine Beeinträchtigung der Integrität des Einzelnen (Verleumdung, Beleidigung, Beschimpfung usw.) und der Privatsphäre, (iii) keinen Verstoß gegen die öffentliche Ordnung und die guten Sitten (Verherrlichung von Verbrechen gegen die Menschlichkeit, Aufwiegelung zum Rassenhass, Kinderpornographie usw.) darstellt. 
-Indem der Nutzer einen Inhalt oder eine Information online veröffentlicht und der Öffentlichkeit auf und/oder über die Seite zur Verfügung stellt, sichert er zu, über alle Rechte und Befugnisse des betroffenen Rechteinhabers zu verfügen und für alle gemäß dieser ANB gegenüber Verwertungsgesellschaften anfallenden Ansprüche und Zahlungen aufgekommen zu sein.
+### **6. Funktionsweise der InMemori-Dienste**
 
-Anderenfalls kann der Inhalt oder die Information ohne vorangehende Formalitäten von der Seite entfernt werden. Der Nutzer setzt sich des Weiteren persönlich strafrechtlicher Verfolgung mit dem für den strittigen Inhalt gültigen Strafmaß (Haft- oder Geldstrafe) aus, zusätzlich zur möglichen Verurteilung zur Zahlung von Schadensersatz. Aufgrund der gemeinschaftlichen Merkmale der Seite und aus Achtung gegenüber Sensibilitäten jedes Einzelnen muss der Nutzer im Hinblick auf online veröffentlichte Inhalte, Informationen und/oder Kommentare gewisse ethische Normen einhalten und insbesondere davon absehen, gewalttätige oder pornografische Inhalte zu verbreiten.
+#### 6.1.  _ Funktionsweise des Gedenkbereiches_
 
-#### 8.3) Die Seite unterliegt den Einschränkungen des Internets  
+*6.1.1. Im Gedenkbereich angebotene Funktionen*
 
-Der Nutzer erklärt, sich der Eigenheiten und Grenzen des Internetnetzes bewusst zu sein, das der Herausgeber nutzt, um die Seite und die Gedenkseiten zur Verfügung zu stellen. Der Nutzer erkennt somit an, dass (i) die Datenübertragung im Internet aufgrund der sehr verschiedenartigen Netzwerke mit unterschiedlichen technischen Eigenschaften und Kapazitäten, die manchmal zu bestimmten Tageszeiten überlastet sind, nur bedingt technisch verlässlich ist; (ii) im Internet übertragene Daten nicht gegen möglichen Missbrauch geschützt sind, und dass somit verbreitete Informationen erfasst werden können und (iii) dass ihre mögliche Nutzung durch Dritte im Internet nicht kontrolliert werden kann.
+Im Gedenkbereich können die Nutzer insbesondere:
 
-Folglich kann der Herausgeber für die oben erwähnten Sachverhalte oder Vorfälle nicht haftbar gemacht werden.
+- die Nutzerinhalte ansehen;
 
-Der Herausgeber ist ebenfalls im Falle höherer Gewalt von jeglicher Haftung befreit, insbesondere bei jedweder Störung des Internet-Netzwerks, der Telefonleitungen oder des Empfangs, die die Nutzung der Seite und die Verwaltung oder den Besuch der Gedenkseite verhindert oder beeinträchtigt.
+- Botschaften oder Erinnerungen teilen: hierfür muss der Nutzer seinen Namen, seinen Vornamen, seine E-Mail-Adresse und die Botschaft oder Erinnerung, die er veröffentlichen möchte, eingeben; er kann auch ein Foto mitschicken;
 
-### 9) Personenbezogene Daten  
+- Fotos teilen: hierfür muss der Nutzer seinen Namen, seinen Vornamen und seine E-Mail- Adresse eingeben und das Foto, das er veröffentlichen möchte, beifügen;
 
-#### 9.1) Personenbezogene Daten  
+- an einer Spendensammlung teilnehmen: hierfür muss der Nutzer seinen Namen, seinen Vornamen, seine E-Mail- Adresse, die Höhe seiner Spende und seine Postanschrift (freigestellt) angeben;
 
-Die personenbezogenen Daten, die der Herausgeber bei den Nutzern erhebt, betreffen insbesondere:
+- Zusatzleistungen in Anspruch nehmen: hierfür muss der Nutzer die entsprechende Rubrik im Gedenkbereich auswählen und dort die für die Erteilung der Bestellung erteilten Anweisungen befolgen.
 
-seine Namen und Vornamen, sein Alter, sein Wohnsitzland und seine Staatsbürgerschaft;
-seine E-Mail-Adresse;
-seine IP-Adresse (virtuelle Adresse des Endgerätes mit Internetverbindung).  
+Der Nutzer nimmt zustimmend zur Kenntnis, dass der Verwalter die Möglichkeit hat, (i) auf die E-Mail-Adressen der Nutzer, die im Gedenkbereich einen Nutzerinhalt veröffentlicht und/oder eine Spende gegeben haben, zuzugreifen, (ii) die von den Nutzern im Gedenkbereich veröffentlichten Nutzerinhalte herunterzuladen und (iii) Nutzerinhalte zu löschen, ohne dass der Nutzer davon in Kenntnis gesetzt wird.
 
-#### 9.2) Verarbeitungszweck  
+<br/>  
 
-Verantwortlich für die Verarbeitung der personenbezogenen Daten des Nutzers ist der Herausgeber.
+*6.1.2. Funktionen der Verwaltungsschnittstelle*
 
-Die personenbezogenen Daten, die beim Nutzer erhoben und durch den Herausgeber verarbeitet werden, haben den Zweck:
+Die Verwaltungsschnittstelle ermöglicht es den Verwaltern insbesondere:
 
-dem Nutzer den Zugriff auf Funktionalitäten und Optionen der Seite zu ermöglichen; 
-den Administratoren den Zugriff auf ihm vorbehaltene Funktionalitäten zu ermöglichen;
-dem Nutzer den Kontakt zu anderen Nutzern zu ermöglichen;
-dem Herausgeber das Senden von Antworten auf Anfragen sowie unterschiedlicher Informationen per E-Mail zu ermöglichen;
-allgemeine Statistiken zum Verkehr auf der Seite und zu den unterschiedlichen enthaltenen Rubriken aufzustellen; 
-andere mit den oben Aufgeführten verbundene Zwecke.  
+- auf den Freigabelink zuzugreifen;
 
-#### 9.3) Datenschutz  
+- die Zahl der Nutzer, die den Gedenkbereich besucht haben, zu erfahren;
 
-Der Herausgeber verpflichtet sich, sämtliche personenbezogene Daten des Nutzers zu schützen, welche durch den Herausgeber bei der Erhebung und Verarbeitung streng vertraulich behandelt werden, gemäß den der Herausgeber.
+- die Zahl der Nutzerinhalte zu erfahren;
 
-Die Verarbeitung der personenbezogenen Daten beinhaltet die Nutzung, Aufbewahrung, Speicherung, Übertragung, Anpassung, Analyse, Zusammenfassung, Änderung, Erklärung, Teilung und Zerstörung der personenbezogenen Daten, je nachdem, was die Umstände oder gesetzlichen Anforderungen gebieten.
+- Nutzerinhalte anzusehen und zu löschen;
 
-Alle erhobenen personenbezogenen Daten werden, je nach Zweck der Verarbeitung und nach gesetzlich vorgeschriebener Aufbewahrungsdauer, für eine festgelegte Dauer aufbewahrt.
+- Nutzerinhalte herunterzuladen;
 
-#### 9.4) Recht des Nutzers auf Widerspruch, Berichtigung und Löschung  
+- Spendensammlungen zu organisieren und zu verwalten;
 
-Gemäß den gültigen Rechts- und Verwaltungsvorschriften kann der Nutzer jederzeit:
+- auf die Kontaktdaten der Nutzer zuzugreifen, die Nutzerinhalte veröffentlicht oder an einer Spendensammlung teilgenommen haben;
 
-der Verarbeitung seiner personenbezogenen Daten durch den Herausgeber widersprechen;
-der Weitergabe ihn betreffender personenbezogenen Daten an Dritte widersprechen;
-auf sämtliche ihn betreffende personenbezogene Daten, die durch den Herausgeber verarbeitet werden, zugreifen;
-ihn betreffende personenbezogene Daten, die durch den Herausgeber verarbeitet werden, berichtigen, aktualisieren und löschen.
-Zur Wahrnehmung dieser Rechte kann der Nutzer einfach unter der Adresse contact@inmemori.com eine E-Mail an den Herausgeber senden, wobei er sich ausweisen muss (Name, Vorname, E-Mail-Adresse angeben und eine Kopie des Ausweises beifügen), an die Kontaktdaten, die in der Präambel dieser ANB genannt werden.
+- auf die Liste der Nutzer, die sich an einer Spendensammlung beteiligt haben, zuzugreifen und die entsprechenden Beträge zu erfahren;
 
-### 10) Verfügbarkeit der Seite 
+- den Gedenkbereich jederzeit abzuändern;
 
-Die Seite und die Gedenkseiten sind grundsätzlich 24 Stunden am Tag und 7 Tage pro Woche verfügbar, außer im Falle einer programmierten oder nicht programmierten Unterbrechung zu Wartungszwecken oder höherer Gewalt. Der Herausgeber unterliegt der Sorgfaltspflicht und kann nicht für Schaden jedweder Art haftbar gemacht werden, die sich aus der Nichtverfügbarkeit der Seite oder einer Gedenkseite ergeben.
+- neue Verwalter zu bestimmen.
 
-Der Herausgeber erteilt keine Gewähr dafür, dass die Seite und der Server, der sie zur Verfügung stellt, frei von Viren und anderen gefährlichen Komponenten sind. Die nötigen Maßnahmen zum Schutz der eigenen Daten und/oder Software vor einem möglichen Befall durch Viren im Internetnetz sowie die Prüfung der IT-Konfiguration auf Virenfreiheit und einwandfreie Funktionsfähigkeit obliegen dem Nutzer.
+Nur der Ersteller des Gedenkbereiches hat die Möglichkeit, den Gedenkbereich zu schließen. Diese Funktion ist in der Verwaltungsschnittstelle verfügbar.
 
-Der Nutzer erklärt sich einverstanden, dass weder der Herausgeber noch seine Zulieferer für direkte und/oder indirekte Schäden materieller und/oder immaterieller Art haftbar gemacht werden können, die sich aus dem Zugriff oder der Nutzung der Seite und/oder ihres Inhalts ergeben könnten, auch die Nichtverfügbarkeit, Datenverluste, Beschädigungen, Zerstörungen oder Viren, die die EDV-Ausstattung des Nutzers beeinträchtigen könnten, und/oder der Virenbefall seiner Seite.
+<br/>  
 
-### 11) Cookies  
+#### 6.2.  _Funktionsweise des Spendensammeldienstes_
 
-Hinweise zur Nutzung von Cookies lesen, die Bestandteile dieser ANB sind.
+Über die Verwaltungsschnittstelle kann der Verwalter eine Spendensammlung für einen bestimmten Zweck oder zugunsten von Nahestehenden organisieren. Die Geldflüsse der Spendensammlung werden vom Zahlungsdienstleister Stripe verwaltet. Auf diese Weise können die Geldtransfers über eine eigene digitale Infrastruktur vereinfacht werden.
 
-### 12) Verschiedenes  
+Der Organisator der Sammlung muss in der Verwaltungsschnittstelle die zur Einrichtung der Spendensammlung benötigten Informationen, insbesondere den Begünstigten (z.B. einen Verein) eingeben. Sobald die Spendensammlung eingerichtet und aktiviert wurde, erscheint im Gedenkbereich die Schaltfläche „Spenden”, die es den Nutzern ermöglicht, Geldbeträge zu spenden.
 
-Die elektronischen Verzeichnisse, die in den Informatiksystemen des Herausgebers gemäß höchster Sicherheitsstandards aufbewahrt werden, gelten als Beweis für den E-Mail-Verkehr, den Versand von Registrierungsformularen, Inhalte. Die Archivierung der Registrierungsformulare erfolgt auf einem Träger, der gemäß Gesetzesanforderungen Genauigkeit und Nachhaltigkeit gewährt. Es wird vereinbart, dass bei Abweichungen zwischen elektronischen Verzeichnissen des Herausgebers und Dokumenten im Papierformat, über die der Nutzer verfügt, die elektronischen Verzeichnisse des Herausgebers gelten.
+Der Organisator der Sammlung verpflichtet sich, die Spendensammlung nach Eingang der Gelder zu schließen und die von Stripe im Rahmen der Vorschriften zur Bekämpfung der Geldwäsche geforderten Informationen zu erteilen.
 
-Allgemeine Bestimmungen zur Funktion Spendenaktion: Allgemeine Bestimmungen zu Stripe abrufen.
+Nachdem die vorgeschriebenen Überprüfungen von Stripe durchgeführt wurden, werden die Gelder freigegeben und auf das Bankkonto des Organisators der Sammlung überwiesen, ohne über das Konto von InMemori zu laufen. Als Entgelt für den InMemori-Dienst wird eine Provision in Höhe von 5 % des Gesamtbetrags der Spendensammlung einbehalten.
 
-Aktualisiert: 18/12/2017
+Der Organisator der Spendensammlung verpflichtet sich, die erhaltenen Gelder an den ursprünglich benannten, den Nutzern mitgeteilten Begünstigten weiterzuleiten.
+
+<br/>  
+
+#### 6.3. _Funktionsweise der Zusatzleistungen_  
+
+*6.3.1. Funktionsweise des Spendensammeldienstes*
+
+Der Nutzer kann über die im Gedenkbereich verfügbare Funktion „Blumen verschenken” Blumen an den Ort der Trauerfeier schicken. Bei Anklicken des Links werden die von der Partnergesellschaft angebotenen Produkte und die entsprechenden Preise angezeigt.
+
+Es steht dem Nutzer frei, den Blumenzustelldienst in Anspruch zu nehmen oder nicht. Bei der Bestellung muss der Nutzer den Lieferort angeben. Er hat die Möglichkeit, mit den Blumen ein paar Worte mitzuschicken.
+
+Der Blumenstrauß wird von einer Partnergesellschaft von InMemori zusammengestellt und geliefert. Nach Erteilung der Bestellung durch den Nutzer auf der Website sorgt InMemori für die Weiterleitung der Informationen an die Partnergesellschaft.
+
+<br/>  
+
+*6.3.2. Funktionsweise des Buchbestelldienstes*
+
+Der Nutzer kann über die im Gedenkbereich verfügbare Funktion „Buch bestellen” ein aus den Nutzerinhalten zusammengestelltes Buch bestellen. Bei Anklicken des Links werden die von der Partnergesellschaft angebotenen Produkte und die entsprechenden Preise angezeigt.
+
+Es steht dem Nutzer frei, den Buchbestelldienst in Anspruch zu nehmen oder nicht. Bei der Bestellung muss der Nutzer die gewünschte Anzahl der Bücher und den Lieferort angeben.
+
+Die in der Darstellung, im Druck, in der Anfertigung und Lieferung des Buches bestehenden Leistungen werden von einer Partnergesellschaft von InMemori erbracht. Nach Erteilung der Bestellung durch den Nutzer auf der Website sorgt InMemori für die Weiterleitung der Informationen an die Partnergesellschaft.
+
+<br/>  
+
+### **7. Pflichten der Nutzer**
+
+#### 7.1. _Allgemeine Pflichten der Nutzer_ 
+
+Der Nutzer verpflichtet sich, die sich aus den ANB ergebenden Pflichten zu erfüllen, insbesondere:
+
+- auf der Website keine kommerziellen Anzeigen zu veröffentlichen oder die Website zu kommerziellen Zwecken zu nutzen;
+
+- auf die Website nicht mit automatisierten Methoden zuzugreifen;
+
+- keine Fremdapplikation zu entwickeln oder zu nutzen, deren Inhalt mit alkoholischen Getränken, Dating-Websites oder sonstigen Produkten und Dienstleistungen für Erwachsene (einschließlich Werbung) ohne altersabhängige Zugriffsbeschränkung im Zusammenhang steht;
+
+- die Website nicht zu illegalen, böswilligen oder diskriminierenden Zwecken zu nutzen;
+
+- Verstöße gegen die ANB weder zu ermöglichen noch zu fördern;
+
+- keinen Gedenkbereich für verstorbene Personen einzurichten, die noch leben, erfunden wurden oder dem Nutzer unbekannt sind;
+
+- den InMemori-Inhalt nicht herunterzuladen oder für andere als in den ANB vorgesehene Zwecke zu nutzen;
+
+- Nutzerinhalte unter seiner richtigen Identität zu veröffentlichen, d.h. seine Personalien und eine aktive, private E-Mail-Adresse anzugeben;
+
+- vom Gedenkbereich gegebenenfalls heruntergeladene Nutzerinhalte persönlich zu nutzen und nicht zu kommerziellen Zwecken weiterzuverwenden oder im Internet zu verbreiten, vor allem nicht auf Websites, die die Ehre oder Würde der verstorbenen Person und ihres Umfeldes verletzen könnten;
+
+- bei den online gestellten Inhalten, Informationen und/oder Kommentaren ethische Werte zu beachten und Zurückhaltung zu üben;
+
+- keine illegalen Inhalte zu veröffentlichen, insbesondere keine Inhalte, die:
+
+  - Verbrechen gegen die Menschlichkeit verherrlichen;
+
+  - zu Terroranschlägen aufrufen oder sie verherrlichen;
+
+  - zum Rassenhass oder zum Hass gegen Personen aufgrund ihres Geschlechts, ihrer sexuellen Orientierung oder Identität oder ihrer Behinderung aufrufen;
+
+  - kinderpornografische Elemente enthalten, zu Gewalt, insbesondere zu sexueller oder sexistischer Gewalt aufrufen oder die Menschenwürde verletzen;
+
+  - gewalttätiger oder pornografischer Natur sind;
+
+  - darauf abzielen, einer Person zu schaden, insbesondere Verleumdungen, Beleidigungen, Beschimpfungen, usw. enthalten;
+
+  - gegen die öffentliche Ordnung verstoßen oder sittenwidrig sind;
+
+  - geistige Eigentumsrechte Dritter verletzen.
+
+<br/>  
+
+#### 7.2. _Pflichten des Organisators der Sammlung_  
+
+Ist der Verwalter auch Organisator der Sammlung, ist er neben der Erfüllung seiner allgemeinen Pflichten verpflichtet:
+
+- einen Begünstigten zu benennen;
+
+- die von Stripe verlangten Informationen zu erteilen;
+
+- sich zu vergewissern, dass alle Nutzer die Möglichkeit hatten, an der Spendensammlung teilzunehmen, und diese nach einer angemessenen Frist und Verständigung aller potentiellen Spender zu schließen;
+
+- alle eingegangenen Gelder an den bei der Einrichtung der Spendensammlung benannten Begünstigten weiterzuleiten;
+
+- die Spendensammlung zu betreuen und Fragen der Nutzer zur Spendensammlung und Weiterleitung der Gelder an den Begünstigten zu beantworten;
+
+- im Verhältnis zum Begünstigten der Spendensammlung und zu den Nutzern alles Erforderliche zu erledigen, damit sie die steuerlichen Bescheinigungen erhalten, auf die sie aufgrund ihrer Spende Anspruch haben.
+
+<br/>  
+
+#### 7.3. _Pflichten des Verwalters_  
+
+Ist der Nutzer auch Verwalter, ist er neben der Erfüllung seiner allgemeinen Pflichten verpflichtet:
+
+- sich im Rahmen der Verwaltung des Gedenkbereichs an die für die Verarbeitung personenbezogener Daten geltenden Vorschriften zu halten;
+
+- die Nutzung der personenbezogenen Daten der Nutzer auf die Zwecke der Verwaltung des Gedenkbereiches zu beschränken, insbesondere keine personenbezogenen Daten der Nutzer außerhalb der Website zu veröffentlichen oder zu kommerziellen Zwecken zu nutzen;
+
+- alle personenbezogene Daten betreffenden Anfragen der Nutzer des von ihm verwalteten Gedenkbereichs an InMemori weiterzuleiten.
+
+<br/>  
+
+### **8. Pflichten von InMemori**
+
+InMemori verpflichtet sich, die Bereitschaft, Kontinuität und Qualität des Zugangs und Betriebs der Website und der InMemori-Dienste sicherzustellen.
+
+Die Website und die InMemori-Dienste sind 24/7 zugänglich, es sei denn, es liegt höhere Gewalt oder ein unvorhersehbares, unabwendbares Verhalten Dritter vor oder es müssen Pannen behoben oder Wartungs- oder Aktualisierungsarbeiten durchgeführt werden, die zum einwandfreien Betrieb der Website und zur Bereitstellung der InMemori-Dienste notwendig sind.
+
+Es wird darauf hingewiesen, dass InMemori den Zugriff auf die Website und die InMemori-Dienste einschränken oder unterbrechen kann, um Wartungs-, Aktualisierungs- und Verbesserungsarbeiten durchzuführen.
+
+<br/>  
+
+### **9. Haftung** 
+
+#### 9.1. _Haftung für den Gedenkbereich und Löschung illegaler Inhalte_
+
+Als Host übernimmt InMemori keine allgemeine Verpflichtung zur Überwachung der Aktivitäten, Informationen oder Inhalte, die auf der Website gespeichert oder verarbeitet werden, muss jedoch illegale Inhalte von der Website löschen oder den Zugriff darauf unmöglich machen, sofern sie auf ihr Vorhandensein hingewiesen wurde.
+Nutzer, die auf der Website illegale oder gegen die ANB verstoßende Inhalte feststellen, werden aufgefordert, InMemori unter dem Link „Missbrauch melden” darauf hinzuweisen. Es besteht auch die Möglichkeit, eine E-Mail an [abus@inmemori.com](mailto:abus@inmemori.com) zu schicken.
+
+Zum strittigen Sachverhalt müssen die Nutzer Folgendes mitteilen:
+
+   (i) das Meldedatum;
+   
+   (ii) die Personalien des Erstatters der Meldung;
+
+   (iii) Name und Anschrift des InMemori- Firmensitzes;
+
+   (iv) Beschreibung des strittigen Sachverhalts und dessen genaue Lokalisierung;
+
+   (v) Gründe, aus denen der Inhalt entfernt werden soll (unter genauer Angabe der Vorschriften und Vorlage von Nachweisen); und
+
+   (vi) Kopie des an den Verfasser oder Herausgeber der strittigen Informationen oder Aktivitäten mit der Aufforderung zur Einstellung, Entfernung oder Änderung gerichteten Schreibens oder Beweis, dass eine Kontaktaufnahme unmöglich ist.
+
+Eine unvollständige Meldung kann nicht als gültig erachtet werden. Außerdem wird darauf hingewiesen, dass InMemori für die Richtigkeit und Zuverlässigkeit der Nutzerinhalte und überhaupt irgendwelcher, auf der Website veröffentlichter Informationen nicht verantwortlich ist.
+
+<br/>  
+
+#### 9.2. _Haftung für die Zusatzleistungen_
+
+Der Nutzer nimmt zur Kenntnis, dass die Zusatzleistungen von unabhängigen Fremdfirmen als Partner von InMemori erbracht werden. Da sich diese Leistungen somit der Kontrolle von InMemori entziehen, kann InMemori ihre ordnungsgemäße Erbringung nicht gewährleisten (InMemori haftet z.B. nicht für nicht gelieferte Blumen).
+Bei Schäden, die durch die Nichterbringung oder nicht ordnungsgemäße Erbringung von Zusatzleistungen entstanden sind, haftet InMemori nicht, wenn sie:
+
+- vom Nutzer verursacht wurden;
+
+- durch unvorhersehbare, unabwendbare Handlungen Dritter verursacht wurden;
+
+- direkt oder indirekt auf höhere Gewalt zurückzuführen sind.
+
+Die Haftung von InMemori ist in jedem Fall auf unbestrittene, direkte, vorhersehbare Schäden und auf die vom Nutzer für die Zusatzleistungen bezahlten Beträge begrenzt. Der Nutzer verzichtet darauf, InMemori für indirekte Schäden haftbar zu machen, die ihm durch die Inanspruchnahme von Zusatzleistungen gegebenenfalls entstanden sind.
+
+<br/>  
+
+#### 9.3. _Haftung für die Spendensammlung_
+
+Für die Spendensammlung ist ausschließlich der Organisator verantwortlich.
+Der Spendensammeldienst wird so abgewickelt, dass die im Rahmen  der Spendensammlung eingegangenen Gelder über Stripe laufen und nach Durchführung der erforderlichen Überprüfungen an den Organisator der Sammlung weitergeleitet werden.
+
+InMemori kann nicht haftbar gemacht werden, wenn der Organisator der Sammlung die eingegangenen Gelder zweckentfremdet. Es ist Aufgabe des Nutzers, sich zu vergewissern, dass der Organisator der Spendensammlung nach Treu und Glauben handelt und die Gelder entsprechend dem ursprünglichen Zweck der Spendensammlung überwiesen wurden.
+
+<br/>  
+
+### **10. Aussetzung der InMemori-Dienste**  
+
+Verstößt der Nutzer gegen irgendwelche Pflichten, bringt ihm InMemori die geltend gemachte Pflichtverletzung auf beliebige Art und Weise zur Kenntnis. Der Nutzer hat 30 Tage Zeit, um zu dem von InMemori mitgeteilten Vorwurf Stellung zu nehmen.
+
+Nimmt er dazu nicht Stellung oder kommt er seiner (seinen) Pflicht(en) weiterhin nicht nach, ist InMemori berechtigt, die Nutzerinhalte dieses Nutzers zu löschen und die E-Mail-Adresse, die er zur Veröffentlichung seines Inhaltes oder zur Nutzung der InMemori-Dienste verwendet hat, zu sperren.
+
+<br/>  
+
+### **11. Laufzeit**  
+
+Die ANB gelten für alle Nutzer ab ihrer Annahme oder Nutzung der Website oder der InMemori-Dienste auf unbestimmte Zeit.
+
+Die ANB können wie folgt gekündigt werden:
+
+- vom Nutzer: der Nutzer ist berechtigt, die ANB jederzeit kostenlos durch Mitteilung an [contact@inmemori.com](mailto:contact@inmemori.com) zu kündigen. Mit der Kündigung der ANB verpflichtet sich der Nutzer, die Website und die InMemori-Dienste nicht länger zu nutzen.
+
+- von InMemori: bei einem Verstoß ist InMemori berechtigt, die ANB unter Einhaltung einer Kündigungsfrist von 40 Tagen durch Mitteilung an die vom Nutzer angegebene E-Mail-Adresse zu kündigen.
+
+Die Kündigung der ANB wird unter dem Vorbehalt sofort wirksam, dass alle übernommenen Pflichten (z.B. die Verpflichtung zur Bezahlung der Zusatzleistungen oder die mit dem Spendensammeldienst im Zusammenhang stehenden Pflichten) ordnungsgemäß erfüllt wurden.
+
+<br/>  
+
+### **12. Verzicht auf das Widerrufsrecht**
+
+Nach Maßgabe der Bestimmungen des französischen Verbraucherschutzgesetzes verzichtet der Nutzer beim Blumenzustelldienst und Buchbestelldienst ausdrücklich auf sein Widerrufsrecht, wenn personalisierte Leistungen vor Ablauf der Widerrufsfrist vollständig erbracht wurden.
+
+<br/>  
+
+### **13. Geistiges Eigentum**
+
+#### 13.1. _InMemori-Inhalte_
+
+InMemori ist ausschließliche Inhaberin aller geistigen Eigentumsrechte an den InMemori-Inhalten, insbesondere des Domainnamens [www.inmemori.com](http://www.inmemori.com), des Quellcodes und des Objektcodes, des eingetragenen Warenzeichens InMemori und der grafischen Gestaltung.
+
+InMemori ist ferner Herstellerin der Datenbanken der Website. Eine Extraktion und/oder Weiterverwendung der Datenbank(en) im Sinne von Artikel L 342-1 und L 342-2 des französischen Gesetzes über das geistige Eigentum ist folglich verboten.
+
+Die Nutzung der InMemori-Inhalte (einschließlich Quellcode, Objektcode und Datenbanken) in welcher Form auch immer, einschließlich vollständige oder teilweise Kopie, Bearbeitung, Verbreitung, Spiegelung und Vervielfältigung, ist ohne vorherige schriftliche Zustimmung von InMemori strengstens verboten.
+
+<br/>  
+
+#### 13.2. _Nutzerinhalte_
+
+*13.2.1. Nutzungslizenz*
+
+Der Nutzer ist und bleibt Inhaber aller geistigen Eigentumsrechte an seinen Nutzerinhalten. 
+
+Jedes Mal, wenn er einen Nutzerinhalt auf der Website oder in einem Gedenkbereich veröffentlicht, erteilt der Nutzer InMemori für diesen Nutzerinhalt eine weltweite, nicht ausschließliche, unentgeltliche Lizenz (die auch das Recht zur Erteilung von Unterlizenzen umfasst).
+
+Im Rahmen dieser Lizenz ist InMemori berechtigt, während der gesetzlichen Schutzfrist der geistigen Eigentumsrechte an den Nutzerinhalten:
+
+- die Nutzerinhalte zu verwenden, ganz oder teilweise, verändert oder unverändert in irgendwelche Medien, insbesondere in digitale, analoge oder in Papierform vorhandene Medien zu integrieren,
+
+- die Nutzerinhalte und irgendwelche Bearbeitungen ganz oder teilweise, dauerhaft oder vorübergehend in irgendwelchen Medien, insbesondere in Papierform oder in digitalen oder sonstigen, bekannten und noch unbekannten, derzeit oder künftig vorhandenen Medien beliebig oft für alle ihrer derzeit ausgeübten und weiterentwickelten Geschäftstätigkeit dienlichen Zwecke zu vervielfältigen oder vervielfältigen zu lassen,
+
+- die Nutzerinhalte ganz oder teilweise zu bearbeiten oder bearbeiten zu lassen, abzuändern, ganz oder teilweise in beliebiger Form zu übertragen, ganz oder teilweise in bestehende oder künftige Werke zu integrieren, unabhängig von den Medien, insbesondere in Papierform, in digitalen oder anderen bekannten oder noch unbekannten, derzeit oder künftig vorhandenen Medien;
+
+- die hergestellten Nutzerinhalte ganz oder teilweise in beliebige Sprachen oder Programmiersprachen zu übersetzen oder übersetzen zu lassen und die auf diese Weise entstandenen Nutzerinhalte in beliebigen Medien, insbesondere in Papierform, in digitalen oder anderen bekannten oder noch unbekannten, derzeit oder künftig vorhandenen Medien zu vervielfältigen;
+
+- die Nutzerinhalte und die vorstehend definierten Bearbeitungen ganz oder teilweise, auf beliebige Art und Weise, mit beliebigen, bekannten oder noch unbekannten Verfahren, in beliebigen Medien und Formaten zu verbreiten oder verbreiten zu lassen;
+
+- die Nutzerinhalte und die vorstehend definierten Bearbeitungen ganz oder teilweise, entgeltlich oder unentgeltlich, mit beliebigen Verfahren, in beliebigen Medien, insbesondere in Papierform, in digitalen oder sonstigen, bekannten oder noch unbekannten, derzeit oder künftig vorhandenen Medien für jedes Publikum uneingeschränkt, beliebig oft zu vermarkten oder Verträge zu ihrer Vermarktung abzuschließen;
+
+- die Nutzerinhalte und etwaige Bearbeitungen oder abgeleitete Werke, die nach Maßgabe dieser Lizenz geschaffen wurden, persönlich oder zugunsten Dritter entgeltlich oder unentgeltlich beliebig zu nutzen und zu verwerten.
+
+Ebenfalls übertragen wird das Recht, Nutzerinhalte ganz oder teilweise, direkt oder indirekt in beliebigen Medien, insbesondere in Papierform oder in digitalen Medien, die unverändert verwendet oder mit oder ohne Änderungen integriert werden können, zu verwerten, zu vermarkten, wiederzugeben, zu verlegen oder zu verbreiten.
+
+Der Nutzer nimmt zustimmend zur Kenntnis, dass mit dieser Lizenz InMemori das Recht gewährt wird, die Nutzerinhalte und deren Bearbeitungen ganz oder teilweise, in welcher Form auch immer, in bekannten und noch unbekannten Medien wiederzugeben, zu vervielfältigen und überhaupt zu verwenden, um der verstorbenen Person gewidmete abgeleitete Werke (Bücher) zu schaffen und herauszugeben und im Rahmen der InMemori-Tätigkeit entgeltlich oder unentgeltlich zu vertreiben.
+
+**Der Nutzer erklärt sich ausdrücklich damit einverstanden, InMemori diese Lizenz unentgeltlich zu erteilen.**
+
+Diese Lizenz wird für die gesetzliche Schutzfrist der geistigen Eigentumsrechte an den Nutzerinhalten und eine weltweite Nutzung erteilt.
+
+<br/>  
+
+*13.2.2. Zusicherungen*
+
+Der Nutzer versichert InMemori, dass er über das uneingeschränkte Recht verfügt, den Nutzerinhalt zu nutzen, insbesondere, dass er
+
+- den Nutzerinhalt unter seiner richtigen  Identität veröffentlicht und InMemori seine Personalien und eine aktive, private E-Mail-Adresse mitteilt;
+
+- Inhaber aller geistigen Eigentumsrechte am Nutzerinhalt und berechtigt ist, vorstehende Lizenz zu erteilen; und
+
+- der Nutzerinhalt keine geistigen Eigentumsrechte Dritter verletzt.
+
+Der Nutzer stellt InMemori von Forderungen, Ansprüchen oder Klagen Dritter frei, die eine durch Nutzerinhalte oder einen Teil von Nutzerinhalten bewirkte Verletzung ihrer Rechte, insbesondere ihrer geistigen oder gewerblichen Schutzrechte, Nachahmung, unlautere Wettbewerbshandlung, Rufausbeutung oder überhaupt die Haftung dafür geltend machen. Der Nutzer hat InMemori alle Beträge zu erstatten, die sie aufgrund dieser Klausel oder einer im Zusammenhang damit gegebenenfalls ausgesprochenen Verurteilung bezahlt hat (insbesondere die zur Verteidigung ausgelegten Anwaltskosten). Weitergehende Schadensersatzansprüche von InMemori bleiben davon unberührt.
+
+<br/>  
+
+### **14. Personenbezogene Daten**
+
+InMemori legt großen Wert auf die Einhaltung der Verordnung (EU) Nr. 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr (DSGVO) sowie des französischen Datenschutzgesetzes Nr. 78-17 vom 6. Januar 1978.
+Weitere Informationen über die Verarbeitung und den Schutz der personenbezogenen Daten bei InMemori sind der unter [www.inmemori.com/legal](http://www.inmemori.com/legal) abrufbaren Datenschutzerklärung zu entnehmen.
+
+<br/>  
+
+### **15. Sonstiges**
+
+Die ANB enthalten alle zwischen dem Nutzer und InMemori getroffenen Vereinbarungen. Sie ersetzen alle vorherigen Verhandlungen, Verträge, Erklärungen oder Vereinbarungen, die damit ungültig werden.
+
+Ist irgendeine Bestimmung der ANB aufgrund eines Gesetzes oder einer rechtskräftigen Gerichtsentscheidung nichtig, gilt sie als ungeschrieben. Die Gültigkeit der ANB und aller übrigen Bestimmungen bleibt davon unberührt.
+
+<br/>  
+
+### **16. Geltendes Recht und Gerichtsstand** 
+
+#### 16.1. _Geltendes Recht_
+
+Für die ANB und ihre Auslegung gilt französisches Recht.
+
+<br/>  
+
+#### 16.2. _Gerichtsstand_
+
+Für Streitigkeiten im Zusammenhang mit der Gültigkeit, Auslegung, Erfüllung und/oder Verletzung der ANB sind die Gerichte im Bezirk des Berufungsgerichts Paris zuständig.
+
+Gemäß Artikel R. 631-3 des französischen Verbraucherschutzgesetzes ist der Verbraucher berechtigt, neben einem nach Maßgabe der französischen Zivilprozessordnung örtlich zuständigen Gericht das Gericht am Ort anzurufen, an dem er zum Zeitpunkt, an dem der Vertrag abgeschlossen wurde oder das schädigende Ereignis eingetreten ist, seinen Wohnsitz hatte.
+<br/>
 <br/>
