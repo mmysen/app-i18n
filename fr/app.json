@@ -238,7 +238,7 @@
       , "admin": {
             "title": "Ajouter un administrateur"
           , "text": "Saisissez l'adresse email de votre contact dans l’espace ci-dessous afin de lui donner accès à l'espace de gestion :"
-          , "message": "Voici le lien de l'espace : {{automaticURLreplacement}}"
+          , "message": ""
         }
       , "tab-link": {
             "text": "Copier le lien"
