@@ -1,14 +1,16 @@
 <br/>  
-## Cookies
-**POLITIQUE D’INMEMORI RELATIVE AUX COOKIES**
+<br/>  
 
-_Version mise à jour le 29 mars 2019_
+## Politique d'InMemori relative aux cookies
 
-La société par actions simplifiée InMemori (ci-après « **InMemori** », « **nous** », ou « **nos** ») utilise des cookies pour améliorer son site web disponible à l’adresse <https://inmemori.com> (le « **Site** ») par le biais duquel les utilisateurs (« **Utilisateurs** » ou « **vous** ») peuvent accéder aux services proposés par InMemori.
+<br/>  
+_Version applicable depuis le 28 mars 2019_
+
+La société par actions simplifiée InMemori (ci-après « **InMemori** », « **nous** », ou « **nos** ») utilise des cookies pour améliorer son site web disponible à l’adresse [www.inmemori.com](http://www.inmemori.com)(le « **Site** ») par le biais duquel les utilisateurs (« **Utilisateurs** » ou « **vous** ») peuvent accéder aux services proposés par InMemori.
 
 Cette politique relative aux cookies a été créée dans le but de vous fournir une information claire et  transparente sur l’utilisation que nous faisons des cookies et des choix dont vous disposez par rapport à ceux-ci. 
 
-###1. Qu'est-ce qu'un cookie ?
+### **1. Qu'est-ce qu'un cookie ?**
 
 InMemori utilise des traceurs (« **Cookies** ») pour fournir à ses Utilisateurs la meilleure expérience de navigation possible sur le Site. Un Cookie est un petit fichier informatique déposé et lu, dans un espace dédié du disque dur de votre terminal (ordinateur, smartphone, tablette, etc.), lors de la consultation d’un site internet, de la lecture d’un courrier électronique ou encore de l’utilisation d’un logiciel ou d’une application mobile. Il existe différents types de Cookies :
 
@@ -18,7 +20,7 @@ InMemori utilise des traceurs (« **Cookies** ») pour fournir à ses Utilisateu
 
 Ces Cookies ont généralement pour finalité de faciliter la navigation sur un site en la rendant plus rapide et plus personnalisée. Ils sont également utilisés pour collecter des informations sur l’utilisation que vous faîtes dudit site. Par exemple, il nous est possible grâce aux Cookies de connaître votre système d’exploitation et navigateur, votre fournisseur d’accès à internet, votre nom de domaine et votre adresse IP ainsi que votre parcours de navigation sur notre Site (pages URL consultées, durée de consultation de pages, etc.).
 
-###2.	Quels sont les cookies utilisés par InMemori ? 
+### **2.	Quels sont les cookies utilisés par InMemori ?**
 
 InMemori utilise les Cookies suivants : 
 
@@ -34,13 +36,13 @@ Le blocage ou la suppression des Cookies de préférence peuvent réduire l’op
 A l’aide de ces Cookies, InMemori peut améliorer le fonctionnement du Site.
 
 
-###3. Consentement à l'utulisaiton des cookies 
+### **3. Consentement à l'utulisaiton des cookies** 
 
 La législation applicable en matière de Cookies et traceurs impose de recueillir le consentement de l’Utilisateur avant tout stockage d’informations sur l’équipement de celui-ci ou l’accès à des informations déjà stockées ; sauf si ces actions sont strictement nécessaires pour la délivrance d’un service de la société de l’information expressément demandé par l’Utilisateur. 
 
 En poursuivant leur navigation sur le Site lors de la première connexion, les Utilisateurs acceptent le dépôt de Cookies sur leur terminal, pour une durée maximale de 13 mois, selon le paramétrage par défaut. InMemori rappelle à ses Utilisateurs qu’ils peuvent à tout moment revenir sur leur consentement au placement de Cookies et modifier les paramètres de leur navigateur Internet en ce sens.
 
-###4.	Comment paramétrer vos préférences en matière de cookie ? 
+### **4.	Comment paramétrer vos préférences en matière de cookie ?**
 
 Il vous est possible de paramétrer votre navigateur afin de refuser les Cookies. Toutefois, si vous choisissez de bloquer ou de supprimer tous les Cookies (dont les Cookies strictement nécessaires au bon fonctionnement du site web), certaines fonctionnalités du Site peuvent ne pas fonctionner correctement et votre expérience d’Utilisateur ne sera donc pas optimale.
 
