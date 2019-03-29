@@ -10,6 +10,8 @@ La société par actions simplifiée InMemori (ci-après « **InMemori** », « 
 
 Cette politique relative aux cookies a été créée dans le but de vous fournir une information claire et  transparente sur l’utilisation que nous faisons des cookies et des choix dont vous disposez par rapport à ceux-ci. 
 
+<br/>  
+
 ### **1. Qu'est-ce qu'un cookie ?**
 
 InMemori utilise des traceurs (« **Cookies** ») pour fournir à ses Utilisateurs la meilleure expérience de navigation possible sur le Site. Un Cookie est un petit fichier informatique déposé et lu, dans un espace dédié du disque dur de votre terminal (ordinateur, smartphone, tablette, etc.), lors de la consultation d’un site internet, de la lecture d’un courrier électronique ou encore de l’utilisation d’un logiciel ou d’une application mobile. Il existe différents types de Cookies :
@@ -19,6 +21,8 @@ InMemori utilise des traceurs (« **Cookies** ») pour fournir à ses Utilisateu
 * les Cookies persistants : qui restent sur votre terminal jusqu’à expiration de leur durée de vie ou jusqu’à ce que vous les supprimiez à l’aide des fonctionnalités de votre navigateur.
 
 Ces Cookies ont généralement pour finalité de faciliter la navigation sur un site en la rendant plus rapide et plus personnalisée. Ils sont également utilisés pour collecter des informations sur l’utilisation que vous faîtes dudit site. Par exemple, il nous est possible grâce aux Cookies de connaître votre système d’exploitation et navigateur, votre fournisseur d’accès à internet, votre nom de domaine et votre adresse IP ainsi que votre parcours de navigation sur notre Site (pages URL consultées, durée de consultation de pages, etc.).
+
+<br/>  
 
 ### **2.	Quels sont les cookies utilisés par InMemori ?**
 
@@ -35,12 +39,15 @@ Le blocage ou la suppression des Cookies de préférence peuvent réduire l’op
 * Les Cookies d’analyse et de performance : ces Cookies permettent d’analyser le nombre de visiteurs sur notre Site et de collecter des informations sur la manière dont celui-ci est utilisé. InMemori utilise à cet effet « Google Analytics ». Il s’agit d’un outil d’analyse d’audience Internet développé par Google permettant aux propriétaires de sites web et d’application de mieux comprendre le comportement de leurs utilisateurs. Cet outil peut utiliser des Cookies pour collecter des informations et générer des rapports statistiques d'utilisation d'un site web. Toutes les informations collectées par ces Cookies sont agrégées et ne permettent donc pas d’identifier directement et personnellement les utilisateurs. Le Cookie le plus utilisé par Google Analytics est nommé "_ga". 
 A l’aide de ces Cookies, InMemori peut améliorer le fonctionnement du Site.
 
+<br/>  
 
 ### **3. Consentement à l'utulisaiton des cookies** 
 
 La législation applicable en matière de Cookies et traceurs impose de recueillir le consentement de l’Utilisateur avant tout stockage d’informations sur l’équipement de celui-ci ou l’accès à des informations déjà stockées ; sauf si ces actions sont strictement nécessaires pour la délivrance d’un service de la société de l’information expressément demandé par l’Utilisateur. 
 
 En poursuivant leur navigation sur le Site lors de la première connexion, les Utilisateurs acceptent le dépôt de Cookies sur leur terminal, pour une durée maximale de 13 mois, selon le paramétrage par défaut. InMemori rappelle à ses Utilisateurs qu’ils peuvent à tout moment revenir sur leur consentement au placement de Cookies et modifier les paramètres de leur navigateur Internet en ce sens.
+
+<br/>  
 
 ### **4.	Comment paramétrer vos préférences en matière de cookie ?**
 
@@ -57,6 +64,8 @@ Les principaux sites d’aide au paramétrage en fonction de votre smartphone so
 * Android : <https://support.google.com/chrome>
 * Blackberry : <http://docs.blackberry.com/en/smartphone_users>
 * Windows Phone : <https://www.microsoft.com/fr-fr/security>
+
+<br/>  
 
 ### **5. Modification de la politique relative aux cookies**
 
