@@ -58,7 +58,7 @@ Les principaux sites d’aide au paramétrage en fonction de votre smartphone so
 * Blackberry : <http://docs.blackberry.com/en/smartphone_users>
 * Windows Phone : <https://www.microsoft.com/fr-fr/security>
 
-###5. Modification de la politique relative aux cookies
+### **5. Modification de la politique relative aux cookies**
 
 La présente politique a été révisée la dernière fois à la date indiquée en haut de cette page.
 
