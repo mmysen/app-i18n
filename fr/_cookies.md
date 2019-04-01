@@ -6,7 +6,7 @@
 <br/>  
 _Version applicable depuis le 28 mars 2019_
 
-La société par actions simplifiée InMemori (ci-après « **InMemori** », « **nous** », ou « **nos** ») utilise des cookies pour améliorer son site web disponible à l’adresse [www.inmemori.com](http://www.inmemori.com)(le « **Site** ») par le biais duquel les utilisateurs (« **Utilisateurs** » ou « **vous** ») peuvent accéder aux services proposés par InMemori.
+La société par actions simplifiée InMemori (ci-après « **InMemori** », « **nous** », ou « **nos** ») utilise des cookies pour améliorer son site web disponible à l’adresse [www.inmemori.com](http://www.inmemori.com) (le « **Site** ») par le biais duquel les utilisateurs (« **Utilisateurs** » ou « **vous** ») peuvent accéder aux services proposés par InMemori.
 
 Cette politique relative aux cookies a été créée dans le but de vous fournir une information claire et  transparente sur l’utilisation que nous faisons des cookies et des choix dont vous disposez par rapport à ceux-ci. 
 
@@ -24,7 +24,7 @@ Ces Cookies ont généralement pour finalité de faciliter la navigation sur un 
 
 <br/>  
 
-### **2.	Quels sont les cookies utilisés par InMemori ?**
+### **2.	Quels sont les Cookies utilisés par InMemori ?**
 
 InMemori utilise les Cookies suivants : 
 
@@ -41,7 +41,7 @@ A l’aide de ces Cookies, InMemori peut améliorer le fonctionnement du Site.
 
 <br/>  
 
-### **3. Consentement à l'utulisaiton des cookies** 
+### **3. Consentement à l'utilisation des Cookies** 
 
 La législation applicable en matière de Cookies et traceurs impose de recueillir le consentement de l’Utilisateur avant tout stockage d’informations sur l’équipement de celui-ci ou l’accès à des informations déjà stockées ; sauf si ces actions sont strictement nécessaires pour la délivrance d’un service de la société de l’information expressément demandé par l’Utilisateur. 
 
@@ -49,13 +49,13 @@ En poursuivant leur navigation sur le Site lors de la première connexion, les U
 
 <br/>  
 
-### **4.	Comment paramétrer vos préférences en matière de cookie ?**
+### **4.	Comment paramétrer vos préférences en matière de Cookie ?**
 
 Il vous est possible de paramétrer votre navigateur afin de refuser les Cookies. Toutefois, si vous choisissez de bloquer ou de supprimer tous les Cookies (dont les Cookies strictement nécessaires au bon fonctionnement du site web), certaines fonctionnalités du Site peuvent ne pas fonctionner correctement et votre expérience d’Utilisateur ne sera donc pas optimale.
 
 Dans le cas où vous souhaitez tout de même retirer votre consentement au placement de Cookies, vous pouvez paramétrer votre navigateur internet de la manière suivante :
 * pour Internet Explorer : <http://windows.microsoft.com/fr-FR>
-* pour Safari : <https://support.apple.com/fr-fr/guide/safari/sfri11471/mac	>
+* pour Safari : <https://support.apple.com/fr-fr/guide/safari/sfri11471/mac>
 * pour Chrome : <https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=fr>	 
 
 Les principaux sites d’aide au paramétrage en fonction de votre smartphone sont les suivants :
@@ -67,7 +67,7 @@ Les principaux sites d’aide au paramétrage en fonction de votre smartphone so
 
 <br/>  
 
-### **5. Modification de la politique relative aux cookies**
+### **5. Modification de la politique relative aux Cookies**
 
 La présente politique a été révisée la dernière fois à la date indiquée en haut de cette page.
 
