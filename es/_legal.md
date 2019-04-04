@@ -3,7 +3,7 @@
 <br/>  
 ### Editor 
 
-El sitio web https://www.inmemori.com es propiedad de Rest In Peace (en lo sucesivo, el "Editor").  
+El sitio web https://www.inmemori.com es propiedad de InMemori (en lo sucesivo, el "Editor").  
 
 De conformidad con el Código de propiedad Intelectual, cualquier explotación, representación o reproducción total o parcial del sitio web está estrictamente prohibida sin el permiso previo y expreso del Editor.
 
@@ -15,8 +15,12 @@ Los hiperenlaces colocados en el marco del presente sitio de internet en direcci
 
 ### Créditos  
 
-Director de publicación: SAS Rest In Peace
-Administrados de sitio web: SAS Rest In Peace
-Concepción, realización y hospedaje del sitio web: SAS Rest In Peace (concepción, realización)
+Director de publicación: SAS InMemori
+
+Administrados de sitio web: SAS InMemori
+
+Concepción, realización y hospedaje del sitio web: SAS InMemori (concepción, realización)
+
+Contáctenos : contact@inmemori.com ; + 33 6 37 60 26 04
 <br/>
 <br/>
