@@ -3,7 +3,7 @@
 <br/>  
 ### Herausgeber  
 
-Die Internetseite https://www.inmemori.com ist das Eigentum von Rest In Peace, (im Folgenden der „Herausgeber“).  
+Die Internetseite https://www.inmemori.com ist das Eigentum von InMemori, (im Folgenden der „Herausgeber“).  
 
 Gemäß der Regelung zum geistigen Eigentumsrecht ist jede gewerbliche Nutzung, Darstellung oder Reproduktion dieser Internetseite, auch auszugsweise, ohne vorherige und ausdrückliche Genehmigung durch den Herausgeber strengstens verboten.  
 
@@ -15,8 +15,12 @@ Hyperlinks, die im Rahmen dieser Website auf andere im Internet vorhandene Quell
 
 ### Nachweis  
 
-Leitende Redaktion: SAS Rest In Peace
-Webmaster: SAS Rest In Peace
-Gestaltung, Verwirklichung und Hosting der Internetseite: SAS Rest In Peace (Gestaltung, Verwirklichung)
+Leitende Redaktion: SAS InMemori
+
+Webmaster: SAS InMemori
+
+Gestaltung, Verwirklichung und Hosting der Internetseite: SAS InMemori (Gestaltung, Verwirklichung)
+
+kontaktieren Sie uns : contact@inmemori.com ; +33 6 37 60 26 04
 <br/>
 <br/>
