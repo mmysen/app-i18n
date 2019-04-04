@@ -3,7 +3,7 @@
 <br/>  
 ### Editor  
 
-This website https://www.inmemori.com is the property of Rest In Peace SAS, (The "Editor").  
+This website https://www.inmemori.com is the property of InMemori SAS, (The "Editor").  
 
 Pursuant to intellectual property laws, any use, representation, or reproduction, wholly or in part, of this website without prior and express consent of the Editor is strictly prohibited.
 
@@ -15,8 +15,12 @@ Hyperlinks made to other sites or contents available on the web, including to tr
 
 ### Credits  
 
-Publication director: SAS Rest In Peace  
-Webmaster: SAS Rest In Peace  
-Design, production and host: SAS Rest In Peace (design and production)
+Publication director: SAS InMemori
+
+Webmaster: SAS InMemori
+
+Design, production and host: SAS InMemori (design and production)
+
+Contact us : contact@inmemori.com ; +33 6 37 60 26 049 
 <br/>
 <br/>
