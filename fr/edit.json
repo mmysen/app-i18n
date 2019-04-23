@@ -117,8 +117,18 @@
               , "title-success": "Collecte de fonds terminée"
               , "text-success": "Les fonds vous seront versés d'ici 72h. \nSi votre collecte de dons était organisée en faveur d'une association, vous pouvez les contacter directement pour leur reverser les fonds."
             }
+          , "5": {
+                  "title": "Photo"
+                , "text": "Modifier la photo"
+                , "cta-open": "Modifier"
+                , "cta-close": "Fermer"
+                , "cta": "Enregistrer"
+                , "label-image": "Ajouter une photo de votre proche"
+                , "text-image": "Vous pouvez vous occuper de cette étape plus tard, mais nous vous recommandons d’en ajouter une avant de partager l'espace avec vos proches. Formats acceptés : JPG, JPEG, PNG (taille maximale de 5 Mo)."
+                , "cta-image": "Choisir une photo"
+                , "cta-image-uploading": "Téléchargement en cours..."
+              }
         }
-
     }
   , "thanks": {
         "label": "À: "

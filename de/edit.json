@@ -117,6 +117,17 @@
               , "title-success": "Spendenaktion abgeschlossen"
               , "text-success": "Die Beträge werden innerhalb von 72 Stunden überwiesen. \nWenn Ihre Spendenaktion einem Verein gilt, können Sie diesen direkt kontaktieren, um Ihnen die Beträge zu überweisen."
             }
+          , "5": {
+                "title": "Trauerkarte"
+              , "text": "Informationen Ihres Angehörigen ändern (Name, Vorname, Daten)"
+              , "cta-open": "Ändern"
+              , "cta-close": "Schließen"
+              , "cta": "Speichern"
+              , "label-image": "Ein Foto Ihres Angehörigen hinzufügen"
+              , "text-image": "Sie haben dazu auch später noch Gelegenheit, wir empfehlen jedoch, ein Foto hinzuzufügen, bevor Sie die Seite mit Angehörigen teilen. Akzeptierte Formate: JPG, JPEG, PNG (maximale Größe 5 MB)."
+              , "cta-image": "Foto auswählen"
+              , "cta-image-uploading": "Wird geladen..."
+            }
         }
 
     }

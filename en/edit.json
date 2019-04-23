@@ -118,6 +118,17 @@
               , "title-success": "Fundraising has ended"
               , "text-success": "Your fundraiser is now closed!"
             }
+          , "5": {
+                "title": "Information"
+              , "text": "Please tell us about the person you lost."
+              , "cta-open": "Edit"
+              , "cta-close": "Close"
+              , "cta": "Save"
+              , "label-image": "Upload a picture of {{fullname}}"
+              , "text-image": "You can complete this step later if you do not have the right picture now, but we highly recommend that you include a picture before sharing the page. Accepted formats: JPG, JPEG, PNG (max size: 5 MB)."
+              , "cta-image": "Select picture"
+              , "cta-image-uploading": "Uploading..."
+            }
         }
 
     }
