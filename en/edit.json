@@ -119,8 +119,8 @@
               , "text-success": "Your fundraiser is now closed!"
             }
           , "5": {
-                "title": "Information"
-              , "text": "Please tell us about the person you lost."
+                "title": "Photo"
+              , "text": "Upload a picture of your loved one."
               , "cta-open": "Edit"
               , "cta-close": "Close"
               , "cta": "Save"
