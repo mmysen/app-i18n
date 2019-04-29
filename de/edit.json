@@ -118,8 +118,8 @@
               , "text-success": "Die Beträge werden innerhalb von 72 Stunden überwiesen. \nWenn Ihre Spendenaktion einem Verein gilt, können Sie diesen direkt kontaktieren, um Ihnen die Beträge zu überweisen."
             }
           , "5": {
-                "title": "Trauerkarte"
-              , "text": "Informationen Ihres Angehörigen ändern (Name, Vorname, Daten)"
+                "title": "Foto"
+              , "text": "Foto ändern"
               , "cta-open": "Ändern"
               , "cta-close": "Schließen"
               , "cta": "Speichern"
