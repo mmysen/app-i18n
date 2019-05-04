@@ -77,8 +77,8 @@
       , "cta-message": "Ecrire un message"
       , "no-result": "Tous les messages d'hommage apparaîtront ici.\nVos mots et vos pensées accompagneront la famille de {{firstname}}.\nSoyez le premier à vous manifester."
       , "dummy": {
-            "name": "MESSAGE D'EXEMPLE"
-          , "message": "Chaque message déposé apparaîtra sous cette forme. Une photo peut également être jointe. Cet exemple ne sera plus visible lorsqu'un premier message sera partagé."
+            "name": "EXEMPLE DE MESSAGE"
+          , "message": "Déposez sur cet espace un message de condoléances, un souvenir ou une photo. Vos témoignages pourront ensuite être rassemblés dans un beau livre d'hommage.\n Ce message disparaîtra dès qu'un premier mot sera partagé."
         }
     }
   , "message": {
