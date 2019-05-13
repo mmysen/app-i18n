@@ -78,6 +78,7 @@
       , "no-result": "Alle Würdigungen werden hier veröffentlicht.\nIhre Worte und Gedanken begleiten {{firstname}}s Familie.\nVeröffentlichen Sie die erste Würdigung."
       , "dummy": {
             "name": "BEISPIELNACHRICHT"
+          , "img": "jzc4psqujay3fdzpyhie"
           , "message": "Jede Nachricht wird in dieser Form angezeigt. Ein Foto kann auch angehängt werden. Dieses Beispiel ist nicht mehr sichtbar, wenn eine erste Nachricht veröffentlicht wird."
         }
     }
