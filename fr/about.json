@@ -345,6 +345,10 @@
              , "website": "http://www.ag-group.be/content/fr/"
             }
           , {
+               "image": ""
+             , "website": ""
+            }
+          , {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Cre%CC%81dit_Agricole_jxt21s"
               , "website": "https://www.credit-agricole.fr/particulier/assurances/prevoyance/assurance-obseques.html"
             }
