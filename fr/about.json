@@ -329,6 +329,10 @@
              , "website": "http://s-c-f.org/services/prestations/faire-part-numeriques"
             }
           , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Lomaco_ty3xfn.png"
+             , "website": "https://www.lomaco.fr/logiciel-funeraire.html#lomacoonline"
+            }
+          , {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Aviva_ctn8q3"
               , "website": "https://www.aviva.fr/particulier/assurance/assurance-obseques/beneficiaires/#hommage"
             }
