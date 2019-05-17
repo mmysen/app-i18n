@@ -345,8 +345,8 @@
              , "website": "http://www.ag-group.be/content/fr/"
             }
           , {
-               "image": ""
-             , "website": ""
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Gayosso_cxqf9v.png"
+             , "website": "https://www.gayosso.com/inmemori/"
             }
           , {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Cre%CC%81dit_Agricole_jxt21s"
