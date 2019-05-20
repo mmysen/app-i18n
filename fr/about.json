@@ -32,7 +32,15 @@
       , "title2": "Dernières parutions"
       , "text": "L’équipe relations presse d’InMemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
       , "items": [
-           {
+          {
+               "title": "InMemori, le site qui vous aide à gérer la perte d’un proche. Portrait de sa fondatrice"
+             , "text": "Clémentine Piazza est la fondatrice d'InMemor. InMemori offre aux personnes ayant perdu un proche, un espace privé qui permet de rassembler rapidement les informations sur les obsèques et les messages de soutien."
+             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1558357678/BFMBusiness_lvvuwj.png"
+             , "link": ["Voir la vidéo", "https://www.bfmtv.com/static/nxt-video/embed-playerBridge.html?video=6025519483001&account=876450612001"]
+             , "date": "2019-04-10"
+           }
+          
+          ,{
                "title": "Aviva France et la startup InMemori s’associent pour soutenir les familles qui font face a la perte d’un proche"
              , "text": "Depuis le 10 octobre 2018, Aviva France, acteur majeur de l’assurance, offre aux proches de ses clients Conventions Obsèques le service InMemori afin de les aider à rassembler facilement leur entourage."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967420/Aviva_y4ooh0.jpg"
