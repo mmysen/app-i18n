@@ -4,7 +4,7 @@
       , "titleOf": ""
       , "cta": ""
       , "cta-right": ""
-      , "cta-share": "Envoyer le faire-part"
+      , "cta-share": "Partager ce faire-part"
       , "cta-share-admin": "Ajouter un administrateur"
       , "cta-edit": "Personnaliser l'espace"
       , "cta-edit-tooltip": "Seuls les administrateurs peuvent personnaliser l'espace."
@@ -19,9 +19,9 @@
       , "donation": "Faire un don"
       , "flowers": "Embellir la cérémonie"
       , "book": "Recevoir le livre"
-      , "share": "Envoyer le faire-part"
+      , "share": "Partager ce faire-part"
     }
-  , "share-bar": "Envoyez le faire-part"
+  , "share-bar": "Partagez ce faire-part"
   , "home": {
         "intro": {
             "title": "Chère famille, chers amis, \nnous avons la grande tristesse de vous faire part du décès de {{firstname}}. \nCet espace est destiné à lui rendre hommage à travers un message, un souvenir ou une photo.\nVous y trouverez également toutes les informations pratiques. \n\n Merci pour votre présence à nos côtés."
@@ -64,8 +64,8 @@
               , "text-org": "Soutenez l’association {{org}}, selon les volontés de {{firstname}}."
             }
           , "share": {
-                "title": "Envoyer le faire-part"
-              , "text": "Si vous connaissez une personne qui souhaiterait se manifester, n'hésitez pas à lui envoyer le lien de l'espace."
+                "title": "Partager ce faire-part"
+              , "text": "Pour partager cet espace avec les personnes concernées que vous connaissez, vous pouvez leur envoyer ce lien."
             }
         }
     }
@@ -77,8 +77,9 @@
       , "cta-message": "Ecrire un message"
       , "no-result": "Tous les messages d'hommage apparaîtront ici.\nVos mots et vos pensées accompagneront la famille de {{firstname}}.\nSoyez le premier à vous manifester."
       , "dummy": {
-            "name": "MESSAGE D'EXEMPLE"
-          , "message": "Chaque message déposé apparaîtra sous cette forme. Une photo peut également être jointe. Cet exemple ne sera plus visible lorsqu'un premier message sera partagé."
+            "name": "EXEMPLE DE MESSAGE"
+          , "img": "jzc4psqujay3fdzpyhie"
+          , "message": "Déposez sur cet espace un message de condoléances, un souvenir ou une photo. Vos témoignages pourront ensuite être rassemblés dans un beau livre d'hommage.\n Ce message disparaîtra dès qu'un premier mot sera partagé."
         }
     }
   , "message": {
@@ -231,7 +232,7 @@
 
   , "share": {
         "link": {
-            "title": "Envoyer le faire-part"
+            "title": "Partager ce faire-part"
           , "text": "Envoyez le lien de l'espace à toutes les personnes qui souhaiteraient se manifester :"
           , "message": "Bonjour, \n\nC'est avec une immense tristesse que nous vous annonçons le décès de {{fullname}}.\n\nNous venons de créer un espace InMemori, privé, sur internet afin de lui rendre hommage.\nEn vous rendant sur l'espace vous pourrez : \n- Consulter les informations sur les obsèques\n- Partager un message de condoléances, un souvenir, une photo\n\nNous apprécierons vos messages de soutien dans ces moments difficiles.\n\nAfin de ne pas oublier des personnes qui l'ont aimé(e), n'hésitez pas à partager cet espace à toutes les personnes concernées.\n\nAmitiés,\n\nVoici le lien de l'espace : {{automaticURLreplacement}}"
         }

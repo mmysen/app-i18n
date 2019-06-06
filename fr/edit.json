@@ -4,7 +4,7 @@
       , "tabs": {
             "1": {
                 "title": "Faire-part"
-              , "text": "Modifier le faire-part et ajouter une photo"
+              , "text": "Modifier le faire-part"
               , "cta-open": "Modifier"
               , "cta-close": "Fermer"
               , "cta": "Enregistrer"

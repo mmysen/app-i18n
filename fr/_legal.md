@@ -21,6 +21,6 @@ Webmaster : SAS InMemori
 
 Conception, réalisation et hébergement du site internet : SAS InMemori (conception, réalisation)
 
-Nous contacter : contact@inmemori.com ; +33 6 37 60 26 049 
+Nous contacter : contact@inmemori.com ; +33 6 37 60 26 04
 <br/>
 <br/>

@@ -4,7 +4,7 @@
       , "tabs": {
             "1": {
                 "title": "Información"
-              , "text": "Aquí puede agregar la información de su Ser Querido, personalizar la información como su nombre, fechas y una foto"
+              , "text": "Aquí puede agregar la información de su Ser Querido, personalizar la información como su nombre y fechas"
               , "cta-open": "Editar"
               , "cta-close": "Cerrar"
               , "cta": "Guardar"
@@ -118,8 +118,8 @@
               , "text-success": "¡Su colecta ya está cerrada!"
             }
           , "5": {
-                "title": "Información"
-              , "text": "Aquí puede agregar la información de su Ser Querido, personalizar la información como su nombre, fechas y una foto"
+                "title": "Foto"
+              , "text": "Aquí puede agregar una foto de su Ser Querido"
               , "cta-open": "Editar"
               , "cta-close": "Cerrar"
               , "cta": "Guardar"

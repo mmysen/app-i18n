@@ -32,7 +32,15 @@
       , "title2": "Dernières parutions"
       , "text": "L’équipe relations presse d’InMemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
       , "items": [
-           {
+          {
+               "title": "InMemori, le site qui vous aide à gérer la perte d’un proche. Portrait de sa fondatrice"
+             , "text": "Clémentine Piazza est la fondatrice d'InMemor. InMemori offre aux personnes ayant perdu un proche, un espace privé qui permet de rassembler rapidement les informations sur les obsèques et les messages de soutien."
+             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1558357678/BFMBusiness_lvvuwj.png"
+             , "link": ["Voir la vidéo", "https://www.bfmtv.com/static/nxt-video/embed-playerBridge.html?video=6025519483001&account=876450612001"]
+             , "date": "2019-04-10"
+           }
+          
+          ,{
                "title": "Aviva France et la startup InMemori s’associent pour soutenir les familles qui font face a la perte d’un proche"
              , "text": "Depuis le 10 octobre 2018, Aviva France, acteur majeur de l’assurance, offre aux proches de ses clients Conventions Obsèques le service InMemori afin de les aider à rassembler facilement leur entourage."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1549967420/Aviva_y4ooh0.jpg"
@@ -158,7 +166,7 @@
       , "subtitle": "Trouver les mots."
       , "text": "Voici une suggestion de présentation d’InMemori afin que vous puissiez en parler facilement à votre proche : \n\n InMemori est un espace en ligne privé et gratuit. Il te permet de faire part du décès à tout ton entourage et de transmettre rapidement les informations sur les obsèques.\nLa famille, les amis et les proches pourront aussi déposer sur l’espace un message de condoléances, un souvenir ou une photo. \nTu pourras ensuite, si tu le souhaites, recevoir un beau livre rassemblant tous ces messages et ainsi en garder une trace."
       , "subtitle2": "Aller plus loin."
-      , "text2": "Pour aider au mieux, nous vous invitons à créer vous-même l’espace d’hommage. Cela permettra à la famille de bien comprendre le service et vous lui faites ainsi économiser un temps précieux.\n Chaque espace est privé et sécurisé. Ce sera donc bien la famille qui décidera d’utiliser InMemori et de partager l’espace in fine.\n\n Pour cela, vous pouvez envoyer le lien de l’espace et y joindre ce texte explicatif : \n\n“InMemori (<a href='www.inmemori.com'>www.inmemori.com</a>) est un espace en ligne privé et gratuit. Il te permet de faire part du décès à tout ton entourage et de transmettre rapidement les informations sur les obsèques.\n\nSeuls les proches à qui tu enverras le lien sécurisé de l’espace pourront y avoir accès. Ils pourront aussi y déposer un message de condoléances, un souvenir ou une photo. \n\n Tu pourras ensuite, si tu le souhaites, recevoir un beau livre rassemblant tous ces messages et ainsi en garder une trace.\n\n L’espace est personnalisable, tu peux choisir la photo et écrire le faire-part avec tes mots. Les équipes d’InMemori sont très réactives, n’hésite pas à les appeler si tu as la moindre question.\n\n Les familles qui ont utilisé le service parlent du réconfort que cela leur a apporté, tu peux lire leurs témoignages sur le lien suivant : \n <a href='www.inmemori.com/testimonials'>www.inmemori.com/testimonials</a>"
+      , "text2": "Pour aider au mieux, nous vous invitons à créer vous-même l’espace d’hommage. Cela permettra à la famille de bien comprendre le service et vous lui faites ainsi économiser un temps précieux.\n Chaque espace est privé et sécurisé. Ce sera donc bien la famille qui décidera d’utiliser InMemori et de partager l’espace in fine.\n\n Pour cela, vous pouvez envoyer le lien de l’espace et y joindre ce texte explicatif : \n\n“InMemori (<a href='www.inmemori.com'>www.inmemori.com</a>) est un espace en ligne privé et gratuit. Il te permet de faire part du décès à tout ton entourage et de transmettre rapidement les informations sur les obsèques.\n\nSeuls les proches à qui tu enverras le lien sécurisé de l’espace pourront y avoir accès. Ils pourront aussi y déposer un message de condoléances, un souvenir ou une photo. \n\n Tu pourras ensuite, si tu le souhaites, recevoir un beau livre rassemblant tous ces messages et ainsi en garder une trace.\n\n L’espace est personnalisable, tu peux choisir la photo et écrire le faire-part avec tes mots. Les équipes d’InMemori sont très réactives, n’hésite pas à les appeler si tu as la moindre question.\n\n Les familles qui ont utilisé le service parlent du réconfort que cela leur a apporté, tu peux lire leurs témoignages sur le lien suivant : <a href='www.inmemori.com/testimonials'>www.inmemori.com/testimonials</a>"
     }
 
 
@@ -314,7 +322,7 @@
  , "partners": {
         "title": "Ils s'engagent à nos côtés."
       , "a-text": "Ils offrent InMemori aux familles."
-      , "b-text": ""
+      , "b-text": "Ils soutiennent InMemori."
       , "a": [
             {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Allianz_tctwwz"
@@ -322,11 +330,15 @@
             }
           , {
                "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Gan_Pre%CC%81voyance_ulczjf"
-             , "website": ""
+             , "website": "https://www.ganprevoyance.fr/particulier/bien-vivre-retraite/serenite-obseques"
             }
           , {
                "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/SCF_jrpx8t"
              , "website": "http://s-c-f.org/services/prestations/faire-part-numeriques"
+            }
+          , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Lomaco_V2_gm7jz4.png"
+             , "website": "https://www.lomaco.fr/logiciel-funeraire.html#lomacoonline"
             }
           , {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Aviva_ctn8q3"
@@ -334,34 +346,39 @@
             }
           , {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Malakoff_Me%CC%81de%CC%81ric_giprtw"
-              , "website": ""
+              , "website": "http://www.malakoffmederic.com/particuliers/prevoyance/solutions-prevoyance/garantie-obseques/index.jsp#"
             }
            , {
                "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/A_G_hd9pql"
-             , "website": ""
+             , "website": "http://www.ag-group.be/content/fr/"
+            }
+          , {
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Gayosso_cxqf9v.png"
+             , "website": "https://www.gayosso.com/inmemori/"
             }
           , {
                 "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Cre%CC%81dit_Agricole_jxt21s"
-              , "website": ""
+              , "website": "https://www.credit-agricole.fr/particulier/assurances/prevoyance/assurance-obseques.html"
             }
           , {
                "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Pre%CC%81voir_c35cta"
-             , "website": ""
+             , "website": "https://www.prevoir.com/nos-solutions/assurance-deces-obseques"
             }
            , {
                "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/Autre_Rive_chgpkx"
-             , "website": ""
+             , "website": "https://www.autrerive.fr/"
             }
+    
           
         ]
-      , "b": [
+           , "b": [
             {
-               "image": ""
-             , "website": ""
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/CNSPFV_jme6ot"
+             , "website": "https://www.parlons-fin-de-vie.fr/"
             }
           , {
-               "image": ""
-             , "website": ""
+               "image": "https://res.cloudinary.com/inmemori/image/upload/fl_lossy,f_auto/FPSP_ipepdt"
+             , "website": "https://www.fondssoinspalliatifs.fr/inmemori/"
             }
         ]
     }
