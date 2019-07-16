@@ -19,9 +19,9 @@
       , "donation": "Faire un don"
       , "flowers": "Embellir la cérémonie"
       , "book": "Recevoir le livre"
-      , "share": "Partager ce faire-part"
+      , "share": "Partager le faire-part"
     }
-  , "share-bar": "Partagez ce faire-part"
+  , "share-bar": "Partagez le faire-part"
   , "home": {
         "intro": {
             "title": "Chère famille, chers amis, \nnous avons la grande tristesse de vous faire part du décès de {{firstname}}. \nCet espace est destiné à lui rendre hommage à travers un message, un souvenir ou une photo.\nVous y trouverez également toutes les informations pratiques. \n\n Merci pour votre présence à nos côtés."
@@ -64,7 +64,7 @@
               , "text-org": "Soutenez l’association {{org}}, selon les volontés de {{firstname}}."
             }
           , "share": {
-                "title": "Partager ce faire-part"
+                "title": "Partager le faire-part"
               , "text": "Pour partager cet espace avec les personnes concernées que vous connaissez, vous pouvez leur envoyer ce lien."
             }
         }
