@@ -21,7 +21,7 @@
       , "book": "Recevoir le livre"
       , "share": "Partager le faire-part"
     }
-  , "share-bar": "Partagez le faire-part"
+  , "share-bar": "Partager le faire-part"
   , "home": {
         "intro": {
             "title": "Chère famille, chers amis, \nnous avons la grande tristesse de vous faire part du décès de {{firstname}}. \nCet espace est destiné à lui rendre hommage à travers un message, un souvenir ou une photo.\nVous y trouverez également toutes les informations pratiques. \n\n Merci pour votre présence à nos côtés."
