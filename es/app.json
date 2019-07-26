@@ -77,7 +77,7 @@
       , "cta-message": "Escribir un mensaje"
       , "no-result": "Todos los mensajes de homenaje serán publicados aquí.\nSus recuerdos y sus palabras ayudarán a los seres queridos de {{firstname}} a navegar por este camino.\nSea el primero en compartir, ayudar e inspirar a otros a hacer lo mismo."
       , "dummy": {
-            "name": "EJEMPLO DE MENSAJE"
+            "name": "MENSAJE DE EJEMPLO"
           , "img": "jzc4psqujay3fdzpyhie"
           , "message": "Cada mensaje publicado aparecerá de esta manera. También se puede adjuntar una foto. Este ejemplo ya no será visible cuando se comparta el primer mensaje."
         }
