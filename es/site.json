@@ -21,18 +21,18 @@
           , "cta": "Siguiente"
         }
       , "step1": { 
-            "title": "Contactos"
-          , "info": "Sus informaciones"
+            "title": "Contacto"
+          , "info": "Su información"
           , "cta": "Siguiente"
         }
       , "step2": { 
             "title": "Ceremonia"
-          , "info": "Podrá agregar otro evento ulteriormente."
+          , "info": "Podrá agregar otro evento después."
           , "cta": "Siguiente"
         }
       , "step3": { 
             "title": "Página creada"
-          , "info": "¡Bravo, la página en honor a {{fullname}} es creada y lista para ser compartida!"
+          , "info": "¡Bravo, la página en honor a {{fullname}} ha sido creada y esta lista para ser compartida!"
           , "cta": "Ver página"
         }
       , "cta-back": "Regreso"
@@ -60,8 +60,8 @@
             "firstname": "¿Cómo se llama?"
           , "lastname": "¿Cual es su appelido?"
           , "dod": "¿Cuándo se falleció?"
-          , "email": "¿Cual est su correo electrónico?"
-          , "phone": "¿Cual es su número?"
+          , "email": "¿Cuál es su correo electrónico?"
+          , "phone": "¿Cuál es su número?"
           , "zone": "¿Cuál es su país de residencia?"
         }
     }
