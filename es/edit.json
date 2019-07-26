@@ -30,7 +30,7 @@
                 ]
             }
           , "2": {
-                "title": "Contactos"
+                "title": "Contacto"
               , "text": "Aquí puede agregar a familiares a ser contactadas"
               , "cta-open": "Editar"
               , "cta-close": "Cerrar"
