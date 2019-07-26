@@ -88,7 +88,7 @@
       , "input-email-info": "Email para que la familia le pueda responder."
       , "input-message-placeholder-1": "Escribir un mensaje para la familia..."
       , "input-message-placeholder-2": "Compartir una memoria con {{firstname}}......"
-      , "cta": "Compartir en la colección"
+      , "cta": "Compartir"
       , "cta-image": "Adjuntar una foto"
       , "cta-image-uploading": "Descargar..."
       , "steps": {
