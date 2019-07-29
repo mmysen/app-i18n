@@ -101,7 +101,7 @@
 
 
   , "cart": {
-        "label-item": "Livre InMemori"
+        "label-item": "Produit"
       , "label-qty": "Quantité"
       , "label-price": "Prix"
       , "label-shipping": "Frais de livraison :"
@@ -114,12 +114,15 @@
       , "input-lastname-placeholder": "Nom"
       , "input-email-placeholder": "Email"
     }
+    
   , "item": {
         "label-qty": "Quantité"
     }
+
   , "shipping": {
         "conditions": "Livraison en France métropolitaine uniquement."
       , "label-withInvoice": "Utiliser une autre adresse pour la facturation ?"
+      , "input-email-placeholder": "Email"
       , "input-name-placeholder": "Nom"
       , "input-phone-placeholder": "Téléphone"
       , "input-recipient-placeholder": "Destinataire"
@@ -128,7 +131,17 @@
       , "input-zipcode-placeholder": "Code postal"
       , "input-info-placeholder": "Informations complémentaires (digicode, étage...)"
       , "input-vat-placeholder": "Numéro de TVA"
+
+    }
+  , "invoice": {
+        "input-name-placeholder": "Nom"
       , "input-email-placeholder": "Email"
+      , "input-phone-placeholder": "Téléphone"
+      , "input-address-placeholder": "Adresse"
+      , "input-city-placeholder": "Ville"
+      , "input-zipcode-placeholder": "Code postal"
+      , "input-info-placeholder": "Informations complémentaires (digicode, étage...)"
+      , "input-vat-placeholder": "Numéro de TVA"
 
     }
   , "tx": {
@@ -213,6 +226,44 @@
           , "cta": "Valider"
         }
       , "step4": {
+            "title": "Commande terminée"
+          , "subtitle": ""
+          , "cta": ""
+        }
+      , "item-info": "La qualité d’impression des images dépend de la taille des photos partagées par chacun sur le recueil d’hommages, merci de votre compréhension."
+      , "shipping-info": "Afin de vous garantir un livre de belle qualité au meilleur prix, nous regroupons les commandes. Les délais de livraison varient de 4 à 6 semaines après la commande."
+      , "cta-prev": "Retour"
+      , "cta-end": "Terminer"
+      , "text-inactive": "La commande de votre livre sera disponible d'ici quelques jours afin que tous les proches de {{firstname}} aient eu le temps de partager des messages et des photos."
+    }
+
+  , "gcard": {
+        "step0": {
+            "title": "Présentation de la carte"
+          , "subtitle": ""
+          , "cta": "Commander"
+        }
+      , "step1": {
+            "title": "Configurez la carte"
+          , "subtitle": ""
+          , "cta": "Suivant"
+        }
+      , "step2": {
+            "title": "Mon panier"
+          , "subtitle": ""
+          , "cta": "Suivant"
+        }
+      , "step3": {
+            "title": "Livraison"
+          , "subtitle": "France métropolitaine uniquement"
+          , "cta": "Suivant"
+        }
+      , "step4": {
+            "title": "Validez la commande"
+          , "subtitle": ""
+          , "cta": "Valider"
+        }
+      , "step5": {
             "title": "Commande terminée"
           , "subtitle": ""
           , "cta": ""

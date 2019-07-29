@@ -123,15 +123,27 @@
         "conditions": "Shipping to France only."
       , "label-withInvoice": "Use a different addresse for invoice ?"
       , "input-name-placeholder": "Name"
+      , "input-email-placeholder": "E-mail"
       , "input-phone-placeholder": "Phone"
-      , "input-recipient-placeholder": "Recipient"
       , "input-address-placeholder": "Address"
       , "input-city-placeholder": "City"
       , "input-zipcode-placeholder": "Zipcode"
       , "input-info-placeholder": "Additional infos (floor...)"
       , "input-vat-placeholder": "VAT (Tax number)"
-      , "input-email-placeholder": "E-mail"
+      , "input-recipient-placeholder": "Recipient"
     }
+
+  , "invoice": {
+        "input-name-placeholder": "Name"
+      , "input-email-placeholder": "E-mail"
+      , "input-phone-placeholder": "Phone"
+      , "input-address-placeholder": "Address"
+      , "input-city-placeholder": "City"
+      , "input-zipcode-placeholder": "Zipcode"
+      , "input-info-placeholder": "Additional infos (floor...)"
+      , "input-vat-placeholder": "VAT (Tax number)"
+    }
+
   , "tx": {
         "receipt": "Your payment of {{tx.amount_f}} has been sent!\nOrder number : {{tx.chargeId}}"
     }

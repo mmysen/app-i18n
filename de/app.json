@@ -114,23 +114,37 @@
       , "input-lastname-placeholder": "Name"
       , "input-email-placeholder": "E-Mail"
     }
+    
   , "item": {
         "label-qty": "Anzahl"
     }
+
   , "shipping": {
         "conditions": "Lieferung nur nach Frankreich."
       , "label-withInvoice": "Eine andere Rechnungsadresse verwenden?"
       , "input-name-placeholder": "Name"
+      , "input-email-placeholder": "Email"
       , "input-phone-placeholder": "Telefon"
-      , "input-recipient-placeholder": "Empfänger"
       , "input-address-placeholder": "Adresse"
       , "input-city-placeholder": "Stadt"
       , "input-zipcode-placeholder": "Postleitzahl"
       , "input-info-placeholder": "Zusatzinformationen (Zugangscode, Stockwerk...)"
       , "input-vat-placeholder": "Umsatzsteuer-ID"
-      , "input-email-placeholder": "Email"
-      
+      , "input-recipient-placeholder": "Empfänger"
     }
+
+  , "invoice": {
+        "input-name-placeholder": "Name"
+      , "input-email-placeholder": "Email"
+      , "input-phone-placeholder": "Telefon"
+      , "input-address-placeholder": "Adresse"
+      , "input-city-placeholder": "Stadt"
+      , "input-zipcode-placeholder": "Postleitzahl"
+      , "input-info-placeholder": "Zusatzinformationen (Zugangscode, Stockwerk...)"
+      , "input-vat-placeholder": "Umsatzsteuer-ID"
+
+    }
+
   , "tx": {
         "receipt": "Ihre Zahlung in Höhe von {{tx.amount_f}} ist eingegangen!\nReferenz: {{tx.chargeId}}"
     }

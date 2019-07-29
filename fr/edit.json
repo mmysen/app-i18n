@@ -198,6 +198,7 @@
     }
   , "actions": {
         "title": "Gérer l'espace"
+      , "title2": "Services"
       , "links": {
             "info": "Informations"
           , "moderation": "Remerciements"
@@ -205,6 +206,7 @@
           , "admin": "Ajouter un administrateur"
           , "share": "Partager l'espace"
           , "delete": "Supprimer l'espace"
+          , "gcard": "Carte de remerciements"
         }
     }
 }
