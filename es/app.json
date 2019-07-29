@@ -14,7 +14,7 @@
         "welcome": "Consulta"
       , "home": "Información"
       , "guestbook": "Mensajes"
-      , "support": "Demostra su apoyo"
+      , "support": "Demuestra tu apoyo"
       , "message": "Escribe un mensaje"
       , "donation": "Haz un donativo"
       , "flowers": "Envia flores"
@@ -77,7 +77,7 @@
       , "cta-message": "Escribir un mensaje"
       , "no-result": "Todos los mensajes de homenaje serán publicados aquí.\nSus recuerdos y sus palabras ayudarán a los seres queridos de {{firstname}} a navegar por este camino.\nSea el primero en compartir, ayudar e inspirar a otros a hacer lo mismo."
       , "dummy": {
-            "name": "EJEMPLO DE MENSAJE"
+            "name": "MENSAJE DE EJEMPLO"
           , "img": "jzc4psqujay3fdzpyhie"
           , "message": "Cada mensaje publicado aparecerá de esta manera. También se puede adjuntar una foto. Este ejemplo ya no será visible cuando se comparta el primer mensaje."
         }
@@ -88,7 +88,7 @@
       , "input-email-info": "Email para que la familia le pueda responder."
       , "input-message-placeholder-1": "Escribir un mensaje para la familia..."
       , "input-message-placeholder-2": "Compartir una memoria con {{firstname}}......"
-      , "cta": "Compartir en la colección"
+      , "cta": "Compartir"
       , "cta-image": "Adjuntar una foto"
       , "cta-image-uploading": "Descargar..."
       , "steps": {
@@ -249,7 +249,7 @@
       , "admin": {
             "title": "Agregar un administrador"
           , "text": "Ingrese la dirección de correo electrónico de su contacto en el espacio a continuación para darle acceso al área de administración:"
-          , "message": "Bonjour,\n\n J’ai créé un espace InMemori en hommage à {{fullname}} afin de transmettre les informations sur les obsèques à tous nos proches. Chacun peut, s’il le souhaite, y déposer un message de soutien, un souvenir ou une photo.\n Je t’ai ajouté comme administrateur de l’espace pour que tu m’aides à le personnaliser et à le gérer.\n\n Cet espace est privé. Seules les personnes à qui nous enverrons son lien sécurisé pourront y avoir accès.\n Tu peux aller consulter un espace d’exemple afin de bien comprendre le service InMemori en cliquant ici.\n Constance d’InMemori est à notre disposition pour toute question et est joignable au 06 01 98 52 36 ou par email à l’adresse contact@inmemori.com."
+          , "message": "Hola,\n\nCreé un espacio InMemori como un tributo a {{fullname}} para compartir información sobre el funeral con todos nuestros seres queridos. Los que reciben el enlace a el espacio pueden escribir un mensaje de apoyo, un recuerdo o compartir una fotografía.\nTe agregué como administrador del espacio para que puedas ayudarme a personalizarlo y administrarlo.\n\nEste espacio es privado. Solo las personas a quienes les enviemos el enlace seguro podrán accederlo.\nPuedes visitar un espacio de ejemplo para comprender el servicio InMemori aqui: www.inmemori.com/castillocruz-u74qx.\nLos equipos de Gayosso están a tu disposición para cualquier pregunta. La puedes contactar al 01800GAYOSSO o por correo electrónico en gayosso@inmemori.com."
         }
       , "tab-link": {
             "text": "Copiar enlace"
