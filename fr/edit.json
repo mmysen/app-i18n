@@ -202,7 +202,7 @@
       , "links": {
             "info": "Informations"
           , "moderation": "Remerciements"
-          , "donate": "Soutenir une association"
+          , "donate": "Recueillir des dons"
           , "donate-started": "Gerer la collecte"
           , "admin": "Ajouter un administrateur"
           , "share": "Partager l'espace"
