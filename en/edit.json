@@ -200,6 +200,7 @@
     }
   , "actions": {
         "title": "Manage the page"
+       , "title2": "Services"
       , "links": {
             "info": "Information"
           , "moderation": "Give thanks"
