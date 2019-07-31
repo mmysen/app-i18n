@@ -203,7 +203,8 @@
       , "links": {
             "info": "Information"
           , "moderation": "Give thanks"
-          , "donateProxy": "Organize a fundraising"
+          , "donate": "Organize a fundraising"
+          , "donate-started": "Gerer la collecte"
           , "admin": "Add new administrator"
           , "share": "Share page"
           , "delete": "Delete page"

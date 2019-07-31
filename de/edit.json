@@ -202,7 +202,8 @@
       , "links": {
             "info": "Informationen"
           , "moderation": "Danksagungen"
-          , "donateProxy": "Eine Spendenaktion veranstalten"
+          , "donate": "Eine Spendenaktion veranstalten"
+          , "donate-started": "Gerer la collecte"
           , "admin": "Administrator hinzufügen"
           , "share": "Seite teilen"
           , "delete": "Seite löschen"

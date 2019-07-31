@@ -202,7 +202,8 @@
       , "links": {
             "info": "Información"
           , "moderation": "Agradecimientos"
-          , "donateProxy": "Sostener una asociación"
+          , "donate": "Sostener una asociación"
+          , "donate-started": "Gerer la collecte"
           , "admin": "Agregar nuevo administrador"
           , "share": "Compartir la página"
           , "delete": "Eliminar"
