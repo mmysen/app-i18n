@@ -51,8 +51,8 @@
           
           ,{
                "title": "InMemori, le site qui vous aide à gérer la perte d’un proche. Portrait de sa fondatrice"
-             , "text": "Clémentine Piazza est la fondatrice d'InMemor. InMemori offre aux personnes ayant perdu un proche, un espace privé qui permet de rassembler rapidement les informations sur les obsèques et les messages de soutien."
-             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1558357678/BFMBusiness_lvvuwj.png"
+             , "text": "Clémentine Piazza est la fondatrice d'InMemori. InMemori offre aux personnes ayant perdu un proche, un espace privé qui permet de rassembler rapidement les informations sur les obsèques et les messages de soutien."
+             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1558357678/BFMBusiness_logo.png"
              , "link": ["Voir la vidéo", "https://www.bfmtv.com/static/nxt-video/embed-playerBridge.html?video=6025519483001&account=876450612001"]
              , "date": "2019-04-10"
            }
