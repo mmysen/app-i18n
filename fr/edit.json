@@ -45,7 +45,7 @@
             }
           , "4": {
                 "title": "Donation"
-              , "text": "Créer une collecte de dons au profit d’une association"
+              , "text": "Créer une collecte de dons au profit d’une cause qui vous est chère"
               , "description": "Vous pouvez organiser une collecte de dons au profit d’une association chère à votre proche ou pour vous aider à financer ses obsèques. Les dons permettent à votre entourage de manifester leur soutien, en contribuant à une cause porteuse de sens."
               , "description-info": "Afin de couvrir les frais liés à la gestion de votre cagnotte et au transfert de fonds, 5% de commission sont retenus sur les dons effectués."
               , "countries": [
@@ -202,8 +202,8 @@
       , "links": {
             "info": "Informations"
           , "moderation": "Remerciements"
-          , "donate": "Soutenir une association"
-          , "donate-started": "Gerer la collecte"
+          , "donate": "Recueillir des dons"
+          , "donate-started": "Gérer la collecte"
           , "admin": "Ajouter un administrateur"
           , "share": "Partager l'espace"
           , "delete": "Supprimer l'espace"

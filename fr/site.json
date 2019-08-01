@@ -51,7 +51,7 @@
               , "icon": "/static/img/icons/team.png"
             }
           , "2": { 
-                "title": "Soutenir une association"
+                "title": "Soutenir une cause"
               , "text": "Organiser une collecte de dons"
               , "icon": "/static/img/icons/donation.png"
             }

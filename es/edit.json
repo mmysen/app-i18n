@@ -202,8 +202,8 @@
       , "links": {
             "info": "Información"
           , "moderation": "Agradecimientos"
-          , "donate": "Sostener una asociación"
-          , "donate-started": "Gerer la collecte"
+          , "donate": "Recaudar donaciones"
+          , "donate-started": "Administrar la colecta"
           , "admin": "Agregar nuevo administrador"
           , "share": "Compartir la página"
           , "delete": "Eliminar"
