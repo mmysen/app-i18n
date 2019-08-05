@@ -113,6 +113,7 @@
         "input-firstname-placeholder": "Prénom"
       , "input-lastname-placeholder": "Nom"
       , "input-email-placeholder": "Email"
+      , "input-phone-placeholder": "Téléphone"
     }
     
   , "item": {
