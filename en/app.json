@@ -114,6 +114,7 @@
         "input-firstname-placeholder": "Firstname"
       , "input-lastname-placeholder": "Lastname"
       , "input-email-placeholder": "Email"
+      , "input-phone-placeholder": "Phone"
     }
   , "item": {
         "label-qty": "Quantity"
