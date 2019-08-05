@@ -111,7 +111,9 @@
   , "client": {
         "input-firstname-placeholder": "Apellido"
       , "input-lastname-placeholder": "Nombre"
-      , "input-email-placeholder": "Correo Electrónico"
+      , "input-email-placeholder": "Email del comprador"
+      , "input-phone-placeholder": "Teléfono del comprador"
+      
     }
   , "item": {
         "label-qty": "Cantidad"
