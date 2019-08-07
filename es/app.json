@@ -282,6 +282,10 @@
         }
     }
 
+  , "agency": {
+        "promo": "El servicio funerario fue organizado por « {{name}} ». {{phone}}"
+    }
+
 
   , "stripe": {
         "label": "Al registrar su cuenta, usted acepta nuestro Acuerdo de Servicios y el Acuerdo de cuenta de Stripe Connected."

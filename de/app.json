@@ -285,6 +285,9 @@
         }
     }
 
+  , "agency": {
+        "promo": "Die Beerdigung wurde von « {{name}} » organisiert. {{phone}}"
+    }
 
   , "stripe": {
         "label": "Durch die Einrichtung Ihres Accounts stimmen Sie unseren Allgemeinen Nutzungsbedingungen sowie der Stripe Onlinekontenvereinbarung zu."

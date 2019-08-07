@@ -277,6 +277,10 @@
         }
     }
 
+  , "agency": {
+        "promo": "The memorial services have been organized by « {{name}} ». {{phone}}"
+    }
+
   , "stripe": {
         "label": "By registering your account, you agree to our Services Agreement and the Stripe Connected Account Agreement."
       , "agreement": "Payment processing services for users on Inmemori are provided by Stripe and are subject to the Stripe Connected Account Agreement, which includes the Stripe Terms of Service (collectively, the “Stripe Services Agreement”). By agreeing to these terms or continuing to operate as a user on Inmemori, you agree to be bound by the Stripe Services Agreement, as the same may be modified by Stripe from time to time. As a condition of Inmemori enabling payment processing services through Stripe, you agree to provide Inmemori accurate and complete information about you and your business, and you authorize Inmemori to share it and transaction information related to your use of the payment processing services provided by Stripe."
