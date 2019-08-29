@@ -19,7 +19,7 @@
               , "label-intro": "Escriba un mensaje para informar a sus familiares y amigos la pérdida de su Ser Querido."
               , "input-intro-placeholder": "Esta página es para la familia y para todos los que conocieron y amaron a {{fullname}}.\nDespués de una bella vida, rodeada de sus familiares y seres queridos, nos dejó el {{dod}}.\nEl/ella quedará para siempre en nuestros corazones.\nPor favor compartan, mensajes, recuerdos, fotos, o cualquier muestra de afecto para ayudarnos a pasar por este momento difícil.\nCon mucho cariño."
               , "label-image": "Subir una fotografía de {{fullname}}"
-              , "text-image": "Si no tiene la fotografía adecuada en este momento puede completar este paso más tarde, pero le recomendamos encarecidamente que incluya una foto antes de compartir la página. Formatos aceptados: JPG, JPEG, PNG (tamaño máximo: 5 MB)."
+              , "text-image": "Si no tiene la fotografía adecuada en este momento puede completar este paso más tarde, pero le recomendamos que incluya una foto antes de compartir la página. Formatos aceptados: JPG, JPEG, PNG (tamaño máximo: 5 MB)."
               , "cta-image": "Seleccionar fotografía"
               , "cta-image-uploading": "Descargando..."
               , "label-templates": "¿Necesita inspiración?"
