@@ -16,7 +16,7 @@
 
   , "welcome": {
         "step0": { 
-            "title": "Informacíon"
+            "title": "Información"
           , "info": "Favor de informarnos sobre la persona que Ud. perdió"
           , "cta": "Siguiente"
         }
@@ -57,12 +57,12 @@
             }
         }
       , "labels": {
-            "firstname": "¿Cómo se llama?"
-          , "lastname": "¿Cual es su appelido?"
-          , "dod": "¿Cuándo se falleció?"
+            "firstname": "Nombre"
+          , "lastname": "Appelido"
+          , "dod": "Fecha de fallecimiento"
           , "email": "¿Cuál es su correo electrónico?"
           , "phone": "¿Cuál es su número?"
-          , "zone": "¿Cuál es su país de residencia?"
+          , "zone": "País de residencia"
         }
     }
 
@@ -78,7 +78,7 @@
       , "input-phone-placeholder": "Número de teléfono celular"
       , "input-firstname-placeholder-partner": "Nombre del difunto"
       , "input-lastname-placeholder-partner": "Apellido del difunto"
-      , "input-dod-placeholder-partner": "Fecha del fallecimiento de su ser querido"
+      , "input-dod-placeholder-partner": "Fecha de fallecimiento de su ser querido"
       , "input-email-placeholder-partner": "Dirección de correo electrónico"
       , "input-phone-placeholder-partner": "Número de teléfono celular"
       , "cta-v0": "Crear una página de homenaje"
