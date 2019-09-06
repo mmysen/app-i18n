@@ -47,7 +47,7 @@
                 "title": "Donation"
               , "text": "Créer une collecte de dons au profit d’une cause qui vous est chère"
               , "description": "Vous pouvez organiser une collecte de dons au profit d’une association chère à votre proche ou pour vous aider à financer ses obsèques. Les dons permettent à votre entourage de manifester leur soutien, en contribuant à une cause porteuse de sens."
-              , "description-info": "Afin de couvrir les frais liés à la gestion de votre cagnotte et au transfert de fonds, 5% de commission sont retenus sur les dons effectués."
+              , "description-info": "À la fin de votre collecte, vous recevrez les fonds collectés sur votre compte bancaire en renseignant simplement votre IBAN. Si vous avez choisi de soutenir une association, transmettez les dons en joignant la liste des donateurs afin qu'elle génère les reçus fiscaux.\nAfin de couvrir les frais liés à la gestion de votre cagnotte et au transfert de fonds, 5% de commission sont retenus sur les dons effectués."
               , "countries": [
                     ["fr", "France (EUR)"]
                   , ["us", "États-Unis (US dollar)"]
