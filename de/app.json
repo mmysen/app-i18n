@@ -162,13 +162,14 @@
       , "input-recipient-placeholder": "Empfänger"
       , "input-address-placeholder": "Adresse"
       , "input-city-placeholder": "Stadt"
+      , "input-state-placeholder": "State"
       , "input-zipcode-placeholder": "Postleitzah"
       , "label-info": "> Bankdaten"
       , "label-amount": "> Betrag der Spende"
       , "label-receipt": "Steuerbeleg (fackultativ)"
+      , "label-other-amount": "Sonstige"
       , "cta": "Zahlen"
       , "cta-end": "Schließen"
-      , "other": "Sonstige"
       , "receipt": "Ihre Zahlung in Höhe von {{tx.amount_f}} wurde erfolgreich registriert!\nBezug: {{tx.chargeId}}"
 
     }
@@ -274,6 +275,10 @@
           , "cta": "Senden"
           , "success": "E-Mail verschickt!"
           , "info": ""
+        }
+      , "tab-whatsapp": {
+            "text": "Per Whatsapp"
+          , "cta": "Senden"
         }
       , "sender": "Ihr Vorname und Name"
       , "error": "Hoppla!"

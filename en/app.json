@@ -153,7 +153,6 @@
   , "donation": {
         "title": "New donation"
       , "subtitle": "InMemori applies a 5% commission rate to support the costs related to banking transactions."
-      , "amounts": "50,100,150,200,300"
       , "title-success": "Thank you for your support!"
       , "input-firstname-placeholder": "First name"
       , "input-lastname-placeholder": "Last name"
@@ -266,6 +265,10 @@
           , "cta": "Send"
           , "success": "Email(s) sent!"
           , "info": ""
+        }
+      , "tab-whatsapp": {
+            "text": "Share with Whatsapp"
+          , "cta": "Open Whatsapp"
         }
       , "sender": "Enter your first and last name(s) "
       , "error": "Oops!"

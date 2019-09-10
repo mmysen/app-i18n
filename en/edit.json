@@ -93,8 +93,8 @@
                       , "Helping others was the main driving force of {{capitalize firstname}}'s life. That's a life's worth of work dedicated to {{org}}. Together and in memory to their compassionate and charitable soul, let us continue their mission and support the organization's work. Thank you for your generosity."
                     ]
                 }
-              , "text-status-family": "The family has begun a fundraiser, proceeds going to {{org}}.\n To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
-              , "text-status-org": "The family has begun a fundraiser.\n To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
+              , "text-status-family": "The family has begun a fundraiser.\n To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
+              , "text-status-org": "The family has begun a fundraiser, proceeds going to {{org}}.\n To date, the total funds raised is <strong>{{total}}</strong>. You can deactivate or close the fundraiser to hold the funds."
               , "label-person": "Donation organizer"
               , "label-firstname": "First name"
               , "input-firstname-placeholder": "First name"
@@ -200,7 +200,7 @@
     }
   , "actions": {
         "title": "Manage the page"
-       , "title2": "Services"
+      , "title2": "Services"
       , "links": {
             "info": "Information"
           , "moderation": "Give thanks"
@@ -209,6 +209,7 @@
           , "admin": "Add new administrator"
           , "share": "Share page"
           , "delete": "Delete page"
+          , "gcard": "Carte de remerciements"
         }
     }
 }
