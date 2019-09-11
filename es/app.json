@@ -150,7 +150,6 @@
   , "donation": {
         "title": "Nueva donación"
       , "subtitle": "InMemori ofrece la tasa de comisión más baja posible (5%). Se utiliza para soportar los costos de transacciones bancarias."
-      , "amounts": "50,100,150,200,300"
       , "title-success": "¡Gracias por su apoyo!"
       , "input-firstname-placeholder": "Nombre"
       , "input-lastname-placeholder": "Apellido"
@@ -158,6 +157,7 @@
       , "input-recipient-placeholder": "Destinatario"
       , "input-address-placeholder": "Dirección"
       , "input-city-placeholder": "Ciudad"
+      , "input-state-placeholder": "State"
       , "input-zipcode-placeholder": "Código Postal"
       , "label-info": "> Información bancaria"
       , "label-amount": "> Cantidad de la donación"
@@ -165,7 +165,6 @@
       , "label-other-amount": "Otro"
       , "cta": "Pagar"
       , "cta-end": "Terminar"
-      , "other": "Otro"
       , "receipt": "¡Su pago de {{tx.amount_f}} ha sido registrado!\nRéférence : {{tx.chargeId}}"
     }
   , "flower": {
@@ -271,6 +270,10 @@
           , "cta": "Enviar"
           , "success": "¡Email(s) enviado(s)!"
           , "info": ""
+        }
+      , "tab-whatsapp": {
+            "text": "Por Whatsapp"
+          , "cta": "Enviar"
         }
       , "sender": "Su nombre y apellido"
       , "error": "¡Uy!"

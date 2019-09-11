@@ -199,6 +199,7 @@
     }
   , "actions": {
         "title": "Seite verwalten"
+      , "title2": "Services"
       , "links": {
             "info": "Informationen"
           , "moderation": "Danksagungen"
@@ -207,6 +208,7 @@
           , "admin": "Administrator hinzufügen"
           , "share": "Seite teilen"
           , "delete": "Seite löschen"
+          , "gcard": "Carte de remerciements"
         }
     }
 }
