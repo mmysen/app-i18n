@@ -1,6 +1,6 @@
 {
     "header": {
-        "title": "{{fullname}}"
+        "title": "{{{fullname}}}"
       , "titleOf": ""
       , "cta": ""
       , "cta-right": ""
