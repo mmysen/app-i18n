@@ -32,7 +32,15 @@
       , "title2": "Dernières parutions"
       , "text": "L’équipe relations presse d’InMemori est à la disposition des journalistes pour toute demande d’information et d'interview.\n\nContact média : <a href='mailto:contact@inmemori.com'>contact@inmemori.com</a>"
       , "items": [
-           {
+          {
+               "title": "Clémentine Piazza raconte la mission d'InMemori sur la grande scène d'Inno Génération"
+             , "text": "Clémentine Piazza partage ce que nous ressentons et ce que nous apprenons en étant confrontés à la mort au quotidien."
+             , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1570786406/Inno%20Generation%20Bpifrance.png"
+             , "link": ["Voir la vidéo", "https://youtu.be/4ndbfdHKHVk"] 
+             , "date": "2019-10-10"
+           }
+          
+          ,{
                "title": "Lancement d'un partenariat inédit entre le Fonds pour les soins palliatifs & InMemori"
              , "text": "Le Fonds pour les soins palliatifs et InMemori vont mener des actions communes pour changer le regard sur la fin de vie et mieux accompagner les proches aidants."
              , "logo": "https://res.cloudinary.com/inmemori/image/upload/v1564134630/InMemori_x_FPSP_qf4iff.png"
